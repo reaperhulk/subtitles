@@ -1,0 +1,2036 @@
+[
+  {
+    "timecode": "01:25",
+    "speaker": "Dinosaur Dad",
+    "quote": " Would you turn off that rock 'n' rock music!",
+    "directions": [],
+    "raw_quote": " Would you turn off that rock 'n' rock music!"
+  },
+  {
+    "timecode": "01:28",
+    "speaker": "Dinosaur Son",
+    "quote": " Hey, don't have a Stegosaurus, man.",
+    "directions": [],
+    "raw_quote": " Hey, don't have a Stegosaurus, man."
+  },
+  {
+    "timecode": "01:32",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room - night"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room - night)"
+  },
+  {
+    "timecode": "01:32",
+    "speaker": "Lisa Simpson",
+    "quote": " These talking dinosaurs are more real than most real families on TV.",
+    "directions": [
+      "CHUCKLING"
+    ],
+    "raw_quote": " (CHUCKLING) These talking dinosaurs are more real than most real families on TV."
+  },
+  {
+    "timecode": "01:37",
+    "speaker": "Homer Simpson",
+    "quote": " Look Maggie, they have a baby, too.",
+    "directions": [
+      "CHUCKLING"
+    ],
+    "raw_quote": " (CHUCKLING) Look Maggie, they have a baby, too."
+  },
+  {
+    "timecode": "01:41",
+    "speaker": "Bart Simpson",
+    "quote": " It's like they saw our lives and put it right up on screen.",
+    "directions": [],
+    "raw_quote": " It's like they saw our lives and put it right up on screen."
+  },
+  {
+    "timecode": "01:44",
+    "speaker": "Marge Simpson",
+    "quote": " Now kids, I know you're all excited about meeting Aunt Selma's new boyfriend tonight.",
+    "directions": [],
+    "raw_quote": " Now kids, I know you're all excited about meeting Aunt Selma's new boyfriend tonight."
+  },
+  {
+    "timecode": "01:49",
+    "speaker": "Homer Simpson",
+    "quote": " Pfft.",
+    "directions": [],
+    "raw_quote": " Pfft."
+  },
+  {
+    "timecode": "01:49",
+    "speaker": "Patty Bouvier",
+    "quote": " But I think that before he gets here, I should tell you something about him. Something... disturbing.",
+    "directions": [
+      "OMINOUS"
+    ],
+    "raw_quote": " But I think that before he gets here, I should tell you something about him. (OMINOUS) Something... disturbing."
+  },
+  {
+    "timecode": "01:56",
+    "speaker": "Lisa Simpson",
+    "quote": " Ewww.",
+    "directions": [],
+    "raw_quote": " Ewww."
+  },
+  {
+    "timecode": "01:57",
+    "speaker": "Homer Simpson",
+    "quote": " Ooooh.",
+    "directions": [],
+    "raw_quote": " Ooooh."
+  },
+  {
+    "timecode": "01:59",
+    "speaker": "Bart Simpson",
+    "quote": " Bleuh.",
+    "directions": [],
+    "raw_quote": " Bleuh."
+  },
+  {
+    "timecode": "02:01",
+    "speaker": "Patty Bouvier",
+    "quote": " You see, Aunt Selma has this crazy obsession about not dying alone, so in desperation, she joined this prison pen-pal program. Her new sweetie's a jailbird.",
+    "directions": [],
+    "raw_quote": " You see, Aunt Selma has this crazy obsession about not dying alone, so in desperation, she joined this prison pen-pal program. Her new sweetie's a jailbird."
+  },
+  {
+    "timecode": "02:11",
+    "speaker": "Bart Simpson",
+    "quote": " Cool, he can teach us how to kill a man with a lunch tray.",
+    "directions": [],
+    "raw_quote": " Cool, he can teach us how to kill a man with a lunch tray."
+  },
+  {
+    "timecode": "02:15",
+    "speaker": "Marge Simpson",
+    "quote": " Now, now, he's an ex-convict. He's paid his debt to society.",
+    "directions": [],
+    "raw_quote": " Now, now, he's an ex-convict. He's paid his debt to society."
+  },
+  {
+    "timecode": "02:20",
+    "speaker": "Patty Bouvier",
+    "quote": " Then how come you're not using the good silverware?",
+    "directions": [],
+    "raw_quote": " Then how come you're not using the good silverware?"
+  },
+  {
+    "timecode": "02:23",
+    "speaker": "Marge Simpson",
+    "quote": " I'm just not.",
+    "directions": [],
+    "raw_quote": " I'm just not."
+  },
+  {
+    "timecode": "02:25",
+    "speaker": "Marge Simpson",
+    "quote": " That's them. Now remember everyone, be understanding and forgiving for the sake of family unity.",
+    "directions": [],
+    "raw_quote": " That's them. Now remember everyone, be understanding and forgiving for the sake of family unity."
+  },
+  {
+    "timecode": "02:33",
+    "speaker": "Selma Bouvier",
+    "quote": " Everyone, I'd like you to meet --",
+    "directions": [],
+    "raw_quote": " Everyone, I'd like you to meet --"
+  },
+  {
+    "timecode": "02:35",
+    "speaker": "Lisa Simpson",
+    "quote": " Sideshow Bob!",
+    "directions": [
+      "SCREAM"
+    ],
+    "raw_quote": " (SCREAM) Sideshow Bob!"
+  },
+  {
+    "timecode": "02:37",
+    "speaker": "Selma Bouvier",
+    "quote": " What the...?",
+    "directions": [],
+    "raw_quote": " What the...?"
+  },
+  {
+    "timecode": "02:39",
+    "speaker": "Sideshow Bob",
+    "quote": " Selma dear, I'm afraid the children's reaction is quite understandable.",
+    "directions": [],
+    "raw_quote": " Selma dear, I'm afraid the children's reaction is quite understandable."
+  },
+  {
+    "timecode": "02:41",
+    "speaker": "Sideshow Bob",
+    "quote": " You see, Bart here is the Shamus in short pants who sent me to prison.",
+    "directions": [],
+    "raw_quote": " You see, Bart here is the Shamus in short pants who sent me to prison."
+  },
+  {
+    "timecode": "02:44",
+    "speaker": "Bart Simpson",
+    "quote": " That's right, Aunt Selma. Your new boyfriend here framed Krusty the Clown for armed robbery.",
+    "directions": [],
+    "raw_quote": " That's right, Aunt Selma. Your new boyfriend here framed Krusty the Clown for armed robbery."
+  },
+  {
+    "timecode": "02:51",
+    "speaker": "Homer Simpson",
+    "quote": " Gee, if some snot-nosed little kid sent me to prison, the first thing out, I'd find out where he lives, and tear him a new bellybutton.",
+    "directions": [],
+    "raw_quote": " Gee, if some snot-nosed little kid sent me to prison, the first thing out, I'd find out where he lives, and tear him a new bellybutton."
+  },
+  {
+    "timecode": "03:00",
+    "speaker": "Homer Simpson",
+    "quote": " Lousy snitch. ",
+    "directions": [
+      "JABBING SOUND"
+    ],
+    "raw_quote": " Lousy snitch. (JABBING SOUND)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "WEAK LAUGH"
+    ],
+    "raw_quote": " (WEAK LAUGH)"
+  },
+  {
+    "timecode": "03:05",
+    "speaker": "Sideshow Bob",
+    "quote": " Ahh, Mr. Simpson, you're forgetting the first two noble truths of the Buddha.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) Ahh, Mr. Simpson, you're forgetting the first two noble truths of the Buddha."
+  },
+  {
+    "timecode": "03:09",
+    "speaker": "Homer Simpson",
+    "quote": " I am not.",
+    "directions": [],
+    "raw_quote": " I am not."
+  },
+  {
+    "timecode": "03:10",
+    "speaker": "Sideshow Bob",
+    "quote": " Yes, you are. One: existence is suffering. Two: the cause of suffering is desire. In this case, my desire to do high-quality children's programming.",
+    "directions": [],
+    "raw_quote": " Yes, you are. One: existence is suffering. Two: the cause of suffering is desire. In this case, my desire to do high-quality children's programming."
+  },
+  {
+    "timecode": "03:22",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Country Road: EXT. COUNTRY ROAD - DAY"
+    ],
+    "raw_quote": "(Country Road: EXT. COUNTRY ROAD - DAY)"
+  },
+  {
+    "timecode": "03:22",
+    "speaker": "Sideshow Bob",
+    "quote": " When prison put an end to that dream, I became a seething cauldron of rage and recrimination...",
+    "directions": [],
+    "raw_quote": " When prison put an end to that dream, I became a seething cauldron of rage and recrimination..."
+  },
+  {
+    "timecode": "03:43",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "AWARDS SHOW SET: INT. AWARDS SHOW SET - EVENING"
+    ],
+    "raw_quote": "(AWARDS SHOW SET: INT. AWARDS SHOW SET - EVENING)"
+  },
+  {
+    "timecode": "03:43",
+    "speaker": "Sideshow Bob",
+    "quote": " When I was nominated for best supporting performer in a children's program at the Daytime Emmy Awards, my bitterness ruined what should have been the greatest night of my life.",
+    "directions": [],
+    "raw_quote": " When I was nominated for best supporting performer in a children's program at the Daytime Emmy Awards, my bitterness ruined what should have been the greatest night of my life."
+  },
+  {
+    "timecode": "03:54",
+    "speaker": "Krusty the Clown",
+    "quote": " And the nominees are: Droopy Drawers; Colonel Coward; Pepito the Biggest Cat in the Whole Wide World; Sideshow Bob; and Suck-up the Vacuum.",
+    "directions": [],
+    "raw_quote": " And the nominees are: Droopy Drawers; Colonel Coward; Pepito the Biggest Cat in the Whole Wide World; Sideshow Bob; and Suck-up the Vacuum."
+  },
+  {
+    "timecode": "04:04",
+    "speaker": "Krusty the Clown",
+    "quote": " And the Emmy goes to... I don't believe this. Sideshow Bob.",
+    "directions": [
+      "DISGRUNTLED"
+    ],
+    "raw_quote": " And the Emmy goes to... (DISGRUNTLED) I don't believe this. Sideshow Bob."
+  },
+  {
+    "timecode": "04:14",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Prison: int. prison - bob's cell"
+    ],
+    "raw_quote": "(Springfield Prison: int. prison - bob's cell)"
+  },
+  {
+    "timecode": "04:14",
+    "speaker": "Sideshow Bob",
+    "quote": " This is one more Emmy than you'll ever win, you bantering jack-in-the-box!",
+    "directions": [],
+    "raw_quote": " This is one more Emmy than you'll ever win, you bantering jack-in-the-box!"
+  },
+  {
+    "timecode": "04:18",
+    "speaker": "Krusty the Clown",
+    "quote": " Just don't drop that thing in the shower, Bob.",
+    "directions": [],
+    "raw_quote": " Just don't drop that thing in the shower, Bob."
+  },
+  {
+    "timecode": "04:20",
+    "speaker": "Sideshow Bob",
+    "quote": " No-talent shill!",
+    "directions": [],
+    "raw_quote": " No-talent shill!"
+  },
+  {
+    "timecode": "04:20",
+    "speaker": "Krusty the Clown",
+    "quote": " Second banana!",
+    "directions": [],
+    "raw_quote": " Second banana!"
+  },
+  {
+    "timecode": "04:22",
+    "speaker": "Sideshow Bob",
+    "quote": " Panderer!",
+    "directions": [],
+    "raw_quote": " Panderer!"
+  },
+  {
+    "timecode": "04:22",
+    "speaker": "Krusty the Clown",
+    "quote": " Bore!",
+    "directions": [],
+    "raw_quote": " Bore!"
+  },
+  {
+    "timecode": "04:28",
+    "speaker": "Sideshow Bob",
+    "quote": " Stop it, stop... release me... .",
+    "directions": [
+      "STRUGGLING NOISES"
+    ],
+    "raw_quote": " Stop it, stop... release me... (STRUGGLING NOISES)."
+  },
+  {
+    "timecode": "04:28",
+    "speaker": "Krusty the Clown",
+    "quote": " Now, for the highlight of the evening... Best film-to-video transfer...",
+    "directions": [
+      "CLEARING THROAT"
+    ],
+    "raw_quote": " (CLEARING THROAT) Now, for the highlight of the evening... Best film-to-video transfer..."
+  },
+  {
+    "timecode": "04:34",
+    "speaker": "Sideshow Bob",
+    "quote": " Do you know what prison is like for a life-long conservative Republican? In our over-crowded cell, we became little more than beasts.",
+    "directions": [],
+    "raw_quote": " Do you know what prison is like for a life-long conservative Republican? In our over-crowded cell, we became little more than beasts."
+  },
+  {
+    "timecode": "04:45",
+    "speaker": "Sideshow Bob",
+    "quote": " Who used my chapstick?",
+    "directions": [],
+    "raw_quote": " Who used my chapstick?"
+  },
+  {
+    "timecode": "04:46",
+    "speaker": "Cellmate #1",
+    "quote": " Oh, I did. Here you go.",
+    "directions": [],
+    "raw_quote": " Oh, I did. Here you go."
+  },
+  {
+    "timecode": "04:48",
+    "speaker": "Sideshow Bob",
+    "quote": " I don't want it.",
+    "directions": [
+      "TIGHTLY"
+    ],
+    "raw_quote": " (TIGHTLY) I don't want it."
+  },
+  {
+    "timecode": "04:49",
+    "speaker": "Sideshow Bob",
+    "quote": " My only joy came with plotting a horrible revenge against the boy who put me there...",
+    "directions": [],
+    "raw_quote": " My only joy came with plotting a horrible revenge against the boy who put me there..."
+  },
+  {
+    "timecode": "05:02",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - dining room - present"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - dining room - present)"
+  },
+  {
+    "timecode": "05:02",
+    "speaker": "Bart Simpson",
+    "quote": " Aye-Carumba!",
+    "directions": [],
+    "raw_quote": " Aye-Carumba!"
+  },
+  {
+    "timecode": "05:03",
+    "speaker": "Sideshow Bob",
+    "quote": " Bart, if I wanted to kill you, I'd have choked you like a chicken as soon as I walked in that door.",
+    "directions": [
+      "MENACING"
+    ],
+    "raw_quote": " (MENACING) Bart, if I wanted to kill you, I'd have choked you like a chicken as soon as I walked in that door."
+  },
+  {
+    "timecode": "",
+    "speaker": "FAMILY/EVERYONE",
+    "quote": " ",
+    "directions": [
+      "GASPS"
+    ],
+    "raw_quote": " (GASPS)"
+  },
+  {
+    "timecode": "05:08",
+    "speaker": "Sideshow Bob",
+    "quote": " But then what kind of a guest would I have been? ",
+    "directions": [
+      "CALM",
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CALM) But then what kind of a guest would I have been? (CHUCKLES)"
+  },
+  {
+    "timecode": "05:14",
+    "speaker": "Sideshow Bob",
+    "quote": " Now where was I... Ah yes, my lowest ebb.",
+    "directions": [],
+    "raw_quote": " Now where was I... Ah yes, my lowest ebb."
+  },
+  {
+    "timecode": "05:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Prison: int. prison - sideshow bob's cell"
+    ],
+    "raw_quote": "(Springfield Prison: int. prison - sideshow bob's cell)"
+  },
+  {
+    "timecode": "05:18",
+    "speaker": "Sideshow Bob",
+    "quote": " You can't take my Emmy!",
+    "directions": [
+      "VERY UPSET"
+    ],
+    "raw_quote": " (VERY UPSET) You can't take my Emmy!"
+  },
+  {
+    "timecode": "05:22",
+    "speaker": "Guard",
+    "quote": " Hey, you know the rules. Awards for excellence in entertainment are contraband. No Emmys, no Oscars, not even a Golden Globe.",
+    "directions": [],
+    "raw_quote": " Hey, you know the rules. Awards for excellence in entertainment are contraband. No Emmys, no Oscars, not even a Golden Globe."
+  },
+  {
+    "timecode": "05:29",
+    "speaker": "Sideshow Bob",
+    "quote": " But kismet can be kind as well as cruel. I received an answer to my letter from the prison pen pal program.",
+    "directions": [
+      "MOANS"
+    ],
+    "raw_quote": " (MOANS) But kismet can be kind as well as cruel. I received an answer to my letter from the prison pen pal program."
+  },
+  {
+    "timecode": "05:35",
+    "speaker": "Selma Bouvier",
+    "quote": " Dear Number 24601, I need a man and I cannot find one among the law-abiding. I have a steady job, and a lucrative hobby filing nuisance law suits. I share an apartment with my twin sister. Enclosed is a photo of us on a tandem bike. I forget which one I am.",
+    "directions": [],
+    "raw_quote": " Dear Number 24601, I need a man and I cannot find one among the law-abiding. I have a steady job, and a lucrative hobby filing nuisance law suits. I share an apartment with my twin sister. Enclosed is a photo of us on a tandem bike. I forget which one I am."
+  },
+  {
+    "timecode": "05:52",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Patty and Selma's Apartment: int. patty and selma's apartment - bathroom - a few days later"
+    ],
+    "raw_quote": "(Patty and Selma's Apartment: int. patty and selma's apartment - bathroom - a few days later)"
+  },
+  {
+    "timecode": "05:52",
+    "speaker": "Sideshow Bob",
+    "quote": " Dear Selma, your latest letter set off a riot in the maximum security wing of my heart.",
+    "directions": [],
+    "raw_quote": " Dear Selma, your latest letter set off a riot in the maximum security wing of my heart."
+  },
+  {
+    "timecode": "",
+    "speaker": "Selma Bouvier",
+    "quote": " ",
+    "directions": [
+      "HAPPY MOAN"
+    ],
+    "raw_quote": " (HAPPY MOAN)"
+  },
+  {
+    "timecode": "06:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Prison: int. prison - day"
+    ],
+    "raw_quote": "(Springfield Prison: int. prison - day)"
+  },
+  {
+    "timecode": "06:06",
+    "speaker": "Sideshow Bob",
+    "quote": " Like the lone crocus that pokes through the prison yard, our love bloomed despite all obstacles.",
+    "directions": [],
+    "raw_quote": " Like the lone crocus that pokes through the prison yard, our love bloomed despite all obstacles."
+  },
+  {
+    "timecode": "06:13",
+    "speaker": "Sideshow Bob",
+    "quote": " Selma, may I?",
+    "directions": [],
+    "raw_quote": " Selma, may I?"
+  },
+  {
+    "timecode": "06:15",
+    "speaker": "Selma Bouvier",
+    "quote": " Uh-uh-uh. On the cheek.",
+    "directions": [
+      "SHAKES HEAD"
+    ],
+    "raw_quote": " (SHAKES HEAD) Uh-uh-uh. On the cheek."
+  },
+  {
+    "timecode": "06:22",
+    "speaker": "Sideshow Bob",
+    "quote": " Inspired by the love of a good woman, I resolved to be the best darned inmate Number 24601 I could be.",
+    "directions": [],
+    "raw_quote": " Inspired by the love of a good woman, I resolved to be the best darned inmate Number 24601 I could be."
+  },
+  {
+    "timecode": "06:31",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Prison Gate: ext. prison gate - a few days later"
+    ],
+    "raw_quote": "(Prison Gate: ext. prison gate - a few days later)"
+  },
+  {
+    "timecode": "06:31",
+    "speaker": "Sideshow Bob",
+    "quote": " I bade farewell to my cellmates and left with the woman I loved.",
+    "directions": [],
+    "raw_quote": " I bade farewell to my cellmates and left with the woman I loved."
+  },
+  {
+    "timecode": "06:35",
+    "speaker": "Sideshow Bob",
+    "quote": " Cutter... Ice pick... Snake, I'm going to miss you most of all.",
+    "directions": [],
+    "raw_quote": " Cutter... Ice pick... Snake, I'm going to miss you most of all."
+  },
+  {
+    "timecode": "06:45",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. SIMPSON house - DINING ROOM"
+    ],
+    "raw_quote": "(Simpson Home: int. SIMPSON house - DINING ROOM)"
+  },
+  {
+    "timecode": "06:45",
+    "speaker": "Lisa Simpson",
+    "quote": " What a beautiful story, Sideshow Bob. You're living proof that our revolving door prison system works.",
+    "directions": [],
+    "raw_quote": " What a beautiful story, Sideshow Bob. You're living proof that our revolving door prison system works."
+  },
+  {
+    "timecode": "06:51",
+    "speaker": "Marge Simpson",
+    "quote": " Selma, I've never seen you so happy. Giggling like a schoolgirl.",
+    "directions": [],
+    "raw_quote": " Selma, I've never seen you so happy. Giggling like a schoolgirl."
+  },
+  {
+    "timecode": "",
+    "speaker": "Selma Bouvier",
+    "quote": " ",
+    "directions": [
+      "SPASMIC GUTTURAL NOISES"
+    ],
+    "raw_quote": " (SPASMIC GUTTURAL NOISES)"
+  },
+  {
+    "timecode": "06:58",
+    "speaker": "Patty Bouvier",
+    "quote": " I've got to admit it, Selma. He's a once in a lifetime catch.",
+    "directions": [],
+    "raw_quote": " I've got to admit it, Selma. He's a once in a lifetime catch."
+  },
+  {
+    "timecode": "07:02",
+    "speaker": "Sideshow Bob",
+    "quote": " Yes, I hope the police are saying that as well. ",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " Yes, I hope the police are saying that as well. (CHUCKLES)"
+  },
+  {
+    "timecode": "07:08",
+    "speaker": "Bart Simpson",
+    "quote": " I can't believe you guys. This man framed Krusty the Clown.",
+    "directions": [],
+    "raw_quote": " I can't believe you guys. This man framed Krusty the Clown."
+  },
+  {
+    "timecode": "07:12",
+    "speaker": "Marge Simpson",
+    "quote": " Bart!",
+    "directions": [],
+    "raw_quote": " Bart!"
+  },
+  {
+    "timecode": "07:13",
+    "speaker": "Sideshow Bob",
+    "quote": " Indeed, I did. And I'd like to thank you for catching me, Bart. You seized the wheel of my slow boat to hell and pointed it straight towards the sunny shores of Selma.",
+    "directions": [
+      "EMOTIONAL"
+    ],
+    "raw_quote": " Indeed, I did. (EMOTIONAL) And I'd like to thank you for catching me, Bart. You seized the wheel of my slow boat to hell and pointed it straight towards the sunny shores of Selma."
+  },
+  {
+    "timecode": "07:23",
+    "speaker": "Homer Simpson",
+    "quote": " Hear hear!.",
+    "directions": [],
+    "raw_quote": " Hear hear!."
+  },
+  {
+    "timecode": "07:24",
+    "speaker": "Sideshow Bob",
+    "quote": " Selma, would you mind if I did something bold and shocking in front of your family?",
+    "directions": [],
+    "raw_quote": " Selma, would you mind if I did something bold and shocking in front of your family?"
+  },
+  {
+    "timecode": "07:29",
+    "speaker": "Selma Bouvier",
+    "quote": " All right, but no tongues.",
+    "directions": [],
+    "raw_quote": " All right, but no tongues."
+  },
+  {
+    "timecode": "07:31",
+    "speaker": "Sideshow Bob",
+    "quote": " Although kissing you would be like kissing some divine ashtray, that's not what I had in mind.",
+    "directions": [],
+    "raw_quote": " Although kissing you would be like kissing some divine ashtray, that's not what I had in mind."
+  },
+  {
+    "timecode": "07:35",
+    "speaker": "Sideshow Bob",
+    "quote": " Selma, will you marry me?",
+    "directions": [],
+    "raw_quote": " Selma, will you marry me?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Selma Bouvier",
+    "quote": " ",
+    "directions": [
+      "GASPS"
+    ],
+    "raw_quote": " (GASPS)"
+  },
+  {
+    "timecode": "07:39",
+    "speaker": "Bart Simpson",
+    "quote": " Don't be a fool, Aunt Selma. That man is scum.",
+    "directions": [],
+    "raw_quote": " Don't be a fool, Aunt Selma. That man is scum."
+  },
+  {
+    "timecode": "07:42",
+    "speaker": "Selma Bouvier",
+    "quote": " Then call me Mrs. Scum!",
+    "directions": [],
+    "raw_quote": " Then call me Mrs. Scum!"
+  },
+  {
+    "timecode": "07:42",
+    "speaker": "Sideshow Bob",
+    "quote": " I KNOW I STAND IN LINE UNTIL I THINK YOU HAVE THE TIME TO SPEND AN EVENING WITH ME.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) I KNOW I STAND IN LINE UNTIL I THINK YOU HAVE THE TIME TO SPEND AN EVENING WITH ME."
+  },
+  {
+    "timecode": "08:01",
+    "speaker": "Selma Bouvier",
+    "quote": " AND IF WE GO SOMEPLACE TO DANCE I KNOW THAT THERE'S A CHANCE YOU WON'T BE LEAVIN' WITH ME.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) AND IF WE GO SOMEPLACE TO DANCE I KNOW THAT THERE'S A CHANCE YOU WON'T BE LEAVIN' WITH ME."
+  },
+  {
+    "timecode": "08:10",
+    "speaker": "Sideshow Bob",
+    "quote": " THEN AFTERWARDS WE DROP INTO A QUIET LITTLE PLACE AND HAVE A DRINK OR TWO.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) THEN AFTERWARDS WE DROP INTO A QUIET LITTLE PLACE AND HAVE A DRINK OR TWO."
+  },
+  {
+    "timecode": "08:19",
+    "speaker": "Selma Bouvier",
+    "quote": " AND THEN I GO AND SPOIL IT ALL BY SAYIN' SOMETHIN' STUPID LIKE \"I LOVE YOU\".",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) AND THEN I GO AND SPOIL IT ALL BY SAYIN' SOMETHIN' STUPID LIKE \"I LOVE YOU\"."
+  },
+  {
+    "timecode": "08:31",
+    "speaker": "Selma Bouvier",
+    "quote": " Ahhh... ahhh... Hmmmm... Could you pumice my corns for me?",
+    "directions": [],
+    "raw_quote": " Ahhh... ahhh... Hmmmm... Could you pumice my corns for me?"
+  },
+  {
+    "timecode": "08:35",
+    "speaker": "Sideshow Bob",
+    "quote": " Avec plaisir.",
+    "directions": [],
+    "raw_quote": " Avec plaisir."
+  },
+  {
+    "timecode": "08:37",
+    "speaker": "Kindly Old Gent",
+    "quote": " A... G... Q... Seven...",
+    "directions": [],
+    "raw_quote": " A... G... Q... Seven..."
+  },
+  {
+    "timecode": "08:43",
+    "speaker": "Selma Bouvier",
+    "quote": " Close enough. May you drive safely and find true love.",
+    "directions": [],
+    "raw_quote": " Close enough. May you drive safely and find true love."
+  },
+  {
+    "timecode": "08:48",
+    "speaker": "Announcer",
+    "quote": " We now return to the Twenty-seventh Annual Krusty the Clown Telethon for Motion Sickness.",
+    "directions": [],
+    "raw_quote": " We now return to the Twenty-seventh Annual Krusty the Clown Telethon for Motion Sickness."
+  },
+  {
+    "timecode": "08:53",
+    "speaker": "Krusty the Clown",
+    "quote": " Tiffany! Woo hoo! I love you people! I love my kids! Poor little guys.",
+    "directions": [
+      "POINTING AT THE TOTE BOARD, BIG",
+      "SAD"
+    ],
+    "raw_quote": " Tiffany! (POINTING AT THE TOTE BOARD, BIG) Woo hoo! I love you people! I love my kids! (SAD) Poor little guys."
+  },
+  {
+    "timecode": "09:03",
+    "speaker": "Krusty the Clown",
+    "quote": " So tragic. So nauseous. You should see the bus they came to the studio in What's next? Oh yeah. And now, a man who needs no introduction -- the chairman of the company... you know who I'm talking about. Get out here, you goombah!",
+    "directions": [
+      "SOBS, THEN: CHEERFULLY"
+    ],
+    "raw_quote": " So tragic. So nauseous. You should see the bus they came to the studio in (SOBS, THEN: CHEERFULLY) What's next? Oh yeah. And now, a man who needs no introduction -- the chairman of the company... you know who I'm talking about. Get out here, you goombah!"
+  },
+  {
+    "timecode": "09:29",
+    "speaker": "Crooner",
+    "quote": " Krusteleh, there's an old friend backstage who wants to say hello.",
+    "directions": [],
+    "raw_quote": " Krusteleh, there's an old friend backstage who wants to say hello."
+  },
+  {
+    "timecode": "09:34",
+    "speaker": "Krusty the Clown",
+    "quote": " Huh? Whuh?",
+    "directions": [],
+    "raw_quote": " Huh? Whuh?"
+  },
+  {
+    "timecode": "09:40",
+    "speaker": "Krusty the Clown",
+    "quote": " Come here you.",
+    "directions": [],
+    "raw_quote": " Come here you."
+  },
+  {
+    "timecode": "09:41",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh... oh... oh, you old clown you. ",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " Oh... oh... oh, you old clown you. (CHUCKLES)"
+  },
+  {
+    "timecode": "09:43",
+    "speaker": "Krusty the Clown",
+    "quote": " Oh, I missed ya.",
+    "directions": [],
+    "raw_quote": " Oh, I missed ya."
+  },
+  {
+    "timecode": "09:44",
+    "speaker": "Sideshow Bob",
+    "quote": " This guy is a national treasure.",
+    "directions": [
+      "TO CAMERA"
+    ],
+    "raw_quote": " (TO CAMERA) This guy is a national treasure."
+  },
+  {
+    "timecode": "09:46",
+    "speaker": "Krusty the Clown",
+    "quote": " That jerk I got to replace you, he isn't fit to hold your slide whistle.",
+    "directions": [],
+    "raw_quote": " That jerk I got to replace you, he isn't fit to hold your slide whistle."
+  },
+  {
+    "timecode": "09:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Sideshow Mel's Apartment: int. sideshow mel's apartment"
+    ],
+    "raw_quote": "(Sideshow Mel's Apartment: int. sideshow mel's apartment)"
+  },
+  {
+    "timecode": "09:50",
+    "speaker": "Sideshow Mel",
+    "quote": " All I can be is myself.",
+    "directions": [
+      "HURT"
+    ],
+    "raw_quote": " (HURT) All I can be is myself."
+  },
+  {
+    "timecode": "09:52",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room - continuous"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room - continuous)"
+  },
+  {
+    "timecode": "09:52",
+    "speaker": "Sideshow Bob",
+    "quote": " Krusty, can you ever forgive me for framing you and putting you in jail?",
+    "directions": [],
+    "raw_quote": " Krusty, can you ever forgive me for framing you and putting you in jail?"
+  },
+  {
+    "timecode": "09:56",
+    "speaker": "Krusty the Clown",
+    "quote": " Hey, if they ever open the books on this telethon, I'm right back in there.",
+    "directions": [],
+    "raw_quote": " Hey, if they ever open the books on this telethon, I'm right back in there."
+  },
+  {
+    "timecode": "10:00",
+    "speaker": "Bart Simpson",
+    "quote": " That Sideshow Bob is a no-good showbiz phony.",
+    "directions": [],
+    "raw_quote": " That Sideshow Bob is a no-good showbiz phony."
+  },
+  {
+    "timecode": "10:03",
+    "speaker": "Lisa Simpson",
+    "quote": " Come on, Bart. If Krusty can find it in his heart to forgive him, surely you can too.",
+    "directions": [],
+    "raw_quote": " Come on, Bart. If Krusty can find it in his heart to forgive him, surely you can too."
+  },
+  {
+    "timecode": "10:09",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh Krusty, I can't tell you how much I missed this.",
+    "directions": [],
+    "raw_quote": " Oh Krusty, I can't tell you how much I missed this."
+  },
+  {
+    "timecode": "10:14",
+    "speaker": "Marge Simpson",
+    "quote": " Now, about your wedding dress. I'm not sure how to put this...",
+    "directions": [],
+    "raw_quote": " Now, about your wedding dress. I'm not sure how to put this..."
+  },
+  {
+    "timecode": "10:18",
+    "speaker": "Selma Bouvier",
+    "quote": " White.",
+    "directions": [],
+    "raw_quote": " White."
+  },
+  {
+    "timecode": "10:19",
+    "speaker": "Marge Simpson",
+    "quote": " White. And what would you like for appetizers?",
+    "directions": [
+      "WRITING"
+    ],
+    "raw_quote": " (WRITING) White. And what would you like for appetizers?"
+  },
+  {
+    "timecode": "10:22",
+    "speaker": "Homer Simpson",
+    "quote": " Oooh, appetizers.",
+    "directions": [],
+    "raw_quote": " Oooh, appetizers."
+  },
+  {
+    "timecode": "10:24",
+    "speaker": "Sideshow Bob",
+    "quote": " Well Homer, you seem to be a trencherman. What should we serve?",
+    "directions": [],
+    "raw_quote": " Well Homer, you seem to be a trencherman. What should we serve?"
+  },
+  {
+    "timecode": "10:27",
+    "speaker": "Homer Simpson",
+    "quote": " Well, you can't go wrong with cocktail weenies. They taste as good as they look. And they come in this delicious red sauce. It looks like catsup -- it tastes like ketchup. But brother it ain't ketchup!",
+    "directions": [],
+    "raw_quote": " Well, you can't go wrong with cocktail weenies. They taste as good as they look. And they come in this delicious red sauce. It looks like catsup -- it tastes like ketchup. But brother it ain't ketchup!"
+  },
+  {
+    "timecode": "10:40",
+    "speaker": "Sideshow Bob",
+    "quote": " Well, Selma, he makes a good case.",
+    "directions": [],
+    "raw_quote": " Well, Selma, he makes a good case."
+  },
+  {
+    "timecode": "10:42",
+    "speaker": "Selma Bouvier",
+    "quote": " Get whatever you want. It all tastes like styrofoam to me.",
+    "directions": [],
+    "raw_quote": " Get whatever you want. It all tastes like styrofoam to me."
+  },
+  {
+    "timecode": "10:45",
+    "speaker": "Sideshow Bob",
+    "quote": " Selma, dear -- I'm confused.",
+    "directions": [],
+    "raw_quote": " Selma, dear -- I'm confused."
+  },
+  {
+    "timecode": "10:48",
+    "speaker": "Selma Bouvier",
+    "quote": " Well, when I was a kid we were playing with bottle rockets, and one shot straight up my nose. I permanently lost my sense of taste and smell.",
+    "directions": [],
+    "raw_quote": " Well, when I was a kid we were playing with bottle rockets, and one shot straight up my nose. I permanently lost my sense of taste and smell."
+  },
+  {
+    "timecode": "10:57",
+    "speaker": "Marge Simpson",
+    "quote": " Okay, we've got cocktail wienies and Swedish meatballs.",
+    "directions": [],
+    "raw_quote": " Okay, we've got cocktail wienies and Swedish meatballs."
+  },
+  {
+    "timecode": "11:01",
+    "speaker": "Sideshow Bob",
+    "quote": " Selma, this wedding is spinning out of control. Can we really afford it? I've already run through eight of the ten dollars they gave me when I left prison.",
+    "directions": [],
+    "raw_quote": " Selma, this wedding is spinning out of control. Can we really afford it? I've already run through eight of the ten dollars they gave me when I left prison."
+  },
+  {
+    "timecode": "11:08",
+    "speaker": "Selma Bouvier",
+    "quote": " Hey relax, I told ya I got money. I bought stock in a mace company just before society crumbled.",
+    "directions": [],
+    "raw_quote": " Hey relax, I told ya I got money. I bought stock in a mace company just before society crumbled."
+  },
+  {
+    "timecode": "11:14",
+    "speaker": "Sideshow Bob",
+    "quote": " Selma, that's wonderful. I just hope people don't think I'm marrying you for your money, instead of your... less tangible qualities.",
+    "directions": [
+      "SEARCHING"
+    ],
+    "raw_quote": " Selma, that's wonderful. I just hope people don't think I'm marrying you for your money, instead of your... (SEARCHING) less tangible qualities."
+  },
+  {
+    "timecode": "11:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Park: ext. park"
+    ],
+    "raw_quote": "(Park: ext. park)"
+  },
+  {
+    "timecode": "11:25",
+    "speaker": "Sideshow Bob",
+    "quote": " Tomorrow we'll be Mr. and Mrs. Bob Terwilliger. Isn't it grand?",
+    "directions": [],
+    "raw_quote": " Tomorrow we'll be Mr. and Mrs. Bob Terwilliger. Isn't it grand?"
+  },
+  {
+    "timecode": "11:29",
+    "speaker": "Selma Bouvier",
+    "quote": " Hey, Bob. Give some of that honey this way.",
+    "directions": [],
+    "raw_quote": " Hey, Bob. Give some of that honey this way."
+  },
+  {
+    "timecode": "11:36",
+    "speaker": "Selma Bouvier",
+    "quote": " Holy frijoles! We've got ten minutes till MacGyver! Driver, here's a fin. Get me home and don't spare the whip.",
+    "directions": [],
+    "raw_quote": " Holy frijoles! We've got ten minutes till MacGyver! Driver, here's a fin. Get me home and don't spare the whip."
+  },
+  {
+    "timecode": "11:41",
+    "speaker": "Barney Gumble",
+    "quote": " Whatever you say, mum. ",
+    "directions": [
+      "BELCH"
+    ],
+    "raw_quote": " Whatever you say, mum. (BELCH)"
+  },
+  {
+    "timecode": "11:45",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Patty and Selma's Apartment: int. patty and selma's apartment"
+    ],
+    "raw_quote": "(Patty and Selma's Apartment: int. patty and selma's apartment)"
+  },
+  {
+    "timecode": "11:45",
+    "speaker": "Selma Bouvier",
+    "quote": " What did I miss?",
+    "directions": [],
+    "raw_quote": " What did I miss?"
+  },
+  {
+    "timecode": "11:46",
+    "speaker": "Patty Bouvier",
+    "quote": " MacGyver was wearing a tank top.",
+    "directions": [],
+    "raw_quote": " MacGyver was wearing a tank top."
+  },
+  {
+    "timecode": "11:49",
+    "speaker": "Selma Bouvier",
+    "quote": " Dang.",
+    "directions": [],
+    "raw_quote": " Dang."
+  },
+  {
+    "timecode": "11:50",
+    "speaker": "Sideshow Bob",
+    "quote": " Why Selma, I thought I was the only man in your life.",
+    "directions": [],
+    "raw_quote": " Why Selma, I thought I was the only man in your life."
+  },
+  {
+    "timecode": "11:52",
+    "speaker": "Selma Bouvier",
+    "quote": " Sit down and shut up.",
+    "directions": [],
+    "raw_quote": " Sit down and shut up."
+  },
+  {
+    "timecode": "11:54",
+    "speaker": "Man",
+    "quote": " Thank you, Se\u00f1or MacGyver. You saved our village.",
+    "directions": [],
+    "raw_quote": " Thank you, Se\u00f1or MacGyver. You saved our village."
+  },
+  {
+    "timecode": "11:57",
+    "speaker": "MacGyver",
+    "quote": " Don't thank me. Thank the moon's gravitational pull.",
+    "directions": [],
+    "raw_quote": " Don't thank me. Thank the moon's gravitational pull."
+  },
+  {
+    "timecode": "12:04",
+    "speaker": "Selma Bouvier",
+    "quote": " That MacGyver's a genius.",
+    "directions": [],
+    "raw_quote": " That MacGyver's a genius."
+  },
+  {
+    "timecode": "12:07",
+    "speaker": "Sideshow Bob",
+    "quote": " First of all he's not a genius, he's an actor. And second, he's not much of an actor.",
+    "directions": [],
+    "raw_quote": " First of all he's not a genius, he's an actor. And second, he's not much of an actor."
+  },
+  {
+    "timecode": "12:12",
+    "speaker": "Selma Bouvier",
+    "quote": " You're lying! You're lying!",
+    "directions": [],
+    "raw_quote": " You're lying! You're lying!"
+  },
+  {
+    "timecode": "12:14",
+    "speaker": "Sideshow Bob",
+    "quote": " No Selma, this is lying: that was a well-plotted piece of non-claptrap that never made me want to retch.",
+    "directions": [],
+    "raw_quote": " No Selma, this is lying: that was a well-plotted piece of non-claptrap that never made me want to retch."
+  },
+  {
+    "timecode": "12:26",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room - a little later"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room - a little later)"
+  },
+  {
+    "timecode": "12:26",
+    "speaker": "Selma Bouvier",
+    "quote": " He was so cruel... The things he said, they're just not true.",
+    "directions": [],
+    "raw_quote": " He was so cruel... The things he said, they're just not true."
+  },
+  {
+    "timecode": "12:33",
+    "speaker": "Marge Simpson",
+    "quote": " There, there...",
+    "directions": [],
+    "raw_quote": " There, there..."
+  },
+  {
+    "timecode": "12:35",
+    "speaker": "Bart Simpson",
+    "quote": " Oh well, I guess the wedding's off. Fiddle dee dee, tomorrow's another day.",
+    "directions": [],
+    "raw_quote": " Oh well, I guess the wedding's off. Fiddle dee dee, tomorrow's another day."
+  },
+  {
+    "timecode": "12:38",
+    "speaker": "Marge Simpson",
+    "quote": " Bart! Stop that.",
+    "directions": [],
+    "raw_quote": " Bart! Stop that."
+  },
+  {
+    "timecode": "12:39",
+    "speaker": "Selma Bouvier",
+    "quote": " No, he's right. We're a package. Love me, love MacGyver. I guess the wedding's off.",
+    "directions": [
+      "SADLY"
+    ],
+    "raw_quote": " No, he's right. We're a package. Love me, love MacGyver. (SADLY) I guess the wedding's off."
+  },
+  {
+    "timecode": "12:49",
+    "speaker": "Sideshow Bob",
+    "quote": " Selma, I don't know what to say.",
+    "directions": [],
+    "raw_quote": " Selma, I don't know what to say."
+  },
+  {
+    "timecode": "12:51",
+    "speaker": "Selma Bouvier",
+    "quote": " Just tell me you like MacGyver.",
+    "directions": [],
+    "raw_quote": " Just tell me you like MacGyver."
+  },
+  {
+    "timecode": "12:53",
+    "speaker": "Sideshow Bob",
+    "quote": " Very well. I... I... I can't do it! Even that car chase seemed tacked on.",
+    "directions": [],
+    "raw_quote": " Very well. I... I... I can't do it! Even that car chase seemed tacked on."
+  },
+  {
+    "timecode": "13:02",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, would you two knock it off? I hate all the programs Marge likes. But it's no big deal. You know why?",
+    "directions": [],
+    "raw_quote": " Oh, would you two knock it off? I hate all the programs Marge likes. But it's no big deal. You know why?"
+  },
+  {
+    "timecode": "13:11",
+    "speaker": "Homer Simpson",
+    "quote": " Whenever Marge puts on one of her nonviolent programs, I take a walk. I go to a bar, I down a few, and I stumble home in the mood for love.",
+    "directions": [],
+    "raw_quote": " Whenever Marge puts on one of her nonviolent programs, I take a walk. I go to a bar, I down a few, and I stumble home in the mood for love."
+  },
+  {
+    "timecode": "13:21",
+    "speaker": "Sideshow Bob",
+    "quote": " Very well, Selma, whenever you watch MacGyver, I'll take a vigorous constitutional and return more in love with you than ever.",
+    "directions": [],
+    "raw_quote": " Very well, Selma, whenever you watch MacGyver, I'll take a vigorous constitutional and return more in love with you than ever."
+  },
+  {
+    "timecode": "13:28",
+    "speaker": "Selma Bouvier",
+    "quote": " Oh Bob.",
+    "directions": [],
+    "raw_quote": " Oh Bob."
+  },
+  {
+    "timecode": "13:30",
+    "speaker": "Bart Simpson",
+    "quote": " Bart no like. Bad medicine.",
+    "directions": [
+      "TO HIMSELF"
+    ],
+    "raw_quote": " (TO HIMSELF) Bart no like. Bad medicine."
+  },
+  {
+    "timecode": "13:36",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "First Church of Springfield: INT. REV. LOVEJOY'S CHURCH - SELMA'S WEDDING - DAY"
+    ],
+    "raw_quote": "(First Church of Springfield: INT. REV. LOVEJOY'S CHURCH - SELMA'S WEDDING - DAY)"
+  },
+  {
+    "timecode": "13:36",
+    "speaker": "Lisa Simpson",
+    "quote": " I could've been the flower girl. And I wouldn't keep falling down either.",
+    "directions": [
+      "BITTER"
+    ],
+    "raw_quote": " (BITTER) I could've been the flower girl. And I wouldn't keep falling down either."
+  },
+  {
+    "timecode": "13:40",
+    "speaker": "Bart Simpson",
+    "quote": " Hey, they chose Maggie, okay?",
+    "directions": [],
+    "raw_quote": " Hey, they chose Maggie, okay?"
+  },
+  {
+    "timecode": "13:42",
+    "speaker": "Lisa Simpson",
+    "quote": " Yeah, well if they want to go for cutesiness instead of competence, fine.",
+    "directions": [],
+    "raw_quote": " Yeah, well if they want to go for cutesiness instead of competence, fine."
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Do you Bob, take Selma, to have and to hold, in sickness and in health, 'til death do you part?",
+    "directions": [],
+    "raw_quote": " Do you Bob, take Selma, to have and to hold, in sickness and in health, 'til death do you part?"
+  },
+  {
+    "timecode": "13:55",
+    "speaker": "Sideshow Bob",
+    "quote": " I do.",
+    "directions": [],
+    "raw_quote": " I do."
+  },
+  {
+    "timecode": "14:05",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "RECEPTION HALL: INT. RECEPTION HALL - LATER"
+    ],
+    "raw_quote": "(RECEPTION HALL: INT. RECEPTION HALL - LATER)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "CHOMPING NOISES"
+    ],
+    "raw_quote": " (CHOMPING NOISES)"
+  },
+  {
+    "timecode": "14:05",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, Wiener Boy... Where do you think you're going?",
+    "directions": [],
+    "raw_quote": " Hey, Wiener Boy... Where do you think you're going?"
+  },
+  {
+    "timecode": "14:15",
+    "speaker": "Patty Bouvier",
+    "quote": " I'm the only single girl left in the family.",
+    "directions": [
+      "SAD MOAN"
+    ],
+    "raw_quote": " (SAD MOAN) I'm the only single girl left in the family."
+  },
+  {
+    "timecode": "14:22",
+    "speaker": "Patty Bouvier",
+    "quote": " Well, I guess it could be worse.",
+    "directions": [],
+    "raw_quote": " Well, I guess it could be worse."
+  },
+  {
+    "timecode": "14:24",
+    "speaker": "Marge Simpson",
+    "quote": " Oooh, there's Krusty the Clown! Krusty, Krusty, say something funny.",
+    "directions": [],
+    "raw_quote": " Oooh, there's Krusty the Clown! Krusty, Krusty, say something funny."
+  },
+  {
+    "timecode": "14:29",
+    "speaker": "Krusty the Clown",
+    "quote": " Uh... gee, a joke. hmmm, yeah, funny... Okay, this guy walks into a bar and takes out a tiny piano and a twelve inch pianist -- Oh, no wait, I can't tell that one... Oh, oh. ",
+    "directions": [
+      "TRAPPED; NERVOUS",
+      "CHUCKLES",
+      "LAUGHS"
+    ],
+    "raw_quote": " (TRAPPED; NERVOUS) Uh... gee, a joke. hmmm, yeah, funny... Okay, this guy walks into a bar and takes out a tiny piano and a twelve inch pianist -- (CHUCKLES) Oh, no wait, I can't tell that one... Oh, oh. (LAUGHS)"
+  },
+  {
+    "timecode": "14:42",
+    "speaker": "Sideshow Bob",
+    "quote": " Dear friends, forty one years ago, God took one hundred and sixty-eight pounds of clay and he made me a woman. And for this, I thank Him.",
+    "directions": [
+      "POINTS TO SELMA"
+    ],
+    "raw_quote": " Dear friends, forty one years ago, God took one hundred and sixty-eight pounds of clay and he made me a woman. (POINTS TO SELMA) And for this, I thank Him."
+  },
+  {
+    "timecode": "14:52",
+    "speaker": "Selma Bouvier",
+    "quote": " I just wanted to say, on the advice of my new husband, I've decided to give up smoking.",
+    "directions": [],
+    "raw_quote": " I just wanted to say, on the advice of my new husband, I've decided to give up smoking."
+  },
+  {
+    "timecode": "15:00",
+    "speaker": "Selma Bouvier",
+    "quote": " ... Except for after meals and after MacGyver.",
+    "directions": [],
+    "raw_quote": " ... Except for after meals and after MacGyver."
+  },
+  {
+    "timecode": "15:03",
+    "speaker": "Sideshow Bob",
+    "quote": " Why Selma dear, you'll bury us all. ",
+    "directions": [
+      "LITTLE CHUCKLE"
+    ],
+    "raw_quote": " Why Selma dear, you'll bury us all. (LITTLE CHUCKLE)"
+  },
+  {
+    "timecode": "15:07",
+    "speaker": "Bart Simpson",
+    "quote": " Chief Wiggum, you've been around. You don't trust Sideshow Bob, do you?",
+    "directions": [],
+    "raw_quote": " Chief Wiggum, you've been around. You don't trust Sideshow Bob, do you?"
+  },
+  {
+    "timecode": "15:11",
+    "speaker": "Chief Wiggum",
+    "quote": " Ahh, lighten up, son. If he was going to commit a crime, would he have invited the No. 1 cop in town? Now, where did I put my gun? Oh, yeah. I set it down when I got a piece of cake...",
+    "directions": [
+      "BEAT",
+      "THINKS"
+    ],
+    "raw_quote": " Ahh, lighten up, son. If he was going to commit a crime, would he have invited the No. 1 cop in town? (BEAT) Now, where did I put my gun? (THINKS) Oh, yeah. I set it down when I got a piece of cake..."
+  },
+  {
+    "timecode": "15:27",
+    "speaker": "Patty Bouvier",
+    "quote": " I don't know what to say.",
+    "directions": [],
+    "raw_quote": " I don't know what to say."
+  },
+  {
+    "timecode": "15:28",
+    "speaker": "Selma Bouvier",
+    "quote": " Just tell me what you know I want to hear.",
+    "directions": [],
+    "raw_quote": " Just tell me what you know I want to hear."
+  },
+  {
+    "timecode": "15:31",
+    "speaker": "Patty Bouvier",
+    "quote": " I'm dying of jealousy.",
+    "directions": [],
+    "raw_quote": " I'm dying of jealousy."
+  },
+  {
+    "timecode": "15:34",
+    "speaker": "Selma Bouvier",
+    "quote": " Thank you.",
+    "directions": [],
+    "raw_quote": " Thank you."
+  },
+  {
+    "timecode": "15:39",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Car: int. car - a little later"
+    ],
+    "raw_quote": "(Car: int. car - a little later)"
+  },
+  {
+    "timecode": "15:39",
+    "speaker": "Sideshow Bob",
+    "quote": " That's right dear, enjoy your rest. The wedding was very tough on you, and the honeymoon is going to be... murder. ",
+    "directions": [
+      "LONG MANIACAL LAUGH"
+    ],
+    "raw_quote": " That's right dear, enjoy your rest. The wedding was very tough on you, and the honeymoon is going to be... murder. (LONG MANIACAL LAUGH)"
+  },
+  {
+    "timecode": "16:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Shelbyville Falls Hotel: INT. shelbyville falls hotel - day"
+    ],
+    "raw_quote": "(Shelbyville Falls Hotel: INT. shelbyville falls hotel - day)"
+  },
+  {
+    "timecode": "16:06",
+    "speaker": "Selma Bouvier",
+    "quote": " Welcome to our video honeymoon. We're using the video camera Cousin Dot gave us and the video cassette Homer gave us.",
+    "directions": [],
+    "raw_quote": " Welcome to our video honeymoon. We're using the video camera Cousin Dot gave us and the video cassette Homer gave us."
+  },
+  {
+    "timecode": "16:15",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room - continuous"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room - continuous)"
+  },
+  {
+    "timecode": "16:15",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, and after we watch this, we can tape over it. ",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " Hey, and after we watch this, we can tape over it. (CHUCKLES)"
+  },
+  {
+    "timecode": "16:18",
+    "speaker": "Selma Bouvier",
+    "quote": " There's Shelbyville Falls... Rolling Rock... And here's another breathtaking sight -- my brand new hubby.",
+    "directions": [],
+    "raw_quote": " There's Shelbyville Falls... Rolling Rock... And here's another breathtaking sight -- my brand new hubby."
+  },
+  {
+    "timecode": "16:28",
+    "speaker": "Sideshow Bob",
+    "quote": " I wanted a room with a fireplace you brainless luggage monkey! Like the one in your brochure!",
+    "directions": [],
+    "raw_quote": " I wanted a room with a fireplace you brainless luggage monkey! Like the one in your brochure!"
+  },
+  {
+    "timecode": "16:34",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh, Selma dear, I was just chatting with my good friend, Dennis. Now, smile for the camera. That's a good lad.",
+    "directions": [
+      "READS NAMETAG"
+    ],
+    "raw_quote": " Oh, Selma dear, I was just chatting with my good friend, (READS NAMETAG) Dennis. Now, smile for the camera. That's a good lad."
+  },
+  {
+    "timecode": "16:44",
+    "speaker": "Sideshow Bob",
+    "quote": " Ah, fire: scourge of Prometheus, toaster of marshmallows, eradicator of deadwood... Oh Selma dear, you and your little camera. What do you say we shut it off for a while?",
+    "directions": [
+      "TO HIMSELF",
+      "SINISTER",
+      "SEEING CAMERA"
+    ],
+    "raw_quote": " (TO HIMSELF) Ah, fire: scourge of Prometheus, toaster of marshmallows, (SINISTER) eradicator of deadwood... (SEEING CAMERA) Oh Selma dear, you and your little camera. What do you say we shut it off for a while?"
+  },
+  {
+    "timecode": "16:56",
+    "speaker": "Selma Bouvier",
+    "quote": " And make love?",
+    "directions": [],
+    "raw_quote": " And make love?"
+  },
+  {
+    "timecode": "17:00",
+    "speaker": "Sideshow Bob",
+    "quote": " I suppose so.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) I suppose so."
+  },
+  {
+    "timecode": "17:01",
+    "speaker": "Marge Simpson",
+    "quote": " Ah, that's sweet.",
+    "directions": [],
+    "raw_quote": " Ah, that's sweet."
+  },
+  {
+    "timecode": "17:04",
+    "speaker": "Bart Simpson",
+    "quote": " Why would Sideshow Bob go so nuts over a fireplace?",
+    "directions": [],
+    "raw_quote": " Why would Sideshow Bob go so nuts over a fireplace?"
+  },
+  {
+    "timecode": "17:07",
+    "speaker": "Marge Simpson",
+    "quote": " Because he wants his honeymoon to be romantic.",
+    "directions": [],
+    "raw_quote": " Because he wants his honeymoon to be romantic."
+  },
+  {
+    "timecode": "17:11",
+    "speaker": "Bart Simpson",
+    "quote": " Romantic? With Aunt Selma?",
+    "directions": [],
+    "raw_quote": " Romantic? With Aunt Selma?"
+  },
+  {
+    "timecode": "17:13",
+    "speaker": "Marge Simpson",
+    "quote": " I guess you're just too young to understand.",
+    "directions": [],
+    "raw_quote": " I guess you're just too young to understand."
+  },
+  {
+    "timecode": "17:21",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Shelbyville Hotel Suite: INT. SHELBYVILLE HOTEL ROOM - DAY"
+    ],
+    "raw_quote": "(Shelbyville Hotel Suite: INT. SHELBYVILLE HOTEL ROOM - DAY)"
+  },
+  {
+    "timecode": "17:21",
+    "speaker": "Selma Bouvier",
+    "quote": " One of my fillings fell out.",
+    "directions": [
+      "MOAN OF PLEASURE"
+    ],
+    "raw_quote": " (MOAN OF PLEASURE) One of my fillings fell out."
+  },
+  {
+    "timecode": "17:25",
+    "speaker": "Sideshow Bob",
+    "quote": " Even murder has its ugly side.",
+    "directions": [
+      "MOANS, TO SELF"
+    ],
+    "raw_quote": " (MOANS, TO SELF) Even murder has its ugly side."
+  },
+  {
+    "timecode": "17:28",
+    "speaker": "Selma Bouvier",
+    "quote": " Bob, would you mind rubbing my feet?",
+    "directions": [],
+    "raw_quote": " Bob, would you mind rubbing my feet?"
+  },
+  {
+    "timecode": "17:33",
+    "speaker": "Sideshow Bob",
+    "quote": " Darling, you make it sound like a chore.",
+    "directions": [],
+    "raw_quote": " Darling, you make it sound like a chore."
+  },
+  {
+    "timecode": "17:38",
+    "speaker": "Selma Bouvier",
+    "quote": " Hmm, uh, good...",
+    "directions": [],
+    "raw_quote": " Hmm, uh, good..."
+  },
+  {
+    "timecode": "17:40",
+    "speaker": "Sideshow Bob",
+    "quote": " Soon I will kill you.",
+    "directions": [
+      "LOW"
+    ],
+    "raw_quote": " (LOW) Soon I will kill you."
+  },
+  {
+    "timecode": "17:41",
+    "speaker": "Selma Bouvier",
+    "quote": " Huh?",
+    "directions": [],
+    "raw_quote": " Huh?"
+  },
+  {
+    "timecode": "17:42",
+    "speaker": "Sideshow Bob",
+    "quote": " \"Son pied sentis beau\". French, for \"Her foot smells lovely\".",
+    "directions": [],
+    "raw_quote": " \"Son pied sentis beau\". French, for \"Her foot smells lovely\"."
+  },
+  {
+    "timecode": "17:43",
+    "speaker": "Selma Bouvier",
+    "quote": " Ohhh.",
+    "directions": [],
+    "raw_quote": " Ohhh."
+  },
+  {
+    "timecode": "17:46",
+    "speaker": "Sideshow Bob",
+    "quote": " Prepare to be murdered.",
+    "directions": [
+      "LOW"
+    ],
+    "raw_quote": " (LOW) Prepare to be murdered."
+  },
+  {
+    "timecode": "17:48",
+    "speaker": "Selma Bouvier",
+    "quote": " Huh?",
+    "directions": [],
+    "raw_quote": " Huh?"
+  },
+  {
+    "timecode": "17:51",
+    "speaker": "Sideshow Bob",
+    "quote": " Be pah de be mudu. That's Sanskrit for your toes are like perfume. Voy a matar a usted.",
+    "directions": [
+      "IN SPANISH"
+    ],
+    "raw_quote": " Be pah de be mudu. That's Sanskrit for your toes are like perfume. (IN SPANISH) Voy a matar a usted."
+  },
+  {
+    "timecode": "17:57",
+    "speaker": "Selma Bouvier",
+    "quote": " Whaa?",
+    "directions": [],
+    "raw_quote": " Whaa?"
+  },
+  {
+    "timecode": "17:58",
+    "speaker": "Sideshow Bob",
+    "quote": " That's Spanish for, I'm going to kill you.",
+    "directions": [
+      "LOW"
+    ],
+    "raw_quote": " That's Spanish for, (LOW) I'm going to kill you."
+  },
+  {
+    "timecode": "17:58",
+    "speaker": "Selma Bouvier",
+    "quote": " Say what?",
+    "directions": [],
+    "raw_quote": " Say what?"
+  },
+  {
+    "timecode": "18:02",
+    "speaker": "Sideshow Bob",
+    "quote": " Why dear, I do believe it's time for your beloved MacGyver.",
+    "directions": [
+      "CHECKING WATCH"
+    ],
+    "raw_quote": " (CHECKING WATCH) Why dear, I do believe it's time for your beloved MacGyver."
+  },
+  {
+    "timecode": "18:05",
+    "speaker": "Selma Bouvier",
+    "quote": " Oh, hey, you're right.",
+    "directions": [],
+    "raw_quote": " Oh, hey, you're right."
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Shelbyville Hotel Suite: int. shelbyville hotel suite - main room - a little later"
+    ],
+    "raw_quote": "(Shelbyville Hotel Suite: int. shelbyville hotel suite - main room - a little later)"
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "Sideshow Bob",
+    "quote": " Well, time for my walk.",
+    "directions": [],
+    "raw_quote": " Well, time for my walk."
+  },
+  {
+    "timecode": "",
+    "speaker": "Selma Bouvier",
+    "quote": " ",
+    "directions": [
+      "GRUNTS"
+    ],
+    "raw_quote": " (GRUNTS)"
+  },
+  {
+    "timecode": "18:21",
+    "speaker": "Sideshow Bob",
+    "quote": " Don't forget to die.",
+    "directions": [
+      "UNDER BREATH"
+    ],
+    "raw_quote": " (UNDER BREATH) Don't forget to die."
+  },
+  {
+    "timecode": "18:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room)"
+  },
+  {
+    "timecode": "18:23",
+    "speaker": "Patty Bouvier",
+    "quote": " Ding dong. I was feeling kind of lonely without Selma. Mind if I watch TV with you?",
+    "directions": [],
+    "raw_quote": " Ding dong. I was feeling kind of lonely without Selma. Mind if I watch TV with you?"
+  },
+  {
+    "timecode": "18:30",
+    "speaker": "Marge Simpson",
+    "quote": " Go ahead, Patty.",
+    "directions": [],
+    "raw_quote": " Go ahead, Patty."
+  },
+  {
+    "timecode": "18:33",
+    "speaker": "Announcer",
+    "quote": " Tonight on MacGyver...",
+    "directions": [],
+    "raw_quote": " Tonight on MacGyver..."
+  },
+  {
+    "timecode": "18:38",
+    "speaker": "Bart Simpson",
+    "quote": " Aunt Selma has one hour to live!",
+    "directions": [],
+    "raw_quote": " Aunt Selma has one hour to live!"
+  },
+  {
+    "timecode": "18:41",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, down in front.",
+    "directions": [],
+    "raw_quote": " Hey, down in front."
+  },
+  {
+    "timecode": "18:46",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Shelbyville Falls Hotel: ext. shelbyville falls hotel - night"
+    ],
+    "raw_quote": "(Shelbyville Falls Hotel: ext. shelbyville falls hotel - night)"
+  },
+  {
+    "timecode": "18:46",
+    "speaker": "Sideshow Bob",
+    "quote": " Good bye.",
+    "directions": [],
+    "raw_quote": " Good bye."
+  },
+  {
+    "timecode": "18:55",
+    "speaker": "Sideshow Bob",
+    "quote": " Front desk? There's been a terrible accident in my room.",
+    "directions": [],
+    "raw_quote": " Front desk? There's been a terrible accident in my room."
+  },
+  {
+    "timecode": "19:02",
+    "speaker": "Sideshow Bob",
+    "quote": " Poor Selma, you were having such a lovely evening AND THEN I WENT AND SPOILED IT ALL BY DOING SOMETHING STUPID LIKE EXPLODE YOU.",
+    "directions": [
+      "TALK/SINGING"
+    ],
+    "raw_quote": " Poor Selma, you were having such a lovely evening (TALK/SINGING) AND THEN I WENT AND SPOILED IT ALL BY DOING SOMETHING STUPID LIKE EXPLODE YOU."
+  },
+  {
+    "timecode": "19:13",
+    "speaker": "Bart Simpson",
+    "quote": " Sideshow Bob, I'm afraid the only victims here are the good people at Best Western Hotels.",
+    "directions": [],
+    "raw_quote": " Sideshow Bob, I'm afraid the only victims here are the good people at Best Western Hotels."
+  },
+  {
+    "timecode": "19:18",
+    "speaker": "Sideshow Bob",
+    "quote": " Bart!",
+    "directions": [],
+    "raw_quote": " Bart!"
+  },
+  {
+    "timecode": "19:20",
+    "speaker": "Sideshow Bob",
+    "quote": " Selma!",
+    "directions": [],
+    "raw_quote": " Selma!"
+  },
+  {
+    "timecode": "19:21",
+    "speaker": "Sideshow Bob",
+    "quote": " Ughhh.",
+    "directions": [],
+    "raw_quote": " Ughhh."
+  },
+  {
+    "timecode": "19:22",
+    "speaker": "Selma Bouvier",
+    "quote": " You tried to kill me. I want a separation.",
+    "directions": [],
+    "raw_quote": " You tried to kill me. I want a separation."
+  },
+  {
+    "timecode": "19:27",
+    "speaker": "Sideshow Bob",
+    "quote": " My best laid plans have gang aglay!",
+    "directions": [],
+    "raw_quote": " My best laid plans have gang aglay!"
+  },
+  {
+    "timecode": "19:30",
+    "speaker": "Bart Simpson",
+    "quote": " Chief Wiggum, think you have room in your jail for a two-time loser?",
+    "directions": [],
+    "raw_quote": " Chief Wiggum, think you have room in your jail for a two-time loser?"
+  },
+  {
+    "timecode": "19:33",
+    "speaker": "Chief Wiggum",
+    "quote": " Well no, frankly, but that never stopped us before.",
+    "directions": [],
+    "raw_quote": " Well no, frankly, but that never stopped us before."
+  },
+  {
+    "timecode": "19:37",
+    "speaker": "Sideshow Bob",
+    "quote": " Bart, I must know. How did you untangle my web?",
+    "directions": [],
+    "raw_quote": " Bart, I must know. How did you untangle my web?"
+  },
+  {
+    "timecode": "19:40",
+    "speaker": "Chief Wiggum",
+    "quote": " Yeah, Bart. Fill us in.",
+    "directions": [],
+    "raw_quote": " Yeah, Bart. Fill us in."
+  },
+  {
+    "timecode": "19:42",
+    "speaker": "Bart Simpson",
+    "quote": " Well, I'd hate to tell the number one cop in town how to do his job.",
+    "directions": [],
+    "raw_quote": " Well, I'd hate to tell the number one cop in town how to do his job."
+  },
+  {
+    "timecode": "19:46",
+    "speaker": "Chief Wiggum",
+    "quote": " No, no, please. It's the only way I'll learn.",
+    "directions": [],
+    "raw_quote": " No, no, please. It's the only way I'll learn."
+  },
+  {
+    "timecode": "19:48",
+    "speaker": "Bart Simpson",
+    "quote": " All right. Sideshow Bob seemed so desperate to get that fireplace. But why? Then it hit me -- the gas.",
+    "directions": [],
+    "raw_quote": " All right. Sideshow Bob seemed so desperate to get that fireplace. But why? Then it hit me -- the gas."
+  },
+  {
+    "timecode": "19:56",
+    "speaker": "Bart Simpson",
+    "quote": " Surely anyone would have noticed a gas leak -- except Aunt Selma.",
+    "directions": [],
+    "raw_quote": " Surely anyone would have noticed a gas leak -- except Aunt Selma."
+  },
+  {
+    "timecode": "20:02",
+    "speaker": "Selma Bouvier",
+    "quote": " I permanently lost my sense of taste and smell.",
+    "directions": [],
+    "raw_quote": " I permanently lost my sense of taste and smell."
+  },
+  {
+    "timecode": "20:05",
+    "speaker": "Bart Simpson",
+    "quote": " She happily watched her MacGyver, unaware that her room was silently filling with natural gas. All it needed to explode was a single spark... say, from a cigarette...",
+    "directions": [],
+    "raw_quote": " She happily watched her MacGyver, unaware that her room was silently filling with natural gas. All it needed to explode was a single spark... say, from a cigarette..."
+  },
+  {
+    "timecode": "20:16",
+    "speaker": "Selma Bouvier",
+    "quote": " I decided to give up smoking... except for after meals, and after MacGyver.",
+    "directions": [],
+    "raw_quote": " I decided to give up smoking... except for after meals, and after MacGyver."
+  },
+  {
+    "timecode": "20:20",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - an hour earlier"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - an hour earlier)"
+  },
+  {
+    "timecode": "20:20",
+    "speaker": "Bart Simpson",
+    "quote": " Her only hope was a plucky young boy and his slow-witted father.",
+    "directions": [],
+    "raw_quote": " Her only hope was a plucky young boy and his slow-witted father."
+  },
+  {
+    "timecode": "20:24",
+    "speaker": "Bart Simpson",
+    "quote": " Dad, when Aunt Selma lights up her cigarette at the end of MacGyver, she'll be blown to kingdom come!",
+    "directions": [],
+    "raw_quote": " Dad, when Aunt Selma lights up her cigarette at the end of MacGyver, she'll be blown to kingdom come!"
+  },
+  {
+    "timecode": "20:29",
+    "speaker": "Homer Simpson",
+    "quote": " Come again?",
+    "directions": [],
+    "raw_quote": " Come again?"
+  },
+  {
+    "timecode": "20:32",
+    "speaker": "Bart Simpson",
+    "quote": " After trying four times to explain it to Homer, I explained it to Mom and we were on our way.",
+    "directions": [],
+    "raw_quote": " After trying four times to explain it to Homer, I explained it to Mom and we were on our way."
+  },
+  {
+    "timecode": "20:37",
+    "speaker": "Homer Simpson",
+    "quote": " To the Simpson mobile!",
+    "directions": [],
+    "raw_quote": " To the Simpson mobile!"
+  },
+  {
+    "timecode": "20:56",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hotel Room: int. hotel room - after macgyver"
+    ],
+    "raw_quote": "(Hotel Room: int. hotel room - after macgyver)"
+  },
+  {
+    "timecode": "20:56",
+    "speaker": "Bart Simpson",
+    "quote": " Noooo!",
+    "directions": [],
+    "raw_quote": " Noooo!"
+  },
+  {
+    "timecode": "21:01",
+    "speaker": "Sideshow Bob",
+    "quote": " But wait! If you saved Selma, why did the room explode?",
+    "directions": [],
+    "raw_quote": " But wait! If you saved Selma, why did the room explode?"
+  },
+  {
+    "timecode": "21:04",
+    "speaker": "Chief Wiggum",
+    "quote": " I'll field that one. Me and the boys were all celebrating a job well done when I threw my match in the vicinity of the crime scene.",
+    "directions": [],
+    "raw_quote": " I'll field that one. Me and the boys were all celebrating a job well done when I threw my match in the vicinity of the crime scene."
+  },
+  {
+    "timecode": "21:14",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hall: int. hall - a little earlier"
+    ],
+    "raw_quote": "(Hall: int. hall - a little earlier)"
+  },
+  {
+    "timecode": "21:14",
+    "speaker": "Chief Wiggum",
+    "quote": " Oh, right, the gas.",
+    "directions": [
+      "SHEEPISH"
+    ],
+    "raw_quote": " (SHEEPISH) Oh, right, the gas."
+  },
+  {
+    "timecode": "21:16",
+    "speaker": "Sideshow Bob",
+    "quote": " I'll be back! You can't keep the Democrats out of the White House forever! And when they get in, I'm back on the streets, with all my criminal buddies!",
+    "directions": [],
+    "raw_quote": " I'll be back! You can't keep the Democrats out of the White House forever! And when they get in, I'm back on the streets, with all my criminal buddies!"
+  },
+  {
+    "timecode": "21:30",
+    "speaker": "Selma Bouvier",
+    "quote": " I feel like such a fool.",
+    "directions": [],
+    "raw_quote": " I feel like such a fool."
+  },
+  {
+    "timecode": "21:33",
+    "speaker": "Marge Simpson",
+    "quote": " Well, he fooled almost everyone. But there was one little boy who never lost his mistrust.",
+    "directions": [],
+    "raw_quote": " Well, he fooled almost everyone. But there was one little boy who never lost his mistrust."
+  },
+  {
+    "timecode": "21:39",
+    "speaker": "Bart Simpson",
+    "quote": " Thanks, Mom. Now. Let's get out of this gas-filled hallway before we all suffocate.",
+    "directions": [],
+    "raw_quote": " Thanks, Mom. Now. Let's get out of this gas-filled hallway before we all suffocate."
+  }
+]

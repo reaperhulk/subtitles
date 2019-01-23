@@ -1,0 +1,2332 @@
+[
+  {
+    "timecode": "00:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Wooded Area: EXT. WOODED AREA"
+    ],
+    "raw_quote": "(Wooded Area: EXT. WOODED AREA)"
+  },
+  {
+    "timecode": "00:34",
+    "speaker": "Kent Brockman",
+    "quote": " Hello, I'm Kent Brockman and this is Eye on Springfield.",
+    "directions": [],
+    "raw_quote": " Hello, I'm Kent Brockman and this is Eye on Springfield."
+  },
+  {
+    "timecode": "01:36",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room - night"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room - night)"
+  },
+  {
+    "timecode": "01:36",
+    "speaker": "Homer Simpson",
+    "quote": " Wow, infotainment.",
+    "directions": [],
+    "raw_quote": " Wow, infotainment."
+  },
+  {
+    "timecode": "01:38",
+    "speaker": "Kent Brockman",
+    "quote": " Tonight, we solute the silver anniversary of the great Springfield tire yard fire. Twenty-five years and stilll burning strong.",
+    "directions": [],
+    "raw_quote": " Tonight, we solute the silver anniversary of the great Springfield tire yard fire. Twenty-five years and stilll burning strong."
+  },
+  {
+    "timecode": "01:47",
+    "speaker": "Kent Brockman",
+    "quote": " ...We watch Springfield's oldest man meet Springfield's fattest man...",
+    "directions": [],
+    "raw_quote": " ...We watch Springfield's oldest man meet Springfield's fattest man..."
+  },
+  {
+    "timecode": "01:51",
+    "speaker": "Homer Simpson",
+    "quote": " He's not so fat.",
+    "directions": [],
+    "raw_quote": " He's not so fat."
+  },
+  {
+    "timecode": "01:53",
+    "speaker": "Kent Brockman",
+    "quote": " And we visit with Heavyweight Champion, Drederick Tatum, who reminisces about growing up in Springfield.",
+    "directions": [],
+    "raw_quote": " And we visit with Heavyweight Champion, Drederick Tatum, who reminisces about growing up in Springfield."
+  },
+  {
+    "timecode": "01:59",
+    "speaker": "DREDERICK",
+    "quote": " That town is a dump. If you ever see me back there, you know I really up bad.",
+    "directions": [
+      "BLEEP"
+    ],
+    "raw_quote": " That town is a dump. If you ever see me back there, you know I really (BLEEP) up bad."
+  },
+  {
+    "timecode": "02:04",
+    "speaker": "Kent Brockman",
+    "quote": " But first, part seven of our eye-opening look at... the bikini!",
+    "directions": [],
+    "raw_quote": " But first, part seven of our eye-opening look at... the bikini!"
+  },
+  {
+    "timecode": "02:14",
+    "speaker": "Bart Simpson",
+    "quote": " Whoa, T and A.",
+    "directions": [],
+    "raw_quote": " Whoa, T and A."
+  },
+  {
+    "timecode": "02:16",
+    "speaker": "Homer Simpson",
+    "quote": " Bart, why are you still up?",
+    "directions": [],
+    "raw_quote": " Bart, why are you still up?"
+  },
+  {
+    "timecode": "02:18",
+    "speaker": "Bart Simpson",
+    "quote": " Lisa's slumber party.",
+    "directions": [],
+    "raw_quote": " Lisa's slumber party."
+  },
+  {
+    "timecode": "02:19",
+    "speaker": "Bart Simpson",
+    "quote": " Who can sleep with those five evil hens cackling and plotting against me?",
+    "directions": [],
+    "raw_quote": " Who can sleep with those five evil hens cackling and plotting against me?"
+  },
+  {
+    "timecode": "02:24",
+    "speaker": "Homer Simpson",
+    "quote": " Boy, they've got better things to talk about than you. Sheesh, what an ego.",
+    "directions": [],
+    "raw_quote": " Boy, they've got better things to talk about than you. Sheesh, what an ego."
+  },
+  {
+    "timecode": "02:28",
+    "speaker": "JANEY",
+    "quote": " Lisa, your brother is so gross!",
+    "directions": [],
+    "raw_quote": " Lisa, your brother is so gross!"
+  },
+  {
+    "timecode": "02:31",
+    "speaker": "Lisa Simpson",
+    "quote": " You should smell his room.",
+    "directions": [],
+    "raw_quote": " You should smell his room."
+  },
+  {
+    "timecode": "02:35",
+    "speaker": "JANEY",
+    "quote": " Now remember, Wanda, whatever shape the wax takes, that's what your husband's job will be.",
+    "directions": [],
+    "raw_quote": " Now remember, Wanda, whatever shape the wax takes, that's what your husband's job will be."
+  },
+  {
+    "timecode": "02:44",
+    "speaker": "Wanda",
+    "quote": " It's a mop. My husband will be a janitor.",
+    "directions": [
+      "DEPRESSED"
+    ],
+    "raw_quote": " (DEPRESSED) It's a mop. My husband will be a janitor."
+  },
+  {
+    "timecode": "02:47",
+    "speaker": "Lisa Simpson",
+    "quote": " That looks like an Olympic torch to me. Your husband could be an Olympic athlete who will go on to have a great acting career.",
+    "directions": [],
+    "raw_quote": " That looks like an Olympic torch to me. Your husband could be an Olympic athlete who will go on to have a great acting career."
+  },
+  {
+    "timecode": "02:57",
+    "speaker": "Wanda",
+    "quote": " It's a dustpan.",
+    "directions": [],
+    "raw_quote": " It's a dustpan."
+  },
+  {
+    "timecode": "02:59",
+    "speaker": "Lisa Simpson",
+    "quote": " The wax never lies.",
+    "directions": [
+      "OMINOUSLY"
+    ],
+    "raw_quote": " (OMINOUSLY) The wax never lies."
+  },
+  {
+    "timecode": "03:01",
+    "speaker": "Becky",
+    "quote": " Let's play truth or dare.",
+    "directions": [],
+    "raw_quote": " Let's play truth or dare."
+  },
+  {
+    "timecode": "03:03",
+    "speaker": "Girls",
+    "quote": " Truth or dare, truth or dare.",
+    "directions": [
+      "CHANTING"
+    ],
+    "raw_quote": " (CHANTING) Truth or dare, truth or dare."
+  },
+  {
+    "timecode": "03:06",
+    "speaker": "Becky",
+    "quote": " I'll take -- \"dare\".",
+    "directions": [],
+    "raw_quote": " I'll take -- \"dare\"."
+  },
+  {
+    "timecode": "03:08",
+    "speaker": "JANEY",
+    "quote": " I dare you to -- kiss Lisa's brother.",
+    "directions": [],
+    "raw_quote": " I dare you to -- kiss Lisa's brother."
+  },
+  {
+    "timecode": "03:10",
+    "speaker": "Girls",
+    "quote": " Eeeeeewwwwww!",
+    "directions": [],
+    "raw_quote": " Eeeeeewwwwww!"
+  },
+  {
+    "timecode": "03:18",
+    "speaker": "Bart Simpson",
+    "quote": " What the... ?",
+    "directions": [
+      "TERRIFIED"
+    ],
+    "raw_quote": " (TERRIFIED) What the... ?"
+  },
+  {
+    "timecode": "03:20",
+    "speaker": "Bart Simpson",
+    "quote": " Aaahhh!",
+    "directions": [],
+    "raw_quote": " Aaahhh!"
+  },
+  {
+    "timecode": "03:23",
+    "speaker": "Bart Simpson",
+    "quote": " Ptew!! Ptew!! I'm telling Mom and Dad.",
+    "directions": [
+      "SPITS REPEATEDLY"
+    ],
+    "raw_quote": " (SPITS REPEATEDLY) Ptew!! Ptew!! I'm telling Mom and Dad."
+  },
+  {
+    "timecode": "03:25",
+    "speaker": "Lisa Simpson",
+    "quote": " You're telling who?",
+    "directions": [],
+    "raw_quote": " You're telling who?"
+  },
+  {
+    "timecode": "03:26",
+    "speaker": "Becky",
+    "quote": " Mom and Dad!",
+    "directions": [],
+    "raw_quote": " Mom and Dad!"
+  },
+  {
+    "timecode": "03:27",
+    "speaker": "Girls",
+    "quote": " Jinx!",
+    "directions": [],
+    "raw_quote": " Jinx!"
+  },
+  {
+    "timecode": "03:28",
+    "speaker": "JANEY",
+    "quote": " Now you can't talk until somebody says your name!",
+    "directions": [
+      "TAUNTING"
+    ],
+    "raw_quote": " (TAUNTING) Now you can't talk until somebody says your name!"
+  },
+  {
+    "timecode": "03:34",
+    "speaker": "Kent Brockman",
+    "quote": " Coming up next, an elephant who never forgets... to brush!",
+    "directions": [],
+    "raw_quote": " Coming up next, an elephant who never forgets... to brush!"
+  },
+  {
+    "timecode": "03:38",
+    "speaker": "Homer Simpson",
+    "quote": " What is it, boy?",
+    "directions": [],
+    "raw_quote": " What is it, boy?"
+  },
+  {
+    "timecode": "03:42",
+    "speaker": "Homer Simpson",
+    "quote": " Is anything the matter, my son? Talk to me, young man.",
+    "directions": [],
+    "raw_quote": " Is anything the matter, my son? Talk to me, young man."
+  },
+  {
+    "timecode": "03:49",
+    "speaker": "Homer Simpson",
+    "quote": " Say your name? Why should I do that, my lad?",
+    "directions": [],
+    "raw_quote": " Say your name? Why should I do that, my lad?"
+  },
+  {
+    "timecode": "03:52",
+    "speaker": "Bart Simpson",
+    "quote": " Because I'm \"jinxed\" dammit!",
+    "directions": [
+      "SHOUTING"
+    ],
+    "raw_quote": " (SHOUTING) Because I'm \"jinxed\" dammit!"
+  },
+  {
+    "timecode": "03:52",
+    "speaker": "Bart Simpson",
+    "quote": " Ow! What was that for?",
+    "directions": [],
+    "raw_quote": " Ow! What was that for?"
+  },
+  {
+    "timecode": "03:56",
+    "speaker": "Homer Simpson",
+    "quote": " You spoke while you were jinxed so I get to punch you in the arm. Sorry, it's the law. Heh, heh.",
+    "directions": [],
+    "raw_quote": " You spoke while you were jinxed so I get to punch you in the arm. Sorry, it's the law. Heh, heh."
+  },
+  {
+    "timecode": "04:02",
+    "speaker": "JANEY",
+    "quote": " There he is! Let's give him a make-over.",
+    "directions": [],
+    "raw_quote": " There he is! Let's give him a make-over."
+  },
+  {
+    "timecode": "04:05",
+    "speaker": "Homer Simpson",
+    "quote": " Run for it boy!",
+    "directions": [],
+    "raw_quote": " Run for it boy!"
+  },
+  {
+    "timecode": "04:36",
+    "speaker": "Lisa Simpson",
+    "quote": " Come here, Maggie.",
+    "directions": [
+      "Mischievously"
+    ],
+    "raw_quote": " (Mischievously) Come here, Maggie."
+  },
+  {
+    "timecode": "04:43",
+    "speaker": "Homer Simpson",
+    "quote": " That's it. I'm outta here.",
+    "directions": [],
+    "raw_quote": " That's it. I'm outta here."
+  },
+  {
+    "timecode": "04:49",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: int. moe's tavern - later"
+    ],
+    "raw_quote": "(Moe's Tavern: int. moe's tavern - later)"
+  },
+  {
+    "timecode": "04:49",
+    "speaker": "Moe Szyslak",
+    "quote": " Hiya, Homer. ",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " Hiya, Homer. (SIGHS)"
+  },
+  {
+    "timecode": "04:51",
+    "speaker": "Homer Simpson",
+    "quote": " What's the matter, Moe?",
+    "directions": [],
+    "raw_quote": " What's the matter, Moe?"
+  },
+  {
+    "timecode": "04:53",
+    "speaker": "Moe Szyslak",
+    "quote": " Ah, business is slow. People today are healthier and drinking less. You know, if it wasn't for the Junior High school next door no one would even use the cigarette machine.",
+    "directions": [],
+    "raw_quote": " Ah, business is slow. People today are healthier and drinking less. You know, if it wasn't for the Junior High school next door no one would even use the cigarette machine."
+  },
+  {
+    "timecode": "05:01",
+    "speaker": "Homer Simpson",
+    "quote": " Yeah, things are tough all over.",
+    "directions": [
+      "MOUTH FULL"
+    ],
+    "raw_quote": " (MOUTH FULL) Yeah, things are tough all over."
+  },
+  {
+    "timecode": "05:03",
+    "speaker": "Moe Szyslak",
+    "quote": " Increased job satisfaction and family togetherness are poison for a purveyor of mind-numbing intoxicants like myself.",
+    "directions": [],
+    "raw_quote": " Increased job satisfaction and family togetherness are poison for a purveyor of mind-numbing intoxicants like myself."
+  },
+  {
+    "timecode": "05:09",
+    "speaker": "Homer Simpson",
+    "quote": " Could I get a beer?",
+    "directions": [],
+    "raw_quote": " Could I get a beer?"
+  },
+  {
+    "timecode": "05:10",
+    "speaker": "Moe Szyslak",
+    "quote": " Uh, yeah, sure.",
+    "directions": [],
+    "raw_quote": " Uh, yeah, sure."
+  },
+  {
+    "timecode": "05:13",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh sorry, I forgot we're out of beer.",
+    "directions": [],
+    "raw_quote": " Oh sorry, I forgot we're out of beer."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "sHRIEKS"
+    ],
+    "raw_quote": " (sHRIEKS)"
+  },
+  {
+    "timecode": "05:15",
+    "speaker": "Moe Szyslak",
+    "quote": " Yeah, I know, I got behind on my beer payments. The distributor cut me off and I spent my last ten grand on the \"Love Tester\".",
+    "directions": [],
+    "raw_quote": " Yeah, I know, I got behind on my beer payments. The distributor cut me off and I spent my last ten grand on the \"Love Tester\"."
+  },
+  {
+    "timecode": "05:24",
+    "speaker": "Moe Szyslak",
+    "quote": " You're too late, Homer. Barney sucked it dry. Cut his gums up pretty bad.",
+    "directions": [],
+    "raw_quote": " You're too late, Homer. Barney sucked it dry. Cut his gums up pretty bad."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "MOANS"
+    ],
+    "raw_quote": " (MOANS)"
+  },
+  {
+    "timecode": "05:31",
+    "speaker": "Moe Szyslak",
+    "quote": " Take it easy, Homer. I learned how to make other drinks at Bartender's School.",
+    "directions": [],
+    "raw_quote": " Take it easy, Homer. I learned how to make other drinks at Bartender's School."
+  },
+  {
+    "timecode": "05:38",
+    "speaker": "Moe Szyslak",
+    "quote": " Gin and... tonic? Do they mix?",
+    "directions": [
+      "UNFAMILIAR"
+    ],
+    "raw_quote": " (UNFAMILIAR) Gin and... tonic? Do they mix?"
+  },
+  {
+    "timecode": "05:41",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, I know a good drink. Really hits the spot. I invented it myself...",
+    "directions": [
+      "BRIGHTENING"
+    ],
+    "raw_quote": " (BRIGHTENING) Hey, I know a good drink. Really hits the spot. I invented it myself..."
+  },
+  {
+    "timecode": "05:47",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room)"
+  },
+  {
+    "timecode": "05:47",
+    "speaker": "Homer Simpson",
+    "quote": " One night Marge's beastly sisters were showing slides from their latest vacation.",
+    "directions": [],
+    "raw_quote": " One night Marge's beastly sisters were showing slides from their latest vacation."
+  },
+  {
+    "timecode": "05:51",
+    "speaker": "Selma Bouvier",
+    "quote": " ... and this is Patty trying to plug her leg razor into one of those ungodly Czechoslovakian outlets.",
+    "directions": [],
+    "raw_quote": " ... and this is Patty trying to plug her leg razor into one of those ungodly Czechoslovakian outlets."
+  },
+  {
+    "timecode": "05:58",
+    "speaker": "Selma Bouvier",
+    "quote": " As you can see, we never did get the hang of it.",
+    "directions": [],
+    "raw_quote": " As you can see, we never did get the hang of it."
+  },
+  {
+    "timecode": "06:01",
+    "speaker": "Bart Simpson",
+    "quote": " Aye carumba!",
+    "directions": [],
+    "raw_quote": " Aye carumba!"
+  },
+  {
+    "timecode": "06:02",
+    "speaker": "Homer Simpson",
+    "quote": " As I stared up at that hairy yellow drumstick, I knew I needed a drink.",
+    "directions": [],
+    "raw_quote": " As I stared up at that hairy yellow drumstick, I knew I needed a drink."
+  },
+  {
+    "timecode": "06:07",
+    "speaker": "Homer Simpson",
+    "quote": " Patty, Selma, would you excuse me for a moment?",
+    "directions": [
+      "SWEETLY"
+    ],
+    "raw_quote": " (SWEETLY) Patty, Selma, would you excuse me for a moment?"
+  },
+  {
+    "timecode": "06:10",
+    "speaker": "Patty Bouvier",
+    "quote": " If you're going for a beer, this is the last one.",
+    "directions": [
+      "DRINKING A BEER"
+    ],
+    "raw_quote": " (DRINKING A BEER) If you're going for a beer, this is the last one."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " (ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "06:14",
+    "speaker": "Homer Simpson",
+    "quote": " I decided to mix the little bits that were left in every liquor bottle.",
+    "directions": [],
+    "raw_quote": " I decided to mix the little bits that were left in every liquor bottle."
+  },
+  {
+    "timecode": "06:18",
+    "speaker": "Homer Simpson",
+    "quote": " In my haste I had grabbed a bottle of the kids' cough syrup.",
+    "directions": [],
+    "raw_quote": " In my haste I had grabbed a bottle of the kids' cough syrup."
+  },
+  {
+    "timecode": "06:28",
+    "speaker": "Homer Simpson",
+    "quote": " It passed the first test: I didn't go blind.",
+    "directions": [],
+    "raw_quote": " It passed the first test: I didn't go blind."
+  },
+  {
+    "timecode": "06:34",
+    "speaker": "Patty Bouvier",
+    "quote": " They say everyone can float in the Dead Sea, but Selma sank right to the bottom.",
+    "directions": [],
+    "raw_quote": " They say everyone can float in the Dead Sea, but Selma sank right to the bottom."
+  },
+  {
+    "timecode": "06:44",
+    "speaker": "Homer Simpson",
+    "quote": " I don't know the scientific explanation, but fire made it good.",
+    "directions": [],
+    "raw_quote": " I don't know the scientific explanation, but fire made it good."
+  },
+  {
+    "timecode": "06:49",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: int. moe's tavern"
+    ],
+    "raw_quote": "(Moe's Tavern: int. moe's tavern)"
+  },
+  {
+    "timecode": "06:49",
+    "speaker": "Moe Szyslak",
+    "quote": " Whoa, sounds like one hell of a drink. What do you call it?",
+    "directions": [],
+    "raw_quote": " Whoa, sounds like one hell of a drink. What do you call it?"
+  },
+  {
+    "timecode": "06:53",
+    "speaker": "Homer Simpson",
+    "quote": " A \"Flaming Homer\".",
+    "directions": [],
+    "raw_quote": " A \"Flaming Homer\"."
+  },
+  {
+    "timecode": "06:54",
+    "speaker": "Moe Szyslak",
+    "quote": " Okay, why don't you make us up a couple of \"Flaming Homers\"?",
+    "directions": [],
+    "raw_quote": " Okay, why don't you make us up a couple of \"Flaming Homers\"?"
+  },
+  {
+    "timecode": "06:58",
+    "speaker": "Homer Simpson",
+    "quote": " Hey Moe, you got any cough syrup?",
+    "directions": [],
+    "raw_quote": " Hey Moe, you got any cough syrup?"
+  },
+  {
+    "timecode": "07:00",
+    "speaker": "Moe Szyslak",
+    "quote": " Uh, let me check the lost and found.",
+    "directions": [],
+    "raw_quote": " Uh, let me check the lost and found."
+  },
+  {
+    "timecode": "07:00",
+    "speaker": "Moe Szyslak",
+    "quote": " What do we got here, Bowie knife, troll doll, glass eye...",
+    "directions": [],
+    "raw_quote": " What do we got here, Bowie knife, troll doll, glass eye..."
+  },
+  {
+    "timecode": "07:08",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh. Here we are.",
+    "directions": [],
+    "raw_quote": " Oh. Here we are."
+  },
+  {
+    "timecode": "07:17",
+    "speaker": "Moe Szyslak",
+    "quote": " It's not without its charm.",
+    "directions": [],
+    "raw_quote": " It's not without its charm."
+  },
+  {
+    "timecode": "07:19",
+    "speaker": "Homer Simpson",
+    "quote": " Try lighting it on fire.",
+    "directions": [],
+    "raw_quote": " Try lighting it on fire."
+  },
+  {
+    "timecode": "07:27",
+    "speaker": "Moe Szyslak",
+    "quote": " Whoa! Homer, it's like there's a party in my mouth and everyone's invited.",
+    "directions": [
+      "SMILING"
+    ],
+    "raw_quote": " (SMILING) Whoa! Homer, it's like there's a party in my mouth and everyone's invited."
+  },
+  {
+    "timecode": "07:33",
+    "speaker": "Larry",
+    "quote": " Hey, your Love Tester's busted. I want my nickel back. ",
+    "directions": [
+      "COUGHS"
+    ],
+    "raw_quote": " Hey, your Love Tester's busted. I want my nickel back. (COUGHS)"
+  },
+  {
+    "timecode": "07:38",
+    "speaker": "Moe Szyslak",
+    "quote": " Hey, buddy. Have one on the house.",
+    "directions": [],
+    "raw_quote": " Hey, buddy. Have one on the house."
+  },
+  {
+    "timecode": "07:42",
+    "speaker": "Larry",
+    "quote": " Hey, hey, this drink is delicious! And my phlegm feels looser. What do you call it?",
+    "directions": [],
+    "raw_quote": " Hey, hey, this drink is delicious! And my phlegm feels looser. What do you call it?"
+  },
+  {
+    "timecode": "07:48",
+    "speaker": "Homer Simpson",
+    "quote": " Well, it's called a \"Flaming...",
+    "directions": [],
+    "raw_quote": " Well, it's called a \"Flaming..."
+  },
+  {
+    "timecode": "07:49",
+    "speaker": "Moe Szyslak",
+    "quote": " Moe! It's called a \"Flaming Moe\"! That's right, a \"Flaming Moe\". My name is Moe, and I invented it. That's why it's called a Flaming Moe. What? What are you lookin' at, Homer? It's a Flaming Moe I'm Moe.",
+    "directions": [],
+    "raw_quote": " Moe! It's called a \"Flaming Moe\"! That's right, a \"Flaming Moe\". My name is Moe, and I invented it. That's why it's called a Flaming Moe. What? What are you lookin' at, Homer? It's a Flaming Moe I'm Moe."
+  },
+  {
+    "timecode": "08:08",
+    "speaker": "Barney Gumble",
+    "quote": " Hey, what's this?",
+    "directions": [],
+    "raw_quote": " Hey, what's this?"
+  },
+  {
+    "timecode": "08:09",
+    "speaker": "Moe Szyslak",
+    "quote": " A sneeze guard.",
+    "directions": [],
+    "raw_quote": " A sneeze guard."
+  },
+  {
+    "timecode": "08:11",
+    "speaker": "Barney Gumble",
+    "quote": " Wow, it really works.",
+    "directions": [],
+    "raw_quote": " Wow, it really works."
+  },
+  {
+    "timecode": "08:14",
+    "speaker": "Homer Simpson",
+    "quote": " Moe, I haven't seen the place this crowded since the government cracked down on you for accepting food stamps. Do you think my drink had something to do with it?",
+    "directions": [],
+    "raw_quote": " Moe, I haven't seen the place this crowded since the government cracked down on you for accepting food stamps. Do you think my drink had something to do with it?"
+  },
+  {
+    "timecode": "08:21",
+    "speaker": "Moe Szyslak",
+    "quote": " Who can say? It's probably a combination of things.",
+    "directions": [],
+    "raw_quote": " Who can say? It's probably a combination of things."
+  },
+  {
+    "timecode": "08:24",
+    "speaker": "Patron #1",
+    "quote": " Another pitcher of those amazing \"Flaming Moe's\".",
+    "directions": [
+      "TO MOE"
+    ],
+    "raw_quote": " (TO MOE) Another pitcher of those amazing \"Flaming Moe's\"."
+  },
+  {
+    "timecode": "08:26",
+    "speaker": "Patron #2",
+    "quote": " Boy, I hate this joint, but I love that drink.",
+    "directions": [],
+    "raw_quote": " Boy, I hate this joint, but I love that drink."
+  },
+  {
+    "timecode": "08:29",
+    "speaker": "Collette",
+    "quote": " Barkeep, I couldn't help noticing your sign.",
+    "directions": [],
+    "raw_quote": " Barkeep, I couldn't help noticing your sign."
+  },
+  {
+    "timecode": "08:32",
+    "speaker": "Moe Szyslak",
+    "quote": " The one that says, \"Bartenders Do It 'Til You Barf\"?",
+    "directions": [],
+    "raw_quote": " The one that says, \"Bartenders Do It 'Til You Barf\"?"
+  },
+  {
+    "timecode": "08:35",
+    "speaker": "Collette",
+    "quote": " No, above that store-bought drollery.",
+    "directions": [],
+    "raw_quote": " No, above that store-bought drollery."
+  },
+  {
+    "timecode": "08:37",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh great! Why don't we fill out an application? I'll need your name, measurements and turn ons..",
+    "directions": [
+      "READING"
+    ],
+    "raw_quote": " Oh great! Why don't we fill out an application? (READING) I'll need your name, measurements and turn ons.."
+  },
+  {
+    "timecode": "08:42",
+    "speaker": "Collette",
+    "quote": " You really expect me to tell you my measurements?",
+    "directions": [],
+    "raw_quote": " You really expect me to tell you my measurements?"
+  },
+  {
+    "timecode": "08:45",
+    "speaker": "Moe Szyslak",
+    "quote": " You could, but I find this way is much more accurate... and fun.",
+    "directions": [],
+    "raw_quote": " You could, but I find this way is much more accurate... and fun."
+  },
+  {
+    "timecode": "08:49",
+    "speaker": "Collette",
+    "quote": " what do you offer in the way of salary?",
+    "directions": [
+      "DISGUSTED"
+    ],
+    "raw_quote": " (DISGUSTED) what do you offer in the way of salary?"
+  },
+  {
+    "timecode": "08:51",
+    "speaker": "Moe Szyslak",
+    "quote": " Minimum wage and tips. Of course there are fringe benefits.",
+    "directions": [
+      "MEANINGFULLY"
+    ],
+    "raw_quote": " Minimum wage and tips. (MEANINGFULLY) Of course there are fringe benefits."
+  },
+  {
+    "timecode": "08:55",
+    "speaker": "Collette",
+    "quote": " Such as?",
+    "directions": [],
+    "raw_quote": " Such as?"
+  },
+  {
+    "timecode": "08:56",
+    "speaker": "Moe Szyslak",
+    "quote": " An unforgettable weekend at Club Moe.",
+    "directions": [],
+    "raw_quote": " An unforgettable weekend at Club Moe."
+  },
+  {
+    "timecode": "08:59",
+    "speaker": "Collette",
+    "quote": " I prefer to take my vacations someplace hot.",
+    "directions": [],
+    "raw_quote": " I prefer to take my vacations someplace hot."
+  },
+  {
+    "timecode": "09:04",
+    "speaker": "Moe Szyslak",
+    "quote": " I like your moxie, kid. You're hired.",
+    "directions": [],
+    "raw_quote": " I like your moxie, kid. You're hired."
+  },
+  {
+    "timecode": "09:07",
+    "speaker": "Collette",
+    "quote": " You shan't regret this.",
+    "directions": [],
+    "raw_quote": " You shan't regret this."
+  },
+  {
+    "timecode": "09:09",
+    "speaker": "Moe Szyslak",
+    "quote": " Methinks I shan't.",
+    "directions": [],
+    "raw_quote": " Methinks I shan't."
+  },
+  {
+    "timecode": "09:11",
+    "speaker": "HARV",
+    "quote": " Pardon me, are you the genius behind the \"Flaming Moe\"?",
+    "directions": [
+      "TO MOE"
+    ],
+    "raw_quote": " (TO MOE) Pardon me, are you the genius behind the \"Flaming Moe\"?"
+  },
+  {
+    "timecode": "09:14",
+    "speaker": "Homer Simpson",
+    "quote": " Why yes I --",
+    "directions": [],
+    "raw_quote": " Why yes I --"
+  },
+  {
+    "timecode": "09:14",
+    "speaker": "Moe Szyslak",
+    "quote": " I'm your man.",
+    "directions": [
+      "CUTTING HIM OFF"
+    ],
+    "raw_quote": " (CUTTING HIM OFF) I'm your man."
+  },
+  {
+    "timecode": "09:15",
+    "speaker": "HARV",
+    "quote": " Huh uh. My name is Harv Bannister. I work for \"Tipsy McStagger's Good Time Drinking and Eating Emporium\".",
+    "directions": [],
+    "raw_quote": " Huh uh. My name is Harv Bannister. I work for \"Tipsy McStagger's Good Time Drinking and Eating Emporium\"."
+  },
+  {
+    "timecode": "09:21",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh yeah? Hey, what's Mr. McStagger really like?",
+    "directions": [],
+    "raw_quote": " Oh yeah? Hey, what's Mr. McStagger really like?"
+  },
+  {
+    "timecode": "09:23",
+    "speaker": "HARV",
+    "quote": " Actually, there is no Tipsy McStagger. He's just a composite of other successful logos.",
+    "directions": [],
+    "raw_quote": " Actually, there is no Tipsy McStagger. He's just a composite of other successful logos."
+  },
+  {
+    "timecode": "09:28",
+    "speaker": "Moe Szyslak",
+    "quote": " Well, you tell him from me that he makes one great mozzarella stick.",
+    "directions": [],
+    "raw_quote": " Well, you tell him from me that he makes one great mozzarella stick."
+  },
+  {
+    "timecode": "09:31",
+    "speaker": "HARV",
+    "quote": " Yes, fine, I will. Anyway, I've got a proposition for you.",
+    "directions": [
+      "QUICKLY"
+    ],
+    "raw_quote": " (QUICKLY) Yes, fine, I will. Anyway, I've got a proposition for you."
+  },
+  {
+    "timecode": "09:35",
+    "speaker": "Moe Szyslak",
+    "quote": " Keep talkin'.",
+    "directions": [],
+    "raw_quote": " Keep talkin'."
+  },
+  {
+    "timecode": "09:36",
+    "speaker": "HARV",
+    "quote": " We feel your \"Flaming Moe\" is perfect for our restaurant chain. We want to buy the recipe.",
+    "directions": [],
+    "raw_quote": " We feel your \"Flaming Moe\" is perfect for our restaurant chain. We want to buy the recipe."
+  },
+  {
+    "timecode": "09:41",
+    "speaker": "Moe Szyslak",
+    "quote": " No dice. The \"Flaming Moe\" is not for sale. Do you know how much of my blood and sweat are in this drink?",
+    "directions": [],
+    "raw_quote": " No dice. The \"Flaming Moe\" is not for sale. Do you know how much of my blood and sweat are in this drink?"
+  },
+  {
+    "timecode": "09:47",
+    "speaker": "Moe Szyslak",
+    "quote": " Figure of speech.",
+    "directions": [
+      "TO PATRONS"
+    ],
+    "raw_quote": " (TO PATRONS) Figure of speech."
+  },
+  {
+    "timecode": "09:49",
+    "speaker": "Moe Szyslak",
+    "quote": " Sorry, Harv.",
+    "directions": [],
+    "raw_quote": " Sorry, Harv."
+  },
+  {
+    "timecode": "09:53",
+    "speaker": "HARV",
+    "quote": " I'll be back.",
+    "directions": [
+      "CHUCKLING"
+    ],
+    "raw_quote": " (CHUCKLING) I'll be back."
+  },
+  {
+    "timecode": "09:57",
+    "speaker": "Barney Gumble",
+    "quote": " Good for you, Moe. Only an idiot would give away a million dollar idea like that.",
+    "directions": [],
+    "raw_quote": " Good for you, Moe. Only an idiot would give away a million dollar idea like that."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "MOANS"
+    ],
+    "raw_quote": " (MOANS)"
+  },
+  {
+    "timecode": "10:03",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: int. springfield elementary - bart's class"
+    ],
+    "raw_quote": "(Springfield Elementary School: int. springfield elementary - bart's class)"
+  },
+  {
+    "timecode": "10:03",
+    "speaker": "Martin Prince",
+    "quote": " So the next time you use a gas chromatograph, remember to thank Mister A.J.P Martin.",
+    "directions": [],
+    "raw_quote": " So the next time you use a gas chromatograph, remember to thank Mister A.J.P Martin."
+  },
+  {
+    "timecode": "10:10",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Brilliant Martin, brilliant. Once again you've wrecked the grading curve. Oh, I pity the poor student who has to follow you. Bart Simpson? You're next.",
+    "directions": [],
+    "raw_quote": " Brilliant Martin, brilliant. Once again you've wrecked the grading curve. Oh, I pity the poor student who has to follow you. Bart Simpson? You're next."
+  },
+  {
+    "timecode": "10:19",
+    "speaker": "Bart Simpson",
+    "quote": " \"The Inventor I Admire\", by Bart Simpson. The inventor I admire is, not a rich man, or a famous man, or even a smart man. He's my father, Homer Simpson, creator of... the \"Flaming Homer\"!",
+    "directions": [
+      "DOES FANFARE"
+    ],
+    "raw_quote": " \"The Inventor I Admire\", by Bart Simpson. The inventor I admire is, not a rich man, or a famous man, or even a smart man. He's my father, Homer Simpson, creator of... (DOES FANFARE)the \"Flaming Homer\"!"
+  },
+  {
+    "timecode": "10:35",
+    "speaker": "Nelson Muntz",
+    "quote": " The \"Flaming Homer\"? You mean the \"Flaming Moe\". And your dad didn't invent it, ya wuss. Moe the bartender did.",
+    "directions": [],
+    "raw_quote": " The \"Flaming Homer\"? You mean the \"Flaming Moe\". And your dad didn't invent it, ya wuss. Moe the bartender did."
+  },
+  {
+    "timecode": "10:42",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Yes, everyone knows that.",
+    "directions": [],
+    "raw_quote": " Yes, everyone knows that."
+  },
+  {
+    "timecode": "10:43",
+    "speaker": "Bart Simpson",
+    "quote": " It's not true! My father invented that drink, and if you'll allow me to demonstrate...",
+    "directions": [],
+    "raw_quote": " It's not true! My father invented that drink, and if you'll allow me to demonstrate..."
+  },
+  {
+    "timecode": "10:48",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Bart, are those liquor bottles?",
+    "directions": [
+      "GASPS, THEN STERN"
+    ],
+    "raw_quote": " (GASPS, THEN STERN) Bart, are those liquor bottles?"
+  },
+  {
+    "timecode": "10:50",
+    "speaker": "Bart Simpson",
+    "quote": " I brought enough for everybody.",
+    "directions": [],
+    "raw_quote": " I brought enough for everybody."
+  },
+  {
+    "timecode": "10:51",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Take those to the teacher's lounge. You can have what's left at the end of the day.",
+    "directions": [],
+    "raw_quote": " Take those to the teacher's lounge. You can have what's left at the end of the day."
+  },
+  {
+    "timecode": "11:02",
+    "speaker": "Bernard",
+    "quote": " Good evening, Krusty.",
+    "directions": [],
+    "raw_quote": " Good evening, Krusty."
+  },
+  {
+    "timecode": "11:03",
+    "speaker": "Krusty the Clown",
+    "quote": " Nice to see you, Bernard.",
+    "directions": [],
+    "raw_quote": " Nice to see you, Bernard."
+  },
+  {
+    "timecode": "11:05",
+    "speaker": "Bernard",
+    "quote": " Thank you very much. Right this way.",
+    "directions": [],
+    "raw_quote": " Thank you very much. Right this way."
+  },
+  {
+    "timecode": "11:06",
+    "speaker": "Photographer",
+    "quote": " Krusty, over here!",
+    "directions": [],
+    "raw_quote": " Krusty, over here!"
+  },
+  {
+    "timecode": "11:06",
+    "speaker": "Krusty the Clown",
+    "quote": " What the--?",
+    "directions": [],
+    "raw_quote": " What the--?"
+  },
+  {
+    "timecode": "11:17",
+    "speaker": "Mayor Joe Quimby",
+    "quote": " Henceforth, this date shall forever be known as \"Flaming Moe's Day.\"",
+    "directions": [],
+    "raw_quote": " Henceforth, this date shall forever be known as \"Flaming Moe's Day.\""
+  },
+  {
+    "timecode": "11:22",
+    "speaker": "Aide",
+    "quote": " Uh, sir, this is already Veteran's Day.",
+    "directions": [],
+    "raw_quote": " Uh, sir, this is already Veteran's Day."
+  },
+  {
+    "timecode": "11:24",
+    "speaker": "Mayor Joe Quimby",
+    "quote": " It can be two things!",
+    "directions": [
+      "IRATE"
+    ],
+    "raw_quote": " (IRATE) It can be two things!"
+  },
+  {
+    "timecode": "11:32",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - dining room - night"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - dining room - night)"
+  },
+  {
+    "timecode": "11:32",
+    "speaker": "Lisa Simpson",
+    "quote": " Mom, instead of milk for dinner, can I have a \"Virgin Moe?\"",
+    "directions": [],
+    "raw_quote": " Mom, instead of milk for dinner, can I have a \"Virgin Moe?\""
+  },
+  {
+    "timecode": "11:37",
+    "speaker": "Marge Simpson",
+    "quote": " Honey, what's wrong?",
+    "directions": [],
+    "raw_quote": " Honey, what's wrong?"
+  },
+  {
+    "timecode": "11:39",
+    "speaker": "Homer Simpson",
+    "quote": " I'll tell you what's wrong. That rotten Moe is getting rich off a recipe i gave him!",
+    "directions": [],
+    "raw_quote": " I'll tell you what's wrong. That rotten Moe is getting rich off a recipe i gave him!"
+  },
+  {
+    "timecode": "11:47",
+    "speaker": "Homer Simpson",
+    "quote": " Take that off this second!",
+    "directions": [
+      "FURIOUS"
+    ],
+    "raw_quote": " (FURIOUS) Take that off this second!"
+  },
+  {
+    "timecode": "11:49",
+    "speaker": "Bart Simpson",
+    "quote": " Okay.",
+    "directions": [],
+    "raw_quote": " Okay."
+  },
+  {
+    "timecode": "11:50",
+    "speaker": "Marge Simpson",
+    "quote": " Homie, why don't you just go down to Moe's and talk to him? I bet he'd be willing to share some of his success with you.",
+    "directions": [],
+    "raw_quote": " Homie, why don't you just go down to Moe's and talk to him? I bet he'd be willing to share some of his success with you."
+  },
+  {
+    "timecode": "11:57",
+    "speaker": "Homer Simpson",
+    "quote": " Nah... Marge, I'm too upset to eat -- I think I'll go to Moe's. .",
+    "directions": [
+      "BEAT",
+      "REALIZING; ANNOYED GRUNT"
+    ],
+    "raw_quote": " Nah... (BEAT) Marge, I'm too upset to eat -- I think I'll go to Moe's. (REALIZING; ANNOYED GRUNT)."
+  },
+  {
+    "timecode": "12:08",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Flaming Moe's: ext. \"flaming moe's\" - same time"
+    ],
+    "raw_quote": "(Flaming Moe's: ext. \"flaming moe's\" - same time)"
+  },
+  {
+    "timecode": "12:08",
+    "speaker": "Bernard",
+    "quote": " Can I help you sir?",
+    "directions": [
+      "SNOOTY"
+    ],
+    "raw_quote": " (SNOOTY) Can I help you sir?"
+  },
+  {
+    "timecode": "12:09",
+    "speaker": "Homer Simpson",
+    "quote": " I need to talk to Moe.",
+    "directions": [],
+    "raw_quote": " I need to talk to Moe."
+  },
+  {
+    "timecode": "12:11",
+    "speaker": "Bernard",
+    "quote": " Your name's not on the list.",
+    "directions": [],
+    "raw_quote": " Your name's not on the list."
+  },
+  {
+    "timecode": "12:12",
+    "speaker": "Homer Simpson",
+    "quote": " I didn't even tell you my name.",
+    "directions": [],
+    "raw_quote": " I didn't even tell you my name."
+  },
+  {
+    "timecode": "12:13",
+    "speaker": "Bernard",
+    "quote": " Okay, what's your name?",
+    "directions": [],
+    "raw_quote": " Okay, what's your name?"
+  },
+  {
+    "timecode": "12:13",
+    "speaker": "Homer Simpson",
+    "quote": " Homer Simpson.",
+    "directions": [],
+    "raw_quote": " Homer Simpson."
+  },
+  {
+    "timecode": "12:15",
+    "speaker": "Bernard",
+    "quote": " Not on the list.",
+    "directions": [],
+    "raw_quote": " Not on the list."
+  },
+  {
+    "timecode": "12:15",
+    "speaker": "Homer Simpson",
+    "quote": " But--",
+    "directions": [],
+    "raw_quote": " But--"
+  },
+  {
+    "timecode": "12:16",
+    "speaker": "Bernard",
+    "quote": " We're all filled up. Fire laws.",
+    "directions": [],
+    "raw_quote": " We're all filled up. Fire laws."
+  },
+  {
+    "timecode": "12:19",
+    "speaker": "Moe Szyslak",
+    "quote": " Ladies and gentlemen, some new buddies of mine stopped by tonight. Maybe we can get 'em to come up here. How about a warm \"Flaming Moe's\" welcome for Aerosmith!",
+    "directions": [],
+    "raw_quote": " Ladies and gentlemen, some new buddies of mine stopped by tonight. Maybe we can get 'em to come up here. How about a warm \"Flaming Moe's\" welcome for Aerosmith!"
+  },
+  {
+    "timecode": "12:31",
+    "speaker": "Aerosmith",
+    "quote": " I don't think so, Moe. / Yeah, we're just hangin' out.",
+    "directions": [],
+    "raw_quote": " I don't think so, Moe. / Yeah, we're just hangin' out."
+  },
+  {
+    "timecode": "12:33",
+    "speaker": "Moe Szyslak",
+    "quote": " C'mon, guys. Free pickled eggs.",
+    "directions": [],
+    "raw_quote": " C'mon, guys. Free pickled eggs."
+  },
+  {
+    "timecode": "12:39",
+    "speaker": "Steven Tyler",
+    "quote": " Hello, St. Lewis!",
+    "directions": [],
+    "raw_quote": " Hello, St. Lewis!"
+  },
+  {
+    "timecode": "12:41",
+    "speaker": "Joe Perry",
+    "quote": " Uh, that's Springfield, Steven.",
+    "directions": [],
+    "raw_quote": " Uh, that's Springfield, Steven."
+  },
+  {
+    "timecode": "12:43",
+    "speaker": "Steven Tyler",
+    "quote": " Uh, yeah, right. Are you ready to rock?!",
+    "directions": [
+      "TO CROWD"
+    ],
+    "raw_quote": " Uh, yeah, right. (TO CROWD) Are you ready to rock?!"
+  },
+  {
+    "timecode": "12:46",
+    "speaker": "Crowd",
+    "quote": " Yeah!!!",
+    "directions": [],
+    "raw_quote": " Yeah!!!"
+  },
+  {
+    "timecode": "12:47",
+    "speaker": "Steven Tyler",
+    "quote": " I said, are you ready to rock?!",
+    "directions": [],
+    "raw_quote": " I said, are you ready to rock?!"
+  },
+  {
+    "timecode": "12:50",
+    "speaker": "Crowd",
+    "quote": " Yeah!!!",
+    "directions": [],
+    "raw_quote": " Yeah!!!"
+  },
+  {
+    "timecode": "12:51",
+    "speaker": "Steven Tyler",
+    "quote": " Hit it!!",
+    "directions": [],
+    "raw_quote": " Hit it!!"
+  },
+  {
+    "timecode": "12:56",
+    "speaker": "Steven Tyler",
+    "quote": " WELL THERE'S A BACK SEAT LOVER, THAT'S ALWAYS UNDER COVER,",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) WELL THERE'S A BACK SEAT LOVER, THAT'S ALWAYS UNDER COVER,"
+  },
+  {
+    "timecode": "12:58",
+    "speaker": "Steven Tyler",
+    "quote": " AND I TALK TO MY DAD, HE SAY/ HE SAID, YOU AIN'T SEEN NOTHIN' TILL YOU'RE DOWN ON A MUFFIN AND YOU'RE SURE TO BE CHANGIN' YOUR WAYS/ I MET A CHEERLEADER WAS A REAL YOUNG BLEEDER OH THE TIMES I COULD REMINISCE/ TO THE BEST THINGS OF LOVIN' WITH HER SISTER AND HER COUSIN AND THEY STARTED WITH A LITTLE KISS/",
+    "directions": [],
+    "raw_quote": " AND I TALK TO MY DAD, HE SAY/ HE SAID, YOU AIN'T SEEN NOTHIN' TILL YOU'RE DOWN ON A MUFFIN AND YOU'RE SURE TO BE CHANGIN' YOUR WAYS/ I MET A CHEERLEADER WAS A REAL YOUNG BLEEDER OH THE TIMES I COULD REMINISCE/ TO THE BEST THINGS OF LOVIN' WITH HER SISTER AND HER COUSIN AND THEY STARTED WITH A LITTLE KISS/"
+  },
+  {
+    "timecode": "13:15",
+    "speaker": "Homer Simpson",
+    "quote": " Barney?",
+    "directions": [],
+    "raw_quote": " Barney?"
+  },
+  {
+    "timecode": "13:16",
+    "speaker": "Barney Gumble",
+    "quote": " Hey, Homer. I want you to meet my friends, Armando and Raffi.",
+    "directions": [],
+    "raw_quote": " Hey, Homer. I want you to meet my friends, Armando and Raffi."
+  },
+  {
+    "timecode": "13:27",
+    "speaker": "Brad Whitford",
+    "quote": " Hey, Moe, get up here!",
+    "directions": [],
+    "raw_quote": " Hey, Moe, get up here!"
+  },
+  {
+    "timecode": "13:33",
+    "speaker": "Moe Szyslak",
+    "quote": " Walk this way.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) Walk this way."
+  },
+  {
+    "timecode": "13:37",
+    "speaker": "Steven Tyler",
+    "quote": " Walk this way.",
+    "directions": [],
+    "raw_quote": " Walk this way."
+  },
+  {
+    "timecode": "13:39",
+    "speaker": "Moe Szyslak",
+    "quote": " Walk this way.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) Walk this way."
+  },
+  {
+    "timecode": "13:43",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Hiya, Scrumptious. Do you want to ignite my drink?",
+    "directions": [],
+    "raw_quote": " Hiya, Scrumptious. Do you want to ignite my drink?"
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "Homer Simpson",
+    "quote": " You're my kid's teacher!",
+    "directions": [],
+    "raw_quote": " You're my kid's teacher!"
+  },
+  {
+    "timecode": "13:48",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Single parent, are we?",
+    "directions": [],
+    "raw_quote": " Single parent, are we?"
+  },
+  {
+    "timecode": "13:49",
+    "speaker": "Homer Simpson",
+    "quote": " No!",
+    "directions": [],
+    "raw_quote": " No!"
+  },
+  {
+    "timecode": "13:50",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Well, let's pretend you are.",
+    "directions": [],
+    "raw_quote": " Well, let's pretend you are."
+  },
+  {
+    "timecode": "13:53",
+    "speaker": "Homer Simpson",
+    "quote": " Get away from me.",
+    "directions": [],
+    "raw_quote": " Get away from me."
+  },
+  {
+    "timecode": "13:54",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, Moe?",
+    "directions": [],
+    "raw_quote": " Hey, Moe?"
+  },
+  {
+    "timecode": "13:55",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh, hiya, Homer. How 'bout a beer?",
+    "directions": [],
+    "raw_quote": " Oh, hiya, Homer. How 'bout a beer?"
+  },
+  {
+    "timecode": "13:57",
+    "speaker": "Homer Simpson",
+    "quote": " I'd rather have a \"Flaming Homer\".",
+    "directions": [],
+    "raw_quote": " I'd rather have a \"Flaming Homer\"."
+  },
+  {
+    "timecode": "13:59",
+    "speaker": "Moe Szyslak",
+    "quote": " A what? Oh, I get it.",
+    "directions": [
+      "WEAK LAUGH"
+    ],
+    "raw_quote": " A what? (WEAK LAUGH) Oh, I get it."
+  },
+  {
+    "timecode": "14:02",
+    "speaker": "Homer Simpson",
+    "quote": " How could you do this to me, Moe? This bar was going under and it was the drink I invented that saved it.",
+    "directions": [
+      "UPSET"
+    ],
+    "raw_quote": " (UPSET) How could you do this to me, Moe? This bar was going under and it was the drink I invented that saved it."
+  },
+  {
+    "timecode": "14:08",
+    "speaker": "Homer Simpson",
+    "quote": " If there was any justice, my face would be on a bunch of crappy merchandise.",
+    "directions": [],
+    "raw_quote": " If there was any justice, my face would be on a bunch of crappy merchandise."
+  },
+  {
+    "timecode": "14:12",
+    "speaker": "Collette",
+    "quote": " Morris, is what this man's saying true?",
+    "directions": [],
+    "raw_quote": " Morris, is what this man's saying true?"
+  },
+  {
+    "timecode": "14:14",
+    "speaker": "Moe Szyslak",
+    "quote": " Well, it's hard to say. He may have come up with the recipe, but I came up with the idea of charging six ninety-five for it.",
+    "directions": [],
+    "raw_quote": " Well, it's hard to say. He may have come up with the recipe, but I came up with the idea of charging six ninety-five for it."
+  },
+  {
+    "timecode": "14:22",
+    "speaker": "Moe Szyslak",
+    "quote": " Whoop, telephone.",
+    "directions": [],
+    "raw_quote": " Whoop, telephone."
+  },
+  {
+    "timecode": "14:23",
+    "speaker": "Moe Szyslak",
+    "quote": " Flaming Moe's.",
+    "directions": [
+      "INTO PHONE"
+    ],
+    "raw_quote": " (INTO PHONE) Flaming Moe's."
+  },
+  {
+    "timecode": "14:25",
+    "speaker": "Bart Simpson",
+    "quote": " Uh, yes, I'm looking for a friend of mine. Last name Jass, first name Hugh.",
+    "directions": [],
+    "raw_quote": " Uh, yes, I'm looking for a friend of mine. Last name Jass, first name Hugh."
+  },
+  {
+    "timecode": "14:29",
+    "speaker": "Moe Szyslak",
+    "quote": " Hold on. I'll check. Hugh Jass, Oh, somebody check the men's room for a Hugh Jass.",
+    "directions": [
+      "INTO PHONE",
+      "TO CROWD"
+    ],
+    "raw_quote": " (INTO PHONE) Hold on. I'll check. (TO CROWD) Hugh Jass, Oh, somebody check the men's room for a Hugh Jass."
+  },
+  {
+    "timecode": "14:35",
+    "speaker": "HUGH",
+    "quote": " Oh, I'm Hugh Jass.",
+    "directions": [],
+    "raw_quote": " Oh, I'm Hugh Jass."
+  },
+  {
+    "timecode": "14:36",
+    "speaker": "Moe Szyslak",
+    "quote": " Telephone.",
+    "directions": [],
+    "raw_quote": " Telephone."
+  },
+  {
+    "timecode": "14:37",
+    "speaker": "HUGH",
+    "quote": " Hello, this is Hugh Jass.",
+    "directions": [],
+    "raw_quote": " Hello, this is Hugh Jass."
+  },
+  {
+    "timecode": "14:38",
+    "speaker": "Bart Simpson",
+    "quote": " Uh... hi.",
+    "directions": [
+      "ON PHONE"
+    ],
+    "raw_quote": " (ON PHONE) Uh... hi."
+  },
+  {
+    "timecode": "14:39",
+    "speaker": "HUGH",
+    "quote": " Who's this?",
+    "directions": [],
+    "raw_quote": " Who's this?"
+  },
+  {
+    "timecode": "14:40",
+    "speaker": "Bart Simpson",
+    "quote": " Bart Simpson.",
+    "directions": [],
+    "raw_quote": " Bart Simpson."
+  },
+  {
+    "timecode": "14:41",
+    "speaker": "HUGH",
+    "quote": " What can I do for you, Bart?",
+    "directions": [],
+    "raw_quote": " What can I do for you, Bart?"
+  },
+  {
+    "timecode": "14:43",
+    "speaker": "Bart Simpson",
+    "quote": " Uh, look. I'll level with you, mister. This is a crank call that sorta backfired and I'd like to bail out right now.",
+    "directions": [
+      "ON PHONE"
+    ],
+    "raw_quote": " (ON PHONE) Uh, look. I'll level with you, mister. This is a crank call that sorta backfired and I'd like to bail out right now."
+  },
+  {
+    "timecode": "14:48",
+    "speaker": "HUGH",
+    "quote": " All right. Better luck next time. What a nice young man.",
+    "directions": [
+      "HANGS UP"
+    ],
+    "raw_quote": " All right. Better luck next time. (HANGS UP) What a nice young man."
+  },
+  {
+    "timecode": "14:51",
+    "speaker": "Moe Szyslak",
+    "quote": " Homer, I'm sorry you're mad at me, but this isn't personal. This is business.",
+    "directions": [],
+    "raw_quote": " Homer, I'm sorry you're mad at me, but this isn't personal. This is business."
+  },
+  {
+    "timecode": "14:55",
+    "speaker": "Homer Simpson",
+    "quote": " Business, eh? Well let me tell you something. You just lost yourself a customer!",
+    "directions": [
+      "ANGRY"
+    ],
+    "raw_quote": " (ANGRY) Business, eh? Well let me tell you something. You just lost yourself a customer!"
+  },
+  {
+    "timecode": "14:59",
+    "speaker": "Moe Szyslak",
+    "quote": " What? I'm sorry. Homer, I couldn't hear you.",
+    "directions": [],
+    "raw_quote": " What? I'm sorry. Homer, I couldn't hear you."
+  },
+  {
+    "timecode": "15:01",
+    "speaker": "Homer Simpson",
+    "quote": " I said, you just lost yourself a customer!",
+    "directions": [],
+    "raw_quote": " I said, you just lost yourself a customer!"
+  },
+  {
+    "timecode": "15:04",
+    "speaker": "Moe Szyslak",
+    "quote": " What?",
+    "directions": [],
+    "raw_quote": " What?"
+  },
+  {
+    "timecode": "15:04",
+    "speaker": "Homer Simpson",
+    "quote": " You just lost yourself a customer.",
+    "directions": [],
+    "raw_quote": " You just lost yourself a customer."
+  },
+  {
+    "timecode": "15:06",
+    "speaker": "Moe Szyslak",
+    "quote": " Homer, you're gonna have to speak up!",
+    "directions": [],
+    "raw_quote": " Homer, you're gonna have to speak up!"
+  },
+  {
+    "timecode": "15:08",
+    "speaker": "Homer Simpson",
+    "quote": " You just lost yourself a customer, Moe!",
+    "directions": [],
+    "raw_quote": " You just lost yourself a customer, Moe!"
+  },
+  {
+    "timecode": "15:10",
+    "speaker": "Moe Szyslak",
+    "quote": " I lost myself to what?",
+    "directions": [],
+    "raw_quote": " I lost myself to what?"
+  },
+  {
+    "timecode": "15:13",
+    "speaker": "Homer Simpson",
+    "quote": " You just lost yourself a customer.",
+    "directions": [],
+    "raw_quote": " You just lost yourself a customer."
+  },
+  {
+    "timecode": "15:15",
+    "speaker": "Moe Szyslak",
+    "quote": " Homer, I'll talk to you tomorrow.",
+    "directions": [],
+    "raw_quote": " Homer, I'll talk to you tomorrow."
+  },
+  {
+    "timecode": "15:16",
+    "speaker": "Homer Simpson",
+    "quote": " You just lost yourself a customer.",
+    "directions": [
+      "SHOUTING"
+    ],
+    "raw_quote": " (SHOUTING) You just lost yourself a customer."
+  },
+  {
+    "timecode": "15:19",
+    "speaker": "Moe Szyslak",
+    "quote": " Yeah, you can use it!",
+    "directions": [],
+    "raw_quote": " Yeah, you can use it!"
+  },
+  {
+    "timecode": "15:31",
+    "speaker": "Singers",
+    "quote": " WHEN THE WEIGHT OF THE WORLD HAS GOT YOU DOWN/ AND YOU WANT TO END YOUR LIFE/ BILLS TO PAY, A DEAD-END JOB/ and PROBLEMS WITH THE WIFE/ BUT DON'T THROW IN THE TOWEL/ 'CAUSE THERE'S A PLACE RIGHT DOWN THE BLOCK/ WHERE YOU CAN DRINK YOUR MISERY AWAY/ AT FLAM-ING MOE'S/ LET'S ALL GO TO FLAMING MOE'S/ LET'S ALL GO TO FLAMING MOE'S/ WHEN LIQUOR IN A MUG/ CAN WARM YOU LIKE A HUG/ AND HAPPINESS IS JUST A FLAMING MOE AWAY/ HAPPINESS IS JUST A FLAMING MOE AWAY.",
+    "directions": [],
+    "raw_quote": " WHEN THE WEIGHT OF THE WORLD HAS GOT YOU DOWN/ AND YOU WANT TO END YOUR LIFE/ BILLS TO PAY, A DEAD-END JOB/ and PROBLEMS WITH THE WIFE/ BUT DON'T THROW IN THE TOWEL/ 'CAUSE THERE'S A PLACE RIGHT DOWN THE BLOCK/ WHERE YOU CAN DRINK YOUR MISERY AWAY/ AT FLAM-ING MOE'S/ LET'S ALL GO TO FLAMING MOE'S/ LET'S ALL GO TO FLAMING MOE'S/ WHEN LIQUOR IN A MUG/ CAN WARM YOU LIKE A HUG/ AND HAPPINESS IS JUST A FLAMING MOE AWAY/ HAPPINESS IS JUST A FLAMING MOE AWAY."
+  },
+  {
+    "timecode": "16:20",
+    "speaker": "Everyone",
+    "quote": " Barney!",
+    "directions": [],
+    "raw_quote": " Barney!"
+  },
+  {
+    "timecode": "16:21",
+    "speaker": "Bartender",
+    "quote": " How's the world treatin' you, Mr. Gumble?",
+    "directions": [],
+    "raw_quote": " How's the world treatin' you, Mr. Gumble?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Barney Gumble",
+    "quote": " ",
+    "directions": [
+      "BURPS"
+    ],
+    "raw_quote": " (BURPS)"
+  },
+  {
+    "timecode": "16:26",
+    "speaker": "Moe Szyslak",
+    "quote": " Hey, there. What can I do for ya, Harv?",
+    "directions": [],
+    "raw_quote": " Hey, there. What can I do for ya, Harv?"
+  },
+  {
+    "timecode": "16:28",
+    "speaker": "HARV",
+    "quote": " Well sir, Tipsy McStagger would like to buy your drink.",
+    "directions": [],
+    "raw_quote": " Well sir, Tipsy McStagger would like to buy your drink."
+  },
+  {
+    "timecode": "16:32",
+    "speaker": "Moe Szyslak",
+    "quote": " He's here?!",
+    "directions": [
+      "GASPS"
+    ],
+    "raw_quote": " (GASPS) He's here?!"
+  },
+  {
+    "timecode": "16:33",
+    "speaker": "HARV",
+    "quote": " Oh, no, no. I mean my company is willing to do what it takes to get that recipe. We're prepared to offer you one million dollars.",
+    "directions": [],
+    "raw_quote": " Oh, no, no. I mean my company is willing to do what it takes to get that recipe. We're prepared to offer you one million dollars."
+  },
+  {
+    "timecode": "16:42",
+    "speaker": "Moe Szyslak",
+    "quote": " Sorry, Harv, but like I told you before, it ain't for sale.",
+    "directions": [
+      "COCKY"
+    ],
+    "raw_quote": " (COCKY) Sorry, Harv, but like I told you before, it ain't for sale."
+  },
+  {
+    "timecode": "16:46",
+    "speaker": "HARV",
+    "quote": " Don't be stupid. We have a laboratory for this kind of thing. We've got it all figured out except for one ingredient.",
+    "directions": [
+      "HISSING"
+    ],
+    "raw_quote": " (HISSING) Don't be stupid. We have a laboratory for this kind of thing. We've got it all figured out except for one ingredient."
+  },
+  {
+    "timecode": "16:52",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Tipsy McStagger's Research Lab: Int. tipsy mcstagger's laboratory - day"
+    ],
+    "raw_quote": "(Tipsy McStagger's Research Lab: Int. tipsy mcstagger's laboratory - day)"
+  },
+  {
+    "timecode": "16:52",
+    "speaker": "Professor Jonathan Frink",
+    "quote": " Brace yourselves gentlemen. According to the gas chromatograph... the secret ingredient is... love? Who's been screwing with this thing?",
+    "directions": [
+      "READING GRAPH",
+      "DRAMATICALLY"
+    ],
+    "raw_quote": " (READING GRAPH) Brace yourselves gentlemen. According to the gas chromatograph... (DRAMATICALLY) the secret ingredient is... love? Who's been screwing with this thing?"
+  },
+  {
+    "timecode": "17:02",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: Int. Moe's tavern"
+    ],
+    "raw_quote": "(Moe's Tavern: Int. Moe's tavern)"
+  },
+  {
+    "timecode": "17:02",
+    "speaker": "Moe Szyslak",
+    "quote": " I'm sorry, but the secret ingredient dies with me.",
+    "directions": [
+      "TO HARV"
+    ],
+    "raw_quote": " (TO HARV) I'm sorry, but the secret ingredient dies with me."
+  },
+  {
+    "timecode": "17:05",
+    "speaker": "Delivery Man",
+    "quote": " Thirty cases of cough syrup. Sign here.",
+    "directions": [
+      "TO MOE"
+    ],
+    "raw_quote": " (TO MOE) Thirty cases of cough syrup. Sign here."
+  },
+  {
+    "timecode": "17:08",
+    "speaker": "Moe Szyslak",
+    "quote": " I got hooked on this stuff in the service.",
+    "directions": [
+      "COVERING NERVOUS LAUGHING"
+    ],
+    "raw_quote": " (COVERING NERVOUS LAUGHING) I got hooked on this stuff in the service."
+  },
+  {
+    "timecode": "17:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SPRINGFIELD BUS TERMINAL: ext. springfield bus terminal"
+    ],
+    "raw_quote": "(SPRINGFIELD BUS TERMINAL: ext. springfield bus terminal)"
+  },
+  {
+    "timecode": "17:13",
+    "speaker": "Homer Simpson",
+    "quote": " Ah, my new watering hole.",
+    "directions": [],
+    "raw_quote": " Ah, my new watering hole."
+  },
+  {
+    "timecode": "17:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "THE ARISTOCRAT: int. the Aristocrat"
+    ],
+    "raw_quote": "(THE ARISTOCRAT: int. the Aristocrat)"
+  },
+  {
+    "timecode": "17:18",
+    "speaker": "One-eyed Bartender",
+    "quote": " Yeah, what do you want?!",
+    "directions": [
+      "GROWLING"
+    ],
+    "raw_quote": " (GROWLING) Yeah, what do you want?!"
+  },
+  {
+    "timecode": "17:20",
+    "speaker": "Homer Simpson",
+    "quote": " A beer?",
+    "directions": [
+      "SCARED"
+    ],
+    "raw_quote": " (SCARED) A beer?"
+  },
+  {
+    "timecode": "17:21",
+    "speaker": "One-eyed Bartender",
+    "quote": " Okay, then.",
+    "directions": [],
+    "raw_quote": " Okay, then."
+  },
+  {
+    "timecode": "17:25",
+    "speaker": "Homer Simpson",
+    "quote": " Can I have a clean glass?",
+    "directions": [],
+    "raw_quote": " Can I have a clean glass?"
+  },
+  {
+    "timecode": "",
+    "speaker": "One-eyed Bartender",
+    "quote": " ",
+    "directions": [
+      "growls"
+    ],
+    "raw_quote": " (growls)"
+  },
+  {
+    "timecode": "17:28",
+    "speaker": "One-eyed Bartender",
+    "quote": " Here you go, your majesty.",
+    "directions": [
+      "SNEERING"
+    ],
+    "raw_quote": " (SNEERING) Here you go, your majesty."
+  },
+  {
+    "timecode": "17:31",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Living Room: int. simpson living room - later"
+    ],
+    "raw_quote": "(Simpson Living Room: int. simpson living room - later)"
+  },
+  {
+    "timecode": "17:31",
+    "speaker": "Kent Brockman",
+    "quote": " Next up, a toast to the wizard of Walnut Street.",
+    "directions": [],
+    "raw_quote": " Next up, a toast to the wizard of Walnut Street."
+  },
+  {
+    "timecode": "17:35",
+    "speaker": "Moe Szyslak",
+    "quote": " The Flaming Moe dates back to my forefathers who were bartenders to the Czar.",
+    "directions": [],
+    "raw_quote": " The Flaming Moe dates back to my forefathers who were bartenders to the Czar."
+  },
+  {
+    "timecode": "17:41",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "The Law Office of Lionel Hutz: int. lionel hutz's office"
+    ],
+    "raw_quote": "(The Law Office of Lionel Hutz: int. lionel hutz's office)"
+  },
+  {
+    "timecode": "17:41",
+    "speaker": "Marge Simpson",
+    "quote": " So, Mr. Hutz, does my husband have a case?",
+    "directions": [],
+    "raw_quote": " So, Mr. Hutz, does my husband have a case?"
+  },
+  {
+    "timecode": "17:43",
+    "speaker": "Lionel Hutz",
+    "quote": " I'm sorry, Mrs. Simpson, but you can't copyright a drink.",
+    "directions": [],
+    "raw_quote": " I'm sorry, Mrs. Simpson, but you can't copyright a drink."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "MOANS"
+    ],
+    "raw_quote": " (MOANS)"
+  },
+  {
+    "timecode": "17:48",
+    "speaker": "Lionel Hutz",
+    "quote": " Well, this all goes back to the Frank Wallbanger case of '78. How about that? I looked something up! These books behind me don't just make the office look good, they're filled with useful legal tidbits just like that!",
+    "directions": [
+      "SHUTS A LEGAL BOOK"
+    ],
+    "raw_quote": " Well, this all goes back to the Frank Wallbanger case of '78. (SHUTS A LEGAL BOOK) How about that? I looked something up! These books behind me don't just make the office look good, they're filled with useful legal tidbits just like that!"
+  },
+  {
+    "timecode": "18:00",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Master Bedroom: int. marge & homer's bedroom - later"
+    ],
+    "raw_quote": "(Simpson Master Bedroom: int. marge & homer's bedroom - later)"
+  },
+  {
+    "timecode": "18:00",
+    "speaker": "Homer Simpson",
+    "quote": " Stupid Moe... non-inventing... recipe stealing... pug-nosed...",
+    "directions": [
+      "MUTTERING"
+    ],
+    "raw_quote": " (MUTTERING) Stupid Moe... non-inventing... recipe stealing... pug-nosed..."
+  },
+  {
+    "timecode": "18:03",
+    "speaker": "Marge Simpson",
+    "quote": " Well Homer, maybe you can take some consolation in the fact that something you created is making so many people happy.",
+    "directions": [],
+    "raw_quote": " Well Homer, maybe you can take some consolation in the fact that something you created is making so many people happy."
+  },
+  {
+    "timecode": "18:09",
+    "speaker": "Homer Simpson",
+    "quote": " Oooh! Look at me, I'm making people happy. I'm the Magical Man from Happyland in a gum drop house on Lollipop Lane!",
+    "directions": [],
+    "raw_quote": " Oooh! Look at me, I'm making people happy. I'm the Magical Man from Happyland in a gum drop house on Lollipop Lane!"
+  },
+  {
+    "timecode": "18:21",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, by the way, I was being sarcastic.",
+    "directions": [],
+    "raw_quote": " Oh, by the way, I was being sarcastic."
+  },
+  {
+    "timecode": "18:24",
+    "speaker": "Marge Simpson",
+    "quote": " Well, duh.",
+    "directions": [],
+    "raw_quote": " Well, duh."
+  },
+  {
+    "timecode": "18:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Bedroom: int. moe's bedroom"
+    ],
+    "raw_quote": "(Moe's Bedroom: int. moe's bedroom)"
+  },
+  {
+    "timecode": "18:25",
+    "speaker": "Moe Szyslak",
+    "quote": " Now that's what I call a \"Happy Hour\".",
+    "directions": [],
+    "raw_quote": " Now that's what I call a \"Happy Hour\"."
+  },
+  {
+    "timecode": "18:30",
+    "speaker": "Collette",
+    "quote": " Morris something troubles me.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) Morris something troubles me."
+  },
+  {
+    "timecode": "18:32",
+    "speaker": "Moe Szyslak",
+    "quote": " Don't worry baby, my mother won't be home for another twenty minutes.",
+    "directions": [],
+    "raw_quote": " Don't worry baby, my mother won't be home for another twenty minutes."
+  },
+  {
+    "timecode": "18:35",
+    "speaker": "Collette",
+    "quote": " No, I was just thinking about Homer Simpson.",
+    "directions": [],
+    "raw_quote": " No, I was just thinking about Homer Simpson."
+  },
+  {
+    "timecode": "18:39",
+    "speaker": "Moe Szyslak",
+    "quote": " That's okay, I was just thinking about Sybil Danning.",
+    "directions": [],
+    "raw_quote": " That's okay, I was just thinking about Sybil Danning."
+  },
+  {
+    "timecode": "18:41",
+    "speaker": "Collette",
+    "quote": " I meant I think you should sell your drink and give half the money to Homer.",
+    "directions": [],
+    "raw_quote": " I meant I think you should sell your drink and give half the money to Homer."
+  },
+  {
+    "timecode": "18:46",
+    "speaker": "Moe Szyslak",
+    "quote": " But honey --",
+    "directions": [],
+    "raw_quote": " But honey --"
+  },
+  {
+    "timecode": "18:47",
+    "speaker": "Collette",
+    "quote": " He's your friend, Morris. And you took advantage of him.",
+    "directions": [],
+    "raw_quote": " He's your friend, Morris. And you took advantage of him."
+  },
+  {
+    "timecode": "18:52",
+    "speaker": "Moe Szyslak",
+    "quote": " Alright, alright. I'll split the million with Homer. Jeepers, Mary and Joseph. I sleep with a chick once, it costs me a half a million bananas.",
+    "directions": [],
+    "raw_quote": " Alright, alright. I'll split the million with Homer. Jeepers, Mary and Joseph. I sleep with a chick once, it costs me a half a million bananas."
+  },
+  {
+    "timecode": "19:00",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Kitchen: int. simpson kitchen - next day"
+    ],
+    "raw_quote": "(Simpson Kitchen: int. simpson kitchen - next day)"
+  },
+  {
+    "timecode": "19:00",
+    "speaker": "Homer Simpson",
+    "quote": " Moe... Moe... Moe...",
+    "directions": [
+      "UNDER HIS BREATH"
+    ],
+    "raw_quote": " (UNDER HIS BREATH) Moe... Moe... Moe..."
+  },
+  {
+    "timecode": "19:03",
+    "speaker": "Marge Simpson",
+    "quote": " Bart, are you going to moe the lawn today?",
+    "directions": [],
+    "raw_quote": " Bart, are you going to moe the lawn today?"
+  },
+  {
+    "timecode": "19:06",
+    "speaker": "Bart Simpson",
+    "quote": " Okay, but you promised me moe money.",
+    "directions": [],
+    "raw_quote": " Okay, but you promised me moe money."
+  },
+  {
+    "timecode": "19:08",
+    "speaker": "Marge Simpson",
+    "quote": " I moe, I moe.",
+    "directions": [],
+    "raw_quote": " I moe, I moe."
+  },
+  {
+    "timecode": "19:10",
+    "speaker": "Homer Simpson",
+    "quote": " Moe... Moe... Moe.",
+    "directions": [],
+    "raw_quote": " Moe... Moe... Moe."
+  },
+  {
+    "timecode": "19:12",
+    "speaker": "Lisa Simpson",
+    "quote": " When Bart's done, can we moe to the moevies? There's a moetinee.",
+    "directions": [],
+    "raw_quote": " When Bart's done, can we moe to the moevies? There's a moetinee."
+  },
+  {
+    "timecode": "19:16",
+    "speaker": "Marge Simpson",
+    "quote": " Of course. All work and moe play makes Moe a moe moe.",
+    "directions": [],
+    "raw_quote": " Of course. All work and moe play makes Moe a moe moe."
+  },
+  {
+    "timecode": "19:19",
+    "speaker": "Homer Simpson",
+    "quote": " Moe, Moe, Moe, Moe, Moe, Moe, Moe...",
+    "directions": [
+      "CHANTING"
+    ],
+    "raw_quote": " (CHANTING) Moe, Moe, Moe, Moe, Moe, Moe, Moe..."
+  },
+  {
+    "timecode": "19:41",
+    "speaker": "Flowers",
+    "quote": " Hey, Homer. Whatsamatter?",
+    "directions": [
+      "SLIGHTLY HIGHER MOE VOICE"
+    ],
+    "raw_quote": " (SLIGHTLY HIGHER MOE VOICE) Hey, Homer. Whatsamatter?"
+  },
+  {
+    "timecode": "19:58",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Flaming Moe's: int. \"flaming moe's\""
+    ],
+    "raw_quote": "(Flaming Moe's: int. \"flaming moe's\")"
+  },
+  {
+    "timecode": "19:58",
+    "speaker": "Tom Hamilton",
+    "quote": " Hey, where's Joey?",
+    "directions": [],
+    "raw_quote": " Hey, where's Joey?"
+  },
+  {
+    "timecode": "20:00",
+    "speaker": "Joey Kramer",
+    "quote": " Mrs. Krabappel, I really need my drum sticks.",
+    "directions": [],
+    "raw_quote": " Mrs. Krabappel, I really need my drum sticks."
+  },
+  {
+    "timecode": "20:04",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Come and get 'em.",
+    "directions": [],
+    "raw_quote": " Come and get 'em."
+  },
+  {
+    "timecode": "20:06",
+    "speaker": "HARV",
+    "quote": " You're gonna be a rich man, Moe. I gotta tell you, the way we usually work in these situations is to steal the recipe and run the inventor out of business. C'est la vie.",
+    "directions": [
+      "LAUGHING GOOD NATUREDLY",
+      "WISTFULLY"
+    ],
+    "raw_quote": " You're gonna be a rich man, Moe. (LAUGHING GOOD NATUREDLY) I gotta tell you, the way we usually work in these situations is to steal the recipe and run the inventor out of business. (WISTFULLY) C'est la vie."
+  },
+  {
+    "timecode": "20:19",
+    "speaker": "Moe Szyslak",
+    "quote": " What the...",
+    "directions": [],
+    "raw_quote": " What the..."
+  },
+  {
+    "timecode": "20:23",
+    "speaker": "Homer Simpson",
+    "quote": " Fools! You poor, pathetic, misguided creatures, choking down your Flaming Moe's. All the time wondering, \"How does he do it?\" Well, I'm going tell you. The secret ingredient is...",
+    "directions": [
+      "INSANE",
+      "evil laugh"
+    ],
+    "raw_quote": " (INSANE) Fools! You poor, pathetic, misguided creatures, choking down your Flaming Moe's. All the time wondering, \"How does he do it?\" Well, I'm going tell you. (evil laugh) The secret ingredient is..."
+  },
+  {
+    "timecode": "20:36",
+    "speaker": "Moe Szyslak",
+    "quote": " Homer, no!",
+    "directions": [],
+    "raw_quote": " Homer, no!"
+  },
+  {
+    "timecode": "20:37",
+    "speaker": "Homer Simpson",
+    "quote": " Cough syrup. Nothing but plain, ordinary, over the counter children's cough syrup!",
+    "directions": [],
+    "raw_quote": " Cough syrup. Nothing but plain, ordinary, over the counter children's cough syrup!"
+  },
+  {
+    "timecode": "20:46",
+    "speaker": "Moe Szyslak",
+    "quote": " Shoot.",
+    "directions": [],
+    "raw_quote": " Shoot."
+  },
+  {
+    "timecode": "20:47",
+    "speaker": "HARV",
+    "quote": " Thank you, Mr. Nutball. Gotta go, Moe. Tough luck.",
+    "directions": [
+      "TO HOMER"
+    ],
+    "raw_quote": " (TO HOMER) Thank you, Mr. Nutball. Gotta go, Moe. Tough luck."
+  },
+  {
+    "timecode": "20:54",
+    "speaker": "Barney Gumble",
+    "quote": " Holy cow. You just fell on Aerosmith!",
+    "directions": [
+      "TO HOMER"
+    ],
+    "raw_quote": " (TO HOMER) Holy cow. You just fell on Aerosmith!"
+  },
+  {
+    "timecode": "21:08",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Walnut Street: ext. walnut street - the next day"
+    ],
+    "raw_quote": "(Walnut Street: ext. walnut street - the next day)"
+  },
+  {
+    "timecode": "21:08",
+    "speaker": "Moe Szyslak",
+    "quote": " Hey, Homer, come in here.",
+    "directions": [
+      "LEANING OUT"
+    ],
+    "raw_quote": " (LEANING OUT) Hey, Homer, come in here."
+  },
+  {
+    "timecode": "21:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: int. moe's tavern"
+    ],
+    "raw_quote": "(Moe's Tavern: int. moe's tavern)"
+  },
+  {
+    "timecode": "21:11",
+    "speaker": "Homer Simpson",
+    "quote": " Hi, Moe. Where's that waitress of yours?",
+    "directions": [
+      "QUIETLY"
+    ],
+    "raw_quote": " (QUIETLY) Hi, Moe. Where's that waitress of yours?"
+  },
+  {
+    "timecode": "21:13",
+    "speaker": "Moe Szyslak",
+    "quote": " Ah, she left to pursue a movie career. Frankly I think she was better off here.",
+    "directions": [],
+    "raw_quote": " Ah, she left to pursue a movie career. Frankly I think she was better off here."
+  },
+  {
+    "timecode": "21:19",
+    "speaker": "Homer Simpson",
+    "quote": " Moe, sorry I lost you hundreds of thousands of dollars.",
+    "directions": [],
+    "raw_quote": " Moe, sorry I lost you hundreds of thousands of dollars."
+  },
+  {
+    "timecode": "21:23",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh, hey, hey. Maybe some things are too good to be kept a secret.",
+    "directions": [],
+    "raw_quote": " Oh, hey, hey. Maybe some things are too good to be kept a secret."
+  },
+  {
+    "timecode": "21:27",
+    "speaker": "Homer Simpson",
+    "quote": " I guess so.",
+    "directions": [],
+    "raw_quote": " I guess so."
+  },
+  {
+    "timecode": "21:28",
+    "speaker": "Moe Szyslak",
+    "quote": " Compliments of the house. One \"Flaming Homer\".",
+    "directions": [
+      "WARMLY"
+    ],
+    "raw_quote": " Compliments of the house. (WARMLY) One \"Flaming Homer\"."
+  },
+  {
+    "timecode": "21:32",
+    "speaker": "Homer Simpson",
+    "quote": " Ahh. Thanks, Moe. You're the greatest friend a guy could ever have.",
+    "directions": [],
+    "raw_quote": " Ahh. Thanks, Moe. You're the greatest friend a guy could ever have."
+  },
+  {
+    "timecode": "21:38",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, do you think Aerosmith will be in tonight?",
+    "directions": [],
+    "raw_quote": " Hey, do you think Aerosmith will be in tonight?"
+  },
+  {
+    "timecode": "21:41",
+    "speaker": "Moe Szyslak",
+    "quote": " I doubt it.",
+    "directions": [],
+    "raw_quote": " I doubt it."
+  }
+]

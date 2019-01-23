@@ -1,0 +1,2312 @@
+[
+  {
+    "timecode": "00:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "The Frying Dutchman: ext. frying dutchman restaurant - evening - establishing"
+    ],
+    "raw_quote": "(The Frying Dutchman: ext. frying dutchman restaurant - evening - establishing)"
+  },
+  {
+    "timecode": "00:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "The Frying Dutchman: Int. frying dutchman - continuous"
+    ],
+    "raw_quote": "(The Frying Dutchman: Int. frying dutchman - continuous)"
+  },
+  {
+    "timecode": "00:34",
+    "speaker": "Bart Simpson",
+    "quote": " When is our food gonna get here? I'm starved.",
+    "directions": [],
+    "raw_quote": " When is our food gonna get here? I'm starved."
+  },
+  {
+    "timecode": "00:37",
+    "speaker": "Homer Simpson",
+    "quote": " I'm so bored, I figured out where the wallpaper pattern repeats.",
+    "directions": [],
+    "raw_quote": " I'm so bored, I figured out where the wallpaper pattern repeats."
+  },
+  {
+    "timecode": "00:41",
+    "speaker": "Homer Simpson",
+    "quote": " See, it goes: ship's wheel, Popeye tattoo, Gilligan hat, fish with boobs... and back to ship's wheel.",
+    "directions": [],
+    "raw_quote": " See, it goes: ship's wheel, Popeye tattoo, Gilligan hat, fish with boobs... and back to ship's wheel."
+  },
+  {
+    "timecode": "00:47",
+    "speaker": "Lisa Simpson",
+    "quote": " What about this swordfish?",
+    "directions": [],
+    "raw_quote": " What about this swordfish?"
+  },
+  {
+    "timecode": "00:49",
+    "speaker": "Homer Simpson",
+    "quote": " My life's work ruined.",
+    "directions": [
+      "SAD MOAN"
+    ],
+    "raw_quote": " (SAD MOAN) My life's work ruined."
+  },
+  {
+    "timecode": "00:52",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " Arr... Sorry about the delay. The chef is having a bit of a problem with tonight's special.",
+    "directions": [],
+    "raw_quote": " Arr... Sorry about the delay. The chef is having a bit of a problem with tonight's special."
+  },
+  {
+    "timecode": "01:00",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " Meanwhile, I can send a busboy out to get you somethin' from a better restaurant.",
+    "directions": [],
+    "raw_quote": " Meanwhile, I can send a busboy out to get you somethin' from a better restaurant."
+  },
+  {
+    "timecode": "01:05",
+    "speaker": "Marge Simpson",
+    "quote": " Red Lobster?",
+    "directions": [],
+    "raw_quote": " Red Lobster?"
+  },
+  {
+    "timecode": "01:06",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " Not that good.",
+    "directions": [],
+    "raw_quote": " Not that good."
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "SAD MOAN"
+    ],
+    "raw_quote": " (SAD MOAN)"
+  },
+  {
+    "timecode": "01:08",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " Until then, perhaps an old sea yarn might pass the time.",
+    "directions": [
+      "BEAT"
+    ],
+    "raw_quote": " (BEAT) Until then, perhaps an old sea yarn might pass the time."
+  },
+  {
+    "timecode": "01:16",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " Too bad I don't know any.",
+    "directions": [],
+    "raw_quote": " Too bad I don't know any."
+  },
+  {
+    "timecode": "01:18",
+    "speaker": "Lisa Simpson",
+    "quote": " I know one, about the most important sea voyage in American history. The journey of the Mayflower.",
+    "directions": [],
+    "raw_quote": " I know one, about the most important sea voyage in American history. The journey of the Mayflower."
+  },
+  {
+    "timecode": "01:24",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " Ah yes, the ship that brought prostitutes to America.",
+    "directions": [],
+    "raw_quote": " Ah yes, the ship that brought prostitutes to America."
+  },
+  {
+    "timecode": "01:28",
+    "speaker": "Lisa Simpson",
+    "quote": " Not prostitutes, Protestants.",
+    "directions": [],
+    "raw_quote": " Not prostitutes, Protestants."
+  },
+  {
+    "timecode": "01:31",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " Now who's being naive?",
+    "directions": [],
+    "raw_quote": " Now who's being naive?"
+  },
+  {
+    "timecode": "01:33",
+    "speaker": "Lisa Simpson",
+    "quote": " The year was sixteen twenty...",
+    "directions": [],
+    "raw_quote": " The year was sixteen twenty..."
+  },
+  {
+    "timecode": "01:40",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "PLYMOUTH, ENGLAND: Ext. plymouth, england - DOCKS - establishing"
+    ],
+    "raw_quote": "(PLYMOUTH, ENGLAND: Ext. plymouth, england - DOCKS - establishing)"
+  },
+  {
+    "timecode": "01:40",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "DOCKS: Ext. docks - continuous"
+    ],
+    "raw_quote": "(DOCKS: Ext. docks - continuous)"
+  },
+  {
+    "timecode": "01:40",
+    "speaker": "Marge Simpson",
+    "quote": " Hurry, my little Puritans -- we must flee England and its insufficiently Puritanical ways.",
+    "directions": [],
+    "raw_quote": " Hurry, my little Puritans -- we must flee England and its insufficiently Puritanical ways."
+  },
+  {
+    "timecode": "01:47",
+    "speaker": "Marge Simpson",
+    "quote": " Do you have your shipboard entertainments?",
+    "directions": [],
+    "raw_quote": " Do you have your shipboard entertainments?"
+  },
+  {
+    "timecode": "01:49",
+    "speaker": "Bart Simpson",
+    "quote": " I've got my toy wood lump!",
+    "directions": [
+      "HAPPILY"
+    ],
+    "raw_quote": " (HAPPILY) I've got my toy wood lump!"
+  },
+  {
+    "timecode": "01:53",
+    "speaker": "Bart Simpson",
+    "quote": " What jolly fun!",
+    "directions": [],
+    "raw_quote": " What jolly fun!"
+  },
+  {
+    "timecode": "01:54",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "DECK OF THE SHIP: EXT. deck of the SHIP - A FEW MINUTES LATER"
+    ],
+    "raw_quote": "(DECK OF THE SHIP: EXT. deck of the SHIP - A FEW MINUTES LATER)"
+  },
+  {
+    "timecode": "01:54",
+    "speaker": "Marge Simpson",
+    "quote": " Finally, we shall bid goodbye to England and its drunken, decadent sinners.",
+    "directions": [],
+    "raw_quote": " Finally, we shall bid goodbye to England and its drunken, decadent sinners."
+  },
+  {
+    "timecode": "02:00",
+    "speaker": "Homer Simpson",
+    "quote": " Outta my way, you God-fearing Buckleheads!",
+    "directions": [],
+    "raw_quote": " Outta my way, you God-fearing Buckleheads!"
+  },
+  {
+    "timecode": "02:05",
+    "speaker": "Homer Simpson",
+    "quote": " Hide me!",
+    "directions": [],
+    "raw_quote": " Hide me!"
+  },
+  {
+    "timecode": "02:08",
+    "speaker": "Homer Simpson",
+    "quote": " Please, you've gotta help me! If they find me they'll kill me.",
+    "directions": [
+      "PEEKS OUT BARREL, LOUD WHISPER"
+    ],
+    "raw_quote": " (PEEKS OUT BARREL, LOUD WHISPER) Please, you've gotta help me! If they find me they'll kill me."
+  },
+  {
+    "timecode": "02:12",
+    "speaker": "Beefeater Lenny",
+    "quote": " Has anyone seen this knave?",
+    "directions": [],
+    "raw_quote": " Has anyone seen this knave?"
+  },
+  {
+    "timecode": "02:14",
+    "speaker": "Beefeater Carl",
+    "quote": " He's wanted for daring to question why we call this the Jacobean era when the king's name is James and not Jacob!",
+    "directions": [],
+    "raw_quote": " He's wanted for daring to question why we call this the Jacobean era when the king's name is James and not Jacob!"
+  },
+  {
+    "timecode": "02:22",
+    "speaker": "Lisa Simpson",
+    "quote": " Mother, we must protect him. Look, he's praying.",
+    "directions": [],
+    "raw_quote": " Mother, we must protect him. Look, he's praying."
+  },
+  {
+    "timecode": "02:26",
+    "speaker": "Homer Simpson",
+    "quote": " Oh Lord, please let the soldiers kill this family instead of me.",
+    "directions": [],
+    "raw_quote": " Oh Lord, please let the soldiers kill this family instead of me."
+  },
+  {
+    "timecode": "02:29",
+    "speaker": "Marge Simpson",
+    "quote": " Noble sir, you may accompany us to America in my late husband's clothing.",
+    "directions": [
+      "KINDLY"
+    ],
+    "raw_quote": " (KINDLY) Noble sir, you may accompany us to America in my late husband's clothing."
+  },
+  {
+    "timecode": "02:35",
+    "speaker": "Lisa Simpson",
+    "quote": " And I will make thee a hat from construction paper!",
+    "directions": [],
+    "raw_quote": " And I will make thee a hat from construction paper!"
+  },
+  {
+    "timecode": "02:38",
+    "speaker": "Homer Simpson",
+    "quote": " So, thou art a widow, eh?! Then the codpiece holds no terrors for thee.",
+    "directions": [
+      "REALIZING, UPBEAT",
+      "SUGGESTIVE, PUTTING IT TOGETHER"
+    ],
+    "raw_quote": " (REALIZING, UPBEAT) So, thou art a widow, eh?! (SUGGESTIVE, PUTTING IT TOGETHER) Then the codpiece holds no terrors for thee."
+  },
+  {
+    "timecode": "02:45",
+    "speaker": "Marge Simpson",
+    "quote": " Good sir, I do not approve of your fleshly gaze.",
+    "directions": [
+      "PEEVED"
+    ],
+    "raw_quote": " (PEEVED) Good sir, I do not approve of your fleshly gaze."
+  },
+  {
+    "timecode": "02:52",
+    "speaker": "Homer Simpson",
+    "quote": " Oh baby...",
+    "directions": [
+      "TURNED ON"
+    ],
+    "raw_quote": " (TURNED ON) Oh baby..."
+  },
+  {
+    "timecode": "02:56",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Harbor: Ext. harbor - a few minutes later"
+    ],
+    "raw_quote": "(Harbor: Ext. harbor - a few minutes later)"
+  },
+  {
+    "timecode": "02:56",
+    "speaker": "Beefeater Carl",
+    "quote": " Goodbye!",
+    "directions": [],
+    "raw_quote": " Goodbye!"
+  },
+  {
+    "timecode": "02:56",
+    "speaker": "Beefeater Lenny",
+    "quote": " Don't come back!",
+    "directions": [],
+    "raw_quote": " Don't come back!"
+  },
+  {
+    "timecode": "02:59",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Mayflower: Ext. mayflower - deck - continuous"
+    ],
+    "raw_quote": "(Mayflower: Ext. mayflower - deck - continuous)"
+  },
+  {
+    "timecode": "02:59",
+    "speaker": "Homer Simpson",
+    "quote": " What kind of a booze cruise is this? Where's the hooch?",
+    "directions": [],
+    "raw_quote": " What kind of a booze cruise is this? Where's the hooch?"
+  },
+  {
+    "timecode": "03:03",
+    "speaker": "FLANDISH",
+    "quote": " We Puritans have no place for drunkenness... or colorful clothes, or dreaming, or poetry. So if you write a sonnet, keep it under your bonnet! Oh no, that was a poem!",
+    "directions": [
+      "CHUCKLES",
+      "PANICKED"
+    ],
+    "raw_quote": " (CHUCKLES) We Puritans have no place for drunkenness... or colorful clothes, or dreaming, or poetry. So if you write a sonnet, keep it under your bonnet! (PANICKED) Oh no, that was a poem!"
+  },
+  {
+    "timecode": "03:16",
+    "speaker": "FLANDISH",
+    "quote": " Forgive me, Lord! Then, pour a little salt in the wounds... and I'm good.",
+    "directions": [
+      "ANGUISHED NOISE",
+      "CALMLY",
+      "ANGUISHED NOISE, THEN PLEASANT"
+    ],
+    "raw_quote": " (ANGUISHED NOISE) Forgive me, Lord! (CALMLY) Then, pour a little salt in the wounds... (ANGUISHED NOISE, THEN PLEASANT) and I'm good."
+  },
+  {
+    "timecode": "03:21",
+    "speaker": "Marge Simpson",
+    "quote": " I see you met our devout leader, Ned Flandish.",
+    "directions": [
+      "TO HOMER"
+    ],
+    "raw_quote": " (TO HOMER) I see you met our devout leader, Ned Flandish."
+  },
+  {
+    "timecode": "03:24",
+    "speaker": "Homer Simpson",
+    "quote": " Stupid Flandish. Uh, listen, since all the other fun stuff is out of bounds, how 'bout a little Bible-thumping in the crow's nest? What do you say, Miss...",
+    "directions": [
+      "TO MARGE"
+    ],
+    "raw_quote": " Stupid Flandish. (TO MARGE) Uh, listen, since all the other fun stuff is out of bounds, how 'bout a little Bible-thumping in the crow's nest? What do you say, Miss..."
+  },
+  {
+    "timecode": "03:34",
+    "speaker": "Marge Simpson",
+    "quote": " Constance Prudence Chastity Goodfaith.",
+    "directions": [],
+    "raw_quote": " Constance Prudence Chastity Goodfaith."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " (ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "03:37",
+    "speaker": "Marge Simpson",
+    "quote": " My friends call me \"Marge\".",
+    "directions": [],
+    "raw_quote": " My friends call me \"Marge\"."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "HOPEFUL NOISE"
+    ],
+    "raw_quote": " (HOPEFUL NOISE)"
+  },
+  {
+    "timecode": "03:39",
+    "speaker": "Marge Simpson",
+    "quote": " Marge Obedience Temperance Sexwon't.",
+    "directions": [],
+    "raw_quote": " Marge Obedience Temperance Sexwon't."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "LOUDER ANNOYED GRUNT"
+    ],
+    "raw_quote": " (LOUDER ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "03:42",
+    "speaker": "Moezekiel",
+    "quote": " Back off, newbie.",
+    "directions": [],
+    "raw_quote": " Back off, newbie."
+  },
+  {
+    "timecode": "03:44",
+    "speaker": "Moezekiel",
+    "quote": " We're engaged! I didn't kill her husband just so... I mean, I didn't kill her husband.",
+    "directions": [
+      "OFF MARGE'S LOOK"
+    ],
+    "raw_quote": " We're engaged! I didn't kill her husband just so... (OFF MARGE'S LOOK) I mean, I didn't kill her husband."
+  },
+  {
+    "timecode": "03:49",
+    "speaker": "Marge Simpson",
+    "quote": " We're not engaged.",
+    "directions": [],
+    "raw_quote": " We're not engaged."
+  },
+  {
+    "timecode": "03:50",
+    "speaker": "Marge Simpson",
+    "quote": " It's really more of an amiable concordance.",
+    "directions": [],
+    "raw_quote": " It's really more of an amiable concordance."
+  },
+  {
+    "timecode": "03:54",
+    "speaker": "FLANDISH",
+    "quote": " Such language from a woman... Oh no, I just thought of you as a woman!",
+    "directions": [],
+    "raw_quote": " Such language from a woman... Oh no, I just thought of you as a woman!"
+  },
+  {
+    "timecode": "04:01",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Lord we thank you for the many ways you show your love: the sun which bakes our lips to the point of bleeding, and your hilarious idea to surround us with water that would kill us if we drank it.",
+    "directions": [],
+    "raw_quote": " Lord we thank you for the many ways you show your love: the sun which bakes our lips to the point of bleeding, and your hilarious idea to surround us with water that would kill us if we drank it."
+  },
+  {
+    "timecode": "04:16",
+    "speaker": "Moezekiel",
+    "quote": " Now I gotta warn ya, even for this day and age, I'm considered a bad husband.",
+    "directions": [],
+    "raw_quote": " Now I gotta warn ya, even for this day and age, I'm considered a bad husband."
+  },
+  {
+    "timecode": "04:21",
+    "speaker": "Homer Simpson",
+    "quote": " She's gonna marry him 'cause he wears boots instead of blackening his feet.",
+    "directions": [
+      "MOROSE"
+    ],
+    "raw_quote": " (MOROSE) She's gonna marry him 'cause he wears boots instead of blackening his feet."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "SOBS QUIETLY"
+    ],
+    "raw_quote": " (SOBS QUIETLY)"
+  },
+  {
+    "timecode": "04:30",
+    "speaker": "Bart Simpson",
+    "quote": " Well, I'm sure the way to win her heart is to be fat and crying.",
+    "directions": [
+      "SARCASTIC"
+    ],
+    "raw_quote": " (SARCASTIC) Well, I'm sure the way to win her heart is to be fat and crying."
+  },
+  {
+    "timecode": "04:34",
+    "speaker": "Homer Simpson",
+    "quote": " Why thee little...",
+    "directions": [],
+    "raw_quote": " Why thee little..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "STRANGLING NOISES"
+    ],
+    "raw_quote": " (STRANGLING NOISES)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "CONCERNED NOISE"
+    ],
+    "raw_quote": " (CONCERNED NOISE)"
+  },
+  {
+    "timecode": "04:41",
+    "speaker": "Marge Simpson",
+    "quote": " Oh don't stop -- you're choking him just the way his father used to.",
+    "directions": [
+      "MOVED"
+    ],
+    "raw_quote": " (MOVED) Oh don't stop -- you're choking him just the way his father used to."
+  },
+  {
+    "timecode": "04:45",
+    "speaker": "Marge Simpson",
+    "quote": " Good times.",
+    "directions": [],
+    "raw_quote": " Good times."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "RELIEVED SIGH"
+    ],
+    "raw_quote": " (RELIEVED SIGH)"
+  },
+  {
+    "timecode": "04:49",
+    "speaker": "Marge Simpson",
+    "quote": " Perhaps thou wouldst make a good father!",
+    "directions": [
+      "IMPRESSED"
+    ],
+    "raw_quote": " (IMPRESSED) Perhaps thou wouldst make a good father!"
+  },
+  {
+    "timecode": "04:53",
+    "speaker": "Homer Simpson",
+    "quote": " May I escort you to the railing?",
+    "directions": [
+      "THRILLED TO HEAR THIS"
+    ],
+    "raw_quote": " (THRILLED TO HEAR THIS) May I escort you to the railing?"
+  },
+  {
+    "timecode": "04:57",
+    "speaker": "Moezekiel",
+    "quote": " Oh my God, look at that hand-on-hand action! If I don't do somethin', soon they'll be exchanging pleasantries.",
+    "directions": [],
+    "raw_quote": " Oh my God, look at that hand-on-hand action! If I don't do somethin', soon they'll be exchanging pleasantries."
+  },
+  {
+    "timecode": "05:03",
+    "speaker": "Marge Simpson",
+    "quote": " Yes, the weather is fair.",
+    "directions": [
+      "TO HOMER"
+    ],
+    "raw_quote": " (TO HOMER) Yes, the weather is fair."
+  },
+  {
+    "timecode": "05:05",
+    "speaker": "Moezekiel",
+    "quote": " Man, that guy sends my humors from sanguine to bilious! That's how we talk. Weird, huh?",
+    "directions": [
+      "FUMING",
+      "TO CAMERA"
+    ],
+    "raw_quote": " (FUMING) Man, that guy sends my humors from sanguine to bilious! (TO CAMERA) That's how we talk. Weird, huh?"
+  },
+  {
+    "timecode": "05:11",
+    "speaker": "Moezekiel",
+    "quote": " Time to think of a plan most sneaky.",
+    "directions": [],
+    "raw_quote": " Time to think of a plan most sneaky."
+  },
+  {
+    "timecode": "05:14",
+    "speaker": "Moezekiel",
+    "quote": " Anyways, I just wanted to let you know, that I'm throwin' a little party tonight to celebrate that only half of us have died so far.",
+    "directions": [
+      "SMARMY"
+    ],
+    "raw_quote": " (SMARMY) Anyways, I just wanted to let you know, that I'm throwin' a little party tonight to celebrate that only half of us have died so far."
+  },
+  {
+    "timecode": "05:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SHIP DECK: Ext. ship deck - continuous"
+    ],
+    "raw_quote": "(SHIP DECK: Ext. ship deck - continuous)"
+  },
+  {
+    "timecode": "05:25",
+    "speaker": "Homer Simpson",
+    "quote": " Beer? I thought you guys didn't drink on the Gayflower.",
+    "directions": [],
+    "raw_quote": " Beer? I thought you guys didn't drink on the Gayflower."
+  },
+  {
+    "timecode": "05:29",
+    "speaker": "Moezekiel",
+    "quote": " Stop callin' it that!",
+    "directions": [],
+    "raw_quote": " Stop callin' it that!"
+  },
+  {
+    "timecode": "05:30",
+    "speaker": "Homer Simpson",
+    "quote": " What-ever.",
+    "directions": [
+      "VALLEY GIRL"
+    ],
+    "raw_quote": " (VALLEY GIRL) What-ever."
+  },
+  {
+    "timecode": "05:31",
+    "speaker": "Moezekiel",
+    "quote": " I was savin' this booze to mess up the Indians, but uh, seein' what good pals we are, I wanted to give you a taste.",
+    "directions": [],
+    "raw_quote": " I was savin' this booze to mess up the Indians, but uh, seein' what good pals we are, I wanted to give you a taste."
+  },
+  {
+    "timecode": "05:38",
+    "speaker": "Moezekiel",
+    "quote": " Say, I know a good drinking game: take a sip every time a wave hits the ship.",
+    "directions": [],
+    "raw_quote": " Say, I know a good drinking game: take a sip every time a wave hits the ship."
+  },
+  {
+    "timecode": "05:45",
+    "speaker": "Moezekiel",
+    "quote": " Oh, you're good at this.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) Oh, you're good at this."
+  },
+  {
+    "timecode": "05:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Atlantic ocean: ext. atlantic ocean - day - establishing"
+    ],
+    "raw_quote": "(Atlantic ocean: ext. atlantic ocean - day - establishing)"
+  },
+  {
+    "timecode": "05:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Mayflower: ext. mayflower - POOP deck"
+    ],
+    "raw_quote": "(Mayflower: ext. mayflower - POOP deck)"
+  },
+  {
+    "timecode": "05:50",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Oh Lord, thank you for this generous rain and abundant lightning.",
+    "directions": [],
+    "raw_quote": " Oh Lord, thank you for this generous rain and abundant lightning."
+  },
+  {
+    "timecode": "05:58",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Obviously kissing your ass is getting me nowhere.",
+    "directions": [],
+    "raw_quote": " Obviously kissing your ass is getting me nowhere."
+  },
+  {
+    "timecode": "06:05",
+    "speaker": "FLANDISH",
+    "quote": " This storm's blown us off course! And where's our crew?",
+    "directions": [],
+    "raw_quote": " This storm's blown us off course! And where's our crew?"
+  },
+  {
+    "timecode": "06:08",
+    "speaker": "Moezekiel",
+    "quote": " I'll show you where they are. You don't wanna miss this, Marge.",
+    "directions": [
+      "TURNS TO MARGE"
+    ],
+    "raw_quote": " I'll show you where they are. (TURNS TO MARGE) You don't wanna miss this, Marge."
+  },
+  {
+    "timecode": "06:14",
+    "speaker": "Mayflower Crew",
+    "quote": " Sin! Sin! Sin!",
+    "directions": [
+      "CHANTING \u00c0 LA \"CHUG! CHUG! CHUG!\""
+    ],
+    "raw_quote": " (CHANTING \u00c0 LA \"CHUG! CHUG! CHUG!\") Sin! Sin! Sin!"
+  },
+  {
+    "timecode": "06:16",
+    "speaker": "FLANDISH",
+    "quote": " Horseplay? Roughhousing? Horse-housing?",
+    "directions": [
+      "HORRIFIED",
+      "SHOCKED GASP"
+    ],
+    "raw_quote": " (HORRIFIED) Horseplay? Roughhousing? (SHOCKED GASP) Horse-housing?"
+  },
+  {
+    "timecode": "06:21",
+    "speaker": "Moezekiel",
+    "quote": " And here's the knave what's responsible.",
+    "directions": [],
+    "raw_quote": " And here's the knave what's responsible."
+  },
+  {
+    "timecode": "06:25",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " That's all I needed to hear.",
+    "directions": [
+      "GRIMLY"
+    ],
+    "raw_quote": " (GRIMLY) That's all I needed to hear."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "MOAN"
+    ],
+    "raw_quote": " (MOAN)"
+  },
+  {
+    "timecode": "06:30",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, I can't believe I was thinking of letting you touch my elbow through a cloth!",
+    "directions": [
+      "UPSET"
+    ],
+    "raw_quote": " (UPSET) Homer, I can't believe I was thinking of letting you touch my elbow through a cloth!"
+  },
+  {
+    "timecode": "06:35",
+    "speaker": "Homer Simpson",
+    "quote": " But baby, a man has needs.",
+    "directions": [
+      "PLEADING"
+    ],
+    "raw_quote": " (PLEADING) But baby, a man has needs."
+  },
+  {
+    "timecode": "06:41",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Our Captain's be-head-bumped!",
+    "directions": [],
+    "raw_quote": " Our Captain's be-head-bumped!"
+  },
+  {
+    "timecode": "06:43",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " I guess we'll never make it to the new world.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) I guess we'll never make it to the new world."
+  },
+  {
+    "timecode": "06:46",
+    "speaker": "Bart Simpson",
+    "quote": " When we landed, I was gonna denounce my sister as a witch.",
+    "directions": [
+      "SADLY"
+    ],
+    "raw_quote": " (SADLY) When we landed, I was gonna denounce my sister as a witch."
+  },
+  {
+    "timecode": "06:50",
+    "speaker": "Lisa Simpson",
+    "quote": " I keep telling you, the ability to add two-digit numbers is not witchcraft!",
+    "directions": [],
+    "raw_quote": " I keep telling you, the ability to add two-digit numbers is not witchcraft!"
+  },
+  {
+    "timecode": "06:55",
+    "speaker": "Bart Simpson",
+    "quote": " Thirty-one plus forty-three.",
+    "directions": [],
+    "raw_quote": " Thirty-one plus forty-three."
+  },
+  {
+    "timecode": "06:56",
+    "speaker": "Lisa Simpson",
+    "quote": " Seventy-four.",
+    "directions": [],
+    "raw_quote": " Seventy-four."
+  },
+  {
+    "timecode": "06:57",
+    "speaker": "Pilgrims",
+    "quote": " Witch! Witch! Witch!",
+    "directions": [
+      "POINTING"
+    ],
+    "raw_quote": " (POINTING) Witch! Witch! Witch!"
+  },
+  {
+    "timecode": "06:59",
+    "speaker": "Homer Simpson",
+    "quote": " People, this is madness! We can burn the witch later! Right now, I've got to save this ship!",
+    "directions": [],
+    "raw_quote": " People, this is madness! We can burn the witch later! Right now, I've got to save this ship!"
+  },
+  {
+    "timecode": "07:06",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, I've been driving drunk since I was twelve! But first...who's gonna help me pee?",
+    "directions": [],
+    "raw_quote": " Hey, I've been driving drunk since I was twelve! But first...who's gonna help me pee?"
+  },
+  {
+    "timecode": "07:12",
+    "speaker": "Pilgrim Smithers",
+    "quote": " They're looking at me 'cause I have the key to the stocks. ",
+    "directions": [
+      "DEFENSIVE",
+      "HOLDS UP KEY"
+    ],
+    "raw_quote": " (DEFENSIVE) They're looking at me 'cause I have the key to the stocks. (HOLDS UP KEY)"
+  },
+  {
+    "timecode": "07:21",
+    "speaker": "Homer Simpson",
+    "quote": " Don't worry, Marge. I'll see to it you fundamentalist Christians live to take over all America by the twenty-first century!",
+    "directions": [],
+    "raw_quote": " Don't worry, Marge. I'll see to it you fundamentalist Christians live to take over all America by the twenty-first century!"
+  },
+  {
+    "timecode": "07:32",
+    "speaker": "Marge Simpson",
+    "quote": " Look!",
+    "directions": [],
+    "raw_quote": " Look!"
+  },
+  {
+    "timecode": "07:34",
+    "speaker": "Marge Simpson",
+    "quote": " An albatross! It can lead us to safety.",
+    "directions": [],
+    "raw_quote": " An albatross! It can lead us to safety."
+  },
+  {
+    "timecode": "07:40",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ocean: Ext. ocean - later"
+    ],
+    "raw_quote": "(Ocean: Ext. ocean - later)"
+  },
+  {
+    "timecode": "07:40",
+    "speaker": "Homer Simpson",
+    "quote": " Man, that bird did it all. Good guy.",
+    "directions": [
+      "TAKES BITE"
+    ],
+    "raw_quote": " Man, that bird did it all. (TAKES BITE) Good guy."
+  },
+  {
+    "timecode": "07:43",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Mayflower: ext. mayflower - next day"
+    ],
+    "raw_quote": "(Mayflower: ext. mayflower - next day)"
+  },
+  {
+    "timecode": "07:43",
+    "speaker": "FLANDISH",
+    "quote": " I just thought of a name for where we're going: New England!",
+    "directions": [
+      "CHUCKLE"
+    ],
+    "raw_quote": " (CHUCKLE) I just thought of a name for where we're going: New England!"
+  },
+  {
+    "timecode": "07:47",
+    "speaker": "Brother Willie",
+    "quote": " Oh, that's real creative. Whaddaya call your foot? \"New Hand?\"",
+    "directions": [],
+    "raw_quote": " Oh, that's real creative. Whaddaya call your foot? \"New Hand?\""
+  },
+  {
+    "timecode": "07:52",
+    "speaker": "FLANDISH",
+    "quote": " At least I'm pitching!",
+    "directions": [],
+    "raw_quote": " At least I'm pitching!"
+  },
+  {
+    "timecode": "07:55",
+    "speaker": "Homer Simpson",
+    "quote": " Land ho!",
+    "directions": [
+      "EXCITED"
+    ],
+    "raw_quote": " (EXCITED) Land ho!"
+  },
+  {
+    "timecode": "07:57",
+    "speaker": "Marge Simpson",
+    "quote": " What'd you call me?",
+    "directions": [],
+    "raw_quote": " What'd you call me?"
+  },
+  {
+    "timecode": "08:02",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "PLYMOUTH COLONY: Ext. plymouth colony - Day"
+    ],
+    "raw_quote": "(PLYMOUTH COLONY: Ext. plymouth colony - Day)"
+  },
+  {
+    "timecode": "08:02",
+    "speaker": "FLANDISH",
+    "quote": " Great Chief Wig-gum, we could never have survived our first year in the New World without you. I almost regret what we Europeans are gonna do to ya.",
+    "directions": [
+      "ASHAMED"
+    ],
+    "raw_quote": " Great Chief Wig-gum, we could never have survived our first year in the New World without you. (ASHAMED) I almost regret what we Europeans are gonna do to ya."
+  },
+  {
+    "timecode": "08:10",
+    "speaker": "Chief Wiggum",
+    "quote": " Wha-what are you gonna do?",
+    "directions": [
+      "NERVOUS"
+    ],
+    "raw_quote": " (NERVOUS) Wha-what are you gonna do?"
+  },
+  {
+    "timecode": "08:12",
+    "speaker": "FLANDISH",
+    "quote": " Give you the biggest slice of pumpkin pie!",
+    "directions": [
+      "COY"
+    ],
+    "raw_quote": " (COY) Give you the biggest slice of pumpkin pie!"
+  },
+  {
+    "timecode": "08:16",
+    "speaker": "FLANDISH",
+    "quote": " Also, we're gonna take your land and wipe you out. Who wants whipped topping?",
+    "directions": [
+      "THROWN AWAY",
+      "VERY FRIENDLY"
+    ],
+    "raw_quote": " (THROWN AWAY) Also, we're gonna take your land and wipe you out. (VERY FRIENDLY) Who wants whipped topping?"
+  },
+  {
+    "timecode": "08:27",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "The Frying Dutchman: int. frying dutchman - continuous"
+    ],
+    "raw_quote": "(The Frying Dutchman: int. frying dutchman - continuous)"
+  },
+  {
+    "timecode": "08:27",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " Here's your bill. And will there be anything else?",
+    "directions": [
+      "HANDS IT TO THEM"
+    ],
+    "raw_quote": " Here's your bill. (HANDS IT TO THEM) And will there be anything else?"
+  },
+  {
+    "timecode": "08:30",
+    "speaker": "Lisa Simpson",
+    "quote": " We haven't gotten our food yet!",
+    "directions": [],
+    "raw_quote": " We haven't gotten our food yet!"
+  },
+  {
+    "timecode": "08:32",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " I'll look into it.",
+    "directions": [],
+    "raw_quote": " I'll look into it."
+  },
+  {
+    "timecode": "08:34",
+    "speaker": "Marge Simpson",
+    "quote": " Who else has a story?",
+    "directions": [
+      "CHIPPER"
+    ],
+    "raw_quote": " (CHIPPER) Who else has a story?"
+  },
+  {
+    "timecode": "08:37",
+    "speaker": "Homer Simpson",
+    "quote": " I do!",
+    "directions": [],
+    "raw_quote": " I do!"
+  },
+  {
+    "timecode": "08:39",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, you can tell the third story. Bart will tell the second, which is usually the weakest.",
+    "directions": [],
+    "raw_quote": " Homer, you can tell the third story. Bart will tell the second, which is usually the weakest."
+  },
+  {
+    "timecode": "08:41",
+    "speaker": "Bart Simpson",
+    "quote": " Hey!",
+    "directions": [],
+    "raw_quote": " Hey!"
+  },
+  {
+    "timecode": "08:45",
+    "speaker": "Marge Simpson",
+    "quote": " I'm just trying to take the pressure off of you.",
+    "directions": [],
+    "raw_quote": " I'm just trying to take the pressure off of you."
+  },
+  {
+    "timecode": "08:48",
+    "speaker": "Bart Simpson",
+    "quote": " Well, one time I read this boring comic book about a ship called \"The Bounty...\"",
+    "directions": [],
+    "raw_quote": " Well, one time I read this boring comic book about a ship called \"The Bounty...\""
+  },
+  {
+    "timecode": "08:54",
+    "speaker": "Marge Simpson",
+    "quote": " Ooh, like the paper towels. Go on...",
+    "directions": [],
+    "raw_quote": " Ooh, like the paper towels. Go on..."
+  },
+  {
+    "timecode": "09:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Portsmouth Harbor: ext. portsmouth harbor - day - establishing"
+    ],
+    "raw_quote": "(Portsmouth Harbor: ext. portsmouth harbor - day - establishing)"
+  },
+  {
+    "timecode": "09:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "BOUNTY: ext. bounty - continuous"
+    ],
+    "raw_quote": "(BOUNTY: ext. bounty - continuous)"
+  },
+  {
+    "timecode": "09:06",
+    "speaker": "Fletcher Christian",
+    "quote": " Captain Bligh! There's a message from Admiral Nelson!",
+    "directions": [],
+    "raw_quote": " Captain Bligh! There's a message from Admiral Nelson!"
+  },
+  {
+    "timecode": "09:08",
+    "speaker": "Bligh",
+    "quote": " Thank you, Mr. Christian.",
+    "directions": [],
+    "raw_quote": " Thank you, Mr. Christian."
+  },
+  {
+    "timecode": "09:14",
+    "speaker": "Bligh",
+    "quote": " \"Bligh\" \"eats\"...\"dolphin boogers\".",
+    "directions": [
+      "DECIPHERING"
+    ],
+    "raw_quote": " (DECIPHERING) \"Bligh\" \"eats\"...\"dolphin boogers\"."
+  },
+  {
+    "timecode": "09:15",
+    "speaker": "Nelson Muntz",
+    "quote": " Haw-haw!",
+    "directions": [
+      "DISTANT"
+    ],
+    "raw_quote": " (DISTANT) Haw-haw!"
+  },
+  {
+    "timecode": "09:18",
+    "speaker": "Bligh",
+    "quote": " Well, when you eat as much dolphin as I do, there's bound to be a booger or two in the mix.",
+    "directions": [
+      "EXPLAINING"
+    ],
+    "raw_quote": " (EXPLAINING) Well, when you eat as much dolphin as I do, there's bound to be a booger or two in the mix."
+  },
+  {
+    "timecode": "09:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Pacific Ocean: ext. pacific ocean - months later - day"
+    ],
+    "raw_quote": "(Pacific Ocean: ext. pacific ocean - months later - day)"
+  },
+  {
+    "timecode": "09:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "BOUNTY: int. bounty - captain's cabin"
+    ],
+    "raw_quote": "(BOUNTY: int. bounty - captain's cabin)"
+  },
+  {
+    "timecode": "09:25",
+    "speaker": "Bligh",
+    "quote": " Good morning, crew. Welcome to day seven eighteen of our voyage. Today's announcements:",
+    "directions": [],
+    "raw_quote": " Good morning, crew. Welcome to day seven eighteen of our voyage. Today's announcements:"
+  },
+  {
+    "timecode": "09:29",
+    "speaker": "Bligh",
+    "quote": " First of all, in an effort to save water, you will no longer be given any water.",
+    "directions": [],
+    "raw_quote": " First of all, in an effort to save water, you will no longer be given any water."
+  },
+  {
+    "timecode": "09:35",
+    "speaker": "Bligh",
+    "quote": " And because of a drawing of myself having romantic congress with a mer-man...",
+    "directions": [],
+    "raw_quote": " And because of a drawing of myself having romantic congress with a mer-man..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Crew",
+    "quote": " ",
+    "directions": [
+      "STIFLED LAUGH"
+    ],
+    "raw_quote": " (STIFLED LAUGH)"
+  },
+  {
+    "timecode": "09:44",
+    "speaker": "Bligh",
+    "quote": " I am dumping all your mail from home into the sea.",
+    "directions": [],
+    "raw_quote": " I am dumping all your mail from home into the sea."
+  },
+  {
+    "timecode": "09:49",
+    "speaker": "Bligh",
+    "quote": " And I can assure you, there were cookies in there. Good cookies. The kind only a loving mother or Milhouse's father could make.",
+    "directions": [],
+    "raw_quote": " And I can assure you, there were cookies in there. Good cookies. The kind only a loving mother or Milhouse's father could make."
+  },
+  {
+    "timecode": "09:57",
+    "speaker": "Milhouse Van Houten",
+    "quote": " My father's alive?",
+    "directions": [],
+    "raw_quote": " My father's alive?"
+  },
+  {
+    "timecode": "09:58",
+    "speaker": "Bligh",
+    "quote": " No, he died while baking. It's all in the letter.",
+    "directions": [],
+    "raw_quote": " No, he died while baking. It's all in the letter."
+  },
+  {
+    "timecode": "",
+    "speaker": "Crew",
+    "quote": " ",
+    "directions": [
+      "ANGRY MUTTERS"
+    ],
+    "raw_quote": " (ANGRY MUTTERS)"
+  },
+  {
+    "timecode": "10:03",
+    "speaker": "Jimbo Jones",
+    "quote": " I'm getting pretty tired of that seawad!",
+    "directions": [],
+    "raw_quote": " I'm getting pretty tired of that seawad!"
+  },
+  {
+    "timecode": "10:06",
+    "speaker": "DOLPH",
+    "quote": " This is nothing like the recruiting brochure!",
+    "directions": [],
+    "raw_quote": " This is nothing like the recruiting brochure!"
+  },
+  {
+    "timecode": "10:11",
+    "speaker": "Kearney Zzyzwicz",
+    "quote": " Maybe that's what happens on the last day.",
+    "directions": [
+      "POINTS TO SAILORS WITH GIRLS"
+    ],
+    "raw_quote": " (POINTS TO SAILORS WITH GIRLS) Maybe that's what happens on the last day."
+  },
+  {
+    "timecode": "10:15",
+    "speaker": "Bosun Willie",
+    "quote": " I warn ye, Captain, push this crew too far and there'll be mutiny.",
+    "directions": [
+      "OMINOUS"
+    ],
+    "raw_quote": " (OMINOUS) I warn ye, Captain, push this crew too far and there'll be mutiny."
+  },
+  {
+    "timecode": "10:20",
+    "speaker": "Bligh",
+    "quote": " Mutiny? On The Bounty? What have you been smoking?",
+    "directions": [
+      "DERISIVE",
+      "LAUGHS"
+    ],
+    "raw_quote": " (DERISIVE) Mutiny? On The Bounty? (LAUGHS) What have you been smoking?"
+  },
+  {
+    "timecode": "10:24",
+    "speaker": "Bosun Willie",
+    "quote": " Opium.",
+    "directions": [],
+    "raw_quote": " Opium."
+  },
+  {
+    "timecode": "10:24",
+    "speaker": "Bligh",
+    "quote": " Besides that.",
+    "directions": [],
+    "raw_quote": " Besides that."
+  },
+  {
+    "timecode": "10:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Tahiti: ext. tahiti - day - establishing"
+    ],
+    "raw_quote": "(Tahiti: ext. tahiti - day - establishing)"
+  },
+  {
+    "timecode": "10:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "PALAPA: int. palapa - a little later"
+    ],
+    "raw_quote": "(PALAPA: int. palapa - a little later)"
+  },
+  {
+    "timecode": "10:34",
+    "speaker": "King Homer",
+    "quote": " Welcome to our tropical paradise. Enjoy our luaus, our lagoons and our ladies... and remember, what happens in Tahiti, stays in Tahiti.",
+    "directions": [],
+    "raw_quote": " Welcome to our tropical paradise. Enjoy our luaus, our lagoons and our ladies... and remember, what happens in Tahiti, stays in Tahiti."
+  },
+  {
+    "timecode": "10:44",
+    "speaker": "Queen Marge",
+    "quote": " Because we have no way of communicating with the outside world! Tell me, has Robert Fulton invented the steamboat yet?",
+    "directions": [],
+    "raw_quote": " Because we have no way of communicating with the outside world! Tell me, has Robert Fulton invented the steamboat yet?"
+  },
+  {
+    "timecode": "10:51",
+    "speaker": "Jimbo Jones",
+    "quote": " Any day now!",
+    "directions": [],
+    "raw_quote": " Any day now!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Queen Marge",
+    "quote": " ",
+    "directions": [
+      "IMPRESSED NOISE"
+    ],
+    "raw_quote": " (IMPRESSED NOISE)"
+  },
+  {
+    "timecode": "11:14",
+    "speaker": "Tahitian Man",
+    "quote": " I'm telling you, I don't look like that! Make another!",
+    "directions": [],
+    "raw_quote": " I'm telling you, I don't look like that! Make another!"
+  },
+  {
+    "timecode": "11:18",
+    "speaker": "Sculptor",
+    "quote": " Yes, Lord Ugly-Face.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) Yes, Lord Ugly-Face."
+  },
+  {
+    "timecode": "11:23",
+    "speaker": "Tahitian Juggler",
+    "quote": " Don't just sit there, help me!",
+    "directions": [
+      "PLEADING"
+    ],
+    "raw_quote": " (PLEADING) Don't just sit there, help me!"
+  },
+  {
+    "timecode": "11:26",
+    "speaker": "King Homer",
+    "quote": " Ba-bye. Bye, bye. Thanks for staying with us... we appreciate your putting cloth over our women's boobies... you'll receive an updated bill after you leave... Bye, bye.",
+    "directions": [],
+    "raw_quote": " Ba-bye. Bye, bye. Thanks for staying with us... we appreciate your putting cloth over our women's boobies... you'll receive an updated bill after you leave... Bye, bye."
+  },
+  {
+    "timecode": "11:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ocean: Ext. ocean - day - establishing"
+    ],
+    "raw_quote": "(Ocean: Ext. ocean - day - establishing)"
+  },
+  {
+    "timecode": "11:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "BOUNTY: Ext. bounty - main deck - continuous"
+    ],
+    "raw_quote": "(BOUNTY: Ext. bounty - main deck - continuous)"
+  },
+  {
+    "timecode": "11:37",
+    "speaker": "Milhouse Van Houten",
+    "quote": " I wish we were back in Tahiti.",
+    "directions": [],
+    "raw_quote": " I wish we were back in Tahiti."
+  },
+  {
+    "timecode": "11:40",
+    "speaker": "Bligh",
+    "quote": " Why yes, it was truly an unforgettable vacation. I order you to forget it!",
+    "directions": [],
+    "raw_quote": " Why yes, it was truly an unforgettable vacation. I order you to forget it!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Crew",
+    "quote": " ",
+    "directions": [
+      "GRUMBLING"
+    ],
+    "raw_quote": " (GRUMBLING)"
+  },
+  {
+    "timecode": "11:46",
+    "speaker": "Bligh",
+    "quote": " And while you're working, I want to hear a sea chantey.... in a round!",
+    "directions": [],
+    "raw_quote": " And while you're working, I want to hear a sea chantey.... in a round!"
+  },
+  {
+    "timecode": "11:50",
+    "speaker": "Half Of Crew",
+    "quote": " ROW ROW ROW YOUR BOAT / GENTLY DOWN THE STREAM... ",
+    "directions": [
+      "SINGING IN ROUND",
+      "ETC."
+    ],
+    "raw_quote": " (SINGING IN ROUND) ROW ROW ROW YOUR BOAT / GENTLY DOWN THE STREAM... (ETC.)"
+  },
+  {
+    "timecode": "11:56",
+    "speaker": "Bligh",
+    "quote": " Rounder! I hear edges!",
+    "directions": [],
+    "raw_quote": " Rounder! I hear edges!"
+  },
+  {
+    "timecode": "11:57",
+    "speaker": "Crew",
+    "quote": " GENTLY DOWN THE STREAM / ROW / GENTLY / ROW ROW / MERRILY, MERRILY, MERRILY / BOAT / DREAM / YOUR ",
+    "directions": [
+      "SINGING OUT OF SYNCH",
+      "ETC."
+    ],
+    "raw_quote": " (SINGING OUT OF SYNCH) GENTLY DOWN THE STREAM / ROW / GENTLY / ROW ROW / MERRILY, MERRILY, MERRILY / BOAT / DREAM / YOUR (ETC.)"
+  },
+  {
+    "timecode": "12:00",
+    "speaker": "Bligh",
+    "quote": " You're off-key! Make that song your own! You don't sound like you've ever been on a boat in your life!",
+    "directions": [
+      "TO VARIOUS SAILORS"
+    ],
+    "raw_quote": " (TO VARIOUS SAILORS) You're off-key! Make that song your own! You don't sound like you've ever been on a boat in your life!"
+  },
+  {
+    "timecode": "12:11",
+    "speaker": "Bligh",
+    "quote": " What the?",
+    "directions": [],
+    "raw_quote": " What the?"
+  },
+  {
+    "timecode": "12:12",
+    "speaker": "Fletcher Christian",
+    "quote": " Captain, this is a mutiny.",
+    "directions": [
+      "GRIMLY"
+    ],
+    "raw_quote": " (GRIMLY) Captain, this is a mutiny."
+  },
+  {
+    "timecode": "12:14",
+    "speaker": "Bligh",
+    "quote": " Well, let's not be hasty. What if I introduce a suggestion box?",
+    "directions": [
+      "UNCOMFORTABLE LAUGH"
+    ],
+    "raw_quote": " (UNCOMFORTABLE LAUGH) Well, let's not be hasty. What if I introduce a suggestion box?"
+  },
+  {
+    "timecode": "12:20",
+    "speaker": "DOLPH",
+    "quote": " We have a suggestion box. You made it from the head of the last guy who had a suggestion.",
+    "directions": [],
+    "raw_quote": " We have a suggestion box. You made it from the head of the last guy who had a suggestion."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bligh",
+    "quote": " ",
+    "directions": [
+      "CHARLES NELSON REILLY NOISE"
+    ],
+    "raw_quote": " (CHARLES NELSON REILLY NOISE)"
+  },
+  {
+    "timecode": "12:29",
+    "speaker": "Bosun Willie",
+    "quote": " I warned ye there'd be mutiny.",
+    "directions": [
+      "BITTERLY"
+    ],
+    "raw_quote": " (BITTERLY) I warned ye there'd be mutiny."
+  },
+  {
+    "timecode": "12:32",
+    "speaker": "Bligh",
+    "quote": " Just start rowing, Willie. And sing a round while you do.",
+    "directions": [],
+    "raw_quote": " Just start rowing, Willie. And sing a round while you do."
+  },
+  {
+    "timecode": "12:36",
+    "speaker": "Bosun Willie",
+    "quote": " ROW, ROW / ROW YOUR BOAT / GENTLY / ROW ROW / MERRILY, MERRILY / BOUND THE DOWN THE / GENTLY DOWN THE, MERRILY DOWN THE-- I cannot do it. I'm only one man!",
+    "directions": [
+      "ATTEMPTS TO SING A ROUND",
+      "GIVING UP"
+    ],
+    "raw_quote": " (ATTEMPTS TO SING A ROUND) ROW, ROW / ROW YOUR BOAT / GENTLY / ROW ROW / MERRILY, MERRILY / BOUND THE DOWN THE / GENTLY DOWN THE, MERRILY DOWN THE-- (GIVING UP) I cannot do it. I'm only one man!"
+  },
+  {
+    "timecode": "12:49",
+    "speaker": "Bligh",
+    "quote": " You'll sing or you'll mutiny. And you're too much of a spineless coward for that.",
+    "directions": [],
+    "raw_quote": " You'll sing or you'll mutiny. And you're too much of a spineless coward for that."
+  },
+  {
+    "timecode": "12:57",
+    "speaker": "Bligh",
+    "quote": " Swim faster or I'll have you made into soup. What're you gonna do? Go underwater? I'd like to see that.",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Swim faster or I'll have you made into soup. What're you gonna do? Go underwater? (LAUGHS) I'd like to see that."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bligh",
+    "quote": " ",
+    "directions": [
+      "AGGRAVATED NOISE"
+    ],
+    "raw_quote": " (AGGRAVATED NOISE)"
+  },
+  {
+    "timecode": "13:06",
+    "speaker": "Bligh",
+    "quote": " You call this deep?",
+    "directions": [
+      "SARCASTICALLY"
+    ],
+    "raw_quote": " (SARCASTICALLY) You call this deep?"
+  },
+  {
+    "timecode": "13:10",
+    "speaker": "Fletcher Christian",
+    "quote": " This is your new captain saying \"Next stop, Tahiti\"!",
+    "directions": [],
+    "raw_quote": " This is your new captain saying \"Next stop, Tahiti\"!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Crew",
+    "quote": " ",
+    "directions": [
+      "CHEER"
+    ],
+    "raw_quote": " (CHEER)"
+  },
+  {
+    "timecode": "13:10",
+    "speaker": "Fletcher Christian",
+    "quote": " And we're gonna remove all evidence of the previous regime, starting with this stupid wheel.",
+    "directions": [],
+    "raw_quote": " And we're gonna remove all evidence of the previous regime, starting with this stupid wheel."
+  },
+  {
+    "timecode": "13:25",
+    "speaker": "Bart Simpson",
+    "quote": " Uh-oh.",
+    "directions": [],
+    "raw_quote": " Uh-oh."
+  },
+  {
+    "timecode": "13:30",
+    "speaker": "Fletcher Christian",
+    "quote": " Well, I know you had your doubts, men, but there they are: the most beautiful women in the world.",
+    "directions": [],
+    "raw_quote": " Well, I know you had your doubts, men, but there they are: the most beautiful women in the world."
+  },
+  {
+    "timecode": "13:38",
+    "speaker": "Kearney Zzyzwicz",
+    "quote": " Those are penguins.",
+    "directions": [],
+    "raw_quote": " Those are penguins."
+  },
+  {
+    "timecode": "13:40",
+    "speaker": "Fletcher Christian",
+    "quote": " Well, look at it this way. We're gonna discover the North Pole.",
+    "directions": [],
+    "raw_quote": " Well, look at it this way. We're gonna discover the North Pole."
+  },
+  {
+    "timecode": "13:44",
+    "speaker": "Jimbo Jones",
+    "quote": " South Pole.",
+    "directions": [],
+    "raw_quote": " South Pole."
+  },
+  {
+    "timecode": "13:45",
+    "speaker": "Fletcher Christian",
+    "quote": " Oh boy, do I suck.",
+    "directions": [],
+    "raw_quote": " Oh boy, do I suck."
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "Jimbo Jones",
+    "quote": " Yeah.",
+    "directions": [],
+    "raw_quote": " Yeah."
+  },
+  {
+    "timecode": "13:54",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "The Frying Dutchman: Ext. frying dutchman - evening - establishing"
+    ],
+    "raw_quote": "(The Frying Dutchman: Ext. frying dutchman - evening - establishing)"
+  },
+  {
+    "timecode": "13:54",
+    "speaker": "Lisa Simpson",
+    "quote": " I'm starting to think the Sea Captain isn't coming back.",
+    "directions": [],
+    "raw_quote": " I'm starting to think the Sea Captain isn't coming back."
+  },
+  {
+    "timecode": "13:58",
+    "speaker": "Bart Simpson",
+    "quote": " He's out there playin' basketball!",
+    "directions": [
+      "POINTING OUT WINDOW"
+    ],
+    "raw_quote": " (POINTING OUT WINDOW) He's out there playin' basketball!"
+  },
+  {
+    "timecode": "14:03",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " In your face, Julio.",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " (LAUGHS) In your face, Julio."
+  },
+  {
+    "timecode": "14:06",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " I'll be fetchin' yer food right away. Six more games.",
+    "directions": [
+      "TO ANOTHER BUSBOY, QUIET"
+    ],
+    "raw_quote": " I'll be fetchin' yer food right away. (TO ANOTHER BUSBOY, QUIET) Six more games."
+  },
+  {
+    "timecode": "14:11",
+    "speaker": "Homer Simpson",
+    "quote": " Well, I guess we have time for my tale of moist adventure. It takes place in a dark time for mankind when madness and ignorance ruled: \"the nineteen seventies.\"",
+    "directions": [],
+    "raw_quote": " Well, I guess we have time for my tale of moist adventure. It takes place in a dark time for mankind when madness and ignorance ruled: \"the nineteen seventies.\""
+  },
+  {
+    "timecode": "14:30",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ocean: ext. ocean - night"
+    ],
+    "raw_quote": "(Ocean: ext. ocean - night)"
+  },
+  {
+    "timecode": "14:30",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "GRAND BALLROOM: int. grand ballroom - continuous"
+    ],
+    "raw_quote": "(GRAND BALLROOM: int. grand ballroom - continuous)"
+  },
+  {
+    "timecode": "14:30",
+    "speaker": "Disco Stu",
+    "quote": " Disco Stu has some troubling news.",
+    "directions": [],
+    "raw_quote": " Disco Stu has some troubling news."
+  },
+  {
+    "timecode": "",
+    "speaker": "Crowd",
+    "quote": " ",
+    "directions": [
+      "WORRIED NOISE"
+    ],
+    "raw_quote": " (WORRIED NOISE)"
+  },
+  {
+    "timecode": "14:35",
+    "speaker": "Disco Stu",
+    "quote": " The ship's doctor has reported an outbreak of -- disco fever! The only cure is to do a little dance... make a little love... get down tonight!",
+    "directions": [],
+    "raw_quote": " The ship's doctor has reported an outbreak of -- disco fever! The only cure is to do a little dance... make a little love... get down tonight!"
+  },
+  {
+    "timecode": "14:45",
+    "speaker": "Lenny Leonard",
+    "quote": " Wait a minute -- what was the second one?",
+    "directions": [
+      "WRITING DOWN"
+    ],
+    "raw_quote": " (WRITING DOWN) Wait a minute -- what was the second one?"
+  },
+  {
+    "timecode": "14:46",
+    "speaker": "Disco Stu",
+    "quote": " And now let's welcome the Leroy Neiman of seamen, your Captain, Montgomery Burns!",
+    "directions": [],
+    "raw_quote": " And now let's welcome the Leroy Neiman of seamen, your Captain, Montgomery Burns!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Crowd",
+    "quote": " ",
+    "directions": [
+      "CHEERS"
+    ],
+    "raw_quote": " (CHEERS)"
+  },
+  {
+    "timecode": "14:57",
+    "speaker": "Lenny Leonard",
+    "quote": " Ten-four, good buddy!",
+    "directions": [],
+    "raw_quote": " Ten-four, good buddy!"
+  },
+  {
+    "timecode": "14:59",
+    "speaker": "Carl Carlson",
+    "quote": " I'm Chevy Chase and you're not!",
+    "directions": [],
+    "raw_quote": " I'm Chevy Chase and you're not!"
+  },
+  {
+    "timecode": "15:01",
+    "speaker": "Barney Gumble",
+    "quote": " Willie Stargell!",
+    "directions": [],
+    "raw_quote": " Willie Stargell!"
+  },
+  {
+    "timecode": "15:03",
+    "speaker": "Capt. Burns",
+    "quote": " Yes, welcome to the maiden voyage of the Neptune, the world's most unflippable luxury liner!",
+    "directions": [],
+    "raw_quote": " Yes, welcome to the maiden voyage of the Neptune, the world's most unflippable luxury liner!"
+  },
+  {
+    "timecode": "15:09",
+    "speaker": "Capt. Burns",
+    "quote": " Help yourselves to some pineapple upside-down cake and apple turnovers. And you'll all be getting free hats...so make sure to give us your cap size!",
+    "directions": [],
+    "raw_quote": " Help yourselves to some pineapple upside-down cake and apple turnovers. And you'll all be getting free hats...so make sure to give us your cap size!"
+  },
+  {
+    "timecode": "15:21",
+    "speaker": "Marge Simpson",
+    "quote": " What a fascinating cross-section of humanity! You've got the lonely but loveable loser...",
+    "directions": [
+      "GESTURES TO COMIC BOOK GUY"
+    ],
+    "raw_quote": " What a fascinating cross-section of humanity! (GESTURES TO COMIC BOOK GUY) You've got the lonely but loveable loser..."
+  },
+  {
+    "timecode": "15:27",
+    "speaker": "Comic Book Guy",
+    "quote": " Hello, Angels. Your mission today involves going undercover at a wet t-shirt contest. Let's get you wet.",
+    "directions": [],
+    "raw_quote": " Hello, Angels. Your mission today involves going undercover at a wet t-shirt contest. Let's get you wet."
+  },
+  {
+    "timecode": "15:36",
+    "speaker": "Marge Simpson",
+    "quote": " Maybe not so loveable...",
+    "directions": [],
+    "raw_quote": " Maybe not so loveable..."
+  },
+  {
+    "timecode": "15:38",
+    "speaker": "Lisa Simpson",
+    "quote": " ...and you've got the elderly Jewish couple making their first trip to Israel.",
+    "directions": [],
+    "raw_quote": " ...and you've got the elderly Jewish couple making their first trip to Israel."
+  },
+  {
+    "timecode": "15:41",
+    "speaker": "Old Jewish Woman",
+    "quote": " Our son Shlomo is working on a kibbutz in Haifa -- we're schlepping him some kreplach.",
+    "directions": [],
+    "raw_quote": " Our son Shlomo is working on a kibbutz in Haifa -- we're schlepping him some kreplach."
+  },
+  {
+    "timecode": "15:48",
+    "speaker": "Old Jewish Man",
+    "quote": " We're Jewish all right!",
+    "directions": [],
+    "raw_quote": " We're Jewish all right!"
+  },
+  {
+    "timecode": "15:50",
+    "speaker": "Bart Simpson",
+    "quote": " What's our back story? What's our back story?",
+    "directions": [
+      "EAGER"
+    ],
+    "raw_quote": " (EAGER) What's our back story? What's our back story?"
+  },
+  {
+    "timecode": "15:52",
+    "speaker": "Lisa Simpson",
+    "quote": " We're the band. And we're on!",
+    "directions": [],
+    "raw_quote": " We're the band. And we're on!"
+  },
+  {
+    "timecode": "15:57",
+    "speaker": "Lisa Simpson",
+    "quote": " I THINK WE'RE HEADING FOR DISASTER / AND MOST OF YOU WILL NOT BE SAVED...",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) I THINK WE'RE HEADING FOR DISASTER / AND MOST OF YOU WILL NOT BE SAVED..."
+  },
+  {
+    "timecode": "16:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Bridge: Int. bridge - continuous"
+    ],
+    "raw_quote": "(Bridge: Int. bridge - continuous)"
+  },
+  {
+    "timecode": "16:06",
+    "speaker": "Lisa Simpson",
+    "quote": " UNLESS THE CAPTAIN IS ATTENTIVE / WE'LL ALL BE CRUSHED BY A HUGE WAVE...",
+    "directions": [],
+    "raw_quote": " UNLESS THE CAPTAIN IS ATTENTIVE / WE'LL ALL BE CRUSHED BY A HUGE WAVE..."
+  },
+  {
+    "timecode": "16:16",
+    "speaker": "Capt. Burns",
+    "quote": " I love the sea, Smithers. No earthquakes, towering infernos, China syndromes, apple dumpling gangs...",
+    "directions": [],
+    "raw_quote": " I love the sea, Smithers. No earthquakes, towering infernos, China syndromes, apple dumpling gangs..."
+  },
+  {
+    "timecode": "16:36",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "GRAND BALLROOM: int. grand ballroom - continuous"
+    ],
+    "raw_quote": "(GRAND BALLROOM: int. grand ballroom - continuous)"
+  },
+  {
+    "timecode": "16:36",
+    "speaker": "Homer Simpson",
+    "quote": " My wig! I mean, my natural hair!",
+    "directions": [],
+    "raw_quote": " My wig! I mean, my natural hair!"
+  },
+  {
+    "timecode": "16:38",
+    "speaker": "Luigi",
+    "quote": " Mama Mia, what a time to be carrying the soup.",
+    "directions": [],
+    "raw_quote": " Mama Mia, what a time to be carrying the soup."
+  },
+  {
+    "timecode": "16:41",
+    "speaker": "Bart Simpson",
+    "quote": " Cool! No gravity!",
+    "directions": [],
+    "raw_quote": " Cool! No gravity!"
+  },
+  {
+    "timecode": "16:45",
+    "speaker": "Bart Simpson",
+    "quote": " Oh, there it is.",
+    "directions": [
+      "UNHAPPY"
+    ],
+    "raw_quote": " (UNHAPPY) Oh, there it is."
+  },
+  {
+    "timecode": "16:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ship: Ext. ship - continuous"
+    ],
+    "raw_quote": "(Ship: Ext. ship - continuous)"
+  },
+  {
+    "timecode": "16:50",
+    "speaker": "Krusty the Clown",
+    "quote": " Hey, you schmuck -- get off-a me!",
+    "directions": [],
+    "raw_quote": " Hey, you schmuck -- get off-a me!"
+  },
+  {
+    "timecode": "16:53",
+    "speaker": "Krusty the Clown",
+    "quote": " Goin' out with a sight gag. Nice.",
+    "directions": [],
+    "raw_quote": " Goin' out with a sight gag. Nice."
+  },
+  {
+    "timecode": "17:00",
+    "speaker": "Homer Simpson",
+    "quote": " I've got an idea: climb into my mouth.",
+    "directions": [],
+    "raw_quote": " I've got an idea: climb into my mouth."
+  },
+  {
+    "timecode": "17:06",
+    "speaker": "Homer Simpson",
+    "quote": " Nooooo!",
+    "directions": [],
+    "raw_quote": " Nooooo!"
+  },
+  {
+    "timecode": "17:10",
+    "speaker": "Homer Simpson",
+    "quote": " Catch me, Flanders!",
+    "directions": [],
+    "raw_quote": " Catch me, Flanders!"
+  },
+  {
+    "timecode": "17:14",
+    "speaker": "Ned Flanders",
+    "quote": " Lord, with you watching over me I shall feel no pain.",
+    "directions": [
+      "HOLDING OUT ARMS"
+    ],
+    "raw_quote": " (HOLDING OUT ARMS) Lord, with you watching over me I shall feel no pain."
+  },
+  {
+    "timecode": "",
+    "speaker": "Ned Flanders",
+    "quote": " ",
+    "directions": [
+      "INCREDIBLY ANGUISHED NOISE"
+    ],
+    "raw_quote": " (INCREDIBLY ANGUISHED NOISE)"
+  },
+  {
+    "timecode": "17:21",
+    "speaker": "Homer Simpson",
+    "quote": " Woo hoo! It's almost New Year's! Ten... nine... eight...",
+    "directions": [
+      "CHECKS WATCH"
+    ],
+    "raw_quote": " (CHECKS WATCH) Woo hoo! It's almost New Year's! Ten... nine... eight..."
+  },
+  {
+    "timecode": "17:26",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, the ship's upside down and hundreds of people are dead!",
+    "directions": [],
+    "raw_quote": " Homer, the ship's upside down and hundreds of people are dead!"
+  },
+  {
+    "timecode": "17:29",
+    "speaker": "Homer Simpson",
+    "quote": " ...three... two... one... Happy New Year! My resolution is to be more fun!",
+    "directions": [
+      "BLOWS LITTLE HORN"
+    ],
+    "raw_quote": " ...three... two... one... Happy New Year! (BLOWS LITTLE HORN) My resolution is to be more fun!"
+  },
+  {
+    "timecode": "17:38",
+    "speaker": "Selma Bouvier",
+    "quote": " Attention, everyone! I've spent the entire cruise reading these maintenance brochures because as a lonely single woman, I've had nothing better to do.",
+    "directions": [
+      "FANS OUT BROCHURES"
+    ],
+    "raw_quote": " Attention, everyone! I've spent the entire cruise reading these maintenance brochures (FANS OUT BROCHURES) because as a lonely single woman, I've had nothing better to do."
+  },
+  {
+    "timecode": "",
+    "speaker": "Surviving Men",
+    "quote": " ",
+    "directions": [
+      "SYMPATHETIC AWWW'S"
+    ],
+    "raw_quote": " (SYMPATHETIC AWWW'S)"
+  },
+  {
+    "timecode": "17:48",
+    "speaker": "Selma Bouvier",
+    "quote": " Aws are cheap, I'm lookin' for some action.",
+    "directions": [],
+    "raw_quote": " Aws are cheap, I'm lookin' for some action."
+  },
+  {
+    "timecode": "17:53",
+    "speaker": "Selma Bouvier",
+    "quote": " I thought so. It says here we should head upwards towards the hull before the ocean starts filling the ship.",
+    "directions": [
+      "READING"
+    ],
+    "raw_quote": " I thought so. (READING) It says here we should head upwards towards the hull before the ocean starts filling the ship."
+  },
+  {
+    "timecode": "17:59",
+    "speaker": "CHIEF PETTY OFFICER WIGGUM",
+    "quote": " Don't listen to her! She'll get us all killed! The safest thing to do is to resume our normal activities. Now where is the rumba instructor?",
+    "directions": [],
+    "raw_quote": " Don't listen to her! She'll get us all killed! The safest thing to do is to resume our normal activities. Now where is the rumba instructor?"
+  },
+  {
+    "timecode": "18:07",
+    "speaker": "C.P.O. Wiggum",
+    "quote": " Okay, so that's left, left right. C'mon, people. ",
+    "directions": [
+      "HUMS RUMBA TUNE, DANCES"
+    ],
+    "raw_quote": " Okay, so that's left, left right. C'mon, people. (HUMS RUMBA TUNE, DANCES)"
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "UPSIDE-DOWN SHIP: Ext. upside-down ship - establishing"
+    ],
+    "raw_quote": "(UPSIDE-DOWN SHIP: Ext. upside-down ship - establishing)"
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ship: Int. ship - passageway - continuous"
+    ],
+    "raw_quote": "(Ship: Int. ship - passageway - continuous)"
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "Old Jewish Man",
+    "quote": " So, now which way do we go now in this fakakta flippity ship?",
+    "directions": [],
+    "raw_quote": " So, now which way do we go now in this fakakta flippity ship?"
+  },
+  {
+    "timecode": "18:26",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, what should we do?",
+    "directions": [],
+    "raw_quote": " Homer, what should we do?"
+  },
+  {
+    "timecode": "18:28",
+    "speaker": "Homer Simpson",
+    "quote": " Uh, gimme a second, I'm in the bathroom.",
+    "directions": [],
+    "raw_quote": " Uh, gimme a second, I'm in the bathroom."
+  },
+  {
+    "timecode": "18:32",
+    "speaker": "Homer Simpson",
+    "quote": " What? I have great ass suction. Now how 'bout a little privacy?",
+    "directions": [],
+    "raw_quote": " What? I have great ass suction. Now how 'bout a little privacy?"
+  },
+  {
+    "timecode": "18:39",
+    "speaker": "Homer Simpson",
+    "quote": " My keys!",
+    "directions": [],
+    "raw_quote": " My keys!"
+  },
+  {
+    "timecode": "18:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "UPSIDE DOWN SHIP: Int. upside down ship - another area"
+    ],
+    "raw_quote": "(UPSIDE DOWN SHIP: Int. upside down ship - another area)"
+  },
+  {
+    "timecode": "18:42",
+    "speaker": "Lenny Leonard",
+    "quote": " Whatever you do, don't look down! I mean up! I can't do this anymore, it's too confusing!",
+    "directions": [
+      "THEN PANICKY"
+    ],
+    "raw_quote": " Whatever you do, don't look down! I mean up! (THEN PANICKY) I can't do this anymore, it's too confusing!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Lenny Leonard",
+    "quote": " ",
+    "directions": [
+      "FALLING NOISE"
+    ],
+    "raw_quote": " (FALLING NOISE)"
+  },
+  {
+    "timecode": "18:50",
+    "speaker": "Carl Carlson",
+    "quote": " Not that confusing.",
+    "directions": [
+      "DISMISSIVE"
+    ],
+    "raw_quote": " (DISMISSIVE) Not that confusing."
+  },
+  {
+    "timecode": "18:51",
+    "speaker": "Lisa Simpson",
+    "quote": " This hatchway is jammed!",
+    "directions": [],
+    "raw_quote": " This hatchway is jammed!"
+  },
+  {
+    "timecode": "18:54",
+    "speaker": "Sideshow Mel",
+    "quote": " Move aside! I'll use my Swiss Army Bone!",
+    "directions": [],
+    "raw_quote": " Move aside! I'll use my Swiss Army Bone!"
+  },
+  {
+    "timecode": "19:07",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ship: Int. Ship - another area - moments later"
+    ],
+    "raw_quote": "(Ship: Int. Ship - another area - moments later)"
+  },
+  {
+    "timecode": "19:07",
+    "speaker": "Lisa Simpson",
+    "quote": " Okay, the engine room is just through this flooded area. Somebody has to take the rope, swim through to the other side, and tie it off so we can use it as an underwater guide line.",
+    "directions": [],
+    "raw_quote": " Okay, the engine room is just through this flooded area. Somebody has to take the rope, swim through to the other side, and tie it off so we can use it as an underwater guide line."
+  },
+  {
+    "timecode": "19:16",
+    "speaker": "Comic Book Guy",
+    "quote": " Stand aside. I shall perform the necessary heroics. Thank you!",
+    "directions": [
+      "GRABS ROPE"
+    ],
+    "raw_quote": " (GRABS ROPE) Stand aside. I shall perform the necessary heroics. Thank you!"
+  },
+  {
+    "timecode": "19:21",
+    "speaker": "Bart Simpson",
+    "quote": " You?",
+    "directions": [],
+    "raw_quote": " You?"
+  },
+  {
+    "timecode": "19:22",
+    "speaker": "Comic Book Guy",
+    "quote": " Yes. All I need is some inspirational music...",
+    "directions": [],
+    "raw_quote": " Yes. All I need is some inspirational music..."
+  },
+  {
+    "timecode": "19:28",
+    "speaker": "Gilbert O. Sullivan",
+    "quote": " AND WHEN SHE PASSED AWAY / I CRIED AND CRIED ALL DAY / ALONE AGAIN, NATURALLY / ALONE AGAIN...",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) AND WHEN SHE PASSED AWAY / I CRIED AND CRIED ALL DAY / ALONE AGAIN, NATURALLY / ALONE AGAIN..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Comic Book Guy",
+    "quote": " ",
+    "directions": [
+      "STARTS SOBBING"
+    ],
+    "raw_quote": " (STARTS SOBBING)"
+  },
+  {
+    "timecode": "19:38",
+    "speaker": "Homer Simpson",
+    "quote": " All right, I can see this is all up to me.",
+    "directions": [],
+    "raw_quote": " All right, I can see this is all up to me."
+  },
+  {
+    "timecode": "19:41",
+    "speaker": "Homer Simpson",
+    "quote": " Swim, fatty, swim!",
+    "directions": [],
+    "raw_quote": " Swim, fatty, swim!"
+  },
+  {
+    "timecode": "19:44",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, Homie, you did it!",
+    "directions": [
+      "HUGS HOMER"
+    ],
+    "raw_quote": " (HUGS HOMER) Oh, Homie, you did it!"
+  },
+  {
+    "timecode": "20:05",
+    "speaker": "Comic Book Guy",
+    "quote": " I've tied it off. You're all going to make it. Tell the world... that I saved you all. ",
+    "directions": [
+      "HEART ATTACK NOISES",
+      "DIES"
+    ],
+    "raw_quote": " I've tied it off. You're all going to make it. (HEART ATTACK NOISES) Tell the world... that I saved you all. (DIES)"
+  },
+  {
+    "timecode": "20:13",
+    "speaker": "Homer Simpson",
+    "quote": " Don't tell me what to do.",
+    "directions": [],
+    "raw_quote": " Don't tell me what to do."
+  },
+  {
+    "timecode": "20:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "ENGINE ROOM: Int. engine room - moments later"
+    ],
+    "raw_quote": "(ENGINE ROOM: Int. engine room - moments later)"
+  },
+  {
+    "timecode": "20:18",
+    "speaker": "Sideshow Mel",
+    "quote": " I hear knocking! We're saved!",
+    "directions": [],
+    "raw_quote": " I hear knocking! We're saved!"
+  },
+  {
+    "timecode": "20:27",
+    "speaker": "Sideshow Mel",
+    "quote": " I don't know which pains me more, the flame or the irony! Can you believe it's the irony?",
+    "directions": [
+      "COLLAPSES"
+    ],
+    "raw_quote": " I don't know which pains me more, the flame or the irony! (COLLAPSES) Can you believe it's the irony?"
+  },
+  {
+    "timecode": "20:40",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ocean: Ext. ocean - day"
+    ],
+    "raw_quote": "(Ocean: Ext. ocean - day)"
+  },
+  {
+    "timecode": "20:40",
+    "speaker": "Homer Simpson",
+    "quote": " Oh my God, our boat is upside down!",
+    "directions": [],
+    "raw_quote": " Oh my God, our boat is upside down!"
+  },
+  {
+    "timecode": "20:50",
+    "speaker": "Fletcher Christian",
+    "quote": " Do you guys know the way to Tahiti?",
+    "directions": [
+      "CALLING DOWN TO \"THE NEPTUNE\""
+    ],
+    "raw_quote": " (CALLING DOWN TO \"THE NEPTUNE\") Do you guys know the way to Tahiti?"
+  },
+  {
+    "timecode": "20:52",
+    "speaker": "DOLPH",
+    "quote": " Way to go, genius. You sailed into someone else's tale of the sea.",
+    "directions": [],
+    "raw_quote": " Way to go, genius. You sailed into someone else's tale of the sea."
+  },
+  {
+    "timecode": "20:56",
+    "speaker": "Fletcher Christian",
+    "quote": " At least I'm not gay for skeleton Kearney.",
+    "directions": [],
+    "raw_quote": " At least I'm not gay for skeleton Kearney."
+  },
+  {
+    "timecode": "20:59",
+    "speaker": "Jimbo Jones",
+    "quote": " Our ribs got tangled seventy-five years ago. That's not gay!",
+    "directions": [],
+    "raw_quote": " Our ribs got tangled seventy-five years ago. That's not gay!"
+  },
+  {
+    "timecode": "21:03",
+    "speaker": "Fletcher Christian",
+    "quote": " Right, you keep believin' that.",
+    "directions": [],
+    "raw_quote": " Right, you keep believin' that."
+  }
+]

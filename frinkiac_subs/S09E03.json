@@ -1,0 +1,2389 @@
+[
+  {
+    "timecode": "01:24",
+    "speaker": "Homer Simpson",
+    "quote": " BOY THE WAY THE BEE GEES PLAYED...",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) BOY THE WAY THE BEE GEES PLAYED..."
+  },
+  {
+    "timecode": "01:27",
+    "speaker": "Marge Simpson",
+    "quote": " MOVIES JOHN TRAVOLTA MADE...",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) MOVIES JOHN TRAVOLTA MADE..."
+  },
+  {
+    "timecode": "01:30",
+    "speaker": "Homer Simpson",
+    "quote": " GUESSING HOW MUCH ELVIS WEIGHED...",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) GUESSING HOW MUCH ELVIS WEIGHED..."
+  },
+  {
+    "timecode": "01:33",
+    "speaker": "Marge Simpson",
+    "quote": " THOSE WERE THE DAYS.",
+    "directions": [
+      "SING"
+    ],
+    "raw_quote": " (SING) THOSE WERE THE DAYS."
+  },
+  {
+    "timecode": "01:36",
+    "speaker": "Marge Simpson",
+    "quote": " AND YOU KNEW WHERE YOU WERE THEN...",
+    "directions": [
+      "VOICE CRACKS"
+    ],
+    "raw_quote": " (VOICE CRACKS) AND YOU KNEW WHERE YOU WERE THEN..."
+  },
+  {
+    "timecode": "01:40",
+    "speaker": "Homer Simpson",
+    "quote": " WATCHING SHOWS LIKE GENTLE BEN...",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) WATCHING SHOWS LIKE GENTLE BEN..."
+  },
+  {
+    "timecode": "01:43",
+    "speaker": "Homer Simpson",
+    "quote": " MISTER, WE COULD USE A MAN LIKE SHERIFF LOBO AGAIN.",
+    "directions": [
+      "SING"
+    ],
+    "raw_quote": " (SING) MISTER, WE COULD USE A MAN LIKE SHERIFF LOBO AGAIN."
+  },
+  {
+    "timecode": "01:49",
+    "speaker": "Homer Simpson",
+    "quote": " DISCO DUCK AND FLEETWOOD MAC...",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) DISCO DUCK AND FLEETWOOD MAC..."
+  },
+  {
+    "timecode": "01:52",
+    "speaker": "Marge Simpson",
+    "quote": " COMING OUT OF MY EIGHT-TRACK...",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) COMING OUT OF MY EIGHT-TRACK..."
+  },
+  {
+    "timecode": "01:55",
+    "speaker": "Marge Simpson",
+    "quote": " MICHAEL JACKSON STILL WAS BLACK...",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) MICHAEL JACKSON STILL WAS BLACK..."
+  },
+  {
+    "timecode": "02:00",
+    "speaker": "Marge Simpson",
+    "quote": " THOSE WERE THE DAYS.",
+    "directions": [
+      "SING"
+    ],
+    "raw_quote": " (SING) THOSE WERE THE DAYS."
+  },
+  {
+    "timecode": "02:09",
+    "speaker": "Announcer",
+    "quote": " The Simpsons is filmed in front of a live studio audience.",
+    "directions": [],
+    "raw_quote": " The Simpsons is filmed in front of a live studio audience."
+  },
+  {
+    "timecode": "02:14",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson House - Living Room - day"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson House - Living Room - day)"
+  },
+  {
+    "timecode": "02:14",
+    "speaker": "Homer Simpson",
+    "quote": " Hey there, Meathead. What are you watchin'?",
+    "directions": [
+      "FRIENDLY"
+    ],
+    "raw_quote": " (FRIENDLY) Hey there, Meathead. What are you watchin'?"
+  },
+  {
+    "timecode": "02:16",
+    "speaker": "Bart Simpson",
+    "quote": " Oh, I thought I'd check out the Warner Brothers Network.",
+    "directions": [],
+    "raw_quote": " Oh, I thought I'd check out the Warner Brothers Network."
+  },
+  {
+    "timecode": "02:18",
+    "speaker": "Frog",
+    "quote": " WE'RE PROUD TO PRESENT / ON THE WB / ANOTHER BAD SHOW / THAT NO ONE WILL SEEEEE! I NEED A DRINK.",
+    "directions": [
+      "SINGING",
+      "BITTERLY SPOKEN"
+    ],
+    "raw_quote": " (SINGING) WE'RE PROUD TO PRESENT / ON THE WB / ANOTHER BAD SHOW / THAT NO ONE WILL SEEEEE! (BITTERLY SPOKEN) I NEED A DRINK."
+  },
+  {
+    "timecode": "02:28",
+    "speaker": "Announcer",
+    "quote": " It's the TV movie of the year! \"The Krusty the clown Story: Booze, Drugs, Guns, Lies, Blackmail And Laughter.\"",
+    "directions": [],
+    "raw_quote": " It's the TV movie of the year! \"The Krusty the clown Story: Booze, Drugs, Guns, Lies, Blackmail And Laughter.\""
+  },
+  {
+    "timecode": "02:37",
+    "speaker": "Announcer",
+    "quote": " Starring Fyvush Finkel as Krusty the Clown.",
+    "directions": [],
+    "raw_quote": " Starring Fyvush Finkel as Krusty the Clown."
+  },
+  {
+    "timecode": "02:43",
+    "speaker": "\"Krusty\"",
+    "quote": " I went through a five year orgy of non-stop pills and booze with nothing to show for it but four Emmys and a Peabody Award! ",
+    "directions": [
+      "UNHAPPY NOISE"
+    ],
+    "raw_quote": " I went through a five year orgy of non-stop pills and booze with nothing to show for it but four Emmys and a Peabody Award! (UNHAPPY NOISE)"
+  },
+  {
+    "timecode": "02:55",
+    "speaker": "Bart Simpson",
+    "quote": " All right! They're gonna show his disastrous marriage to Mia Farrow!",
+    "directions": [],
+    "raw_quote": " All right! They're gonna show his disastrous marriage to Mia Farrow!"
+  },
+  {
+    "timecode": "02:58",
+    "speaker": "\"Krusty\"",
+    "quote": " Chan Ho--your mother Mia and I are getting a divorce.",
+    "directions": [],
+    "raw_quote": " Chan Ho--your mother Mia and I are getting a divorce."
+  },
+  {
+    "timecode": "03:03",
+    "speaker": "Asian Boy",
+    "quote": " Chan Ho is over there. I am Chin Ho.",
+    "directions": [
+      "POINTS"
+    ],
+    "raw_quote": " (POINTS) Chan Ho is over there. I am Chin Ho."
+  },
+  {
+    "timecode": "03:07",
+    "speaker": "\"Krusty\"",
+    "quote": " Whoever you are, just pass it along, kid.",
+    "directions": [],
+    "raw_quote": " Whoever you are, just pass it along, kid."
+  },
+  {
+    "timecode": "03:11",
+    "speaker": "Homer Simpson",
+    "quote": " What a bad father.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) What a bad father."
+  },
+  {
+    "timecode": "03:15",
+    "speaker": "Homer Simpson",
+    "quote": " Lisa, knock off that racket!",
+    "directions": [],
+    "raw_quote": " Lisa, knock off that racket!"
+  },
+  {
+    "timecode": "03:18",
+    "speaker": "Lisa Simpson",
+    "quote": " But Dad, I'm supposed to practice an hour a day!",
+    "directions": [],
+    "raw_quote": " But Dad, I'm supposed to practice an hour a day!"
+  },
+  {
+    "timecode": "03:21",
+    "speaker": "Homer Simpson",
+    "quote": " I'll practice you!",
+    "directions": [
+      "ANGRY"
+    ],
+    "raw_quote": " (ANGRY) I'll practice you!"
+  },
+  {
+    "timecode": "03:22",
+    "speaker": "Lisa Simpson",
+    "quote": " You'll practice me? What does that mean? Is it supposed to be some sort of threat?",
+    "directions": [],
+    "raw_quote": " You'll practice me? What does that mean? Is it supposed to be some sort of threat?"
+  },
+  {
+    "timecode": "03:27",
+    "speaker": "Homer Simpson",
+    "quote": " Bart, make her stop.",
+    "directions": [
+      "FRUSTRATED"
+    ],
+    "raw_quote": " (FRUSTRATED) Bart, make her stop."
+  },
+  {
+    "timecode": "03:31",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Lisa's Bedroom: Int. Lisa's room - continuous"
+    ],
+    "raw_quote": "(Lisa's Bedroom: Int. Lisa's room - continuous)"
+  },
+  {
+    "timecode": "03:31",
+    "speaker": "Lisa Simpson",
+    "quote": " Look, Bart. I have to practice my saxophone and you can't stop me.",
+    "directions": [],
+    "raw_quote": " Look, Bart. I have to practice my saxophone and you can't stop me."
+  },
+  {
+    "timecode": "03:35",
+    "speaker": "Bart Simpson",
+    "quote": " Oh yeah? My dear Lisa, you are eight and I am ten. And in my two extra years on this planet, I've learned a few tricks. Gimme that sax!",
+    "directions": [
+      "COOLLY",
+      "BEAT, THEN DESPERATE"
+    ],
+    "raw_quote": " Oh yeah? (COOLLY) My dear Lisa, you are eight and I am ten. And in my two extra years on this planet, I've learned a few tricks. (BEAT, THEN DESPERATE) Gimme that sax!"
+  },
+  {
+    "timecode": "03:45",
+    "speaker": "Lisa Simpson",
+    "quote": " No!",
+    "directions": [],
+    "raw_quote": " No!"
+  },
+  {
+    "timecode": "03:45",
+    "speaker": "Bart Simpson",
+    "quote": " I said gimme!",
+    "directions": [],
+    "raw_quote": " I said gimme!"
+  },
+  {
+    "timecode": "03:47",
+    "speaker": "Lisa Simpson",
+    "quote": " I said no!",
+    "directions": [],
+    "raw_quote": " I said no!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "GASPS"
+    ],
+    "raw_quote": " (GASPS)"
+  },
+  {
+    "timecode": "04:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Street: Ext. street - continuous"
+    ],
+    "raw_quote": "(Street: Ext. street - continuous)"
+  },
+  {
+    "timecode": "04:06",
+    "speaker": "Nelson Muntz",
+    "quote": " Haw haw!",
+    "directions": [],
+    "raw_quote": " Haw haw!"
+  },
+  {
+    "timecode": "04:17",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson House - Living Room - a little later"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson House - Living Room - a little later)"
+  },
+  {
+    "timecode": "04:17",
+    "speaker": "Homer Simpson",
+    "quote": " Aw, Lisa, it doesn't look so bad.",
+    "directions": [],
+    "raw_quote": " Aw, Lisa, it doesn't look so bad."
+  },
+  {
+    "timecode": "04:20",
+    "speaker": "Lisa Simpson",
+    "quote": " Oh yeah?",
+    "directions": [
+      "SNIFFLES"
+    ],
+    "raw_quote": " (SNIFFLES) Oh yeah?"
+  },
+  {
+    "timecode": "04:23",
+    "speaker": "Homer Simpson",
+    "quote": " Lisa, honey, if it'll make you feel better I'll destroy something Bart loves.",
+    "directions": [
+      "DISGUSTED NOISE",
+      "SWEETLY"
+    ],
+    "raw_quote": " (DISGUSTED NOISE)(SWEETLY) Lisa, honey, if it'll make you feel better I'll destroy something Bart loves."
+  },
+  {
+    "timecode": "04:27",
+    "speaker": "Bart Simpson",
+    "quote": " Hey!",
+    "directions": [],
+    "raw_quote": " Hey!"
+  },
+  {
+    "timecode": "04:28",
+    "speaker": "Homer Simpson",
+    "quote": " Don't worry, son. If that bothers you, I'll destroy something Maggie loves.",
+    "directions": [
+      "SAGELY"
+    ],
+    "raw_quote": " (SAGELY) Don't worry, son. If that bothers you, I'll destroy something Maggie loves."
+  },
+  {
+    "timecode": "04:34",
+    "speaker": "Lisa Simpson",
+    "quote": " Dad, you don't understand. This saxophone is like my oldest friend. I've had it for as long as I can remember.",
+    "directions": [
+      "SNIFFLES"
+    ],
+    "raw_quote": " Dad, you don't understand. (SNIFFLES) This saxophone is like my oldest friend. I've had it for as long as I can remember."
+  },
+  {
+    "timecode": "04:40",
+    "speaker": "Homer Simpson",
+    "quote": " You don't remember how you got it?",
+    "directions": [],
+    "raw_quote": " You don't remember how you got it?"
+  },
+  {
+    "timecode": "04:42",
+    "speaker": "Lisa Simpson",
+    "quote": " Nuh-uh.",
+    "directions": [
+      "SNIFFLES",
+      "SHAKES HEAD"
+    ],
+    "raw_quote": " (SNIFFLES)(SHAKES HEAD) Nuh-uh."
+  },
+  {
+    "timecode": "04:43",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, well, it all happened in 1990. Back then, the artist formerly known as Prince was currently known as Prince. Tracey Ullman was entertaining America with songs, sketches, and crudely-drawn filler material. And Bart was eagerly awaiting his first day of school...",
+    "directions": [],
+    "raw_quote": " Oh, well, it all happened in 1990. Back then, the artist formerly known as Prince was currently known as Prince. Tracey Ullman was entertaining America with songs, sketches, and crudely-drawn filler material. And Bart was eagerly awaiting his first day of school..."
+  },
+  {
+    "timecode": "05:09",
+    "speaker": "Lisa Simpson",
+    "quote": " Look, Mama!",
+    "directions": [],
+    "raw_quote": " Look, Mama!"
+  },
+  {
+    "timecode": "05:10",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, honey, I can't right now. Bart's gonna be late!",
+    "directions": [],
+    "raw_quote": " Oh, honey, I can't right now. Bart's gonna be late!"
+  },
+  {
+    "timecode": "05:17",
+    "speaker": "Homer Simpson",
+    "quote": " Now, son, on your first day of school, I'd like to pass along the words of advice my father gave me...",
+    "directions": [],
+    "raw_quote": " Now, son, on your first day of school, I'd like to pass along the words of advice my father gave me..."
+  },
+  {
+    "timecode": "05:23",
+    "speaker": "Grampa Simpson",
+    "quote": " Homer, you're dumb as a mule and twice as ugly. If a strange man offers you a ride, I say take it!",
+    "directions": [],
+    "raw_quote": " Homer, you're dumb as a mule and twice as ugly. If a strange man offers you a ride, I say take it!"
+  },
+  {
+    "timecode": "05:30",
+    "speaker": "Homer Simpson",
+    "quote": " Lousy traumatic childhood.",
+    "directions": [],
+    "raw_quote": " Lousy traumatic childhood."
+  },
+  {
+    "timecode": "05:33",
+    "speaker": "Marge Simpson",
+    "quote": " Ooh, there's the bus. Goodbye, sweetheart! ",
+    "directions": [
+      "GIVES BART A BIG KISS"
+    ],
+    "raw_quote": " Ooh, there's the bus. Goodbye, sweetheart! (GIVES BART A BIG KISS)"
+  },
+  {
+    "timecode": "05:37",
+    "speaker": "Bart Simpson",
+    "quote": " School will be fun!",
+    "directions": [
+      "HAPPY"
+    ],
+    "raw_quote": " (HAPPY) School will be fun!"
+  },
+  {
+    "timecode": "05:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: Ext. Springfield Elementary School - Day - Establishing"
+    ],
+    "raw_quote": "(Springfield Elementary School: Ext. Springfield Elementary School - Day - Establishing)"
+  },
+  {
+    "timecode": "05:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: Int. Springfield Elementary - auditorium - continuous"
+    ],
+    "raw_quote": "(Springfield Elementary School: Int. Springfield Elementary - auditorium - continuous)"
+  },
+  {
+    "timecode": "05:42",
+    "speaker": "Seymour Skinner",
+    "quote": " Welcome kindergartners. I'm Principal Sinner... Skinner.",
+    "directions": [
+      "CORRECTING"
+    ],
+    "raw_quote": " Welcome kindergartners. I'm Principal Sinner... (CORRECTING) Skinner."
+  },
+  {
+    "timecode": "",
+    "speaker": "Kids",
+    "quote": " ",
+    "directions": [
+      "LAUGH"
+    ],
+    "raw_quote": " (LAUGH)"
+  },
+  {
+    "timecode": "05:47",
+    "speaker": "Seymour Skinner",
+    "quote": " Well, that's it. I've lost them forever. Now I'd like to introduce you to Lunchlady Doris, who will serve you healthy, nutritious meals...",
+    "directions": [
+      "TO SELF",
+      "TO KIDS"
+    ],
+    "raw_quote": " (TO SELF) Well, that's it. I've lost them forever. (TO KIDS) Now I'd like to introduce you to Lunchlady Doris, who will serve you healthy, nutritious meals..."
+  },
+  {
+    "timecode": "05:55",
+    "speaker": "Lunchlady Doris",
+    "quote": " Yeah, right.",
+    "directions": [
+      "TO SELF"
+    ],
+    "raw_quote": " (TO SELF) Yeah, right."
+  },
+  {
+    "timecode": "05:57",
+    "speaker": "Seymour Skinner",
+    "quote": " ...Miss Phipps, the school nurse, who will provide ointments and unguents...and Jimbo, the school bully who will administer noogies and nipple twisters.",
+    "directions": [],
+    "raw_quote": " ...Miss Phipps, the school nurse, who will provide ointments and unguents...and Jimbo, the school bully who will administer noogies and nipple twisters."
+  },
+  {
+    "timecode": "06:04",
+    "speaker": "Jimbo Jones",
+    "quote": " I look forward to whaling on all of you.",
+    "directions": [],
+    "raw_quote": " I look forward to whaling on all of you."
+  },
+  {
+    "timecode": "06:08",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "CLASSROOM: Int. classroom - later"
+    ],
+    "raw_quote": "(CLASSROOM: Int. classroom - later)"
+  },
+  {
+    "timecode": "06:08",
+    "speaker": "Kids",
+    "quote": " THERE WAS A FARMER HAD A DOG / AND BINGO WAS HIS NAME-O!",
+    "directions": [
+      "SING"
+    ],
+    "raw_quote": " (SING) THERE WAS A FARMER HAD A DOG / AND BINGO WAS HIS NAME-O!"
+  },
+  {
+    "timecode": "06:12",
+    "speaker": "Bart Simpson",
+    "quote": " B-I- -O",
+    "directions": [
+      "SINGS, FAST",
+      "CLAP",
+      "CLAP"
+    ],
+    "raw_quote": " (SINGS, FAST) B-I-(CLAP) (CLAP)-O"
+  },
+  {
+    "timecode": "06:12",
+    "speaker": "Bart Simpson",
+    "quote": " B-I---O",
+    "directions": [
+      "CLAP",
+      "CLAP"
+    ],
+    "raw_quote": " B-I-(CLAP)-(CLAP)-O"
+  },
+  {
+    "timecode": "06:12",
+    "speaker": "Bart Simpson",
+    "quote": " B-I- ",
+    "directions": [
+      "CLAP",
+      "CLAP",
+      "CLAP"
+    ],
+    "raw_quote": " B-I-(CLAP) (CLAP) (CLAP)"
+  },
+  {
+    "timecode": "06:12",
+    "speaker": "Bart Simpson",
+    "quote": " AND BINGO WAS HIS NAME-O!",
+    "directions": [],
+    "raw_quote": " AND BINGO WAS HIS NAME-O!"
+  },
+  {
+    "timecode": "06:19",
+    "speaker": "Kindergarten Teacher",
+    "quote": " Added extra clap. Not college material.",
+    "directions": [
+      "WRITING IN PAD"
+    ],
+    "raw_quote": " (WRITING IN PAD) Added extra clap. Not college material."
+  },
+  {
+    "timecode": "06:22",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School Yard: Ext. Schoolyard - day"
+    ],
+    "raw_quote": "(Springfield Elementary School Yard: Ext. Schoolyard - day)"
+  },
+  {
+    "timecode": "06:22",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Hey! Wee Bairn! Hie ye hence from me heath! Can't ya understand English!",
+    "directions": [
+      "BART STILL SKIPS"
+    ],
+    "raw_quote": " Hey! Wee Bairn! Hie ye hence from me heath! (BART STILL SKIPS) Can't ya understand English!"
+  },
+  {
+    "timecode": "06:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson house - afternoon"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson house - afternoon)"
+  },
+  {
+    "timecode": "06:37",
+    "speaker": "Marge Simpson",
+    "quote": " Hi honey! How was your first day of school? Honey?",
+    "directions": [
+      "BEAT"
+    ],
+    "raw_quote": " Hi honey! How was your first day of school? (BEAT) Honey?"
+  },
+  {
+    "timecode": "06:46",
+    "speaker": "Homer Simpson",
+    "quote": " BART WAS FEELING MIGHTY BLUE...",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) BART WAS FEELING MIGHTY BLUE..."
+  },
+  {
+    "timecode": "06:49",
+    "speaker": "Marge Simpson",
+    "quote": " IT'S A SHAME WHAT SCHOOL CAN DO.",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) IT'S A SHAME WHAT SCHOOL CAN DO."
+  },
+  {
+    "timecode": "06:52",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " FOR NO REASON HERE'S APU --",
+    "directions": [
+      "IN WINDOW",
+      "SINGS"
+    ],
+    "raw_quote": " (IN WINDOW) (SINGS) FOR NO REASON HERE'S APU --"
+  },
+  {
+    "timecode": "06:57",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " THOSE WERE THE DAYYYYYS.",
+    "directions": [
+      "SING"
+    ],
+    "raw_quote": " (SING) THOSE WERE THE DAYYYYYS."
+  },
+  {
+    "timecode": "07:04",
+    "speaker": "Homer Simpson",
+    "quote": " And that, my children, is the story of Bart's first day of school.",
+    "directions": [
+      "CONCLUDING"
+    ],
+    "raw_quote": " (CONCLUDING) And that, my children, is the story of Bart's first day of school."
+  },
+  {
+    "timecode": "07:09",
+    "speaker": "Bart Simpson",
+    "quote": " Very nice.",
+    "directions": [],
+    "raw_quote": " Very nice."
+  },
+  {
+    "timecode": "07:10",
+    "speaker": "Homer Simpson",
+    "quote": " Yeah.",
+    "directions": [
+      "SMILING"
+    ],
+    "raw_quote": " (SMILING) Yeah."
+  },
+  {
+    "timecode": "07:11",
+    "speaker": "Lisa Simpson",
+    "quote": " Yeah. Except you were supposed to be telling the story of how I got my saxophone!",
+    "directions": [
+      "MAD"
+    ],
+    "raw_quote": " Yeah. (MAD) Except you were supposed to be telling the story of how I got my saxophone!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " (ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "07:23",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, I can't get the baby to burp. Could you try for a while?",
+    "directions": [],
+    "raw_quote": " Homer, I can't get the baby to burp. Could you try for a while?"
+  },
+  {
+    "timecode": "07:26",
+    "speaker": "Homer Simpson",
+    "quote": " No problem. I'll just give her a sip of beer. Come on Maggie -- it's Miller time! Yes-it's-Mil-ler-time!",
+    "directions": [
+      "TAKES MAGGIE",
+      "TRYING TO GET HER TO DRINK"
+    ],
+    "raw_quote": " No problem. (TAKES MAGGIE) I'll just give her a sip of beer. (TRYING TO GET HER TO DRINK) Come on Maggie -- it's Miller time! Yes-it's-Mil-ler-time!"
+  },
+  {
+    "timecode": "07:33",
+    "speaker": "Marge Simpson",
+    "quote": " Homer!",
+    "directions": [],
+    "raw_quote": " Homer!"
+  },
+  {
+    "timecode": "07:34",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, my father gave me beer as a child. Till I wrapped my little red wagon around a tree.",
+    "directions": [
+      "THINKS"
+    ],
+    "raw_quote": " Oh, my father gave me beer as a child. (THINKS) Till I wrapped my little red wagon around a tree."
+  },
+  {
+    "timecode": "07:45",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "PLAYGROUND: Ext. playground - day"
+    ],
+    "raw_quote": "(PLAYGROUND: Ext. playground - day)"
+  },
+  {
+    "timecode": "07:45",
+    "speaker": "Young Barney",
+    "quote": " Let's never drink again.",
+    "directions": [
+      "SOBERLY"
+    ],
+    "raw_quote": " (SOBERLY) Let's never drink again."
+  },
+  {
+    "timecode": "07:47",
+    "speaker": "Homer Simpson",
+    "quote": " And we never did.",
+    "directions": [],
+    "raw_quote": " And we never did."
+  },
+  {
+    "timecode": "07:50",
+    "speaker": "Lisa Simpson",
+    "quote": " Mom, can you tell me the story of how I got my saxophone and not have it turn into a story about Bart!",
+    "directions": [],
+    "raw_quote": " Mom, can you tell me the story of how I got my saxophone and not have it turn into a story about Bart!"
+  },
+  {
+    "timecode": "07:56",
+    "speaker": "Marge Simpson",
+    "quote": " Sure, honey. Bart had just completed his first day at school. And Bart just...",
+    "directions": [],
+    "raw_quote": " Sure, honey. Bart had just completed his first day at school. And Bart just..."
+  },
+  {
+    "timecode": "07:58",
+    "speaker": "Lisa Simpson",
+    "quote": " Mom!",
+    "directions": [],
+    "raw_quote": " Mom!"
+  },
+  {
+    "timecode": "08:02",
+    "speaker": "Bart Simpson",
+    "quote": " Hey, she's just giving the public what it wants. Bart by the barrel ful.",
+    "directions": [],
+    "raw_quote": " Hey, she's just giving the public what it wants. Bart by the barrel ful."
+  },
+  {
+    "timecode": "08:06",
+    "speaker": "Marge Simpson",
+    "quote": " Sorry, Lisa. It's just how the story goes. No matter what Bart tried, he just couldn't fit in at school.",
+    "directions": [],
+    "raw_quote": " Sorry, Lisa. It's just how the story goes. No matter what Bart tried, he just couldn't fit in at school."
+  },
+  {
+    "timecode": "08:14",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Bart's Classroom: Int. Bart's classroom - 1990 - day"
+    ],
+    "raw_quote": "(Bart's Classroom: Int. Bart's classroom - 1990 - day)"
+  },
+  {
+    "timecode": "08:14",
+    "speaker": "Bart Simpson",
+    "quote": " A, B, C... Uh... line?",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " (SINGS) A, B, C... Uh... line?"
+  },
+  {
+    "timecode": "08:17",
+    "speaker": "Kindergarten Teacher",
+    "quote": " D.",
+    "directions": [],
+    "raw_quote": " D."
+  },
+  {
+    "timecode": "08:17",
+    "speaker": "Bart Simpson",
+    "quote": " D, E... Um... line?",
+    "directions": [],
+    "raw_quote": " D, E... Um... line?"
+  },
+  {
+    "timecode": "08:21",
+    "speaker": "Kindergarten Teacher",
+    "quote": " F, Bart. And believe me, you'll be seeing plenty of 'em.",
+    "directions": [],
+    "raw_quote": " F, Bart. And believe me, you'll be seeing plenty of 'em."
+  },
+  {
+    "timecode": "08:27",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Bart's Bedroom: Int. Bart's bedroom - that evening"
+    ],
+    "raw_quote": "(Bart's Bedroom: Int. Bart's bedroom - that evening)"
+  },
+  {
+    "timecode": "08:27",
+    "speaker": "Marge Simpson",
+    "quote": " Bart, would you like to read a book?",
+    "directions": [],
+    "raw_quote": " Bart, would you like to read a book?"
+  },
+  {
+    "timecode": "08:31",
+    "speaker": "Bart Simpson",
+    "quote": " No.",
+    "directions": [],
+    "raw_quote": " No."
+  },
+  {
+    "timecode": "08:32",
+    "speaker": "Marge Simpson",
+    "quote": " Would you like to color something?",
+    "directions": [],
+    "raw_quote": " Would you like to color something?"
+  },
+  {
+    "timecode": "08:34",
+    "speaker": "Bart Simpson",
+    "quote": " I did.",
+    "directions": [],
+    "raw_quote": " I did."
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "REACTS"
+    ],
+    "raw_quote": " (REACTS)"
+  },
+  {
+    "timecode": "08:45",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson House - Living Room - evening - a little later"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson House - Living Room - evening - a little later)"
+  },
+  {
+    "timecode": "08:45",
+    "speaker": "Man On Tv",
+    "quote": " That's damn fine coffee you got here in Twin Peaks. And damn good cherry pie.",
+    "directions": [],
+    "raw_quote": " That's damn fine coffee you got here in Twin Peaks. And damn good cherry pie."
+  },
+  {
+    "timecode": "08:57",
+    "speaker": "Homer Simpson",
+    "quote": " Brilliant! I have absolutely no idea what's going on.",
+    "directions": [
+      "CHUCKLES",
+      "THEN, ADMITTING"
+    ],
+    "raw_quote": " Brilliant! (CHUCKLES) (THEN, ADMITTING) I have absolutely no idea what's going on."
+  },
+  {
+    "timecode": "09:03",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, I want you to look at this drawing Bart did.",
+    "directions": [],
+    "raw_quote": " Homer, I want you to look at this drawing Bart did."
+  },
+  {
+    "timecode": "09:06",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, it's beautiful! Oh! Oh, let's put Bart's beautiful drawing up on the fridge!",
+    "directions": [
+      "TOO BIG"
+    ],
+    "raw_quote": " (TOO BIG) Oh, it's beautiful! Oh! Oh, let's put Bart's beautiful drawing up on the fridge!"
+  },
+  {
+    "timecode": "09:12",
+    "speaker": "Marge Simpson",
+    "quote": " Homer stop! Would you please look at the drawing?",
+    "directions": [],
+    "raw_quote": " Homer stop! Would you please look at the drawing?"
+  },
+  {
+    "timecode": "09:16",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, all right. What a- Burn it! Send it to Hell!",
+    "directions": [
+      "PLEASANT",
+      "SCREAMS"
+    ],
+    "raw_quote": " (PLEASANT) Oh, all right. What a-(SCREAMS) Burn it! Send it to Hell!"
+  },
+  {
+    "timecode": "09:20",
+    "speaker": "Marge Simpson",
+    "quote": " I think we're going to have to get Bart some help.",
+    "directions": [],
+    "raw_quote": " I think we're going to have to get Bart some help."
+  },
+  {
+    "timecode": "09:23",
+    "speaker": "Homer Simpson",
+    "quote": " Get it away!",
+    "directions": [
+      "SCARED"
+    ],
+    "raw_quote": " (SCARED) Get it away!"
+  },
+  {
+    "timecode": "09:24",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Bart's Bedroom: Int. Bart's bedroom - day"
+    ],
+    "raw_quote": "(Bart's Bedroom: Int. Bart's bedroom - day)"
+  },
+  {
+    "timecode": "09:24",
+    "speaker": "Homer Simpson",
+    "quote": " Bart, son. You wanna play catch?",
+    "directions": [],
+    "raw_quote": " Bart, son. You wanna play catch?"
+  },
+  {
+    "timecode": "09:27",
+    "speaker": "Bart Simpson",
+    "quote": " No.",
+    "directions": [],
+    "raw_quote": " No."
+  },
+  {
+    "timecode": "09:29",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hallway: Int. Hallway - continuous"
+    ],
+    "raw_quote": "(Hallway: Int. Hallway - continuous)"
+  },
+  {
+    "timecode": "09:29",
+    "speaker": "Homer Simpson",
+    "quote": " When a boy doesn't want to play catch with his old man, something is seriously wrong.",
+    "directions": [
+      "MOANS"
+    ],
+    "raw_quote": " (MOANS) When a boy doesn't want to play catch with his old man, something is seriously wrong."
+  },
+  {
+    "timecode": "09:33",
+    "speaker": "Grampa Simpson",
+    "quote": " I'll play catch with you, son.",
+    "directions": [],
+    "raw_quote": " I'll play catch with you, son."
+  },
+  {
+    "timecode": "09:35",
+    "speaker": "Homer Simpson",
+    "quote": " Get the hell out.",
+    "directions": [
+      "PEEVED"
+    ],
+    "raw_quote": " (PEEVED) Get the hell out."
+  },
+  {
+    "timecode": "09:35",
+    "speaker": "Grampa Simpson",
+    "quote": " I'm gone.",
+    "directions": [],
+    "raw_quote": " I'm gone."
+  },
+  {
+    "timecode": "09:39",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Dr. Hibbert's Office: Int. Dr. Hibbert's office - day"
+    ],
+    "raw_quote": "(Dr. Hibbert's Office: Int. Dr. Hibbert's office - day)"
+  },
+  {
+    "timecode": "09:39",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Mrs. Simpson, physically your son is as sound as a dollar. I'm afraid Bart's severe emotional dysfunction stems from a deep-seated psychological trauma. ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Mrs. Simpson, physically your son is as sound as a dollar. I'm afraid Bart's severe emotional dysfunction stems from a deep-seated psychological trauma. (LAUGHS)"
+  },
+  {
+    "timecode": "09:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "DOOR: Ext. door - day"
+    ],
+    "raw_quote": "(DOOR: Ext. door - day)"
+  },
+  {
+    "timecode": "09:50",
+    "speaker": "Marge Simpson",
+    "quote": " With nowhere else to turn, we went to see the school psychologist...",
+    "directions": [],
+    "raw_quote": " With nowhere else to turn, we went to see the school psychologist..."
+  },
+  {
+    "timecode": "09:53",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Dr. Pryor's Office: Int. Dr. Pryor's office - 1990"
+    ],
+    "raw_quote": "(Dr. Pryor's Office: Int. Dr. Pryor's office - 1990)"
+  },
+  {
+    "timecode": "09:53",
+    "speaker": "Dr. J. Loren Pyror",
+    "quote": " Mr. and Mrs. Simpson, there's nothing to be alarmed about. Public school can be intimidating to a young child, particularly one with as many flamboyantly homosexual tendencies as your son.",
+    "directions": [],
+    "raw_quote": " Mr. and Mrs. Simpson, there's nothing to be alarmed about. Public school can be intimidating to a young child, particularly one with as many flamboyantly homosexual tendencies as your son."
+  },
+  {
+    "timecode": "10:06",
+    "speaker": "Marge Simpson",
+    "quote": " Bart's gay?",
+    "directions": [
+      "STARTLED"
+    ],
+    "raw_quote": " (STARTLED) Bart's gay?"
+  },
+  {
+    "timecode": "10:07",
+    "speaker": "Dr. J. Loren Pyror",
+    "quote": " Bart? Uh, whoo, wrong file.",
+    "directions": [],
+    "raw_quote": " Bart? Uh, whoo, wrong file."
+  },
+  {
+    "timecode": "10:12",
+    "speaker": "Dr. J. Loren Pyror",
+    "quote": " Uh, look, th-the point I'm trying to make here is that Bart must learn to be less of an individual and more a faceless slug...",
+    "directions": [],
+    "raw_quote": " Uh, look, th-the point I'm trying to make here is that Bart must learn to be less of an individual and more a faceless slug..."
+  },
+  {
+    "timecode": "10:25",
+    "speaker": "Dr. J. Loren Pyror",
+    "quote": " Hmm. Lisa, how old are you?",
+    "directions": [],
+    "raw_quote": " Hmm. Lisa, how old are you?"
+  },
+  {
+    "timecode": "10:27",
+    "speaker": "Lisa Simpson",
+    "quote": " I am three and three eighths!",
+    "directions": [],
+    "raw_quote": " I am three and three eighths!"
+  },
+  {
+    "timecode": "10:29",
+    "speaker": "Dr. J. Loren Pyror",
+    "quote": " Hm. Lisa, if I have five apples and I take away three apples, how many apples do I have left?",
+    "directions": [
+      "IMPRESSED"
+    ],
+    "raw_quote": " (IMPRESSED) Hm. Lisa, if I have five apples and I take away three apples, how many apples do I have left?"
+  },
+  {
+    "timecode": "10:37",
+    "speaker": "Lisa Simpson",
+    "quote": " Two apples!",
+    "directions": [],
+    "raw_quote": " Two apples!"
+  },
+  {
+    "timecode": "10:38",
+    "speaker": "Homer Simpson",
+    "quote": " Wait a minute... she's right!",
+    "directions": [
+      "THINKS"
+    ],
+    "raw_quote": " (THINKS) Wait a minute... she's right!"
+  },
+  {
+    "timecode": "10:42",
+    "speaker": "Dr. J. Loren Pyror",
+    "quote": " Heh, very good.",
+    "directions": [],
+    "raw_quote": " Heh, very good."
+  },
+  {
+    "timecode": "10:44",
+    "speaker": "Dr. J. Loren Pyror",
+    "quote": " Marge, Homer, I believe your Lisa may be gifted.",
+    "directions": [],
+    "raw_quote": " Marge, Homer, I believe your Lisa may be gifted."
+  },
+  {
+    "timecode": "10:48",
+    "speaker": "Marge Simpson",
+    "quote": " That's wonderful! But still, can't you do anything for Bart?",
+    "directions": [],
+    "raw_quote": " That's wonderful! But still, can't you do anything for Bart?"
+  },
+  {
+    "timecode": "10:51",
+    "speaker": "Homer Simpson",
+    "quote": " Marge, he's five. His life is over. Lisa's the wave of the future.",
+    "directions": [],
+    "raw_quote": " Marge, he's five. His life is over. Lisa's the wave of the future."
+  },
+  {
+    "timecode": "10:56",
+    "speaker": "Lisa Simpson",
+    "quote": " Wave of da future!",
+    "directions": [
+      "CUTESY"
+    ],
+    "raw_quote": " (CUTESY) Wave of da future!"
+  },
+  {
+    "timecode": "10:57",
+    "speaker": "Dr. J. Loren Pyror",
+    "quote": " That's right, honey. If you nurture her gift now, there's no telling what she can do.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) That's right, honey. If you nurture her gift now, there's no telling what she can do."
+  },
+  {
+    "timecode": "11:03",
+    "speaker": "Homer Simpson",
+    "quote": " Wow. Just think of the possibilities.",
+    "directions": [
+      "INTRIGUED"
+    ],
+    "raw_quote": " (INTRIGUED) Wow. Just think of the possibilities."
+  },
+  {
+    "timecode": "11:07",
+    "speaker": "Announcer",
+    "quote": " Lisa Simpson has won the Nobel Prize.",
+    "directions": [],
+    "raw_quote": " Lisa Simpson has won the Nobel Prize."
+  },
+  {
+    "timecode": "11:11",
+    "speaker": "Homer Simpson",
+    "quote": " Nah.",
+    "directions": [],
+    "raw_quote": " Nah."
+  },
+  {
+    "timecode": "11:12",
+    "speaker": "Announcer",
+    "quote": " Lisa Simpson has won the Nobel Prize for Kickboxing.",
+    "directions": [],
+    "raw_quote": " Lisa Simpson has won the Nobel Prize for Kickboxing."
+  },
+  {
+    "timecode": "11:16",
+    "speaker": "Homer Simpson",
+    "quote": " Hm.",
+    "directions": [
+      "INTRIGUED"
+    ],
+    "raw_quote": " (INTRIGUED) Hm."
+  },
+  {
+    "timecode": "11:21",
+    "speaker": "Dr. J. Loren Pyror",
+    "quote": " Uh... I'll give you the address of a nice pre-school.",
+    "directions": [],
+    "raw_quote": " Uh... I'll give you the address of a nice pre-school."
+  },
+  {
+    "timecode": "11:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "PRESCHOOL: Ext. preschool - day"
+    ],
+    "raw_quote": "(PRESCHOOL: Ext. preschool - day)"
+  },
+  {
+    "timecode": "11:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SPRINGFIELD PRIVATE PRESCHOOL: Int. Springfield private preschool - day"
+    ],
+    "raw_quote": "(SPRINGFIELD PRIVATE PRESCHOOL: Int. Springfield private preschool - day)"
+  },
+  {
+    "timecode": "11:25",
+    "speaker": "Little Girls",
+    "quote": " Cross my heart and hope to die / Here's the digits that make \"pi.\" Three point one four one five nine two six, five, three, five eight nine seven nine three two three eight four six...",
+    "directions": [
+      "CLAPPING",
+      "FAST"
+    ],
+    "raw_quote": " (CLAPPING) Cross my heart and hope to die / Here's the digits that make \"pi.\" (FAST) Three point one four one five nine two six, five, three, five eight nine seven nine three two three eight four six..."
+  },
+  {
+    "timecode": "11:36",
+    "speaker": "Headmistress",
+    "quote": " I can assure you our preschool is of the highest quality. Over seventy-five per cent of our graduates go on to first grade.",
+    "directions": [
+      "MILD BRITISH ACCENT"
+    ],
+    "raw_quote": " (MILD BRITISH ACCENT) I can assure you our preschool is of the highest quality. Over seventy-five per cent of our graduates go on to first grade."
+  },
+  {
+    "timecode": "11:42",
+    "speaker": "Homer Simpson",
+    "quote": " Well, our little girl has a gift and we're willing to do what it takes to help her.",
+    "directions": [],
+    "raw_quote": " Well, our little girl has a gift and we're willing to do what it takes to help her."
+  },
+  {
+    "timecode": "11:46",
+    "speaker": "Headmistress",
+    "quote": " Very good. Once we receive your six thousand dollar tuition check, she's in.",
+    "directions": [],
+    "raw_quote": " Very good. Once we receive your six thousand dollar tuition check, she's in."
+  },
+  {
+    "timecode": "11:50",
+    "speaker": "Homer Simpson",
+    "quote": " I'll give ya fifty bucks.",
+    "directions": [],
+    "raw_quote": " I'll give ya fifty bucks."
+  },
+  {
+    "timecode": "11:51",
+    "speaker": "Headmistress",
+    "quote": " Our fee is non-negotiable.",
+    "directions": [
+      "SCOFFING NOISE"
+    ],
+    "raw_quote": " (SCOFFING NOISE) Our fee is non-negotiable."
+  },
+  {
+    "timecode": "11:52",
+    "speaker": "Homer Simpson",
+    "quote": " Seventy-five.",
+    "directions": [],
+    "raw_quote": " Seventy-five."
+  },
+  {
+    "timecode": "11:54",
+    "speaker": "Marge Simpson",
+    "quote": " Look, I knew private school would be expensive but I was hoping we could get a scholarship of some sort.",
+    "directions": [],
+    "raw_quote": " Look, I knew private school would be expensive but I was hoping we could get a scholarship of some sort."
+  },
+  {
+    "timecode": "11:58",
+    "speaker": "Headmistress",
+    "quote": " Sorry. I don't have anything to offer you unless you're a member of a minority group.",
+    "directions": [],
+    "raw_quote": " Sorry. I don't have anything to offer you unless you're a member of a minority group."
+  },
+  {
+    "timecode": "12:03",
+    "speaker": "Homer Simpson",
+    "quote": " Excellente! Muchas gracias, Se\u00f1orata!",
+    "directions": [
+      "FAKING"
+    ],
+    "raw_quote": " (FAKING) Excellente! Muchas gracias, Se\u00f1orata!"
+  },
+  {
+    "timecode": "12:07",
+    "speaker": "Headmistress",
+    "quote": " Sorry.",
+    "directions": [
+      "DISDAINFUL"
+    ],
+    "raw_quote": " (DISDAINFUL) Sorry."
+  },
+  {
+    "timecode": "12:08",
+    "speaker": "Homer Simpson",
+    "quote": " Ah so.",
+    "directions": [
+      "CHINESE ACCENT"
+    ],
+    "raw_quote": " (CHINESE ACCENT) Ah so."
+  },
+  {
+    "timecode": "12:09",
+    "speaker": "Marge Simpson",
+    "quote": " Come on, honey. I guess this is a world you'll never know.",
+    "directions": [],
+    "raw_quote": " Come on, honey. I guess this is a world you'll never know."
+  },
+  {
+    "timecode": "12:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: Ext. school - day"
+    ],
+    "raw_quote": "(Springfield Elementary School: Ext. school - day)"
+  },
+  {
+    "timecode": "12:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson House - Living Room - present day"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson House - Living Room - present day)"
+  },
+  {
+    "timecode": "12:18",
+    "speaker": "Homer Simpson",
+    "quote": " Our family was suffering through its worst crisis ever. Bart was miserable at school, and Lisa's gifts were going to waste.",
+    "directions": [],
+    "raw_quote": " Our family was suffering through its worst crisis ever. Bart was miserable at school, and Lisa's gifts were going to waste."
+  },
+  {
+    "timecode": "12:27",
+    "speaker": "Bart Simpson",
+    "quote": " Uh, Homer? It's five years later and I'm still miserable at school.",
+    "directions": [],
+    "raw_quote": " Uh, Homer? It's five years later and I'm still miserable at school."
+  },
+  {
+    "timecode": "12:31",
+    "speaker": "Lisa Simpson",
+    "quote": " And my gifts are still going to waste.",
+    "directions": [],
+    "raw_quote": " And my gifts are still going to waste."
+  },
+  {
+    "timecode": "12:33",
+    "speaker": "Marge Simpson",
+    "quote": " And sometimes I feel so smothered by this family I just want to scream till my lungs explode! Uh... I'll go start dinner now.",
+    "directions": [
+      "OFF THEIR LOOKS",
+      "DEEP BREATH"
+    ],
+    "raw_quote": " And sometimes I feel so smothered by this family I just want to scream till my lungs explode! (OFF THEIR LOOKS) (DEEP BREATH) Uh... I'll go start dinner now."
+  },
+  {
+    "timecode": "12:40",
+    "speaker": "Homer Simpson",
+    "quote": " You do that.",
+    "directions": [],
+    "raw_quote": " You do that."
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED MURMUR"
+    ],
+    "raw_quote": " (ANNOYED MURMUR)"
+  },
+  {
+    "timecode": "12:47",
+    "speaker": "Grampa Simpson",
+    "quote": " Hello!",
+    "directions": [],
+    "raw_quote": " Hello!"
+  },
+  {
+    "timecode": "12:48",
+    "speaker": "Homer Simpson",
+    "quote": " Dad, what are you doin' here?",
+    "directions": [],
+    "raw_quote": " Dad, what are you doin' here?"
+  },
+  {
+    "timecode": "12:50",
+    "speaker": "Grampa Simpson",
+    "quote": " Looking for my teeth.",
+    "directions": [],
+    "raw_quote": " Looking for my teeth."
+  },
+  {
+    "timecode": "",
+    "speaker": "Santa's Little Helper",
+    "quote": " ",
+    "directions": [
+      "BARK WITH MOUTH FULL OF DENTURES"
+    ],
+    "raw_quote": " (BARK WITH MOUTH FULL OF DENTURES)"
+  },
+  {
+    "timecode": "12:54",
+    "speaker": "Grampa Simpson",
+    "quote": " Gimme those!",
+    "directions": [],
+    "raw_quote": " Gimme those!"
+  },
+  {
+    "timecode": "12:56",
+    "speaker": "Grampa Simpson",
+    "quote": " Better wash these off. Ah, the hell with it.",
+    "directions": [
+      "BEAT"
+    ],
+    "raw_quote": " Better wash these off. (BEAT) Ah, the hell with it."
+  },
+  {
+    "timecode": "13:01",
+    "speaker": "Marge Simpson",
+    "quote": " Well, Grampa, as long as you're here, we were telling a story that took place when Bart was five and Lisa was three.",
+    "directions": [],
+    "raw_quote": " Well, Grampa, as long as you're here, we were telling a story that took place when Bart was five and Lisa was three."
+  },
+  {
+    "timecode": "13:08",
+    "speaker": "Grampa Simpson",
+    "quote": " Oh, I know this story! The year is nineteen-aught-six. The President is the Divine Miss Sarah Bernhardt. And all over America, people were doing a dance called the Funky Grampa! Oh I'm the -- ",
+    "directions": [
+      "SINGS",
+      "DOES A COUPLE DANCE STEPS; STARTS SNORING"
+    ],
+    "raw_quote": " Oh, I know this story! The year is nineteen-aught-six. The President is the Divine Miss Sarah Bernhardt. And all over America, people were doing a dance called the Funky Grampa! (SINGS) Oh I'm the -- (DOES A COUPLE DANCE STEPS; STARTS SNORING)"
+  },
+  {
+    "timecode": "13:28",
+    "speaker": "Marge Simpson",
+    "quote": " Yeeesss. Well, as if our troubles weren't bad enough, Springfield was going through an unseasonable heat wave...",
+    "directions": [],
+    "raw_quote": " Yeeesss. Well, as if our troubles weren't bad enough, Springfield was going through an unseasonable heat wave..."
+  },
+  {
+    "timecode": "13:36",
+    "speaker": "Kent Brockman",
+    "quote": " And so, Springfield's heat wave continues with today's temperature exceeding the record for this date, set way back four billion years ago when the earth was just a ball of molten lava.",
+    "directions": [],
+    "raw_quote": " And so, Springfield's heat wave continues with today's temperature exceeding the record for this date, set way back four billion years ago when the earth was just a ball of molten lava."
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "Homer Simpson",
+    "quote": " Ohhh. So hottt.",
+    "directions": [],
+    "raw_quote": " Ohhh. So hottt."
+  },
+  {
+    "timecode": "13:51",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, have you seen the frozen peas?",
+    "directions": [],
+    "raw_quote": " Homer, have you seen the frozen peas?"
+  },
+  {
+    "timecode": "13:55",
+    "speaker": "Marge Simpson",
+    "quote": " Uhh... you keep 'em. Now listen. If we can't afford private school, maybe there's some other way to encourage Lisa. Umm, an art class... ballet lessons... they have some fun things you could do at the Museum on Saturday...",
+    "directions": [],
+    "raw_quote": " Uhh... you keep 'em. Now listen. If we can't afford private school, maybe there's some other way to encourage Lisa. Umm, an art class... ballet lessons... they have some fun things you could do at the Museum on Saturday..."
+  },
+  {
+    "timecode": "14:08",
+    "speaker": "Homer Simpson",
+    "quote": " Uh-uh. Forget it Marge. There is no way I am spending my Saturdays at a Museum. Unless... Museums don't have foosball, do they?",
+    "directions": [],
+    "raw_quote": " Uh-uh. Forget it Marge. There is no way I am spending my Saturdays at a Museum. Unless... Museums don't have foosball, do they?"
+  },
+  {
+    "timecode": "14:19",
+    "speaker": "Homer Simpson",
+    "quote": " You lose, Michelangelo's David. Who's next?",
+    "directions": [],
+    "raw_quote": " You lose, Michelangelo's David. Who's next?"
+  },
+  {
+    "timecode": "14:22",
+    "speaker": "Man",
+    "quote": " Meeee!",
+    "directions": [
+      "SCREAMING"
+    ],
+    "raw_quote": " (SCREAMING) Meeee!"
+  },
+  {
+    "timecode": "14:27",
+    "speaker": "Marge Simpson",
+    "quote": " I guess it doesn't matter. All these things cost money and we just don't have it. Unless...",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) I guess it doesn't matter. All these things cost money and we just don't have it. Unless..."
+  },
+  {
+    "timecode": "14:33",
+    "speaker": "Homer Simpson",
+    "quote": " Unless what?",
+    "directions": [],
+    "raw_quote": " Unless what?"
+  },
+  {
+    "timecode": "14:35",
+    "speaker": "Marge Simpson",
+    "quote": " Well, there's that two hundred dollars we've been saving for the new air conditioner.",
+    "directions": [],
+    "raw_quote": " Well, there's that two hundred dollars we've been saving for the new air conditioner."
+  },
+  {
+    "timecode": "14:39",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, Marge, but we've needed a new air conditioner for years! And our stopgap solution is getting cranky.",
+    "directions": [],
+    "raw_quote": " Oh, Marge, but we've needed a new air conditioner for years! And our stopgap solution is getting cranky."
+  },
+  {
+    "timecode": "",
+    "speaker": "Snowball II",
+    "quote": " ",
+    "directions": [
+      "YOWL"
+    ],
+    "raw_quote": " (YOWL)"
+  },
+  {
+    "timecode": "14:48",
+    "speaker": "Marge Simpson",
+    "quote": " I cannot believe this. I'm trying to give our daughter a head start in life and you aren't helping a bit.",
+    "directions": [],
+    "raw_quote": " I cannot believe this. I'm trying to give our daughter a head start in life and you aren't helping a bit."
+  },
+  {
+    "timecode": "14:53",
+    "speaker": "Homer Simpson",
+    "quote": " Marge, name one successful person who ever lived without air conditioning.",
+    "directions": [],
+    "raw_quote": " Marge, name one successful person who ever lived without air conditioning."
+  },
+  {
+    "timecode": "14:57",
+    "speaker": "Marge Simpson",
+    "quote": " Balzac!",
+    "directions": [],
+    "raw_quote": " Balzac!"
+  },
+  {
+    "timecode": "14:58",
+    "speaker": "Homer Simpson",
+    "quote": " No need for potty mouth just because you can't think of one.",
+    "directions": [],
+    "raw_quote": " No need for potty mouth just because you can't think of one."
+  },
+  {
+    "timecode": "15:01",
+    "speaker": "Marge Simpson",
+    "quote": " But Balzac is the name--",
+    "directions": [],
+    "raw_quote": " But Balzac is the name--"
+  },
+  {
+    "timecode": "15:03",
+    "speaker": "Homer Simpson",
+    "quote": " Up up up up up up up. If \"ifs\" and \"buts\" were candy and nuts y... how does the rest of that go?",
+    "directions": [],
+    "raw_quote": " Up up up up up up up. If \"ifs\" and \"buts\" were candy and nuts y... how does the rest of that go?"
+  },
+  {
+    "timecode": "15:09",
+    "speaker": "Marge Simpson",
+    "quote": " Please, just promise you won't buy an air conditioner till we've figured out a way to help Lisa.",
+    "directions": [],
+    "raw_quote": " Please, just promise you won't buy an air conditioner till we've figured out a way to help Lisa."
+  },
+  {
+    "timecode": "15:13",
+    "speaker": "Homer Simpson",
+    "quote": " All right, all right, I promise. There must be another way to get an air conditioner...",
+    "directions": [],
+    "raw_quote": " All right, all right, I promise. There must be another way to get an air conditioner..."
+  },
+  {
+    "timecode": "15:19",
+    "speaker": "Homer Simpson",
+    "quote": " Mmmm... re-circulated air.",
+    "directions": [],
+    "raw_quote": " Mmmm... re-circulated air."
+  },
+  {
+    "timecode": "15:29",
+    "speaker": "Ned Flanders",
+    "quote": " Uh... Homer?",
+    "directions": [],
+    "raw_quote": " Uh... Homer?"
+  },
+  {
+    "timecode": "15:30",
+    "speaker": "Homer Simpson",
+    "quote": " What, Flanders.",
+    "directions": [
+      "ROLLING EYES"
+    ],
+    "raw_quote": " (ROLLING EYES) What, Flanders."
+  },
+  {
+    "timecode": "15:32",
+    "speaker": "Ned Flanders",
+    "quote": " Well, sir, I hate to be a Suspicious Aloysius on you, but did you steal my air conditioner?",
+    "directions": [],
+    "raw_quote": " Well, sir, I hate to be a Suspicious Aloysius on you, but did you steal my air conditioner?"
+  },
+  {
+    "timecode": "15:43",
+    "speaker": "Homer Simpson",
+    "quote": " Well, I admit it looks bad, Flanders, but haven't you heard of \"Let he who is without sin cast the first stone?\"",
+    "directions": [],
+    "raw_quote": " Well, I admit it looks bad, Flanders, but haven't you heard of \"Let he who is without sin cast the first stone?\""
+  },
+  {
+    "timecode": "15:51",
+    "speaker": "Todd Flanders",
+    "quote": " Got him, Dad!",
+    "directions": [],
+    "raw_quote": " Got him, Dad!"
+  },
+  {
+    "timecode": "15:53",
+    "speaker": "Marge Simpson",
+    "quote": " And so, just as things looked their worst...",
+    "directions": [],
+    "raw_quote": " And so, just as things looked their worst..."
+  },
+  {
+    "timecode": "15:57",
+    "speaker": "Grampa Simpson",
+    "quote": " ...I realized I could make money selling my medication to Deadheads!",
+    "directions": [],
+    "raw_quote": " ...I realized I could make money selling my medication to Deadheads!"
+  },
+  {
+    "timecode": "16:01",
+    "speaker": "Marge Simpson",
+    "quote": " Grampa, what are you talking about?",
+    "directions": [],
+    "raw_quote": " Grampa, what are you talking about?"
+  },
+  {
+    "timecode": "16:04",
+    "speaker": "Grampa Simpson",
+    "quote": " Uh, nothing.",
+    "directions": [
+      "COVERING UP"
+    ],
+    "raw_quote": " (COVERING UP) Uh, nothing."
+  },
+  {
+    "timecode": "16:06",
+    "speaker": "Marge Simpson",
+    "quote": " As I was saying, things couldn't be worse for Lisa or Bart...",
+    "directions": [],
+    "raw_quote": " As I was saying, things couldn't be worse for Lisa or Bart..."
+  },
+  {
+    "timecode": "16:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: Int. Springfield elementary - Bart's classroom - 1990 - day"
+    ],
+    "raw_quote": "(Springfield Elementary School: Int. Springfield elementary - Bart's classroom - 1990 - day)"
+  },
+  {
+    "timecode": "16:10",
+    "speaker": "Kindergarten Teacher",
+    "quote": " And the ugly duckling was amazed to realize it had grown into a beautiful swan! So you see children, there is hope for anyone.",
+    "directions": [
+      "READING"
+    ],
+    "raw_quote": " (READING) And the ugly duckling was amazed to realize it had grown into a beautiful swan! So you see children, there is hope for anyone."
+  },
+  {
+    "timecode": "16:17",
+    "speaker": "Bart Simpson",
+    "quote": " Even me?",
+    "directions": [],
+    "raw_quote": " Even me?"
+  },
+  {
+    "timecode": "16:17",
+    "speaker": "Kindergarten Teacher",
+    "quote": " No.",
+    "directions": [],
+    "raw_quote": " No."
+  },
+  {
+    "timecode": "16:25",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Uh... hi.",
+    "directions": [],
+    "raw_quote": " Uh... hi."
+  },
+  {
+    "timecode": "16:27",
+    "speaker": "Bart Simpson",
+    "quote": " Hi.",
+    "directions": [],
+    "raw_quote": " Hi."
+  },
+  {
+    "timecode": "16:28",
+    "speaker": "Milhouse Van Houten",
+    "quote": " I have soy milk. The doctor says the real kind could kill me.",
+    "directions": [
+      "HOLDS UP SOY MILK"
+    ],
+    "raw_quote": " I have soy milk. (HOLDS UP SOY MILK) The doctor says the real kind could kill me."
+  },
+  {
+    "timecode": "16:32",
+    "speaker": "Bart Simpson",
+    "quote": " I wish I was interesting like you.",
+    "directions": [],
+    "raw_quote": " I wish I was interesting like you."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "RASPBERRY NOISE"
+    ],
+    "raw_quote": " (RASPBERRY NOISE)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Milhouse Van Houten",
+    "quote": " ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " (LAUGHS)"
+  },
+  {
+    "timecode": "16:38",
+    "speaker": "Milhouse Van Houten",
+    "quote": " You're funny.",
+    "directions": [],
+    "raw_quote": " You're funny."
+  },
+  {
+    "timecode": "16:41",
+    "speaker": "Bart Simpson",
+    "quote": " I am?",
+    "directions": [],
+    "raw_quote": " I am?"
+  },
+  {
+    "timecode": "16:43",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Yeah, and the world needs a clown.",
+    "directions": [],
+    "raw_quote": " Yeah, and the world needs a clown."
+  },
+  {
+    "timecode": "16:46",
+    "speaker": "Bart Simpson",
+    "quote": " Hm...",
+    "directions": [],
+    "raw_quote": " Hm..."
+  },
+  {
+    "timecode": "16:48",
+    "speaker": "Bart Simpson",
+    "quote": " Doody. Booger.",
+    "directions": [
+      "RASPBERRY NOISE",
+      "RASPBERRY NOISE"
+    ],
+    "raw_quote": " (RASPBERRY NOISE) Doody. (RASPBERRY NOISE) Booger."
+  },
+  {
+    "timecode": "",
+    "speaker": "Kids",
+    "quote": " ",
+    "directions": [
+      "LAUGH"
+    ],
+    "raw_quote": " (LAUGH)"
+  },
+  {
+    "timecode": "16:53",
+    "speaker": "Jimbo Jones",
+    "quote": " Man, that is killer material.",
+    "directions": [],
+    "raw_quote": " Man, that is killer material."
+  },
+  {
+    "timecode": "16:56",
+    "speaker": "Bart Simpson",
+    "quote": " Skinner is a nut! He has a rubber butt!",
+    "directions": [],
+    "raw_quote": " Skinner is a nut! He has a rubber butt!"
+  },
+  {
+    "timecode": "16:58",
+    "speaker": "Seymour Skinner",
+    "quote": " Young man, I can assure you my posterior is nothing more than flesh, bone, and that metal plate I got in 'Nam.",
+    "directions": [
+      "SUDDENLY APPEARING"
+    ],
+    "raw_quote": " (SUDDENLY APPEARING) Young man, I can assure you my posterior is nothing more than flesh, bone, and that metal plate I got in 'Nam."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "GULPS"
+    ],
+    "raw_quote": " (GULPS)"
+  },
+  {
+    "timecode": "17:05",
+    "speaker": "Seymour Skinner",
+    "quote": " Now, I want you to knock off that potty talk right now.",
+    "directions": [],
+    "raw_quote": " Now, I want you to knock off that potty talk right now."
+  },
+  {
+    "timecode": "17:08",
+    "speaker": "Bart Simpson",
+    "quote": " The principal said potty!",
+    "directions": [],
+    "raw_quote": " The principal said potty!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Kids",
+    "quote": " ",
+    "directions": [
+      "GIGGLE"
+    ],
+    "raw_quote": " (GIGGLE)"
+  },
+  {
+    "timecode": "17:13",
+    "speaker": "Seymour Skinner",
+    "quote": " You listen to me, son. You've just started school, and the path you choose now may be the one you follow for the rest of your life. Now what do you say?",
+    "directions": [
+      "EXASPERATED NOISE",
+      "TO BART"
+    ],
+    "raw_quote": " (EXASPERATED NOISE) (TO BART) You listen to me, son. You've just started school, and the path you choose now may be the one you follow for the rest of your life. Now what do you say?"
+  },
+  {
+    "timecode": "17:30",
+    "speaker": "Bart Simpson",
+    "quote": " Eat my shorts!",
+    "directions": [],
+    "raw_quote": " Eat my shorts!"
+  },
+  {
+    "timecode": "17:31",
+    "speaker": "Seymour Skinner",
+    "quote": " All right, I'll eat--eat your shorts?!",
+    "directions": [],
+    "raw_quote": " All right, I'll eat--eat your shorts?!"
+  },
+  {
+    "timecode": "17:34",
+    "speaker": "Bart Simpson",
+    "quote": " Yeah, eat my shorts. Buttman... da da da da da da da da... Buttman.",
+    "directions": [
+      "SINGS"
+    ],
+    "raw_quote": " Yeah, eat my shorts. (SINGS) Buttman... da da da da da da da da... Buttman."
+  },
+  {
+    "timecode": "17:39",
+    "speaker": "Seymour Skinner",
+    "quote": " Buttman!?",
+    "directions": [
+      "REALIZING, ANGRILY"
+    ],
+    "raw_quote": " (REALIZING, ANGRILY) Buttman!?"
+  },
+  {
+    "timecode": "17:43",
+    "speaker": "Nelson Muntz",
+    "quote": " He's the greatest showman since that kid who eats worms.",
+    "directions": [
+      "SOBS",
+      "WIPES AWAY TEAR"
+    ],
+    "raw_quote": " (SOBS) (WIPES AWAY TEAR) He's the greatest showman since that kid who eats worms."
+  },
+  {
+    "timecode": "17:48",
+    "speaker": "Kid",
+    "quote": " My fifteen minutes of fame are over. ",
+    "directions": [
+      "SAD, MOUTH FULL",
+      "GULPS"
+    ],
+    "raw_quote": " (SAD, MOUTH FULL) My fifteen minutes of fame are over. (GULPS)"
+  },
+  {
+    "timecode": "17:53",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: Ext. Moe's - day"
+    ],
+    "raw_quote": "(Moe's Tavern: Ext. Moe's - day)"
+  },
+  {
+    "timecode": "17:53",
+    "speaker": "Homer Simpson",
+    "quote": " Well, Moe, this is it. Today's the day I get my new air conditioner.",
+    "directions": [],
+    "raw_quote": " Well, Moe, this is it. Today's the day I get my new air conditioner."
+  },
+  {
+    "timecode": "17:58",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: Int. Moe's bar - day"
+    ],
+    "raw_quote": "(Moe's Tavern: Int. Moe's bar - day)"
+  },
+  {
+    "timecode": "17:58",
+    "speaker": "Moe Szyslak",
+    "quote": " Congratulations. Who's the little chick?",
+    "directions": [],
+    "raw_quote": " Congratulations. Who's the little chick?"
+  },
+  {
+    "timecode": "18:01",
+    "speaker": "Lisa Simpson",
+    "quote": " I'm Lisa!",
+    "directions": [],
+    "raw_quote": " I'm Lisa!"
+  },
+  {
+    "timecode": "18:02",
+    "speaker": "Homer Simpson",
+    "quote": " She has a gift.",
+    "directions": [
+      "TO MOE, PROUDLY"
+    ],
+    "raw_quote": " (TO MOE, PROUDLY) She has a gift."
+  },
+  {
+    "timecode": "18:03",
+    "speaker": "Lisa Simpson",
+    "quote": " You have thirteen pickled eggs in this jar! And one cockroach!",
+    "directions": [
+      "CUTE"
+    ],
+    "raw_quote": " You have thirteen pickled eggs in this jar! (CUTE) And one cockroach!"
+  },
+  {
+    "timecode": "18:10",
+    "speaker": "Moe Szyslak",
+    "quote": " Who are you, sweetheart, the health inspector?",
+    "directions": [
+      "DISPLEASED CHUCKLE"
+    ],
+    "raw_quote": " (DISPLEASED CHUCKLE) Who are you, sweetheart, the health inspector?"
+  },
+  {
+    "timecode": "18:13",
+    "speaker": "Man At Bar",
+    "quote": " No, but I am.",
+    "directions": [],
+    "raw_quote": " No, but I am."
+  },
+  {
+    "timecode": "18:14",
+    "speaker": "Moe Szyslak",
+    "quote": " Uh... here, have a margarita.",
+    "directions": [],
+    "raw_quote": " Uh... here, have a margarita."
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "Moe Szyslak",
+    "quote": " Uh, that's a parasol.",
+    "directions": [
+      "COVERING"
+    ],
+    "raw_quote": " (COVERING) Uh, that's a parasol."
+  },
+  {
+    "timecode": "18:35",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Street: Ext. Street - evening"
+    ],
+    "raw_quote": "(Street: Ext. Street - evening)"
+  },
+  {
+    "timecode": "18:35",
+    "speaker": "Homer Simpson",
+    "quote": " Oooh.",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " (GASP) Oooh."
+  },
+  {
+    "timecode": "18:35",
+    "speaker": "Selma Bouvier",
+    "quote": " Help us, Homer!",
+    "directions": [],
+    "raw_quote": " Help us, Homer!"
+  },
+  {
+    "timecode": "18:36",
+    "speaker": "Patty Bouvier",
+    "quote": " Yeah, help us, ya fat yutz!",
+    "directions": [],
+    "raw_quote": " Yeah, help us, ya fat yutz!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Selma Bouvier",
+    "quote": " ",
+    "directions": [
+      "DISGRUNTLED BUBBLING NOISES"
+    ],
+    "raw_quote": " (DISGRUNTLED BUBBLING NOISES)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "LAUGHS EVILLY"
+    ],
+    "raw_quote": " (LAUGHS EVILLY)"
+  },
+  {
+    "timecode": "18:48",
+    "speaker": "Homer Simpson",
+    "quote": " Wowww...",
+    "directions": [],
+    "raw_quote": " Wowww..."
+  },
+  {
+    "timecode": "18:56",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "King Toot's Window: Int. King toot's window - continuous"
+    ],
+    "raw_quote": "(King Toot's Window: Int. King toot's window - continuous)"
+  },
+  {
+    "timecode": "18:56",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Street: Ext. street - continuous"
+    ],
+    "raw_quote": "(Street: Ext. street - continuous)"
+  },
+  {
+    "timecode": "18:56",
+    "speaker": "Homer Simpson",
+    "quote": " A musical instrument? Could that be a way to encourage a gifted child? Just give me a sign!",
+    "directions": [
+      "LOOKS HEAVENWARD"
+    ],
+    "raw_quote": " A musical instrument? Could that be a way to encourage a gifted child? (LOOKS HEAVENWARD) Just give me a sign!"
+  },
+  {
+    "timecode": "19:07",
+    "speaker": "Homer Simpson",
+    "quote": " Eh, works for me.",
+    "directions": [],
+    "raw_quote": " Eh, works for me."
+  },
+  {
+    "timecode": "19:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "King Toot's Music Store: Int. music store - a little later"
+    ],
+    "raw_quote": "(King Toot's Music Store: Int. music store - a little later)"
+  },
+  {
+    "timecode": "19:11",
+    "speaker": "Homer Simpson",
+    "quote": " So what do you like, Lisa? Viomalin... tubamaba... obomoboe?",
+    "directions": [],
+    "raw_quote": " So what do you like, Lisa? Viomalin... tubamaba... obomoboe?"
+  },
+  {
+    "timecode": "19:17",
+    "speaker": "Lisa Simpson",
+    "quote": " That one!",
+    "directions": [],
+    "raw_quote": " That one!"
+  },
+  {
+    "timecode": "19:18",
+    "speaker": "Homer Simpson",
+    "quote": " Ohh! Saxomophone.",
+    "directions": [],
+    "raw_quote": " Ohh! Saxomophone."
+  },
+  {
+    "timecode": "19:23",
+    "speaker": "Homer Simpson",
+    "quote": " Two hundred dollars!",
+    "directions": [],
+    "raw_quote": " Two hundred dollars!"
+  },
+  {
+    "timecode": "19:32",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, I'll take it.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) Oh, I'll take it."
+  },
+  {
+    "timecode": "19:40",
+    "speaker": "Store Owner",
+    "quote": " Would you like an inscription, sir?",
+    "directions": [],
+    "raw_quote": " Would you like an inscription, sir?"
+  },
+  {
+    "timecode": "19:42",
+    "speaker": "Homer Simpson",
+    "quote": " Yeah. \"To Lisa. Never forget your Daddy loves .\"",
+    "directions": [
+      "SWEETLY",
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " (SWEETLY) Yeah. \"To Lisa. Never forget your Daddy loves (ANNOYED GRUNT).\""
+  },
+  {
+    "timecode": "19:48",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson House - Living Room - present day"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson House - Living Room - present day)"
+  },
+  {
+    "timecode": "19:48",
+    "speaker": "Homer Simpson",
+    "quote": " ...and that inscription is still there today.",
+    "directions": [],
+    "raw_quote": " ...and that inscription is still there today."
+  },
+  {
+    "timecode": "19:54",
+    "speaker": "Bart Simpson",
+    "quote": " Wow. So that's how Lisa got her sax.",
+    "directions": [],
+    "raw_quote": " Wow. So that's how Lisa got her sax."
+  },
+  {
+    "timecode": "19:56",
+    "speaker": "Homer Simpson",
+    "quote": " Next, I'll tell you the origin of Maggie's pacifier.",
+    "directions": [
+      "DRAMATICALLY"
+    ],
+    "raw_quote": " (DRAMATICALLY) Next, I'll tell you the origin of Maggie's pacifier."
+  },
+  {
+    "timecode": "20:00",
+    "speaker": "Marge Simpson",
+    "quote": " What \"origin\"? We get 'em for a dollar ninety-five down at the Safeway.",
+    "directions": [],
+    "raw_quote": " What \"origin\"? We get 'em for a dollar ninety-five down at the Safeway."
+  },
+  {
+    "timecode": "20:04",
+    "speaker": "Lisa Simpson",
+    "quote": " Well, I really liked that story. But it still doesn't fix this.",
+    "directions": [],
+    "raw_quote": " Well, I really liked that story. But it still doesn't fix this."
+  },
+  {
+    "timecode": "20:08",
+    "speaker": "Marge Simpson",
+    "quote": " You know, Homer... I think we have some money in the air conditioner account again, hmmm?",
+    "directions": [
+      "HINTING"
+    ],
+    "raw_quote": " (HINTING) You know, Homer... I think we have some money in the air conditioner account again, hmmm?"
+  },
+  {
+    "timecode": "20:14",
+    "speaker": "Homer Simpson",
+    "quote": " Ohhhh, but Marge! Am I doomed to spend the rest of my life sweating like a pig?",
+    "directions": [],
+    "raw_quote": " Ohhhh, but Marge! Am I doomed to spend the rest of my life sweating like a pig?"
+  },
+  {
+    "timecode": "20:19",
+    "speaker": "Bart Simpson",
+    "quote": " Yeah, not to mention lookin' like a pig, eatin' like a pig...",
+    "directions": [],
+    "raw_quote": " Yeah, not to mention lookin' like a pig, eatin' like a pig..."
+  },
+  {
+    "timecode": "20:22",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Don't forget the smell!",
+    "directions": [
+      "STICKS HEAD IN"
+    ],
+    "raw_quote": " (STICKS HEAD IN) Don't forget the smell!"
+  },
+  {
+    "timecode": "20:24",
+    "speaker": "Homer Simpson",
+    "quote": " Will you get off my front lawn?",
+    "directions": [],
+    "raw_quote": " Will you get off my front lawn?"
+  },
+  {
+    "timecode": "20:25",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Why don't you make me?",
+    "directions": [],
+    "raw_quote": " Why don't you make me?"
+  },
+  {
+    "timecode": "20:27",
+    "speaker": "Homer Simpson",
+    "quote": " Why -- oh, I give up.",
+    "directions": [],
+    "raw_quote": " Why -- oh, I give up."
+  },
+  {
+    "timecode": "20:28",
+    "speaker": "Lisa Simpson",
+    "quote": " Well, don't worry about me, Dad. It's not how it looks, it's how it sounds.",
+    "directions": [
+      "NERVOUS GIGGLE",
+      "RE: SAX"
+    ],
+    "raw_quote": " Well, don't worry about me, Dad. (NERVOUS GIGGLE) (RE: SAX) It's not how it looks, it's how it sounds."
+  },
+  {
+    "timecode": "20:39",
+    "speaker": "Baseball Announcer",
+    "quote": " Well, sir, we got a scorcher today. And to cool off, nothin' beats Fruitopia, the iced tea brewed by hippies but distributed by a heartless multinational corporation!",
+    "directions": [],
+    "raw_quote": " Well, sir, we got a scorcher today. And to cool off, nothin' beats Fruitopia, the iced tea brewed by hippies but distributed by a heartless multinational corporation!"
+  },
+  {
+    "timecode": "20:52",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Lisa's Bedroom: Int. Lisa's room - day"
+    ],
+    "raw_quote": "(Lisa's Bedroom: Int. Lisa's room - day)"
+  },
+  {
+    "timecode": "20:52",
+    "speaker": "Lisa Simpson",
+    "quote": " \"Dear Lisa, May your new saxophone bring you years of D'oh!\"",
+    "directions": [
+      "READING, PLEASED"
+    ],
+    "raw_quote": " (READING, PLEASED) \"Dear Lisa, May your new saxophone bring you years of D'oh!\""
+  },
+  {
+    "timecode": "20:57",
+    "speaker": "Marge Simpson",
+    "quote": " You're a good father.",
+    "directions": [],
+    "raw_quote": " You're a good father."
+  },
+  {
+    "timecode": "21:33",
+    "speaker": "Homer Simpson",
+    "quote": " I learned from the master.",
+    "directions": [
+      "SMILES"
+    ],
+    "raw_quote": " (SMILES) I learned from the master."
+  },
+  {
+    "timecode": "21:35",
+    "speaker": "Grampa Simpson",
+    "quote": " Where's Maggie? Where's Maggie? I'm not kiddin'-- I can't see! My retinas have detached again!",
+    "directions": [
+      "UPSET"
+    ],
+    "raw_quote": " Where's Maggie? Where's Maggie? (UPSET) I'm not kiddin'-- I can't see! My retinas have detached again!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "HEARTY LAUGH"
+    ],
+    "raw_quote": " (HEARTY LAUGH)"
+  },
+  {
+    "timecode": "21:48",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " He's blind as a bat!",
+    "directions": [
+      "LAUGH"
+    ],
+    "raw_quote": " (LAUGH) He's blind as a bat!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " ",
+    "directions": [
+      "HEARTY LAUGHTER AND AD LIBS"
+    ],
+    "raw_quote": " (HEARTY LAUGHTER AND AD LIBS)"
+  },
+  {
+    "timecode": "21:49",
+    "speaker": "Homer Simpson",
+    "quote": " Lisa! Enough saxomophone already!",
+    "directions": [],
+    "raw_quote": " Lisa! Enough saxomophone already!"
+  }
+]

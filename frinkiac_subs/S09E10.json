@@ -1,0 +1,2266 @@
+[
+  {
+    "timecode": "00:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Streets: EXT. SPRINGFIELD STREETS - day"
+    ],
+    "raw_quote": "(Springfield Streets: EXT. SPRINGFIELD STREETS - day)"
+  },
+  {
+    "timecode": "00:38",
+    "speaker": "Homer Simpson",
+    "quote": " Stupid heater! Don't make me come in there!",
+    "directions": [
+      "GRUNTS"
+    ],
+    "raw_quote": " (GRUNTS) Stupid heater! Don't make me come in there!"
+  },
+  {
+    "timecode": "00:41",
+    "speaker": "Marge Simpson",
+    "quote": " Why do you always wait until Christmas Eve to do your shopping? The crowds are just beastly.",
+    "directions": [
+      "OVER POUNDING"
+    ],
+    "raw_quote": " (OVER POUNDING) Why do you always wait until Christmas Eve to do your shopping? The crowds are just beastly."
+  },
+  {
+    "timecode": "00:47",
+    "speaker": "Homer Simpson",
+    "quote": " You know me, Marge. I crave the hustle and bustle.",
+    "directions": [
+      "CAVALIERLY"
+    ],
+    "raw_quote": " (CAVALIERLY) You know me, Marge. I crave the hustle and bustle."
+  },
+  {
+    "timecode": "01:07",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Try-N-Save: Ext. \"TRY 'N' SAVE\" DISCOUNT STORE - MOMENTS LATER"
+    ],
+    "raw_quote": "(Try-N-Save: Ext. \"TRY 'N' SAVE\" DISCOUNT STORE - MOMENTS LATER)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED MURMUR"
+    ],
+    "raw_quote": " (ANNOYED MURMUR)"
+  },
+  {
+    "timecode": "01:07",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Try-N-Save: INT. \"Try 'n' Save\" - A SHORT WHILE LATER"
+    ],
+    "raw_quote": "(Try-N-Save: INT. \"Try 'n' Save\" - A SHORT WHILE LATER)"
+  },
+  {
+    "timecode": "01:07",
+    "speaker": "Marge Simpson",
+    "quote": " Homer! Look at this mob! The good toys are probably all gone.",
+    "directions": [],
+    "raw_quote": " Homer! Look at this mob! The good toys are probably all gone."
+  },
+  {
+    "timecode": "01:14",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, Santa's got a little trick up his sleeve.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) Oh, Santa's got a little trick up his sleeve."
+  },
+  {
+    "timecode": "01:18",
+    "speaker": "Homer Simpson",
+    "quote": " Attention, shoppers. Register 9 is now open for your shopping convenience.",
+    "directions": [
+      "INTO MICROPHONE"
+    ],
+    "raw_quote": " (INTO MICROPHONE) Attention, shoppers. Register 9 is now open for your shopping convenience."
+  },
+  {
+    "timecode": "01:23",
+    "speaker": "Homer Simpson",
+    "quote": " Sorry, these are for display only... This has been recalled... Oo, Bart would like this... We're out of these...",
+    "directions": [],
+    "raw_quote": " Sorry, these are for display only... This has been recalled... Oo, Bart would like this... We're out of these..."
+  },
+  {
+    "timecode": "01:27",
+    "speaker": "Shopper",
+    "quote": " Out?! But I just --",
+    "directions": [],
+    "raw_quote": " Out?! But I just --"
+  },
+  {
+    "timecode": "01:28",
+    "speaker": "Homer Simpson",
+    "quote": " Register 9 is now closed.",
+    "directions": [
+      "INTO MICROPHONE, PLEASANT"
+    ],
+    "raw_quote": " (INTO MICROPHONE, PLEASANT) Register 9 is now closed."
+  },
+  {
+    "timecode": "01:41",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE - LIVING ROOM - that night"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE - LIVING ROOM - that night)"
+  },
+  {
+    "timecode": "01:41",
+    "speaker": "Marge Simpson",
+    "quote": " Hey, kids, I made your favorite cookies -- Christmas trees for the girls, and bloody spear-heads for Bart.",
+    "directions": [],
+    "raw_quote": " Hey, kids, I made your favorite cookies -- Christmas trees for the girls, and bloody spear-heads for Bart."
+  },
+  {
+    "timecode": "01:48",
+    "speaker": "Bart Simpson",
+    "quote": " Aww, thanks, Mom.",
+    "directions": [],
+    "raw_quote": " Aww, thanks, Mom."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "DEATH MOANS"
+    ],
+    "raw_quote": " (DEATH MOANS)"
+  },
+  {
+    "timecode": "01:56",
+    "speaker": "Lisa Simpson",
+    "quote": " This year's tree is just perfect. That old aluminum one was so fake.",
+    "directions": [],
+    "raw_quote": " This year's tree is just perfect. That old aluminum one was so fake."
+  },
+  {
+    "timecode": "02:00",
+    "speaker": "Marge Simpson",
+    "quote": " I couldn't agree more. From now on, it's plastic all the way.",
+    "directions": [
+      "SUPERIOR"
+    ],
+    "raw_quote": " I couldn't agree more. (SUPERIOR) From now on, it's plastic all the way."
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "UNCOMFORTABLE LAUGH"
+    ],
+    "raw_quote": " (UNCOMFORTABLE LAUGH)"
+  },
+  {
+    "timecode": "02:08",
+    "speaker": "Lisa Simpson",
+    "quote": " Bart, did you hear that?",
+    "directions": [
+      "HUSHED"
+    ],
+    "raw_quote": " (HUSHED) Bart, did you hear that?"
+  },
+  {
+    "timecode": "02:10",
+    "speaker": "Bart Simpson",
+    "quote": " Could it be...?",
+    "directions": [
+      "RAPT"
+    ],
+    "raw_quote": " (RAPT) Could it be...?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "HORRIFIED SCREAMS"
+    ],
+    "raw_quote": " (HORRIFIED SCREAMS)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "DELIGHTED LAUGHS"
+    ],
+    "raw_quote": " (DELIGHTED LAUGHS)"
+  },
+  {
+    "timecode": "02:25",
+    "speaker": "Homer Simpson",
+    "quote": " C'mon, kids. Let's try the lights!",
+    "directions": [
+      "UPBEAT, TANGLED IN WIRE"
+    ],
+    "raw_quote": " (UPBEAT, TANGLED IN WIRE) C'mon, kids. Let's try the lights!"
+  },
+  {
+    "timecode": "02:36",
+    "speaker": "Bart Simpson",
+    "quote": " It's crap-tacular.",
+    "directions": [],
+    "raw_quote": " It's crap-tacular."
+  },
+  {
+    "timecode": "02:47",
+    "speaker": "Bart Simpson",
+    "quote": " \"Hocus-pocus, mucus-pukus...\" My powers of deduction tell me you're getting a hand-made sweater. Possiblyyy yellow.",
+    "directions": [
+      "TO LISA",
+      "LISTENS TO PRESENT"
+    ],
+    "raw_quote": " \"Hocus-pocus, mucus-pukus...\" (TO LISA) My powers of deduction tell me you're getting a hand-made sweater. Possiblyyy (LISTENS TO PRESENT) yellow."
+  },
+  {
+    "timecode": "02:59",
+    "speaker": "Lisa Simpson",
+    "quote": " Mom! Make him stop!",
+    "directions": [],
+    "raw_quote": " Mom! Make him stop!"
+  },
+  {
+    "timecode": "03:00",
+    "speaker": "Marge Simpson",
+    "quote": " Bart! Put down that yellow sweater! Nobody's going near their presents until 7 o'clock tomorrow morning.",
+    "directions": [],
+    "raw_quote": " Bart! Put down that yellow sweater! Nobody's going near their presents until 7 o'clock tomorrow morning."
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "DISAPPOINTED MOAN"
+    ],
+    "raw_quote": " (DISAPPOINTED MOAN)"
+  },
+  {
+    "timecode": "03:08",
+    "speaker": "Marge Simpson",
+    "quote": " Seven A.M. No earlier. And you can't set your alarm clocks 'cause I got 'em!",
+    "directions": [
+      "DEADLY SERIOUS"
+    ],
+    "raw_quote": " (DEADLY SERIOUS) Seven A.M. No earlier. And you can't set your alarm clocks 'cause I got 'em!"
+  },
+  {
+    "timecode": "03:15",
+    "speaker": "Marge Simpson",
+    "quote": " For once we're gonna celebrate Christmas as a family.",
+    "directions": [],
+    "raw_quote": " For once we're gonna celebrate Christmas as a family."
+  },
+  {
+    "timecode": "03:19",
+    "speaker": "Grampa Simpson",
+    "quote": " Hallooo? Anybody home?",
+    "directions": [
+      "MUFFLED"
+    ],
+    "raw_quote": " (MUFFLED) Hallooo? Anybody home?"
+  },
+  {
+    "timecode": "03:30",
+    "speaker": "Bart Simpson",
+    "quote": " Ah, 12 glasses of water. That'll wake me up nice and early, and I'll have a big head-start on opening presents. Pure genius.",
+    "directions": [
+      "DRINKING NOISES"
+    ],
+    "raw_quote": " (DRINKING NOISES) Ah, 12 glasses of water. That'll wake me up nice and early, and I'll have a big head-start on opening presents. Pure genius."
+  },
+  {
+    "timecode": "03:38",
+    "speaker": "Lisa Simpson",
+    "quote": " You didn't invent that, Bart. The Indians used to drink water to wake up early for their attacks.",
+    "directions": [],
+    "raw_quote": " You didn't invent that, Bart. The Indians used to drink water to wake up early for their attacks."
+  },
+  {
+    "timecode": "03:44",
+    "speaker": "Bart Simpson",
+    "quote": " It's always about the Indians, isn't it, Lis?",
+    "directions": [
+      "WEARILY"
+    ],
+    "raw_quote": " (WEARILY) It's always about the Indians, isn't it, Lis?"
+  },
+  {
+    "timecode": "03:47",
+    "speaker": "Bart Simpson",
+    "quote": " Dear Santa. If you bring me lotsa good stuff, I promise not to do anything bad between now and when I wake up. Amen.",
+    "directions": [],
+    "raw_quote": " Dear Santa. If you bring me lotsa good stuff, I promise not to do anything bad between now and when I wake up. Amen."
+  },
+  {
+    "timecode": "03:56",
+    "speaker": "Bart Simpson",
+    "quote": " Owww! I'll kill you!",
+    "directions": [
+      "PAINED NOISE",
+      "TO NIGHTSTAND"
+    ],
+    "raw_quote": " Owww! (PAINED NOISE) (TO NIGHTSTAND) I'll kill you!"
+  },
+  {
+    "timecode": "04:37",
+    "speaker": "Fans",
+    "quote": " Go! Go! Go! / We're number 1!",
+    "directions": [],
+    "raw_quote": " Go! Go! Go! / We're number 1!"
+  },
+  {
+    "timecode": "04:40",
+    "speaker": "Cheerleader",
+    "quote": " Gimme a \"P\"!",
+    "directions": [],
+    "raw_quote": " Gimme a \"P\"!"
+  },
+  {
+    "timecode": "04:40",
+    "speaker": "Fans",
+    "quote": " \"P\"! Go! Go! Go! \"P\"! \"P\"! \"P\"!",
+    "directions": [
+      "BEAT, FAST"
+    ],
+    "raw_quote": " \"P\"! (BEAT, FAST) Go! Go! Go! \"P\"! \"P\"! \"P\"!"
+  },
+  {
+    "timecode": "04:50",
+    "speaker": "Bart Simpson",
+    "quote": " Worked like a charm.",
+    "directions": [
+      "KNOWING LAUGH"
+    ],
+    "raw_quote": " (KNOWING LAUGH) Worked like a charm."
+  },
+  {
+    "timecode": "04:52",
+    "speaker": "Bart Simpson",
+    "quote": " Oh! Oh! Oh!",
+    "directions": [],
+    "raw_quote": " Oh! Oh! Oh!"
+  },
+  {
+    "timecode": "04:59",
+    "speaker": "Bart Simpson",
+    "quote": " How sweet it is!",
+    "directions": [
+      "EXTREME RELIEF, SIGH"
+    ],
+    "raw_quote": " (EXTREME RELIEF, SIGH) How sweet it is!"
+  },
+  {
+    "timecode": "05:15",
+    "speaker": "Bart Simpson",
+    "quote": " Oh, Aunt Selma. Always good for a fin. Whoa-ho-ho. Here we go.",
+    "directions": [
+      "LAUGHS, FONDLY",
+      "KISSES MONEY, NOTICING BIG GIFT"
+    ],
+    "raw_quote": " (LAUGHS, FONDLY) Oh, Aunt Selma. Always good for a fin. (KISSES MONEY, NOTICING BIG GIFT) Whoa-ho-ho. Here we go."
+  },
+  {
+    "timecode": "05:27",
+    "speaker": "Bart Simpson",
+    "quote": " The Inferno-buster 3000! I knew Santa wouldn't have time to check that list twice.",
+    "directions": [
+      "GASPS",
+      "SATISFIED CHUCKLE"
+    ],
+    "raw_quote": " (GASPS) The Inferno-buster 3000! (SATISFIED CHUCKLE) I knew Santa wouldn't have time to check that list twice."
+  },
+  {
+    "timecode": "05:36",
+    "speaker": "Bart Simpson",
+    "quote": " Whoa... Yeah...",
+    "directions": [
+      "IMPRESSED SOUNDS"
+    ],
+    "raw_quote": " (IMPRESSED SOUNDS) Whoa... Yeah..."
+  },
+  {
+    "timecode": "05:40",
+    "speaker": "Bart Simpson",
+    "quote": " Cool...",
+    "directions": [],
+    "raw_quote": " Cool..."
+  },
+  {
+    "timecode": "05:45",
+    "speaker": "Bart Simpson",
+    "quote": " Uh-oh.",
+    "directions": [],
+    "raw_quote": " Uh-oh."
+  },
+  {
+    "timecode": "05:49",
+    "speaker": "Bart Simpson",
+    "quote": " Eep.",
+    "directions": [],
+    "raw_quote": " Eep."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "FRIGHTENED YELL"
+    ],
+    "raw_quote": " (FRIGHTENED YELL)"
+  },
+  {
+    "timecode": "06:04",
+    "speaker": "Bart Simpson",
+    "quote": " Who designed this house?!",
+    "directions": [
+      "EXASPERATED"
+    ],
+    "raw_quote": " (EXASPERATED) Who designed this house?!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Toy",
+    "quote": " ",
+    "directions": [
+      "DEATH MOO"
+    ],
+    "raw_quote": " (DEATH MOO)"
+  },
+  {
+    "timecode": "06:20",
+    "speaker": "Marge Simpson",
+    "quote": " Homer! I think I heard a noise.",
+    "directions": [],
+    "raw_quote": " Homer! I think I heard a noise."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "DEATH MOO-LIKE SNORING"
+    ],
+    "raw_quote": " (DEATH MOO-LIKE SNORING)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "SOFT BREATHING"
+    ],
+    "raw_quote": " (SOFT BREATHING)"
+  },
+  {
+    "timecode": "06:32",
+    "speaker": "Homer Simpson",
+    "quote": " Knock it off...",
+    "directions": [
+      "ANNOYED"
+    ],
+    "raw_quote": " (ANNOYED) Knock it off..."
+  },
+  {
+    "timecode": "06:45",
+    "speaker": "Bart Simpson",
+    "quote": " Snow covers all. Pure, white snow.",
+    "directions": [
+      "DESPERATE"
+    ],
+    "raw_quote": " (DESPERATE) Snow covers all. Pure, white snow."
+  },
+  {
+    "timecode": "06:59",
+    "speaker": "Bart Simpson",
+    "quote": " I gotta get back to bed!",
+    "directions": [
+      "NERVOUS GULP"
+    ],
+    "raw_quote": " (NERVOUS GULP) I gotta get back to bed!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "SHORT GASP"
+    ],
+    "raw_quote": " (SHORT GASP)"
+  },
+  {
+    "timecode": "07:03",
+    "speaker": "Marge Simpson",
+    "quote": " What happened?",
+    "directions": [
+      "STUNNED"
+    ],
+    "raw_quote": " (STUNNED) What happened?"
+  },
+  {
+    "timecode": "07:06",
+    "speaker": "Homer Simpson",
+    "quote": " What the-- Where's Christmas? Lisa, where's Christmas?",
+    "directions": [
+      "WHIMPERS"
+    ],
+    "raw_quote": " What the-- (WHIMPERS) Where's Christmas? Lisa, where's Christmas?"
+  },
+  {
+    "timecode": "07:11",
+    "speaker": "Lisa Simpson",
+    "quote": " Bart, what were you doing outside?",
+    "directions": [],
+    "raw_quote": " Bart, what were you doing outside?"
+  },
+  {
+    "timecode": "07:16",
+    "speaker": "Bart Simpson",
+    "quote": " I don't know how to tell you this, but... I came down a little early and... um... well... uh...",
+    "directions": [
+      "CAUGHT"
+    ],
+    "raw_quote": " (CAUGHT) I don't know how to tell you this, but... I came down a little early and... um... well... uh..."
+  },
+  {
+    "timecode": "07:16",
+    "speaker": "Bart Simpson",
+    "quote": " I saw - a burglar and he was - he took - and he got all our stuff. Including the tree.",
+    "directions": [
+      "FAKE, SOBBING GULPS",
+      "ADDING"
+    ],
+    "raw_quote": " (FAKE, SOBBING GULPS) I saw - a burglar and he was - he took - and he got all our stuff. (ADDING) Including the tree."
+  },
+  {
+    "timecode": "07:37",
+    "speaker": "Marge Simpson",
+    "quote": " We were robbed?",
+    "directions": [],
+    "raw_quote": " We were robbed?"
+  },
+  {
+    "timecode": "07:39",
+    "speaker": "Bart Simpson",
+    "quote": " Uh huh. Uh huh. Uh huh.",
+    "directions": [
+      "NODS, WHIMPERING"
+    ],
+    "raw_quote": " (NODS, WHIMPERING) Uh huh. Uh huh. Uh huh."
+  },
+  {
+    "timecode": "07:42",
+    "speaker": "Marge Simpson",
+    "quote": " How could somebody...?",
+    "directions": [],
+    "raw_quote": " How could somebody...?"
+  },
+  {
+    "timecode": "07:43",
+    "speaker": "Bart Simpson",
+    "quote": " I know...",
+    "directions": [],
+    "raw_quote": " I know..."
+  },
+  {
+    "timecode": "07:46",
+    "speaker": "Homer Simpson",
+    "quote": " Can - we - skip - church? ",
+    "directions": [
+      "SOBBING GULPS, \u00c0 LA BART",
+      "SOBS"
+    ],
+    "raw_quote": " (SOBBING GULPS, \u00c0 LA BART) Can - we - skip - church? (SOBS)"
+  },
+  {
+    "timecode": "07:57",
+    "speaker": "Chief Wiggum",
+    "quote": " Now, um, what did this, ah, Christmas thief look like?",
+    "directions": [],
+    "raw_quote": " Now, um, what did this, ah, Christmas thief look like?"
+  },
+  {
+    "timecode": "08:01",
+    "speaker": "Bart Simpson",
+    "quote": " Well, he had a glass eye, a wooden leg, um... big scar on his cheek...",
+    "directions": [],
+    "raw_quote": " Well, he had a glass eye, a wooden leg, um... big scar on his cheek..."
+  },
+  {
+    "timecode": "08:07",
+    "speaker": "Chief Wiggum",
+    "quote": " Anything unusual?",
+    "directions": [],
+    "raw_quote": " Anything unusual?"
+  },
+  {
+    "timecode": "08:09",
+    "speaker": "Bart Simpson",
+    "quote": " Hooks for hands. Um, oh, uh, and he was wearing a striped convict shirt. And he was carrying a big sack with a dollar sign on it.",
+    "directions": [],
+    "raw_quote": " Hooks for hands. Um, oh, uh, and he was wearing a striped convict shirt. And he was carrying a big sack with a dollar sign on it."
+  },
+  {
+    "timecode": "08:16",
+    "speaker": "Lou",
+    "quote": " Classic burglar.",
+    "directions": [],
+    "raw_quote": " Classic burglar."
+  },
+  {
+    "timecode": "08:18",
+    "speaker": "Chief Wiggum",
+    "quote": " Ahh, cheer up. We'll catch this guy.",
+    "directions": [],
+    "raw_quote": " Ahh, cheer up. We'll catch this guy."
+  },
+  {
+    "timecode": "08:21",
+    "speaker": "Lou",
+    "quote": " Uh, Chief...",
+    "directions": [
+      "\"DON'T GET THEIR HOPES UP\""
+    ],
+    "raw_quote": " (\"DON'T GET THEIR HOPES UP\") Uh, Chief..."
+  },
+  {
+    "timecode": "08:23",
+    "speaker": "Chief Wiggum",
+    "quote": " What? You can't rule it out.",
+    "directions": [],
+    "raw_quote": " What? You can't rule it out."
+  },
+  {
+    "timecode": "08:27",
+    "speaker": "Homer Simpson",
+    "quote": " Well, there's no easy way to say it, kids: God hates us.",
+    "directions": [],
+    "raw_quote": " Well, there's no easy way to say it, kids: God hates us."
+  },
+  {
+    "timecode": "08:31",
+    "speaker": "Bart Simpson",
+    "quote": " Hey, since when is Christmas just about the presents? Aren't we forgetting the true meaning of this day? The birth of Santa?",
+    "directions": [],
+    "raw_quote": " Hey, since when is Christmas just about the presents? Aren't we forgetting the true meaning of this day? The birth of Santa?"
+  },
+  {
+    "timecode": "08:38",
+    "speaker": "Marge Simpson",
+    "quote": " Bart's absolutely right. This is the one day that shouldn't be about material things.",
+    "directions": [
+      "PERKING UP"
+    ],
+    "raw_quote": " (PERKING UP) Bart's absolutely right. This is the one day that shouldn't be about material things."
+  },
+  {
+    "timecode": "08:44",
+    "speaker": "Lisa Simpson",
+    "quote": " Hey, why don't we walk over to Grampa's and cheer up the old folks? That'll make us feel better.",
+    "directions": [],
+    "raw_quote": " Hey, why don't we walk over to Grampa's and cheer up the old folks? That'll make us feel better."
+  },
+  {
+    "timecode": "08:50",
+    "speaker": "Homer Simpson",
+    "quote": " Okay, but they'll have to be pretty damn miserable to make me happy.",
+    "directions": [
+      "GROANS"
+    ],
+    "raw_quote": " (GROANS) Okay, but they'll have to be pretty damn miserable to make me happy."
+  },
+  {
+    "timecode": "09:01",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Streets: EXT. SPRINGFIELD STREETS - a few minutes later"
+    ],
+    "raw_quote": "(Springfield Streets: EXT. SPRINGFIELD STREETS - a few minutes later)"
+  },
+  {
+    "timecode": "09:01",
+    "speaker": "Marge Simpson",
+    "quote": " Looks like the Flanders are having a nice Christmas.",
+    "directions": [
+      "APPRECIATIVE"
+    ],
+    "raw_quote": " (APPRECIATIVE) Looks like the Flanders are having a nice Christmas."
+  },
+  {
+    "timecode": "09:04",
+    "speaker": "Homer Simpson",
+    "quote": " Oh yeah? We'll show 'em. Come on, kids, pretend we've got new cross-country skis.",
+    "directions": [],
+    "raw_quote": " Oh yeah? We'll show 'em. Come on, kids, pretend we've got new cross-country skis."
+  },
+  {
+    "timecode": "09:21",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Merry Christmas, Simpsons! ",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " Merry Christmas, Simpsons! (CHUCKLES)"
+  },
+  {
+    "timecode": "09:29",
+    "speaker": "Homer Simpson",
+    "quote": " That's not as fun as it looks.",
+    "directions": [],
+    "raw_quote": " That's not as fun as it looks."
+  },
+  {
+    "timecode": "09:31",
+    "speaker": "Lisa Simpson",
+    "quote": " Nothing could be as fun as that looks.",
+    "directions": [],
+    "raw_quote": " Nothing could be as fun as that looks."
+  },
+  {
+    "timecode": "09:33",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Hey, look what I got, Bart! A \"Tickle Me Krusty!\"",
+    "directions": [],
+    "raw_quote": " Hey, look what I got, Bart! A \"Tickle Me Krusty!\""
+  },
+  {
+    "timecode": "09:35",
+    "speaker": "Krusty Doll",
+    "quote": " Hey, kid, get your finger outta there!",
+    "directions": [
+      "SHORT KRUSTY LAUGH"
+    ],
+    "raw_quote": " (SHORT KRUSTY LAUGH) Hey, kid, get your finger outta there!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Milhouse Van Houten",
+    "quote": " ",
+    "directions": [
+      "LAUGHS EXCITEDLY"
+    ],
+    "raw_quote": " (LAUGHS EXCITEDLY)"
+  },
+  {
+    "timecode": "09:39",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Ow!",
+    "directions": [],
+    "raw_quote": " Ow!"
+  },
+  {
+    "timecode": "09:40",
+    "speaker": "Marge Simpson",
+    "quote": " Homer!",
+    "directions": [],
+    "raw_quote": " Homer!"
+  },
+  {
+    "timecode": "09:45",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Retirement Castle: Int. RETIREMENT CASTLE - TV room - later"
+    ],
+    "raw_quote": "(Springfield Retirement Castle: Int. RETIREMENT CASTLE - TV room - later)"
+  },
+  {
+    "timecode": "09:45",
+    "speaker": "Homer Simpson",
+    "quote": " Lisa, you promised they'd be miserable. What the hell's goin' on?!",
+    "directions": [],
+    "raw_quote": " Lisa, you promised they'd be miserable. What the hell's goin' on?!"
+  },
+  {
+    "timecode": "09:48",
+    "speaker": "Grampa Simpson",
+    "quote": " Oh, the pharmaceutical man come by! And he shot us full of Christmas cheer! ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Oh, the pharmaceutical man come by! And he shot us full of Christmas cheer! (LAUGHS)"
+  },
+  {
+    "timecode": "09:56",
+    "speaker": "Jasper Beardly",
+    "quote": " I can't feel nothin' below my chin!",
+    "directions": [
+      "FLAILING LIMBS"
+    ],
+    "raw_quote": " (FLAILING LIMBS) I can't feel nothin' below my chin!"
+  },
+  {
+    "timecode": "10:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: INT. MOE'S TAVERN - CHRISTMAS AFTERNOON"
+    ],
+    "raw_quote": "(Moe's Tavern: INT. MOE'S TAVERN - CHRISTMAS AFTERNOON)"
+  },
+  {
+    "timecode": "10:06",
+    "speaker": "Moe Szyslak",
+    "quote": " Sounds like you're having a rough Christmas, Homer. You know what I blame this on the breakdown of? Society.",
+    "directions": [],
+    "raw_quote": " Sounds like you're having a rough Christmas, Homer. You know what I blame this on the breakdown of? Society."
+  },
+  {
+    "timecode": "10:12",
+    "speaker": "Homer Simpson",
+    "quote": " Yeah, you're right, Moe. You're always Moe.",
+    "directions": [
+      "DRUNK"
+    ],
+    "raw_quote": " (DRUNK) Yeah, you're right, Moe. You're always Moe."
+  },
+  {
+    "timecode": "10:17",
+    "speaker": "Barney Gumble",
+    "quote": " Homer, look! Your house is on TV!",
+    "directions": [],
+    "raw_quote": " Homer, look! Your house is on TV!"
+  },
+  {
+    "timecode": "10:20",
+    "speaker": "Homer Simpson",
+    "quote": " You take that back, Barney!",
+    "directions": [
+      "PISSED"
+    ],
+    "raw_quote": " (PISSED) You take that back, Barney!"
+  },
+  {
+    "timecode": "10:22",
+    "speaker": "Moe Szyslak",
+    "quote": " Nah, he's right, Homer.",
+    "directions": [],
+    "raw_quote": " Nah, he's right, Homer."
+  },
+  {
+    "timecode": "10:24",
+    "speaker": "Homer Simpson",
+    "quote": " Stay out of this, old man.",
+    "directions": [],
+    "raw_quote": " Stay out of this, old man."
+  },
+  {
+    "timecode": "10:26",
+    "speaker": "Kent Brockman",
+    "quote": " Dateline: Kent Brockman. I'm here at the scene of the Christmas burglary, where a creature was stirring last night. And what he was \"stirring\" was \"up trouble.\"",
+    "directions": [],
+    "raw_quote": " Dateline: Kent Brockman. I'm here at the scene of the Christmas burglary, where a creature was stirring last night. And what he was \"stirring\" was \"up trouble.\""
+  },
+  {
+    "timecode": "10:27",
+    "speaker": "Kent Brockman",
+    "quote": " Is your husband or lover here, ma'am?",
+    "directions": [],
+    "raw_quote": " Is your husband or lover here, ma'am?"
+  },
+  {
+    "timecode": "10:38",
+    "speaker": "Marge Simpson",
+    "quote": " No. My husband is... at church.",
+    "directions": [],
+    "raw_quote": " No. My husband is... at church."
+  },
+  {
+    "timecode": "10:41",
+    "speaker": "Homer Simpson",
+    "quote": " Aw, that's my girl. I love you, Marjorie.",
+    "directions": [
+      "INTOXICATED SMILE"
+    ],
+    "raw_quote": " (INTOXICATED SMILE) Aw, that's my girl. I love you, Marjorie."
+  },
+  {
+    "timecode": "10:45",
+    "speaker": "Moe Szyslak",
+    "quote": " Yeah, she's quite a gal.",
+    "directions": [],
+    "raw_quote": " Yeah, she's quite a gal."
+  },
+  {
+    "timecode": "10:46",
+    "speaker": "Homer Simpson",
+    "quote": " You shut up.",
+    "directions": [
+      "THREATENING"
+    ],
+    "raw_quote": " (THREATENING) You shut up."
+  },
+  {
+    "timecode": "10:48",
+    "speaker": "Kent Brockman",
+    "quote": " So when you realized Christmas was ruined, how did you feel?",
+    "directions": [],
+    "raw_quote": " So when you realized Christmas was ruined, how did you feel?"
+  },
+  {
+    "timecode": "10:52",
+    "speaker": "Marge Simpson",
+    "quote": " How do you think I felt?",
+    "directions": [],
+    "raw_quote": " How do you think I felt?"
+  },
+  {
+    "timecode": "10:55",
+    "speaker": "Kent Brockman",
+    "quote": " Absolutely devastated. \"Absolutely devastated.\" The words of a heart-broken mother. For there will be no fire truck for little Bart. No sweater for little Lisa. No Cajun sausage for little Homer...",
+    "directions": [
+      "TURNS TO CAMERA"
+    ],
+    "raw_quote": " Absolutely devastated. (TURNS TO CAMERA) \"Absolutely devastated.\" The words of a heart-broken mother. For there will be no fire truck for little Bart. No sweater for little Lisa. No Cajun sausage for little Homer..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "PAINED NOISE"
+    ],
+    "raw_quote": " (PAINED NOISE)"
+  },
+  {
+    "timecode": "11:11",
+    "speaker": "Kent Brockman",
+    "quote": " So while you're home today eating your sweet, sweet holiday turkey, I hope you'll all choke just a little bit.",
+    "directions": [
+      "SNEERING"
+    ],
+    "raw_quote": " (SNEERING) So while you're home today eating your sweet, sweet holiday turkey, I hope you'll all choke just a little bit."
+  },
+  {
+    "timecode": "11:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: EXT. SIMPSON HOUSE - FRONT DOOR - CHRISTMAS NIGHT"
+    ],
+    "raw_quote": "(Simpson Home: EXT. SIMPSON HOUSE - FRONT DOOR - CHRISTMAS NIGHT)"
+  },
+  {
+    "timecode": "11:23",
+    "speaker": "Homer Simpson",
+    "quote": " Lousy doormat.",
+    "directions": [
+      "ANGRY GRUMBLE"
+    ],
+    "raw_quote": " (ANGRY GRUMBLE) Lousy doormat."
+  },
+  {
+    "timecode": "11:27",
+    "speaker": "Marge Simpson",
+    "quote": " Homer! You won't believe what's happened! It's a miracle!",
+    "directions": [],
+    "raw_quote": " Homer! You won't believe what's happened! It's a miracle!"
+  },
+  {
+    "timecode": "11:30",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, Marge, I don't wanna hear any more about that silver polish.",
+    "directions": [],
+    "raw_quote": " Oh, Marge, I don't wanna hear any more about that silver polish."
+  },
+  {
+    "timecode": "",
+    "speaker": "Crowd",
+    "quote": " ",
+    "directions": [
+      "CHEERS"
+    ],
+    "raw_quote": " (CHEERS)"
+  },
+  {
+    "timecode": "11:40",
+    "speaker": "Marge Simpson",
+    "quote": " People saw our story on the news and they've opened their hearts to us!",
+    "directions": [],
+    "raw_quote": " People saw our story on the news and they've opened their hearts to us!"
+  },
+  {
+    "timecode": "11:44",
+    "speaker": "Captain Horatio McCallister",
+    "quote": " Arr, we just gave what we could.",
+    "directions": [],
+    "raw_quote": " Arr, we just gave what we could."
+  },
+  {
+    "timecode": "11:47",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Does anyone have change for a button?",
+    "directions": [],
+    "raw_quote": " Does anyone have change for a button?"
+  },
+  {
+    "timecode": "11:49",
+    "speaker": "Homer Simpson",
+    "quote": " Wow, this really restores your faith in...",
+    "directions": [],
+    "raw_quote": " Wow, this really restores your faith in..."
+  },
+  {
+    "timecode": "11:52",
+    "speaker": "Homer Simpson",
+    "quote": " Lisa, do you have to practice that stupid song now?!",
+    "directions": [
+      "MOMENTARILY LASHING OUT"
+    ],
+    "raw_quote": " (MOMENTARILY LASHING OUT) Lisa, do you have to practice that stupid song now?!"
+  },
+  {
+    "timecode": "11:55",
+    "speaker": "Lisa Simpson",
+    "quote": " Sorry, Daddy.",
+    "directions": [],
+    "raw_quote": " Sorry, Daddy."
+  },
+  {
+    "timecode": "11:57",
+    "speaker": "Ned Flanders",
+    "quote": " Hey, heard some no-goodnik stole your tree. Well we got a 30 footer, so you can have the top of ours.",
+    "directions": [],
+    "raw_quote": " Hey, heard some no-goodnik stole your tree. Well we got a 30 footer, so you can have the top of ours."
+  },
+  {
+    "timecode": "12:03",
+    "speaker": "Homer Simpson",
+    "quote": " Thanks, Ted.",
+    "directions": [
+      "SINCERELY"
+    ],
+    "raw_quote": " (SINCERELY) Thanks, Ted."
+  },
+  {
+    "timecode": "12:08",
+    "speaker": "Lisa Simpson",
+    "quote": " Bart, this is Patches, and what was your name?",
+    "directions": [
+      "TURNING TO ORPHAN GIRL"
+    ],
+    "raw_quote": " Bart, this is Patches, (TURNING TO ORPHAN GIRL) and what was your name?"
+  },
+  {
+    "timecode": "12:11",
+    "speaker": "Girl",
+    "quote": " Poor Violet.",
+    "directions": [],
+    "raw_quote": " Poor Violet."
+  },
+  {
+    "timecode": "12:12",
+    "speaker": "Bart Simpson",
+    "quote": " Ohhh, I don't like where this is goin'.",
+    "directions": [],
+    "raw_quote": " Ohhh, I don't like where this is goin'."
+  },
+  {
+    "timecode": "12:14",
+    "speaker": "Patches",
+    "quote": " Your story made everyone at the orphanage so sad. We want you to have this dollar we were saving.",
+    "directions": [],
+    "raw_quote": " Your story made everyone at the orphanage so sad. We want you to have this dollar we were saving."
+  },
+  {
+    "timecode": "12:22",
+    "speaker": "Bart Simpson",
+    "quote": " Please, I don't deserve this.",
+    "directions": [],
+    "raw_quote": " Please, I don't deserve this."
+  },
+  {
+    "timecode": "12:24",
+    "speaker": "Moe Szyslak",
+    "quote": " Hey, listen up, everybody! The Simpsons are the best friends I ever had. So I'm givin' them the tip jar from the bar!",
+    "directions": [],
+    "raw_quote": " Hey, listen up, everybody! The Simpsons are the best friends I ever had. So I'm givin' them the tip jar from the bar!"
+  },
+  {
+    "timecode": "12:36",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " My goodness, there is over $15,000 here.",
+    "directions": [],
+    "raw_quote": " My goodness, there is over $15,000 here."
+  },
+  {
+    "timecode": "12:40",
+    "speaker": "Krusty the Clown",
+    "quote": " Fifteen thousand missoulians?! Holy schlamola! What are you gonna do with all that kablingie?",
+    "directions": [],
+    "raw_quote": " Fifteen thousand missoulians?! Holy schlamola! What are you gonna do with all that kablingie?"
+  },
+  {
+    "timecode": "12:46",
+    "speaker": "Marge Simpson",
+    "quote": " Well, if you mean the money, I suppose we'll just replace the items the burglar took from--",
+    "directions": [],
+    "raw_quote": " Well, if you mean the money, I suppose we'll just replace the items the burglar took from--"
+  },
+  {
+    "timecode": "12:51",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Bo-ring! Spend it on something fun! Go wild! Ha! Right, Seymour?",
+    "directions": [],
+    "raw_quote": " Bo-ring! Spend it on something fun! Go wild! Ha! Right, Seymour?"
+  },
+  {
+    "timecode": "12:55",
+    "speaker": "Seymour Skinner",
+    "quote": " Yes. Something wild.",
+    "directions": [
+      "MONOTONE"
+    ],
+    "raw_quote": " (MONOTONE) Yes. Something wild."
+  },
+  {
+    "timecode": "12:57",
+    "speaker": "Moe Szyslak",
+    "quote": " Yeah, enjoy.",
+    "directions": [],
+    "raw_quote": " Yeah, enjoy."
+  },
+  {
+    "timecode": "12:58",
+    "speaker": "Crowd",
+    "quote": " Get something fun!/ Something stupid!/",
+    "directions": [],
+    "raw_quote": " Get something fun!/ Something stupid!/"
+  },
+  {
+    "timecode": "13:00",
+    "speaker": "Sideshow Mel",
+    "quote": " You only live once!",
+    "directions": [],
+    "raw_quote": " You only live once!"
+  },
+  {
+    "timecode": "13:02",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Hey, speak for yourself.",
+    "directions": [],
+    "raw_quote": " Hey, speak for yourself."
+  },
+  {
+    "timecode": "13:03",
+    "speaker": "Homer Simpson",
+    "quote": " Marge, kids, let's go buy some happiness!",
+    "directions": [],
+    "raw_quote": " Marge, kids, let's go buy some happiness!"
+  },
+  {
+    "timecode": "13:11",
+    "speaker": "Crowd",
+    "quote": " Yipee! / Woo hoo! / Ha! Ha! Ha! Ha! Ha! Ha!",
+    "directions": [
+      "AMID CHEERING"
+    ],
+    "raw_quote": " (AMID CHEERING) Yipee! / Woo hoo! / Ha! Ha! Ha! Ha! Ha! Ha!"
+  },
+  {
+    "timecode": "13:11",
+    "speaker": "Poor Violet",
+    "quote": " God bless you, Bart Simpson. I'd kiss you, but doctor says I'm sick. ",
+    "directions": [
+      "COUGHS"
+    ],
+    "raw_quote": " God bless you, Bart Simpson. I'd kiss you, but doctor says I'm sick. (COUGHS)"
+  },
+  {
+    "timecode": "13:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "KLIFF'S KAR CHALET: INT. KLIFF'S KAR CHALET - later"
+    ],
+    "raw_quote": "(KLIFF'S KAR CHALET: INT. KLIFF'S KAR CHALET - later)"
+  },
+  {
+    "timecode": "13:23",
+    "speaker": "Homer Simpson",
+    "quote": " Is this car $15,000? ",
+    "directions": [
+      "SHOWS CASH"
+    ],
+    "raw_quote": " Is this car $15,000? (SHOWS CASH)"
+  },
+  {
+    "timecode": "13:26",
+    "speaker": "Cliff",
+    "quote": " It is now. And because of your loss, folks, I'll throw in the undercoating for two hundred -- nooo, four hundred and ninety bucks.",
+    "directions": [],
+    "raw_quote": " It is now. And because of your loss, folks, I'll throw in the undercoating for two hundred -- nooo, four hundred and ninety bucks."
+  },
+  {
+    "timecode": "13:35",
+    "speaker": "Homer Simpson",
+    "quote": " What a deal! I'd be a sucker not to get it.",
+    "directions": [],
+    "raw_quote": " What a deal! I'd be a sucker not to get it."
+  },
+  {
+    "timecode": "13:38",
+    "speaker": "Bart Simpson",
+    "quote": " I don't know about this, Dad. Shouldn't we give the money to charity or some...? Ow!",
+    "directions": [
+      "THEN"
+    ],
+    "raw_quote": " I don't know about this, Dad. Shouldn't we give the money to charity or some...? (THEN) Ow!"
+  },
+  {
+    "timecode": "13:42",
+    "speaker": "Cliff",
+    "quote": " Oh, I'm sorry. I jabbed you with my pen.",
+    "directions": [],
+    "raw_quote": " Oh, I'm sorry. I jabbed you with my pen."
+  },
+  {
+    "timecode": "13:45",
+    "speaker": "Bart Simpson",
+    "quote": " Ow! You're still doing it.",
+    "directions": [],
+    "raw_quote": " Ow! You're still doing it."
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "Cliff",
+    "quote": " Yeah, I know.",
+    "directions": [],
+    "raw_quote": " Yeah, I know."
+  },
+  {
+    "timecode": "13:47",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Road: EXT. ROAD - A SHORT WHILE LATER"
+    ],
+    "raw_quote": "(Road: EXT. ROAD - A SHORT WHILE LATER)"
+  },
+  {
+    "timecode": "13:47",
+    "speaker": "Lisa Simpson",
+    "quote": " Here comes Santa Claus / Here comes Santa Claus / Right down Santa Claus Lane... Vixen and Blitzen all the reindeer pulling at the reins... / Oh what fun it is to ride in a one horse open sleigh...",
+    "directions": [
+      "SINGING",
+      "SINGING AT SAME TIME",
+      "LISA AND MARGE",
+      "HOMER"
+    ],
+    "raw_quote": " (SINGING) Here comes Santa Claus / Here comes Santa Claus / Right down Santa Claus Lane... (SINGING AT SAME TIME) (LISA AND MARGE) Vixen and Blitzen all the reindeer pulling at the reins... / (HOMER) Oh what fun it is to ride in a one horse open sleigh..."
+  },
+  {
+    "timecode": "13:59",
+    "speaker": "Bart Simpson",
+    "quote": " Will this Christmas never end?",
+    "directions": [
+      "SOTTO GROAN"
+    ],
+    "raw_quote": " (SOTTO GROAN) Will this Christmas never end?"
+  },
+  {
+    "timecode": "14:05",
+    "speaker": "Homer Simpson",
+    "quote": " Outta my way, snow-poke!",
+    "directions": [],
+    "raw_quote": " Outta my way, snow-poke!"
+  },
+  {
+    "timecode": "14:08",
+    "speaker": "Marge Simpson",
+    "quote": " Slow down, Homer.",
+    "directions": [],
+    "raw_quote": " Slow down, Homer."
+  },
+  {
+    "timecode": "14:10",
+    "speaker": "Homer Simpson",
+    "quote": " Don't worry, honey. I know exactly what I'm --",
+    "directions": [],
+    "raw_quote": " Don't worry, honey. I know exactly what I'm --"
+  },
+  {
+    "timecode": "14:13",
+    "speaker": "Homer Simpson",
+    "quote": " Oopsie.",
+    "directions": [],
+    "raw_quote": " Oopsie."
+  },
+  {
+    "timecode": "14:15",
+    "speaker": "Marge Simpson",
+    "quote": " Tap the brakes! Tap the brakes!",
+    "directions": [],
+    "raw_quote": " Tap the brakes! Tap the brakes!"
+  },
+  {
+    "timecode": "14:17",
+    "speaker": "Lisa Simpson",
+    "quote": " Turn into the skid!",
+    "directions": [],
+    "raw_quote": " Turn into the skid!"
+  },
+  {
+    "timecode": "14:18",
+    "speaker": "Bart Simpson",
+    "quote": " No, away from the skid!",
+    "directions": [],
+    "raw_quote": " No, away from the skid!"
+  },
+  {
+    "timecode": "14:19",
+    "speaker": "Bart Simpson",
+    "quote": " Hit the brakes! / Floor it! / Stop! / To the left! / Head back!",
+    "directions": [
+      "YELLING AT ONCE"
+    ],
+    "raw_quote": " (YELLING AT ONCE) Hit the brakes! / Floor it! / Stop! / To the left! / Head back!"
+  },
+  {
+    "timecode": "14:21",
+    "speaker": "Homer Simpson",
+    "quote": " Shut up! One at a time! Lisa?",
+    "directions": [
+      "AS CAR CONTINUES TO SKID"
+    ],
+    "raw_quote": " (AS CAR CONTINUES TO SKID) Shut up! One at a time! Lisa?"
+  },
+  {
+    "timecode": "14:24",
+    "speaker": "Lisa Simpson",
+    "quote": " Bail out!",
+    "directions": [
+      "LOOKING OUT WINDOW"
+    ],
+    "raw_quote": " (LOOKING OUT WINDOW) Bail out!"
+  },
+  {
+    "timecode": "14:32",
+    "speaker": "Marge Simpson",
+    "quote": " That was close.",
+    "directions": [
+      "RELIEVED SIGH"
+    ],
+    "raw_quote": " (RELIEVED SIGH) That was close."
+  },
+  {
+    "timecode": "14:42",
+    "speaker": "Homer Simpson",
+    "quote": " I knew this would happen.",
+    "directions": [
+      "GROANS"
+    ],
+    "raw_quote": " (GROANS) I knew this would happen."
+  },
+  {
+    "timecode": "14:44",
+    "speaker": "Marge Simpson",
+    "quote": " Well, at least the burglar's having a merry Christmas.",
+    "directions": [
+      "BITTERLY"
+    ],
+    "raw_quote": " (BITTERLY) Well, at least the burglar's having a merry Christmas."
+  },
+  {
+    "timecode": "14:53",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE - living room - THE NEXT MORNING"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE - living room - THE NEXT MORNING)"
+  },
+  {
+    "timecode": "14:53",
+    "speaker": "Marge Simpson",
+    "quote": " Bart! You're up early.",
+    "directions": [],
+    "raw_quote": " Bart! You're up early."
+  },
+  {
+    "timecode": "14:54",
+    "speaker": "Bart Simpson",
+    "quote": " I couldn't sleep.",
+    "directions": [],
+    "raw_quote": " I couldn't sleep."
+  },
+  {
+    "timecode": "14:55",
+    "speaker": "Marge Simpson",
+    "quote": " What's wrong?",
+    "directions": [],
+    "raw_quote": " What's wrong?"
+  },
+  {
+    "timecode": "15:01",
+    "speaker": "Bart Simpson",
+    "quote": " There was no burglar.",
+    "directions": [],
+    "raw_quote": " There was no burglar."
+  },
+  {
+    "timecode": "15:02",
+    "speaker": "Lisa Simpson",
+    "quote": " No burglar? / What? / what's he mean?",
+    "directions": [
+      "AMID SURPRISED NOISES"
+    ],
+    "raw_quote": " (AMID SURPRISED NOISES) No burglar? / What? / what's he mean?"
+  },
+  {
+    "timecode": "15:04",
+    "speaker": "Bart Simpson",
+    "quote": " I accidentally burned up the tree and the presents. I'm really sorry.",
+    "directions": [],
+    "raw_quote": " I accidentally burned up the tree and the presents. I'm really sorry."
+  },
+  {
+    "timecode": "15:11",
+    "speaker": "Lisa Simpson",
+    "quote": " Why you little...",
+    "directions": [],
+    "raw_quote": " Why you little..."
+  },
+  {
+    "timecode": "15:14",
+    "speaker": "Homer Simpson",
+    "quote": " Lisa, no! Your hands are too weak!",
+    "directions": [],
+    "raw_quote": " Lisa, no! Your hands are too weak!"
+  },
+  {
+    "timecode": "15:17",
+    "speaker": "Marge Simpson",
+    "quote": " Stop that!",
+    "directions": [],
+    "raw_quote": " Stop that!"
+  },
+  {
+    "timecode": "15:21",
+    "speaker": "Homer Simpson",
+    "quote": " I'm gonna kill you! / No, I'm killing him first! / Why you little... Bart, the next time you ever have... / You went too far...",
+    "directions": [
+      "AMID SCUFFLING NOISES"
+    ],
+    "raw_quote": " (AMID SCUFFLING NOISES) I'm gonna kill you! / No, I'm killing him first! / Why you little... Bart, the next time you ever have... / You went too far..."
+  },
+  {
+    "timecode": "15:31",
+    "speaker": "Kent Brockman",
+    "quote": " Kent Brockman here for a follow-up with Springfield's favorite hard luck family, the Simpsons!",
+    "directions": [],
+    "raw_quote": " Kent Brockman here for a follow-up with Springfield's favorite hard luck family, the Simpsons!"
+  },
+  {
+    "timecode": "15:36",
+    "speaker": "Kent Brockman",
+    "quote": " Folks, any words for the Christmas thief, if he's watching?",
+    "directions": [],
+    "raw_quote": " Folks, any words for the Christmas thief, if he's watching?"
+  },
+  {
+    "timecode": "15:40",
+    "speaker": "Homer Simpson",
+    "quote": " Yes, Kent. \"Hello, jerk. We may never find you, and we should probably all stop looking. But one thing's for sure: you do exist.\"",
+    "directions": [
+      "STIFFLY",
+      "SEARCHING NOISE",
+      "FACING CAMERA"
+    ],
+    "raw_quote": " (STIFFLY) (SEARCHING NOISE) Yes, Kent. (FACING CAMERA) \"Hello, jerk. We may never find you, and we should probably all stop looking. But one thing's for sure: you do exist.\""
+  },
+  {
+    "timecode": "15:52",
+    "speaker": "Kent Brockman",
+    "quote": " Strong words. Strong, bewildering words.",
+    "directions": [],
+    "raw_quote": " Strong words. Strong, bewildering words."
+  },
+  {
+    "timecode": "15:57",
+    "speaker": "Marge Simpson",
+    "quote": " Also, we want to thank the whole town for their generosity.",
+    "directions": [
+      "QUICKLY"
+    ],
+    "raw_quote": " (QUICKLY) Also, we want to thank the whole town for their generosity."
+  },
+  {
+    "timecode": "",
+    "speaker": "Santa's Little Helper",
+    "quote": " ",
+    "directions": [
+      "GROWLING NOISES"
+    ],
+    "raw_quote": " (GROWLING NOISES)"
+  },
+  {
+    "timecode": "16:01",
+    "speaker": "Cameraman",
+    "quote": " Hey, look!",
+    "directions": [],
+    "raw_quote": " Hey, look!"
+  },
+  {
+    "timecode": "16:02",
+    "speaker": "Cameraman",
+    "quote": " It's little Bart's fire truck!",
+    "directions": [
+      "POINTING TO SNOWBANK"
+    ],
+    "raw_quote": " (POINTING TO SNOWBANK) It's little Bart's fire truck!"
+  },
+  {
+    "timecode": "16:08",
+    "speaker": "Kent Brockman",
+    "quote": " Little Lisa's sweater? Little Homer's sausage?! What in the name of holy hell is going on here?",
+    "directions": [
+      "GASPS"
+    ],
+    "raw_quote": " (GASPS) Little Lisa's sweater? Little Homer's sausage?! What in the name of holy hell is going on here?"
+  },
+  {
+    "timecode": "16:14",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, it's true! We weren't robbed! That part we made up! But the rest is true! ",
+    "directions": [
+      "CRIES"
+    ],
+    "raw_quote": " Oh, it's true! We weren't robbed! That part we made up! But the rest is true! (CRIES)"
+  },
+  {
+    "timecode": "16:21",
+    "speaker": "Bart Simpson",
+    "quote": " Wait! He's just covering for me! I destroyed the presents, then I buried the evidence. And I acted alone.",
+    "directions": [],
+    "raw_quote": " Wait! He's just covering for me! I destroyed the presents, then I buried the evidence. And I acted alone."
+  },
+  {
+    "timecode": "16:27",
+    "speaker": "Kent Brockman",
+    "quote": " So the family never knew about any of this.",
+    "directions": [
+      "CONVINCED"
+    ],
+    "raw_quote": " (CONVINCED) So the family never knew about any of this."
+  },
+  {
+    "timecode": "16:30",
+    "speaker": "Homer Simpson",
+    "quote": " Well, the boy told us. But that was after we filed a phony police report.",
+    "directions": [
+      "HELPING"
+    ],
+    "raw_quote": " (HELPING) Well, the boy told us. But that was after we filed a phony police report."
+  },
+  {
+    "timecode": "16:35",
+    "speaker": "Lisa Simpson",
+    "quote": " And after we spent all the townspeople's money.",
+    "directions": [
+      "CLARIFYING"
+    ],
+    "raw_quote": " (CLARIFYING) And after we spent all the townspeople's money."
+  },
+  {
+    "timecode": "16:37",
+    "speaker": "Marge Simpson",
+    "quote": " So you can see why my husband had to lie to you a moment ago.",
+    "directions": [],
+    "raw_quote": " So you can see why my husband had to lie to you a moment ago."
+  },
+  {
+    "timecode": "16:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: Int. Moe's bar - continuous"
+    ],
+    "raw_quote": "(Moe's Tavern: Int. Moe's bar - continuous)"
+  },
+  {
+    "timecode": "16:42",
+    "speaker": "Moe Szyslak",
+    "quote": " So this was all a scam. And on Christmas.",
+    "directions": [
+      "DISGUSTED"
+    ],
+    "raw_quote": " So this was all a scam. (DISGUSTED) And on Christmas."
+  },
+  {
+    "timecode": "16:47",
+    "speaker": "Barney Gumble",
+    "quote": " Yeah. Jesus must be spinning in his grave.",
+    "directions": [],
+    "raw_quote": " Yeah. Jesus must be spinning in his grave."
+  },
+  {
+    "timecode": "16:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SPRINGFIELD TV STORE: Ext. Springfield TV store - continuous"
+    ],
+    "raw_quote": "(SPRINGFIELD TV STORE: Ext. Springfield TV store - continuous)"
+  },
+  {
+    "timecode": "16:50",
+    "speaker": "Poor Violet",
+    "quote": " We gave them our vitamin money. ",
+    "directions": [
+      "COUGHS"
+    ],
+    "raw_quote": " We gave them our vitamin money. (COUGHS)"
+  },
+  {
+    "timecode": "16:55",
+    "speaker": "Store Owner",
+    "quote": " Hey! Hey! Shoo, ya lousy freeloaders! Come back when you get some parents.",
+    "directions": [],
+    "raw_quote": " Hey! Hey! Shoo, ya lousy freeloaders! Come back when you get some parents."
+  },
+  {
+    "timecode": "16:58",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Ext. Simpson house - front door - continuous"
+    ],
+    "raw_quote": "(Simpson Home: Ext. Simpson house - front door - continuous)"
+  },
+  {
+    "timecode": "16:58",
+    "speaker": "Kent Brockman",
+    "quote": " In my long career, I've seen some pretty shabby things. But this putrid fraud out-stinks them all.",
+    "directions": [],
+    "raw_quote": " In my long career, I've seen some pretty shabby things. But this putrid fraud out-stinks them all."
+  },
+  {
+    "timecode": "17:07",
+    "speaker": "Cameraman",
+    "quote": " And... cut.",
+    "directions": [],
+    "raw_quote": " And... cut."
+  },
+  {
+    "timecode": "17:10",
+    "speaker": "Kent Brockman",
+    "quote": " I just want to thank you folks so much. This has turned out to be a great, great story for me.",
+    "directions": [
+      "PUMPING HOMER'S HAND WARMLY"
+    ],
+    "raw_quote": " (PUMPING HOMER'S HAND WARMLY) I just want to thank you folks so much. This has turned out to be a great, great story for me."
+  },
+  {
+    "timecode": "17:25",
+    "speaker": "Lisa Simpson",
+    "quote": " I think they're running out of tomatoes.",
+    "directions": [],
+    "raw_quote": " I think they're running out of tomatoes."
+  },
+  {
+    "timecode": "17:27",
+    "speaker": "Bart Simpson",
+    "quote": " Yeah, but they've still got plenty of pumpkins.",
+    "directions": [],
+    "raw_quote": " Yeah, but they've still got plenty of pumpkins."
+  },
+  {
+    "timecode": "17:30",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, Homer. I'm so ashamed.",
+    "directions": [],
+    "raw_quote": " Oh, Homer. I'm so ashamed."
+  },
+  {
+    "timecode": "17:33",
+    "speaker": "Homer Simpson",
+    "quote": " Relax, Marge. This'll all blow over.",
+    "directions": [],
+    "raw_quote": " Relax, Marge. This'll all blow over."
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "DEFEATED GROAN"
+    ],
+    "raw_quote": " (DEFEATED GROAN)"
+  },
+  {
+    "timecode": "17:51",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Krusty Burger: Ext. Krusty Burger - that evening"
+    ],
+    "raw_quote": "(Krusty Burger: Ext. Krusty Burger - that evening)"
+  },
+  {
+    "timecode": "17:51",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, no. Look at the line!",
+    "directions": [],
+    "raw_quote": " Oh, no. Look at the line!"
+  },
+  {
+    "timecode": "17:53",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh, there they are.",
+    "directions": [],
+    "raw_quote": " Oh, there they are."
+  },
+  {
+    "timecode": "17:56",
+    "speaker": "Seymour Skinner",
+    "quote": " It's the Simpsons.",
+    "directions": [],
+    "raw_quote": " It's the Simpsons."
+  },
+  {
+    "timecode": "17:57",
+    "speaker": "Moe Szyslak",
+    "quote": " Aw, them stinkin' liars.",
+    "directions": [],
+    "raw_quote": " Aw, them stinkin' liars."
+  },
+  {
+    "timecode": "17:59",
+    "speaker": "Ned Flanders",
+    "quote": " There goes Christmas dinner.",
+    "directions": [],
+    "raw_quote": " There goes Christmas dinner."
+  },
+  {
+    "timecode": "18:01",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Ha.",
+    "directions": [],
+    "raw_quote": " Ha."
+  },
+  {
+    "timecode": "18:01",
+    "speaker": "Homer Simpson",
+    "quote": " Head of the line! A family could get used to being shunned. Huh? Huh?",
+    "directions": [
+      "SELLING"
+    ],
+    "raw_quote": " Head of the line! A family could get used to being shunned. (SELLING) Huh? Huh?"
+  },
+  {
+    "timecode": "18:10",
+    "speaker": "Sullen Teen",
+    "quote": " Hey, look, Sean! It's that family everybody hates!",
+    "directions": [],
+    "raw_quote": " Hey, look, Sean! It's that family everybody hates!"
+  },
+  {
+    "timecode": "18:14",
+    "speaker": "Sean",
+    "quote": " What-ever.",
+    "directions": [
+      "LOOKING UP"
+    ],
+    "raw_quote": " (LOOKING UP) What-ever."
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: INT. SPRINGFIELD ELEMENTARY - LISA'S CLASSROOM - THE NEXT MORNING"
+    ],
+    "raw_quote": "(Springfield Elementary School: INT. SPRINGFIELD ELEMENTARY - LISA'S CLASSROOM - THE NEXT MORNING)"
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "Lisa Simpson",
+    "quote": " Um, Miss Hoover! Miss Hoover!",
+    "directions": [],
+    "raw_quote": " Um, Miss Hoover! Miss Hoover!"
+  },
+  {
+    "timecode": "18:20",
+    "speaker": "Miss Hoover",
+    "quote": " Forget it, Lisa. I'm not teaching you anything until I get my money back. Now turn your desk around and stop learning.",
+    "directions": [],
+    "raw_quote": " Forget it, Lisa. I'm not teaching you anything until I get my money back. Now turn your desk around and stop learning."
+  },
+  {
+    "timecode": "18:30",
+    "speaker": "Miss Hoover",
+    "quote": " All the way.",
+    "directions": [],
+    "raw_quote": " All the way."
+  },
+  {
+    "timecode": "18:34",
+    "speaker": "Ralph Wiggum",
+    "quote": " Hi, liar.",
+    "directions": [
+      "CHEERY"
+    ],
+    "raw_quote": " (CHEERY) Hi, liar."
+  },
+  {
+    "timecode": "18:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: INT. POWER PLANT - LUNCH ROOM - DAY"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: INT. POWER PLANT - LUNCH ROOM - DAY)"
+  },
+  {
+    "timecode": "18:38",
+    "speaker": "Homer Simpson",
+    "quote": " Run for your lives, everyone! This is not a drill!",
+    "directions": [
+      "MUTED THROUGH HELMET"
+    ],
+    "raw_quote": " (MUTED THROUGH HELMET) Run for your lives, everyone! This is not a drill!"
+  },
+  {
+    "timecode": "18:42",
+    "speaker": "Lenny Leonard",
+    "quote": " Oh, right, yeah. Then while we're gone, you take our snacks, just like you took our money.",
+    "directions": [
+      "SCOFFING"
+    ],
+    "raw_quote": " (SCOFFING) Oh, right, yeah. Then while we're gone, you take our snacks, just like you took our money."
+  },
+  {
+    "timecode": "18:48",
+    "speaker": "Carl Carlson",
+    "quote": " You tell him, Lenny. ",
+    "directions": [
+      "COUGHS"
+    ],
+    "raw_quote": " You tell him, Lenny. (COUGHS)"
+  },
+  {
+    "timecode": "18:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE - KITCHEN - THE NEXT day"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE - KITCHEN - THE NEXT day)"
+  },
+  {
+    "timecode": "18:50",
+    "speaker": "Marge Simpson",
+    "quote": " \"...You'll all get yours in hell, you lying, thieving, blanking blankers. Sincerely, Moe.\"",
+    "directions": [
+      "READING",
+      "CLEARS THROAT"
+    ],
+    "raw_quote": " (READING) \"...You'll all get yours in hell, you lying, thieving, (CLEARS THROAT) blanking blankers. Sincerely, Moe.\""
+  },
+  {
+    "timecode": "18:58",
+    "speaker": "Homer Simpson",
+    "quote": " Oh great, now we have to send him a card.",
+    "directions": [],
+    "raw_quote": " Oh great, now we have to send him a card."
+  },
+  {
+    "timecode": "19:02",
+    "speaker": "Marge Simpson",
+    "quote": " I know you're used to getting hate mail, but I'm not.",
+    "directions": [],
+    "raw_quote": " I know you're used to getting hate mail, but I'm not."
+  },
+  {
+    "timecode": "19:06",
+    "speaker": "Homer Simpson",
+    "quote": " There's only one way out. We've gotta give this greedy town its money back.",
+    "directions": [],
+    "raw_quote": " There's only one way out. We've gotta give this greedy town its money back."
+  },
+  {
+    "timecode": "19:10",
+    "speaker": "Lisa Simpson",
+    "quote": " But we don't have $15,000.",
+    "directions": [],
+    "raw_quote": " But we don't have $15,000."
+  },
+  {
+    "timecode": "19:13",
+    "speaker": "Marge Simpson",
+    "quote": " Unless...",
+    "directions": [
+      "GETTING AN IDEA"
+    ],
+    "raw_quote": " (GETTING AN IDEA) Unless..."
+  },
+  {
+    "timecode": "19:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Jeopardy! Studio: INT. JEOPARDY GAME SHOW SET - the next day"
+    ],
+    "raw_quote": "(Jeopardy! Studio: INT. JEOPARDY GAME SHOW SET - the next day)"
+  },
+  {
+    "timecode": "19:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "JEOPARDY STUDIO: INT. JEOPARDY studio - BACKSTAGE - SOON AFTER"
+    ],
+    "raw_quote": "(JEOPARDY STUDIO: INT. JEOPARDY studio - BACKSTAGE - SOON AFTER)"
+  },
+  {
+    "timecode": "19:25",
+    "speaker": "Alex Trebek",
+    "quote": " Aren't we forgetting something, Marge? You were down $5,200.",
+    "directions": [
+      "TOUGH"
+    ],
+    "raw_quote": " (TOUGH) Aren't we forgetting something, Marge? You were down $5,200."
+  },
+  {
+    "timecode": "19:29",
+    "speaker": "Marge Simpson",
+    "quote": " But Mr. Trebek --",
+    "directions": [],
+    "raw_quote": " But Mr. Trebek --"
+  },
+  {
+    "timecode": "19:30",
+    "speaker": "Alex Trebek",
+    "quote": " I asked you before the game if you knew the rules and you said you did. Judges?",
+    "directions": [],
+    "raw_quote": " I asked you before the game if you knew the rules and you said you did. Judges?"
+  },
+  {
+    "timecode": "19:35",
+    "speaker": "Lisa Simpson",
+    "quote": " Run, Mom!",
+    "directions": [],
+    "raw_quote": " Run, Mom!"
+  },
+  {
+    "timecode": "19:41",
+    "speaker": "Goon #1",
+    "quote": " She ain't gettin' the home version.",
+    "directions": [],
+    "raw_quote": " She ain't gettin' the home version."
+  },
+  {
+    "timecode": "19:46",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Car: Int. Simpson CAR - THAT NIGHT"
+    ],
+    "raw_quote": "(Simpson Car: Int. Simpson CAR - THAT NIGHT)"
+  },
+  {
+    "timecode": "19:46",
+    "speaker": "Lisa Simpson",
+    "quote": " I guess we better get used to being pariahs.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) I guess we better get used to being pariahs."
+  },
+  {
+    "timecode": "19:49",
+    "speaker": "Marge Simpson",
+    "quote": " There's no shame in being a pariah.",
+    "directions": [],
+    "raw_quote": " There's no shame in being a pariah."
+  },
+  {
+    "timecode": "19:55",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Evergreen Terrace: EXT. evergreen terrace - SOON AFTER"
+    ],
+    "raw_quote": "(Evergreen Terrace: EXT. evergreen terrace - SOON AFTER)"
+  },
+  {
+    "timecode": "19:55",
+    "speaker": "Homer Simpson",
+    "quote": " Oh no, there's that angry mob again.",
+    "directions": [],
+    "raw_quote": " Oh no, there's that angry mob again."
+  },
+  {
+    "timecode": "19:59",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Hey, look who's here, everybody.",
+    "directions": [
+      "TO CROWD"
+    ],
+    "raw_quote": " (TO CROWD) Hey, look who's here, everybody."
+  },
+  {
+    "timecode": "20:01",
+    "speaker": "Crowd",
+    "quote": " Oh, hi! / Oh, hello! / Hello! / Hi! / Ha!",
+    "directions": [
+      "AMID FRIENDLY GREETINGS"
+    ],
+    "raw_quote": " (AMID FRIENDLY GREETINGS) Oh, hi! / Oh, hello! / Hello! / Hi! / Ha!"
+  },
+  {
+    "timecode": "20:05",
+    "speaker": "Marge Simpson",
+    "quote": " They've forgiven us. It's a miracle! You know, deep down, people are pretty g-- Hey, wait a minute! They're taking our stuff!",
+    "directions": [
+      "MOVED"
+    ],
+    "raw_quote": " (MOVED) They've forgiven us. It's a miracle! You know, deep down, people are pretty g-- Hey, wait a minute! They're taking our stuff!"
+  },
+  {
+    "timecode": "20:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE - TV ROOM - CONTINUOUS"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE - TV ROOM - CONTINUOUS)"
+  },
+  {
+    "timecode": "20:19",
+    "speaker": "Marge Simpson",
+    "quote": " Good Lord!",
+    "directions": [],
+    "raw_quote": " Good Lord!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Chief Wiggum",
+    "quote": " ",
+    "directions": [
+      "HAPPILY HUMMING \"HARK THE HERALD ANGELS SING\""
+    ],
+    "raw_quote": " (HAPPILY HUMMING \"HARK THE HERALD ANGELS SING\")"
+  },
+  {
+    "timecode": "20:24",
+    "speaker": "Lenny Leonard",
+    "quote": " Hot! Hot! Hot! Hot! Hot!",
+    "directions": [
+      "QUIETLY"
+    ],
+    "raw_quote": " (QUIETLY) Hot! Hot! Hot! Hot! Hot!"
+  },
+  {
+    "timecode": "20:33",
+    "speaker": "Krusty the Clown",
+    "quote": " If you're headin' for the medicine cabinet, I already been there.",
+    "directions": [
+      "TO OTTO"
+    ],
+    "raw_quote": " (TO OTTO) If you're headin' for the medicine cabinet, I already been there."
+  },
+  {
+    "timecode": "20:41",
+    "speaker": "Homer Simpson",
+    "quote": " What the hell's goin' on?",
+    "directions": [
+      "TO MOE"
+    ],
+    "raw_quote": " (TO MOE) What the hell's goin' on?"
+  },
+  {
+    "timecode": "20:42",
+    "speaker": "Moe Szyslak",
+    "quote": " Well, we hated being mad at ya, Homer, so we decided to make things right.",
+    "directions": [],
+    "raw_quote": " Well, we hated being mad at ya, Homer, so we decided to make things right."
+  },
+  {
+    "timecode": "20:46",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Consider your debt repaid, neighbor.",
+    "directions": [],
+    "raw_quote": " Consider your debt repaid, neighbor."
+  },
+  {
+    "timecode": "20:48",
+    "speaker": "Seymour Skinner",
+    "quote": " And then some.",
+    "directions": [],
+    "raw_quote": " And then some."
+  },
+  {
+    "timecode": "20:58",
+    "speaker": "Marge Simpson",
+    "quote": " Look, I know this has been a stressful holiday. But, in a way, having nothing reminds us how lucky we really are.",
+    "directions": [
+      "STRUGGLING"
+    ],
+    "raw_quote": " (STRUGGLING) Look, I know this has been a stressful holiday. But, in a way, having nothing reminds us how lucky we really are."
+  },
+  {
+    "timecode": "21:08",
+    "speaker": "Lisa Simpson",
+    "quote": " What?",
+    "directions": [
+      "IRRITABLY"
+    ],
+    "raw_quote": " (IRRITABLY) What?"
+  },
+  {
+    "timecode": "21:09",
+    "speaker": "Marge Simpson",
+    "quote": " We still have each other. And isn't that the best gift of all?",
+    "directions": [],
+    "raw_quote": " We still have each other. And isn't that the best gift of all?"
+  },
+  {
+    "timecode": "21:14",
+    "speaker": "Lisa Simpson",
+    "quote": " But we would have had each other anyway.",
+    "directions": [],
+    "raw_quote": " But we would have had each other anyway."
+  },
+  {
+    "timecode": "21:16",
+    "speaker": "Bart Simpson",
+    "quote": " Yeah. Plus lots of other stuff.",
+    "directions": [],
+    "raw_quote": " Yeah. Plus lots of other stuff."
+  },
+  {
+    "timecode": "21:17",
+    "speaker": "Homer Simpson",
+    "quote": " Maybe so. But there's one thing they forgot to take away from us. This washcloth.",
+    "directions": [
+      "SAGELY",
+      "REACHING OUT OF FRAME, THEN REVERENT"
+    ],
+    "raw_quote": " (SAGELY) Maybe so. But there's one thing they forgot to take away from us. (REACHING OUT OF FRAME, THEN REVERENT) This washcloth."
+  },
+  {
+    "timecode": "21:25",
+    "speaker": "Bart Simpson",
+    "quote": " Hey, that's my washcloth.",
+    "directions": [],
+    "raw_quote": " Hey, that's my washcloth."
+  },
+  {
+    "timecode": "21:26",
+    "speaker": "Homer Simpson",
+    "quote": " The hell it is!",
+    "directions": [],
+    "raw_quote": " The hell it is!"
+  },
+  {
+    "timecode": "21:28",
+    "speaker": "Homer Simpson",
+    "quote": " Gimme that! / Uh, gimme that! / No! / Let go! / Gimme that my washcloth! / I want it!",
+    "directions": [],
+    "raw_quote": " Gimme that! / Uh, gimme that! / No! / Let go! / Gimme that my washcloth! / I want it!"
+  },
+  {
+    "timecode": "21:31",
+    "speaker": "Marge Simpson",
+    "quote": " Stop this madness. It's just a washcloth.",
+    "directions": [
+      "MILD SCOLDING"
+    ],
+    "raw_quote": " (MILD SCOLDING) Stop this madness. It's just a washcloth."
+  },
+  {
+    "timecode": "21:35",
+    "speaker": "Marge Simpson",
+    "quote": " Besides, it's mine. Yoink! ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Besides, it's mine. Yoink! (LAUGHS)"
+  },
+  {
+    "timecode": "21:37",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, she's getting away with the washcloth!",
+    "directions": [],
+    "raw_quote": " Hey, she's getting away with the washcloth!"
+  },
+  {
+    "timecode": "21:39",
+    "speaker": "Lisa Simpson",
+    "quote": " Hey!",
+    "directions": [],
+    "raw_quote": " Hey!"
+  },
+  {
+    "timecode": "21:39",
+    "speaker": "Bart Simpson",
+    "quote": " Head her off at the stairs!",
+    "directions": [],
+    "raw_quote": " Head her off at the stairs!"
+  },
+  {
+    "timecode": "21:48",
+    "speaker": "Marge Simpson",
+    "quote": " I'm over here! ",
+    "directions": [
+      "OVER THE REST OF THE FAMILY",
+      "LAUGHS",
+      "LAUGHS"
+    ],
+    "raw_quote": " (OVER THE REST OF THE FAMILY) (LAUGHS) I'm over here! (LAUGHS)"
+  },
+  {
+    "timecode": "21:55",
+    "speaker": "Bart Simpson",
+    "quote": " She's going around the other side. Now get her!",
+    "directions": [],
+    "raw_quote": " She's going around the other side. Now get her!"
+  },
+  {
+    "timecode": "22:05",
+    "speaker": "Homer Simpson",
+    "quote": " Go! ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Go! (LAUGHS)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " (LAUGHS)"
+  },
+  {
+    "timecode": "22:07",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, I got it! Oh, it's just a thread! It was... She's got... she's got the washcloth!",
+    "directions": [
+      "AMID BART AND LISA'S YELLING AND LAUGHING"
+    ],
+    "raw_quote": " (AMID BART AND LISA'S YELLING AND LAUGHING) Oh, I got it! Oh, it's just a thread! It was... She's got... she's got the washcloth!"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "timecode": "00:28",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE - LIVING ROOM - EVENING"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE - LIVING ROOM - EVENING)"
+  },
+  {
+    "timecode": "00:28",
+    "speaker": "Marge Simpson",
+    "quote": " We got the popcorn! Did you get \"Waiting To Exhale?\"",
+    "directions": [],
+    "raw_quote": " We got the popcorn! Did you get \"Waiting To Exhale?\""
+  },
+  {
+    "timecode": "00:31",
+    "speaker": "Homer Simpson",
+    "quote": " Well, they put us on the \"Waiting to Exhale Waiting List.\" But they said don't hold your breath.",
+    "directions": [],
+    "raw_quote": " Well, they put us on the \"Waiting to Exhale Waiting List.\" But they said don't hold your breath."
+  },
+  {
+    "timecode": "00:31",
+    "speaker": "Lisa Simpson",
+    "quote": " Did you get \"Emma?\" Did you get \"Emma?\" Did ya? Did ya? Did ya? Huh?",
+    "directions": [],
+    "raw_quote": " Did you get \"Emma?\" Did you get \"Emma?\" Did ya? Did ya? Did ya? Huh?"
+  },
+  {
+    "timecode": "00:40",
+    "speaker": "Homer Simpson",
+    "quote": " Whoa. Whoa. Calm down, little lady--Take it easy--Take it easy. No.",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Whoa. Whoa. Calm down, little lady--Take it easy--Take it easy. (LAUGHS) No."
+  },
+  {
+    "timecode": "00:45",
+    "speaker": "Marge Simpson",
+    "quote": " What did you get?",
+    "directions": [
+      "THREATENINGLY"
+    ],
+    "raw_quote": " (THREATENINGLY) What did you get?"
+  },
+  {
+    "timecode": "00:47",
+    "speaker": "Homer Simpson",
+    "quote": " Something very close, exactly along those lines--A Clint Eastwood - Lee Marvin shoot 'em up western!",
+    "directions": [],
+    "raw_quote": " Something very close, exactly along those lines--A Clint Eastwood - Lee Marvin shoot 'em up western!"
+  },
+  {
+    "timecode": "00:55",
+    "speaker": "Bart Simpson",
+    "quote": " So prepare yourself, for the bloody mayhem and unholy carnage of Joshua Logan's, \"Paint Your Wagon!\"",
+    "directions": [
+      "PUTTING IN TAPE"
+    ],
+    "raw_quote": " (PUTTING IN TAPE) So prepare yourself, for the bloody mayhem and unholy carnage of Joshua Logan's, \"Paint Your Wagon!\""
+  },
+  {
+    "timecode": "01:01",
+    "speaker": "Homer Simpson",
+    "quote": " With blood, I bet!",
+    "directions": [],
+    "raw_quote": " With blood, I bet!"
+  },
+  {
+    "timecode": "01:16",
+    "speaker": "Hombre",
+    "quote": " Hey, that's a pretty sorry lookin' wagon you got there, Mister.",
+    "directions": [
+      "THREATENINGLY"
+    ],
+    "raw_quote": " (THREATENINGLY) Hey, that's a pretty sorry lookin' wagon you got there, Mister."
+  },
+  {
+    "timecode": "01:22",
+    "speaker": "Clint Eastwood",
+    "quote": " I reckon' it could use a coat of paint.",
+    "directions": [],
+    "raw_quote": " I reckon' it could use a coat of paint."
+  },
+  {
+    "timecode": "01:26",
+    "speaker": "Hombre",
+    "quote": " Well, what are we waitin' for!",
+    "directions": [
+      "TENSE BEAT"
+    ],
+    "raw_quote": " (TENSE BEAT) Well, what are we waitin' for!"
+  },
+  {
+    "timecode": "01:32",
+    "speaker": "Hombre",
+    "quote": " GONNA PAINT OUR WAGON / GONNA PAINT IT GOOD / WE AIN'T BRAGGIN' / WE'RE GONNA COAT THAT WOOD.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) GONNA PAINT OUR WAGON / GONNA PAINT IT GOOD / WE AIN'T BRAGGIN' / WE'RE GONNA COAT THAT WOOD."
+  },
+  {
+    "timecode": "01:40",
+    "speaker": "Townspeople Chorus",
+    "quote": " THEY'RE GONNA PAINT THAT WAGON / THEY'RE GONNA PAINT IT GOOD / THEY AIN'T BRAGGIN' / THEY'RE GONNA COAT THAT WOOD.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) THEY'RE GONNA PAINT THAT WAGON / THEY'RE GONNA PAINT IT GOOD / THEY AIN'T BRAGGIN' / THEY'RE GONNA COAT THAT WOOD."
+  },
+  {
+    "timecode": "01:49",
+    "speaker": "Homer Simpson",
+    "quote": " They're singing! They're singing, Marge! Why aren't they killing each other?",
+    "directions": [
+      "SHORT SCREAM"
+    ],
+    "raw_quote": " (SHORT SCREAM) They're singing! They're singing, Marge! Why aren't they killing each other?"
+  },
+  {
+    "timecode": "01:53",
+    "speaker": "Bart Simpson",
+    "quote": " Yeah, their guns are right there!",
+    "directions": [],
+    "raw_quote": " Yeah, their guns are right there!"
+  },
+  {
+    "timecode": "01:55",
+    "speaker": "Homer Simpson",
+    "quote": " Wait, wait, wait. Here comes Lee Marvin. Thank God. He's always drunk and violent.",
+    "directions": [],
+    "raw_quote": " Wait, wait, wait. Here comes Lee Marvin. Thank God. He's always drunk and violent."
+  },
+  {
+    "timecode": "02:01",
+    "speaker": "Lee Marvin",
+    "quote": " Eh, what the hell is going on in my town?",
+    "directions": [
+      "VERY TOUGH"
+    ],
+    "raw_quote": " (VERY TOUGH) Eh, what the hell is going on in my town?"
+  },
+  {
+    "timecode": "02:07",
+    "speaker": "Clint Eastwood",
+    "quote": " We're just paintin' this wagon. You gotta problem with that?",
+    "directions": [],
+    "raw_quote": " We're just paintin' this wagon. You gotta problem with that?"
+  },
+  {
+    "timecode": "02:11",
+    "speaker": "Lee Marvin",
+    "quote": " As a matter of fact, I do. Ya missed a spot.",
+    "directions": [],
+    "raw_quote": " As a matter of fact, I do. Ya missed a spot."
+  },
+  {
+    "timecode": "02:17",
+    "speaker": "Clint Eastwood",
+    "quote": " Well, grab a brush and join in!",
+    "directions": [],
+    "raw_quote": " Well, grab a brush and join in!"
+  },
+  {
+    "timecode": "02:24",
+    "speaker": "Lee Marvin",
+    "quote": " GONNA PAINT YOUR WAGON / GONNA PAINT IT FINE / GONNA USE OIL BASED PAINT / 'CUZ THE WOOD IS PINE.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) GONNA PAINT YOUR WAGON / GONNA PAINT IT FINE / GONNA USE OIL BASED PAINT / 'CUZ THE WOOD IS PINE."
+  },
+  {
+    "timecode": "02:32",
+    "speaker": "Female Chorus",
+    "quote": " PON-DER-RO-SA PINE!",
+    "directions": [],
+    "raw_quote": " PON-DER-RO-SA PINE!"
+  },
+  {
+    "timecode": "02:34",
+    "speaker": "SECOND FEMALE CHORUS",
+    "quote": " OOOOO!",
+    "directions": [
+      "GIRLY SQUEAL"
+    ],
+    "raw_quote": " (GIRLY SQUEAL) OOOOO!"
+  },
+  {
+    "timecode": "02:38",
+    "speaker": "Marge Simpson",
+    "quote": " Mm! Who knew that Lee Marvin could do such marvelous splits?",
+    "directions": [],
+    "raw_quote": " Mm! Who knew that Lee Marvin could do such marvelous splits?"
+  },
+  {
+    "timecode": "02:42",
+    "speaker": "Lisa Simpson",
+    "quote": " He's dreamy.",
+    "directions": [],
+    "raw_quote": " He's dreamy."
+  },
+  {
+    "timecode": "02:46",
+    "speaker": "Homer Simpson",
+    "quote": " Ooh, why did they have to screw up a perfectly serviceable wagon story with all that fruity singing?",
+    "directions": [],
+    "raw_quote": " Ooh, why did they have to screw up a perfectly serviceable wagon story with all that fruity singing?"
+  },
+  {
+    "timecode": "02:52",
+    "speaker": "Marge Simpson",
+    "quote": " I thought it was toe-tappin' fun.",
+    "directions": [],
+    "raw_quote": " I thought it was toe-tappin' fun."
+  },
+  {
+    "timecode": "02:54",
+    "speaker": "Homer Simpson",
+    "quote": " Singing is the lowest form of communication.",
+    "directions": [],
+    "raw_quote": " Singing is the lowest form of communication."
+  },
+  {
+    "timecode": "02:58",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, you sing all the time!",
+    "directions": [],
+    "raw_quote": " Homer, you sing all the time!"
+  },
+  {
+    "timecode": "03:00",
+    "speaker": "Homer Simpson",
+    "quote": " No I don't, I hate to rhyme.",
+    "directions": [],
+    "raw_quote": " No I don't, I hate to rhyme."
+  },
+  {
+    "timecode": "03:02",
+    "speaker": "Lisa Simpson",
+    "quote": " You like musicals, don't you Dad?",
+    "directions": [],
+    "raw_quote": " You like musicals, don't you Dad?"
+  },
+  {
+    "timecode": "03:04",
+    "speaker": "Homer Simpson",
+    "quote": " NO I DON'T, I THINK THEY'RE BAD / THEY'RE FAKE AND PHONEY AND TOTALLY WRONG.",
+    "directions": [
+      "SINGING, NOT REALIZING"
+    ],
+    "raw_quote": " (SINGING, NOT REALIZING) NO I DON'T, I THINK THEY'RE BAD / THEY'RE FAKE AND PHONEY AND TOTALLY WRONG."
+  },
+  {
+    "timecode": "03:10",
+    "speaker": "Bart Simpson",
+    "quote": " WAKE UP DAD / YOU'RE SINGING A SONG!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) WAKE UP DAD / YOU'RE SINGING A SONG!"
+  },
+  {
+    "timecode": "03:13",
+    "speaker": "Homer Simpson",
+    "quote": " I WOULDN'T / I COULDN'T / I HATE THAT STUFF!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) I WOULDN'T / I COULDN'T / I HATE THAT STUFF!"
+  },
+  {
+    "timecode": "03:16",
+    "speaker": "Marge Simpson",
+    "quote": " NOW HOMER, LISTEN, I'VE HAD ENOUGH! / IN OUR FAMILY VIDEOS, WE HAVE PLAINLY SEEN / YOU'RE A SINGING, DANCING, ENTERTAINMENT MACHINE!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) NOW HOMER, LISTEN, I'VE HAD ENOUGH! / IN OUR FAMILY VIDEOS, WE HAVE PLAINLY SEEN / YOU'RE A SINGING, DANCING, ENTERTAINMENT MACHINE!"
+  },
+  {
+    "timecode": "04:24",
+    "speaker": "Bart Simpson",
+    "quote": " MOM WAS RIGHT, YOUR SINGING'S A SIN / YOU'RE AS LES MISERABLES / AS LEE MAR-VIN!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) MOM WAS RIGHT, YOUR SINGING'S A SIN / YOU'RE AS LES MISERABLES / AS LEE MAR-VIN!"
+  },
+  {
+    "timecode": "07:08",
+    "speaker": "Marge Simpson",
+    "quote": " SURE YOUR DAD'S SINGING / COULD MAKE YOUR HAIR CURL / BUT YOU TOO BART / HAVE SUNG AND DANCED LIKE A GIRL.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) SURE YOUR DAD'S SINGING / COULD MAKE YOUR HAIR CURL / BUT YOU TOO BART / HAVE SUNG AND DANCED LIKE A GIRL."
+  },
+  {
+    "timecode": "07:16",
+    "speaker": "Bart Simpson",
+    "quote": " Eep.",
+    "directions": [
+      "REMEMBERING"
+    ],
+    "raw_quote": " (REMEMBERING) Eep."
+  },
+  {
+    "timecode": "07:23",
+    "speaker": "Lisa Simpson",
+    "quote": " THAT WAS PRETTY BAD, BART / BUT IT COULD'VE BEEN WORSE / YOU COULD HAVE BEEN CARRYING A SEQUINED PURSE!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) THAT WAS PRETTY BAD, BART / BUT IT COULD'VE BEEN WORSE / YOU COULD HAVE BEEN CARRYING A SEQUINED PURSE!"
+  },
+  {
+    "timecode": "09:30",
+    "speaker": "Bart Simpson",
+    "quote": " I HATE TO DANCE AND PRANCE AND SING / THAT'S REALLY MORE OF A MILLHOUSE THING!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) I HATE TO DANCE AND PRANCE AND SING / THAT'S REALLY MORE OF A MILLHOUSE THING!"
+  },
+  {
+    "timecode": "09:39",
+    "speaker": "Marge Simpson",
+    "quote": " I THINK YOU MOVE LIKE A YOUNG BARYSHNIKOV!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) I THINK YOU MOVE LIKE A YOUNG BARYSHNIKOV!"
+  },
+  {
+    "timecode": "09:45",
+    "speaker": "Snake Jailbird",
+    "quote": " NOBODY MOVE OR I'LL BLOW YOUR HEADS OFF!",
+    "directions": [
+      "KINDA SINGING"
+    ],
+    "raw_quote": " (KINDA SINGING) NOBODY MOVE OR I'LL BLOW YOUR HEADS OFF!"
+  },
+  {
+    "timecode": "09:50",
+    "speaker": "Lisa Simpson",
+    "quote": " OOOOOO.",
+    "directions": [
+      "WORRIED SINGING"
+    ],
+    "raw_quote": " (WORRIED SINGING) OOOOOO."
+  },
+  {
+    "timecode": "09:54",
+    "speaker": "Snake Jailbird",
+    "quote": " OOOOOO... ",
+    "directions": [
+      "SINGING",
+      "TURNS INTO DISGUSTED NOISE"
+    ],
+    "raw_quote": " (SINGING) OOOOOO... (TURNS INTO DISGUSTED NOISE)"
+  },
+  {
+    "timecode": "10:02",
+    "speaker": "Marge Simpson",
+    "quote": " IT'S A DESPERATE CRIMINAL / ON THE RUN FROM THE LAW / PLEASE SPARE MY CHILDREN!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) IT'S A DESPERATE CRIMINAL / ON THE RUN FROM THE LAW / PLEASE SPARE MY CHILDREN!"
+  },
+  {
+    "timecode": "10:09",
+    "speaker": "Homer Simpson",
+    "quote": " AND THEIR DAMP-TROUSERED PA.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) AND THEIR DAMP-TROUSERED PA."
+  },
+  {
+    "timecode": "10:12",
+    "speaker": "Snake Jailbird",
+    "quote": " A SINGING FAMILY! IT'S WORSE THAN I FEARED / FOR HOSTAGE PURPOSES / YOU'RE JUST TOO WEIRD. / BYE!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) A SINGING FAMILY! IT'S WORSE THAN I FEARED / FOR HOSTAGE PURPOSES / YOU'RE JUST TOO WEIRD. / BYE!"
+  },
+  {
+    "timecode": "10:24",
+    "speaker": "Homer Simpson",
+    "quote": " SEE? ALL THIS SINGING SCARED HIM AWAY / IF WE JUST TALKED LIKE NORMAL, HE'D PROBABLY STAY.",
+    "directions": [
+      "WHINY SINGING"
+    ],
+    "raw_quote": " (WHINY SINGING) SEE? ALL THIS SINGING SCARED HIM AWAY / IF WE JUST TALKED LIKE NORMAL, HE'D PROBABLY STAY."
+  },
+  {
+    "timecode": "10:31",
+    "speaker": "Lisa Simpson",
+    "quote": " MANY PEOPLE IN THIS TOWN / SING LIKE WE DO / THERE'S MISTER BURNS, THERE'S KRUSTY, AND EVEN APU.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) MANY PEOPLE IN THIS TOWN / SING LIKE WE DO / THERE'S MISTER BURNS, THERE'S KRUSTY, AND EVEN APU."
+  },
+  {
+    "timecode": "12:32",
+    "speaker": "Lisa Simpson",
+    "quote": " BECAUSE HE WAS SINGING, WE OVERHEARD HIS PLAN / AND COULD SAVE THOSE DOGS FROM THAT MEAN OLD MAN.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) BECAUSE HE WAS SINGING, WE OVERHEARD HIS PLAN / AND COULD SAVE THOSE DOGS FROM THAT MEAN OLD MAN."
+  },
+  {
+    "timecode": "15:25",
+    "speaker": "Bart Simpson",
+    "quote": " IT STILL WASN'T WORTH BURNS' SONG AND DANCE.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) IT STILL WASN'T WORTH BURNS' SONG AND DANCE."
+  },
+  {
+    "timecode": "15:29",
+    "speaker": "Snake Jailbird",
+    "quote": " I'M BACK, SO RESUME WETTING YOUR PANTS.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) I'M BACK, SO RESUME WETTING YOUR PANTS."
+  },
+  {
+    "timecode": "15:34",
+    "speaker": "Homer Simpson",
+    "quote": " Okay.",
+    "directions": [
+      "SMALL VOICE"
+    ],
+    "raw_quote": " (SMALL VOICE) Okay."
+  },
+  {
+    "timecode": "15:35",
+    "speaker": "Snake Jailbird",
+    "quote": " BECAUSE OF YOU ALL, I GOT A TUNE IN MY HEAD / AND THE ONLY WAY TO STOP IT, IS TO MAKE YOU ALL DEAD.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) BECAUSE OF YOU ALL, I GOT A TUNE IN MY HEAD / AND THE ONLY WAY TO STOP IT, IS TO MAKE YOU ALL DEAD."
+  },
+  {
+    "timecode": "15:44",
+    "speaker": "Homer Simpson",
+    "quote": " I knew I should've shut that window.",
+    "directions": [
+      "DISGUSTED NOISE"
+    ],
+    "raw_quote": " (DISGUSTED NOISE) I knew I should've shut that window."
+  },
+  {
+    "timecode": "15:52",
+    "speaker": "Snake Jailbird",
+    "quote": " SAY YOUR PRAYERS AND THEN IT'S KA-BLAMMO!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) SAY YOUR PRAYERS AND THEN IT'S KA-BLAMMO!"
+  },
+  {
+    "timecode": "16:01",
+    "speaker": "Snake Jailbird",
+    "quote": " UH-OH, I'LL BE BACK WHEN I GET SOME AMMO. / BYE!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) UH-OH, I'LL BE BACK WHEN I GET SOME AMMO. / BYE!"
+  },
+  {
+    "timecode": "16:09",
+    "speaker": "Homer Simpson",
+    "quote": " EVEN THE CRIMINALS ARE BEGINNING TO CROON.",
+    "directions": [
+      "GROANING/SINGING"
+    ],
+    "raw_quote": " (GROANING/SINGING) EVEN THE CRIMINALS ARE BEGINNING TO CROON."
+  },
+  {
+    "timecode": "16:12",
+    "speaker": "Marge Simpson",
+    "quote": " HOMIE, THIS WHOLE TOWN RUNS ON A TUNE! / OUR CHURCHES, OUR CLUBS OUR GOVERNMENT TOO.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) HOMIE, THIS WHOLE TOWN RUNS ON A TUNE! / OUR CHURCHES, OUR CLUBS OUR GOVERNMENT TOO."
+  },
+  {
+    "timecode": "16:21",
+    "speaker": "Bart Simpson",
+    "quote": " SPRINGFIELD SWINGS LIKE A PENDULUM DO!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) SPRINGFIELD SWINGS LIKE A PENDULUM DO!"
+  },
+  {
+    "timecode": "16:28",
+    "speaker": "Lisa Simpson",
+    "quote": " WE CAN'T EVEN GET ANY LOCAL LAWS PASSED / WITHOUT EVERYONE SINGING LIKE A BIG BROADWAY CAST.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) WE CAN'T EVEN GET ANY LOCAL LAWS PASSED / WITHOUT EVERYONE SINGING LIKE A BIG BROADWAY CAST."
+  },
+  {
+    "timecode": "16:44",
+    "speaker": "Homer Simpson",
+    "quote": " ALL RIGHT MARGE, YOU'VE CONVINCED ME, THERE ARE MORE TERRIBLE THINGS / THAN MUSICAL COMEDIES WHERE EVERYONE SINGS.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) ALL RIGHT MARGE, YOU'VE CONVINCED ME, THERE ARE MORE TERRIBLE THINGS / THAN MUSICAL COMEDIES WHERE EVERYONE SINGS."
+  },
+  {
+    "timecode": "20:11",
+    "speaker": "Lisa Simpson",
+    "quote": " THERE IS SOMETHING WORSE...",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) THERE IS SOMETHING WORSE..."
+  },
+  {
+    "timecode": "21:10",
+    "speaker": "Bart Simpson",
+    "quote": " AND IT REALLY DOES BLOW...",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) AND IT REALLY DOES BLOW..."
+  },
+  {
+    "timecode": "21:12",
+    "speaker": "Everyone",
+    "quote": " WHEN A LONG RUNNING SERIES, DOES A CHEESY CLIP SHOW!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) WHEN A LONG RUNNING SERIES, DOES A CHEESY CLIP SHOW!"
+  },
+  {
+    "timecode": "21:22",
+    "speaker": "Snake Jailbird",
+    "quote": " I'M BACK TO COMMIT FELONIOUS ASSAULT / BECAUSE YOUR INFERNAL SINGING JUST WOULD NOT HALT.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) I'M BACK TO COMMIT FELONIOUS ASSAULT / BECAUSE YOUR INFERNAL SINGING JUST WOULD NOT HALT."
+  },
+  {
+    "timecode": "21:33",
+    "speaker": "Marge Simpson",
+    "quote": " ACTUALLY, WE'RE DONE.",
+    "directions": [
+      "NOT SINGING"
+    ],
+    "raw_quote": " (NOT SINGING) ACTUALLY, WE'RE DONE."
+  },
+  {
+    "timecode": "21:34",
+    "speaker": "Bart Simpson",
+    "quote": " Done, done.",
+    "directions": [],
+    "raw_quote": " Done, done."
+  },
+  {
+    "timecode": "21:35",
+    "speaker": "Homer Simpson",
+    "quote": " And not a moment too soon.",
+    "directions": [],
+    "raw_quote": " And not a moment too soon."
+  },
+  {
+    "timecode": "21:37",
+    "speaker": "Snake Jailbird",
+    "quote": " Oh, okay then. Well, then I got no beef with you. Haw!",
+    "directions": [],
+    "raw_quote": " Oh, okay then. Well, then I got no beef with you. Haw!"
+  },
+  {
+    "timecode": "21:41",
+    "speaker": "Marge Simpson",
+    "quote": " Okay, who wants dinner?",
+    "directions": [],
+    "raw_quote": " Okay, who wants dinner?"
+  },
+  {
+    "timecode": "21:46",
+    "speaker": "All",
+    "quote": " Me! Me! / I do! I do! I do!",
+    "directions": [],
+    "raw_quote": " Me! Me! / I do! I do! I do!"
+  },
+  {
+    "timecode": "21:46",
+    "speaker": "Marge Simpson",
+    "quote": " Well, let's get eatin'.",
+    "directions": [],
+    "raw_quote": " Well, let's get eatin'."
+  },
+  {
+    "timecode": "21:50",
+    "speaker": "Marge Simpson",
+    "quote": " All right! All right! Sorry!",
+    "directions": [],
+    "raw_quote": " All right! All right! Sorry!"
+  },
+  {
+    "timecode": "21:53",
+    "speaker": "Snake Jailbird",
+    "quote": " Yo, I told you to stop the music, dudes! I'm serious!",
+    "directions": [],
+    "raw_quote": " Yo, I told you to stop the music, dudes! I'm serious!"
+  },
+  {
+    "timecode": "22:22",
+    "speaker": "Snake Jailbird",
+    "quote": " Oh, oh, oh, you're so not listening.",
+    "directions": [],
+    "raw_quote": " Oh, oh, oh, you're so not listening."
+  },
+  {
+    "timecode": "22:33",
+    "speaker": "Snake Jailbird",
+    "quote": " Okay I hear that. I hear that dude!",
+    "directions": [],
+    "raw_quote": " Okay I hear that. I hear that dude!"
+  },
+  {
+    "timecode": "22:42",
+    "speaker": "Snake Jailbird",
+    "quote": " You too crazy music dude. Gaw!",
+    "directions": [],
+    "raw_quote": " You too crazy music dude. Gaw!"
+  }
+]

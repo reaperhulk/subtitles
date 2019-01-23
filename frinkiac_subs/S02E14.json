@@ -1,0 +1,2426 @@
+[
+  {
+    "timecode": "00:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE - MASTER BEDROOM - 8:00 A.M."
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE - MASTER BEDROOM - 8:00 A.M.)"
+  },
+  {
+    "timecode": "00:34",
+    "speaker": "Barney Gumble",
+    "quote": " Hey Homer, it's Barney. Did I wake you?",
+    "directions": [
+      "OVER PHONE"
+    ],
+    "raw_quote": " (OVER PHONE) Hey Homer, it's Barney. Did I wake you?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "GROGGY GARBLED SLEEP TALK"
+    ],
+    "raw_quote": " (GROGGY GARBLED SLEEP TALK)"
+  },
+  {
+    "timecode": "01:05",
+    "speaker": "Barney Gumble",
+    "quote": " All I wanted to tell you about WAS this new barbecue joint.",
+    "directions": [
+      "OVER PHONE"
+    ],
+    "raw_quote": " (OVER PHONE) All I wanted to tell you about WAS this new barbecue joint."
+  },
+  {
+    "timecode": "01:07",
+    "speaker": "Homer Simpson",
+    "quote": " Ooh! Barbecue!",
+    "directions": [
+      "Excited"
+    ],
+    "raw_quote": " (Excited) Ooh! Barbecue!"
+  },
+  {
+    "timecode": "01:09",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Barney's Apartment: int. barney's apartment - continuous"
+    ],
+    "raw_quote": "(Barney's Apartment: int. barney's apartment - continuous)"
+  },
+  {
+    "timecode": "01:09",
+    "speaker": "Barney Gumble",
+    "quote": " It's called Greasy Joe's Bottomless Bar-B-Q Pit. I can still taste the sauce between my fingers. And are you ready for this? It's all you can eat!",
+    "directions": [
+      "INTO PHONE",
+      "SUCKING FINGERS"
+    ],
+    "raw_quote": " (INTO PHONE) It's called Greasy Joe's Bottomless Bar-B-Q Pit. (SUCKING FINGERS) I can still taste the sauce between my fingers. And are you ready for this? It's all you can eat!"
+  },
+  {
+    "timecode": "01:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - bedroom - continuous"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - bedroom - continuous)"
+  },
+  {
+    "timecode": "01:19",
+    "speaker": "Homer Simpson",
+    "quote": " This is like some beautiful dream.",
+    "directions": [
+      "OVER PHONE"
+    ],
+    "raw_quote": " (OVER PHONE) This is like some beautiful dream."
+  },
+  {
+    "timecode": "",
+    "speaker": "Barney Gumble",
+    "quote": " ",
+    "directions": [
+      "BURPS"
+    ],
+    "raw_quote": " (BURPS)"
+  },
+  {
+    "timecode": "01:23",
+    "speaker": "Marge Simpson",
+    "quote": " One. And two. And three. And reach. And five. And six. And seven..",
+    "directions": [],
+    "raw_quote": " One. And two. And three. And reach. And five. And six. And seven.."
+  },
+  {
+    "timecode": "01:28",
+    "speaker": "Homer Simpson",
+    "quote": " Marge, honey, I've got five words to say to you. Greasy Joe's Bottomless Bar-B-Q Pit.",
+    "directions": [
+      "HE COUNTS ON FINGERS",
+      "MOVING TO NEXT HAND"
+    ],
+    "raw_quote": " Marge, honey, I've got five words to say to you. (HE COUNTS ON FINGERS) Greasy Joe's Bottomless Bar-B-Q (MOVING TO NEXT HAND) Pit."
+  },
+  {
+    "timecode": "01:35",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, remember you promised you'd try to limit pork to six servings a week?",
+    "directions": [],
+    "raw_quote": " Homer, remember you promised you'd try to limit pork to six servings a week?"
+  },
+  {
+    "timecode": "01:40",
+    "speaker": "Homer Simpson",
+    "quote": " Marge, I'm only human. Now look, here's what we're gonna do. We'll unload the kids on Patty and Selma Saturday night. And then we'll eat until they kick us out of the place. Just like old times.",
+    "directions": [],
+    "raw_quote": " Marge, I'm only human. Now look, here's what we're gonna do. We'll unload the kids on Patty and Selma Saturday night. And then we'll eat until they kick us out of the place. Just like old times."
+  },
+  {
+    "timecode": "01:51",
+    "speaker": "Marge Simpson",
+    "quote": " Saturday night? I'm not even sure my sisters will be available.",
+    "directions": [
+      "CROSSING TO THE PHONE"
+    ],
+    "raw_quote": " (CROSSING TO THE PHONE) Saturday night? I'm not even sure my sisters will be available."
+  },
+  {
+    "timecode": "01:55",
+    "speaker": "Homer Simpson",
+    "quote": " I'll take that bet.",
+    "directions": [
+      "MUTTERING"
+    ],
+    "raw_quote": " (MUTTERING) I'll take that bet."
+  },
+  {
+    "timecode": "02:02",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "DEPT. OF MOTOR VEHICLES: int. dept. of motor vehicles - day"
+    ],
+    "raw_quote": "(DEPT. OF MOTOR VEHICLES: int. dept. of motor vehicles - day)"
+  },
+  {
+    "timecode": "02:02",
+    "speaker": "Selma Bouvier",
+    "quote": " Hello, Marge.",
+    "directions": [],
+    "raw_quote": " Hello, Marge."
+  },
+  {
+    "timecode": "02:04",
+    "speaker": "Selma Bouvier",
+    "quote": " This Saturday? We're going to Stanley Peterson's wedding.",
+    "directions": [
+      "INTO PHONE"
+    ],
+    "raw_quote": " (INTO PHONE) This Saturday? We're going to Stanley Peterson's wedding."
+  },
+  {
+    "timecode": "02:09",
+    "speaker": "Patty Bouvier",
+    "quote": " Although the way he's going at her, you'd think they were already married.",
+    "directions": [
+      "TO SELMA"
+    ],
+    "raw_quote": " (TO SELMA) Although the way he's going at her, you'd think they were already married."
+  },
+  {
+    "timecode": "02:13",
+    "speaker": "Patty Bouvier",
+    "quote": " Hey alleycats, save it for the honeymoon!",
+    "directions": [
+      "YELLING"
+    ],
+    "raw_quote": " (YELLING) Hey alleycats, save it for the honeymoon!"
+  },
+  {
+    "timecode": "02:16",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - kitchen - continuous"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - kitchen - continuous)"
+  },
+  {
+    "timecode": "02:16",
+    "speaker": "Marge Simpson",
+    "quote": " Well if you have other plans...",
+    "directions": [
+      "INTO PHONE"
+    ],
+    "raw_quote": " (INTO PHONE) Well if you have other plans..."
+  },
+  {
+    "timecode": "02:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "DEPT. OF MOTOR VEHICLES: int. dept. of motor vehicles - day"
+    ],
+    "raw_quote": "(DEPT. OF MOTOR VEHICLES: int. dept. of motor vehicles - day)"
+  },
+  {
+    "timecode": "02:19",
+    "speaker": "Selma Bouvier",
+    "quote": " It's no problem.",
+    "directions": [
+      "INTO PHONE"
+    ],
+    "raw_quote": " (INTO PHONE) It's no problem."
+  },
+  {
+    "timecode": "02:21",
+    "speaker": "Patty Bouvier",
+    "quote": " Mm-hmm. We'll beat it before they throw out the bouquet.",
+    "directions": [],
+    "raw_quote": " Mm-hmm. We'll beat it before they throw out the bouquet."
+  },
+  {
+    "timecode": "02:24",
+    "speaker": "Kindly Old Gent",
+    "quote": " F... L... oh no, I'm sorry. That's a C, isn't it...",
+    "directions": [
+      "STRUGGLING"
+    ],
+    "raw_quote": " (STRUGGLING) F... L... oh no, I'm sorry. That's a C, isn't it..."
+  },
+  {
+    "timecode": "02:30",
+    "speaker": "Patty Bouvier",
+    "quote": " If that was an oncoming vehicle you'd be dead now. NEXT!",
+    "directions": [],
+    "raw_quote": " If that was an oncoming vehicle you'd be dead now. NEXT!"
+  },
+  {
+    "timecode": "02:34",
+    "speaker": "Kindly Old Gent",
+    "quote": " But driving is my livelihood.",
+    "directions": [],
+    "raw_quote": " But driving is my livelihood."
+  },
+  {
+    "timecode": "02:37",
+    "speaker": "Patty Bouvier",
+    "quote": " Ah, take it like a man!",
+    "directions": [],
+    "raw_quote": " Ah, take it like a man!"
+  },
+  {
+    "timecode": "02:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "First Church of Springfield: int. church - stanley's wedding day"
+    ],
+    "raw_quote": "(First Church of Springfield: int. church - stanley's wedding day)"
+  },
+  {
+    "timecode": "02:38",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Friends, relatives, work-related acquaintances, we are gathered here today to join Stanley and Martha in holy matrimony.",
+    "directions": [],
+    "raw_quote": " Friends, relatives, work-related acquaintances, we are gathered here today to join Stanley and Martha in holy matrimony."
+  },
+  {
+    "timecode": "02:51",
+    "speaker": "Stanley",
+    "quote": " Martha, my dear, I remember the first day I met you.",
+    "directions": [],
+    "raw_quote": " Martha, my dear, I remember the first day I met you."
+  },
+  {
+    "timecode": "02:58",
+    "speaker": "",
+    "quote": ")",
+    "directions": [
+      "DEPT. OF MOTOR VEHICLES: int. dept. of motor vehicles - cafeteria - day (selma's memory"
+    ],
+    "raw_quote": "(DEPT. OF MOTOR VEHICLES: int. dept. of motor vehicles - cafeteria - day (selma's memory))"
+  },
+  {
+    "timecode": "02:58",
+    "speaker": "Stanley",
+    "quote": " Hello, Selma.",
+    "directions": [
+      "READING HER NAME TAG"
+    ],
+    "raw_quote": " (READING HER NAME TAG) Hello, Selma."
+  },
+  {
+    "timecode": "03:00",
+    "speaker": "Selma Bouvier",
+    "quote": " Hello, Stanley.",
+    "directions": [
+      "READING HIS NAME TAG"
+    ],
+    "raw_quote": " (READING HIS NAME TAG) Hello, Stanley."
+  },
+  {
+    "timecode": "03:02",
+    "speaker": "Stanley",
+    "quote": " Is this seat taken?",
+    "directions": [
+      "TO SELMA"
+    ],
+    "raw_quote": " (TO SELMA) Is this seat taken?"
+  },
+  {
+    "timecode": "03:04",
+    "speaker": "Patty Bouvier",
+    "quote": " Yes it is.",
+    "directions": [
+      "GRUFF"
+    ],
+    "raw_quote": " (GRUFF) Yes it is."
+  },
+  {
+    "timecode": "03:05",
+    "speaker": "Patty Bouvier",
+    "quote": " Hey, beat it!",
+    "directions": [],
+    "raw_quote": " Hey, beat it!"
+  },
+  {
+    "timecode": "03:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "First Church of Springfield: int. church - stanley's wedding"
+    ],
+    "raw_quote": "(First Church of Springfield: int. church - stanley's wedding)"
+  },
+  {
+    "timecode": "03:10",
+    "speaker": "Stanley",
+    "quote": " Had I not chosen the seat next to you, Martha my love, who knows what walnut I might have ended up with.",
+    "directions": [],
+    "raw_quote": " Had I not chosen the seat next to you, Martha my love, who knows what walnut I might have ended up with."
+  },
+  {
+    "timecode": "03:20",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - lisa's bedroom - night"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - lisa's bedroom - night)"
+  },
+  {
+    "timecode": "03:20",
+    "speaker": "Selma Bouvier",
+    "quote": " \"BRANDY, YOU'RE A FINE GIRL, WHAT A GOOD WIFE YOU WOULD BE/ BUT MY LIFE, MY LOVE AND MY LADY IS THE SEA.\"",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) \"BRANDY, YOU'RE A FINE GIRL, WHAT A GOOD WIFE YOU WOULD BE/ BUT MY LIFE, MY LOVE AND MY LADY IS THE SEA.\""
+  },
+  {
+    "timecode": "03:33",
+    "speaker": "Lisa Simpson",
+    "quote": " Poor Brandy. Aunt Selma, do you think you'll ever get married?",
+    "directions": [],
+    "raw_quote": " Poor Brandy. Aunt Selma, do you think you'll ever get married?"
+  },
+  {
+    "timecode": "03:37",
+    "speaker": "Selma Bouvier",
+    "quote": " Oh, I don't know. Why? You know somebody?",
+    "directions": [],
+    "raw_quote": " Oh, I don't know. Why? You know somebody?"
+  },
+  {
+    "timecode": "03:41",
+    "speaker": "Lisa Simpson",
+    "quote": " No. And, since I'm sure that you'd only resent the pity of an eight-year-old niece, I'll simply hope that you're one of the statistically insignificant forty-year-old single women who ever find their fair Prince.",
+    "directions": [],
+    "raw_quote": " No. And, since I'm sure that you'd only resent the pity of an eight-year-old niece, I'll simply hope that you're one of the statistically insignificant forty-year-old single women who ever find their fair Prince."
+  },
+  {
+    "timecode": "04:01",
+    "speaker": "Marge Simpson",
+    "quote": " Patty! Selma! We're home.",
+    "directions": [],
+    "raw_quote": " Patty! Selma! We're home."
+  },
+  {
+    "timecode": "04:09",
+    "speaker": "Homer Simpson",
+    "quote": " I'll tell you one thing, Greasy Joe is sorry he ever saw the likes of me.",
+    "directions": [],
+    "raw_quote": " I'll tell you one thing, Greasy Joe is sorry he ever saw the likes of me."
+  },
+  {
+    "timecode": "04:14",
+    "speaker": "Selma Bouvier",
+    "quote": " Marge, I need to speak with you alone.",
+    "directions": [],
+    "raw_quote": " Marge, I need to speak with you alone."
+  },
+  {
+    "timecode": "04:21",
+    "speaker": "Homer Simpson",
+    "quote": " Oh and that sauce, Barney. I could have drunk a bowl of it by itself! No Barney, that's just my sister-in-law.",
+    "directions": [
+      "INTO PHONE",
+      "OFF SNORING"
+    ],
+    "raw_quote": " (INTO PHONE) Oh and that sauce, Barney. I could have drunk a bowl of it by itself! (OFF SNORING) No Barney, that's just my sister-in-law."
+  },
+  {
+    "timecode": "04:29",
+    "speaker": "Selma Bouvier",
+    "quote": " I'll get right to the point. I'm getting older, fatter, and uglier. Please, Marge! Help me find a man before it's too late.",
+    "directions": [],
+    "raw_quote": " I'll get right to the point. I'm getting older, fatter, and uglier. Please, Marge! Help me find a man before it's too late."
+  },
+  {
+    "timecode": "04:40",
+    "speaker": "Marge Simpson",
+    "quote": " Well... I'll try.",
+    "directions": [],
+    "raw_quote": " Well... I'll try."
+  },
+  {
+    "timecode": "04:44",
+    "speaker": "Marge Simpson",
+    "quote": " Homer? Do you remember our last family vacation when you made us go to the Bowler's Hall of Fame in St. Louis, Missouri so you could see that car shaped like a giant bowling pin?",
+    "directions": [],
+    "raw_quote": " Homer? Do you remember our last family vacation when you made us go to the Bowler's Hall of Fame in St. Louis, Missouri so you could see that car shaped like a giant bowling pin?"
+  },
+  {
+    "timecode": "04:55",
+    "speaker": "Homer Simpson",
+    "quote": " Remember? Who could forget?",
+    "directions": [
+      "FONDLY"
+    ],
+    "raw_quote": " (FONDLY) Remember? Who could forget?"
+  },
+  {
+    "timecode": "04:57",
+    "speaker": "Marge Simpson",
+    "quote": " Then you'll also remember that you owe me a favor...",
+    "directions": [],
+    "raw_quote": " Then you'll also remember that you owe me a favor..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "GROANS"
+    ],
+    "raw_quote": " (GROANS)"
+  },
+  {
+    "timecode": "04:57",
+    "speaker": "Marge Simpson",
+    "quote": " ...to be called up whenever and for whatever reason I desire.",
+    "directions": [],
+    "raw_quote": " ...to be called up whenever and for whatever reason I desire."
+  },
+  {
+    "timecode": "05:05",
+    "speaker": "Homer Simpson",
+    "quote": " But that was just an idle promise.",
+    "directions": [],
+    "raw_quote": " But that was just an idle promise."
+  },
+  {
+    "timecode": "05:07",
+    "speaker": "Marge Simpson",
+    "quote": " Not to me.",
+    "directions": [],
+    "raw_quote": " Not to me."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "GROAN"
+    ],
+    "raw_quote": " (GROAN)"
+  },
+  {
+    "timecode": "05:10",
+    "speaker": "Marge Simpson",
+    "quote": " I want you to find a husband for my sister Selma.",
+    "directions": [],
+    "raw_quote": " I want you to find a husband for my sister Selma."
+  },
+  {
+    "timecode": "05:14",
+    "speaker": "Homer Simpson",
+    "quote": " Find a husband? Which one's Selma again?",
+    "directions": [],
+    "raw_quote": " Find a husband? Which one's Selma again?"
+  },
+  {
+    "timecode": "05:18",
+    "speaker": "Marge Simpson",
+    "quote": " She's the one who likes Police Academy movies and Hummel figurines and walking through the park on clear autumn days.",
+    "directions": [],
+    "raw_quote": " She's the one who likes Police Academy movies and Hummel figurines and walking through the park on clear autumn days."
+  },
+  {
+    "timecode": "05:25",
+    "speaker": "Homer Simpson",
+    "quote": " Oh yeah, yeah, yeah. But I thought she didn't like to be... you know, touched.",
+    "directions": [],
+    "raw_quote": " Oh yeah, yeah, yeah. But I thought she didn't like to be... you know, touched."
+  },
+  {
+    "timecode": "05:30",
+    "speaker": "Marge Simpson",
+    "quote": " It's Patty who chose the life of celibacy. Selma simply had celibacy thrust upon her.",
+    "directions": [],
+    "raw_quote": " It's Patty who chose the life of celibacy. Selma simply had celibacy thrust upon her."
+  },
+  {
+    "timecode": "05:34",
+    "speaker": "Homer Simpson",
+    "quote": " But Marge...",
+    "directions": [
+      "WHINING"
+    ],
+    "raw_quote": " (WHINING) But Marge..."
+  },
+  {
+    "timecode": "05:36",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, you will find her a man.",
+    "directions": [],
+    "raw_quote": " Homer, you will find her a man."
+  },
+  {
+    "timecode": "05:39",
+    "speaker": "Homer Simpson",
+    "quote": " All right.",
+    "directions": [],
+    "raw_quote": " All right."
+  },
+  {
+    "timecode": "05:40",
+    "speaker": "Marge Simpson",
+    "quote": " And not just any man.",
+    "directions": [],
+    "raw_quote": " And not just any man."
+  },
+  {
+    "timecode": "05:41",
+    "speaker": "Homer Simpson",
+    "quote": " Okay.",
+    "directions": [],
+    "raw_quote": " Okay."
+  },
+  {
+    "timecode": "05:42",
+    "speaker": "Marge Simpson",
+    "quote": " He should be honest... and caring... and well off... and handsome...",
+    "directions": [],
+    "raw_quote": " He should be honest... and caring... and well off... and handsome..."
+  },
+  {
+    "timecode": "05:47",
+    "speaker": "Homer Simpson",
+    "quote": " Hey! Why should she have a better husband than you do?",
+    "directions": [],
+    "raw_quote": " Hey! Why should she have a better husband than you do?"
+  },
+  {
+    "timecode": "05:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: Ext. Springfield elementary - establishing"
+    ],
+    "raw_quote": "(Springfield Elementary School: Ext. Springfield elementary - establishing)"
+  },
+  {
+    "timecode": "05:50",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Sodium tetrasulfate is highly caustic and can remove your skin. Say when!",
+    "directions": [
+      "CHEERILY"
+    ],
+    "raw_quote": " Sodium tetrasulfate is highly caustic and can remove your skin. (CHEERILY) Say when!"
+  },
+  {
+    "timecode": "05:56",
+    "speaker": "Martin Prince",
+    "quote": " That will do.",
+    "directions": [],
+    "raw_quote": " That will do."
+  },
+  {
+    "timecode": "05:57",
+    "speaker": "Bart Simpson",
+    "quote": " What's this stuff for?",
+    "directions": [
+      "TO MARTIN"
+    ],
+    "raw_quote": " (TO MARTIN) What's this stuff for?"
+  },
+  {
+    "timecode": "05:58",
+    "speaker": "Martin Prince",
+    "quote": " It's chiefly used in the manufacture of rayons, film, and as a preservative in fast foods. It's also quite a potent herbicide.",
+    "directions": [
+      "IMPATIENT"
+    ],
+    "raw_quote": " (IMPATIENT) It's chiefly used in the manufacture of rayons, film, and as a preservative in fast foods. It's also quite a potent herbicide."
+  },
+  {
+    "timecode": "06:06",
+    "speaker": "Bart Simpson",
+    "quote": " What's a herbicide?",
+    "directions": [],
+    "raw_quote": " What's a herbicide?"
+  },
+  {
+    "timecode": "06:07",
+    "speaker": "Martin Prince",
+    "quote": " It kills grass.",
+    "directions": [],
+    "raw_quote": " It kills grass."
+  },
+  {
+    "timecode": "06:10",
+    "speaker": "Bart Simpson",
+    "quote": " Excellent.",
+    "directions": [
+      "SLYLY"
+    ],
+    "raw_quote": " (SLYLY) Excellent."
+  },
+  {
+    "timecode": "06:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: int. nuclear power plant - day"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: int. nuclear power plant - day)"
+  },
+  {
+    "timecode": "06:11",
+    "speaker": "Homer Simpson",
+    "quote": " Must find man. Must find man. Must find man.",
+    "directions": [],
+    "raw_quote": " Must find man. Must find man. Must find man."
+  },
+  {
+    "timecode": "06:30",
+    "speaker": "Homer Simpson",
+    "quote": " Boy, a good man really is hard to find.",
+    "directions": [],
+    "raw_quote": " Boy, a good man really is hard to find."
+  },
+  {
+    "timecode": "06:36",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: ext. springfield elementary - playground - recess"
+    ],
+    "raw_quote": "(Springfield Elementary School: ext. springfield elementary - playground - recess)"
+  },
+  {
+    "timecode": "06:36",
+    "speaker": "Seymour Skinner",
+    "quote": " Gentlemen, according to my sources you are planning to simultaneously drop your pencils at 2:15 this afternoon. Do so and you will be suspended.",
+    "directions": [],
+    "raw_quote": " Gentlemen, according to my sources you are planning to simultaneously drop your pencils at 2:15 this afternoon. Do so and you will be suspended."
+  },
+  {
+    "timecode": "06:49",
+    "speaker": "Bart Simpson",
+    "quote": " Vandalism fans, hold on to your hats!",
+    "directions": [],
+    "raw_quote": " Vandalism fans, hold on to your hats!"
+  },
+  {
+    "timecode": "07:03",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Kwik-E-Mart: int. Kwik-E-Mart - afternoon"
+    ],
+    "raw_quote": "(Kwik-E-Mart: int. Kwik-E-Mart - afternoon)"
+  },
+  {
+    "timecode": "07:03",
+    "speaker": "Homer Simpson",
+    "quote": " One seafood burrito, Apu.",
+    "directions": [],
+    "raw_quote": " One seafood burrito, Apu."
+  },
+  {
+    "timecode": "07:12",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " I am loathe to interrupt your meditation. But the time has come for money to change hands.",
+    "directions": [],
+    "raw_quote": " I am loathe to interrupt your meditation. But the time has come for money to change hands."
+  },
+  {
+    "timecode": "07:17",
+    "speaker": "Homer Simpson",
+    "quote": " Sorry.",
+    "directions": [
+      "HEAD DOWN"
+    ],
+    "raw_quote": " (HEAD DOWN) Sorry."
+  },
+  {
+    "timecode": "07:33",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: int. springfield elementary - steps - day"
+    ],
+    "raw_quote": "(Springfield Elementary School: int. springfield elementary - steps - day)"
+  },
+  {
+    "timecode": "07:33",
+    "speaker": "Seymour Skinner",
+    "quote": " Say what they will about our cafeteria, I-I still think they're the best Tater Tots money can buy.",
+    "directions": [
+      "HAPPILY"
+    ],
+    "raw_quote": " (HAPPILY) Say what they will about our cafeteria, I-I still think they're the best Tater Tots money can buy."
+  },
+  {
+    "timecode": "07:44",
+    "speaker": "Seymour Skinner",
+    "quote": " Wait a minute... that smells like sodium tetrasulfate bonding with chlorophyll!",
+    "directions": [
+      "SMELLING SOMETHING FUNNY"
+    ],
+    "raw_quote": " (SMELLING SOMETHING FUNNY) Wait a minute... that smells like sodium tetrasulfate bonding with chlorophyll!"
+  },
+  {
+    "timecode": "08:04",
+    "speaker": "Seymour Skinner",
+    "quote": " Sweet Lord it is!",
+    "directions": [
+      "PANTING"
+    ],
+    "raw_quote": " (PANTING) Sweet Lord it is!"
+  },
+  {
+    "timecode": "08:08",
+    "speaker": "Seymour Skinner",
+    "quote": " SIMPSON!!!",
+    "directions": [
+      "ECHOING ACROSS THE LAND"
+    ],
+    "raw_quote": " (ECHOING ACROSS THE LAND) SIMPSON!!!"
+  },
+  {
+    "timecode": "08:12",
+    "speaker": "Seymour Skinner",
+    "quote": " Bart, I'm flabbergasted. Surely you knew, as you were writing your own name in forty-foot-high letters in the field, that you would be caught.",
+    "directions": [
+      "PACING"
+    ],
+    "raw_quote": " (PACING) Bart, I'm flabbergasted. Surely you knew, as you were writing your own name in forty-foot-high letters in the field, that you would be caught."
+  },
+  {
+    "timecode": "08:19",
+    "speaker": "Bart Simpson",
+    "quote": " Maybe it was one of the other Barts, Sir.",
+    "directions": [],
+    "raw_quote": " Maybe it was one of the other Barts, Sir."
+  },
+  {
+    "timecode": "08:21",
+    "speaker": "Seymour Skinner",
+    "quote": " There are no other Barts!",
+    "directions": [],
+    "raw_quote": " There are no other Barts!"
+  },
+  {
+    "timecode": "08:22",
+    "speaker": "Bart Simpson",
+    "quote": " Uh-oh.",
+    "directions": [],
+    "raw_quote": " Uh-oh."
+  },
+  {
+    "timecode": "08:23",
+    "speaker": "Seymour Skinner",
+    "quote": " The sheer contempt demonstrated by this incident makes me wish I could pull the trusty board of education out of retirement.",
+    "directions": [],
+    "raw_quote": " The sheer contempt demonstrated by this incident makes me wish I could pull the trusty board of education out of retirement."
+  },
+  {
+    "timecode": "08:30",
+    "speaker": "Seymour Skinner",
+    "quote": " Call your father immediately.",
+    "directions": [],
+    "raw_quote": " Call your father immediately."
+  },
+  {
+    "timecode": "08:33",
+    "speaker": "Bart Simpson",
+    "quote": " Hello, is Homer there?",
+    "directions": [],
+    "raw_quote": " Hello, is Homer there?"
+  },
+  {
+    "timecode": "08:34",
+    "speaker": "Moe Szyslak",
+    "quote": " Homer who?",
+    "directions": [
+      "OVER THE PHONE"
+    ],
+    "raw_quote": " (OVER THE PHONE) Homer who?"
+  },
+  {
+    "timecode": "08:35",
+    "speaker": "Bart Simpson",
+    "quote": " Homer Sexual.",
+    "directions": [
+      "QUICKLY INTO PHONE"
+    ],
+    "raw_quote": " (QUICKLY INTO PHONE) Homer Sexual."
+  },
+  {
+    "timecode": "08:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: int. moe's tavern - continuous"
+    ],
+    "raw_quote": "(Moe's Tavern: int. moe's tavern - continuous)"
+  },
+  {
+    "timecode": "08:38",
+    "speaker": "Moe Szyslak",
+    "quote": " Just a minute, let me check. Homer Sexual. Come on, come on. One of you guys must be Homer Sexual!",
+    "directions": [
+      "BEAT",
+      "TO THE BAR"
+    ],
+    "raw_quote": " (BEAT) Just a minute, let me check. (TO THE BAR) Homer Sexual. Come on, come on. One of you guys must be Homer Sexual!"
+  },
+  {
+    "timecode": "08:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: int. springfield elementary - skinner's office - continuous"
+    ],
+    "raw_quote": "(Springfield Elementary School: int. springfield elementary - skinner's office - continuous)"
+  },
+  {
+    "timecode": "08:50",
+    "speaker": "Moe Szyslak",
+    "quote": " Why you rotten little punk! If I ever get a hold of you, I'll sink my teeth into your cheek and rip your face off!",
+    "directions": [
+      "OVER THE PHONE"
+    ],
+    "raw_quote": " (OVER THE PHONE) Why you rotten little punk! If I ever get a hold of you, I'll sink my teeth into your cheek and rip your face off!"
+  },
+  {
+    "timecode": "08:58",
+    "speaker": "Seymour Skinner",
+    "quote": " You'll do what, young man?",
+    "directions": [],
+    "raw_quote": " You'll do what, young man?"
+  },
+  {
+    "timecode": "08:59",
+    "speaker": "Moe Szyslak",
+    "quote": " Wait a minute. Who is this?",
+    "directions": [
+      "OVER THE PHONE"
+    ],
+    "raw_quote": " (OVER THE PHONE) Wait a minute. Who is this?"
+  },
+  {
+    "timecode": "09:02",
+    "speaker": "Seymour Skinner",
+    "quote": " I think the real question is who is this and where is Homer Simpson?",
+    "directions": [
+      "OFFENDED"
+    ],
+    "raw_quote": " (OFFENDED) I think the real question is who is this and where is Homer Simpson?"
+  },
+  {
+    "timecode": "09:05",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: int. moe's tavern - continuous"
+    ],
+    "raw_quote": "(Moe's Tavern: int. moe's tavern - continuous)"
+  },
+  {
+    "timecode": "09:05",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh, sorry Principal Skinner. It must be a bad connection. It's for you. I think Bart's in trouble again.",
+    "directions": [
+      "TO HOMER"
+    ],
+    "raw_quote": " Oh, sorry Principal Skinner. It must be a bad connection. (TO HOMER) It's for you. I think Bart's in trouble again."
+  },
+  {
+    "timecode": "09:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: int. springfield elementary - skinner's office - day"
+    ],
+    "raw_quote": "(Springfield Elementary School: int. springfield elementary - skinner's office - day)"
+  },
+  {
+    "timecode": "09:13",
+    "speaker": "Homer Simpson",
+    "quote": " What is it this time?",
+    "directions": [
+      "WEARILY"
+    ],
+    "raw_quote": " (WEARILY) What is it this time?"
+  },
+  {
+    "timecode": "09:15",
+    "speaker": "Seymour Skinner",
+    "quote": " I'm afraid this time the victims are the innocent blades of grass on Groundskeeper Willie's award-winning play field. If it's all right with you, Bart will repay his debt to society through back-breaking physical labor, re-sodding the field manually, seed by seed.",
+    "directions": [],
+    "raw_quote": " I'm afraid this time the victims are the innocent blades of grass on Groundskeeper Willie's award-winning play field. If it's all right with you, Bart will repay his debt to society through back-breaking physical labor, re-sodding the field manually, seed by seed."
+  },
+  {
+    "timecode": "09:46",
+    "speaker": "Homer Simpson",
+    "quote": " But enough about Bart. Tell me, Principal Skinner, are you married?",
+    "directions": [],
+    "raw_quote": " But enough about Bart. Tell me, Principal Skinner, are you married?"
+  },
+  {
+    "timecode": "09:50",
+    "speaker": "Seymour Skinner",
+    "quote": " Only to my job.",
+    "directions": [],
+    "raw_quote": " Only to my job."
+  },
+  {
+    "timecode": "09:52",
+    "speaker": "Homer Simpson",
+    "quote": " But if you weren't married to your job, you'd tend to go for a girl, right?",
+    "directions": [],
+    "raw_quote": " But if you weren't married to your job, you'd tend to go for a girl, right?"
+  },
+  {
+    "timecode": "09:55",
+    "speaker": "Seymour Skinner",
+    "quote": " Well, of course. These pants come off at night just like everyone else's. But tell me, why all the questions?",
+    "directions": [
+      "CHUCKLING"
+    ],
+    "raw_quote": " (CHUCKLING) Well, of course. These pants come off at night just like everyone else's. But tell me, why all the questions?"
+  },
+  {
+    "timecode": "10:03",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, no reason, really. I was just wondering if you know, you'd like to come over to my house for dinner. A payback for all the crummy things Bart has done to your school.",
+    "directions": [
+      "COVERING"
+    ],
+    "raw_quote": " (COVERING) Oh, no reason, really. I was just wondering if you know, you'd like to come over to my house for dinner. A payback for all the crummy things Bart has done to your school."
+  },
+  {
+    "timecode": "10:17",
+    "speaker": "Seymour Skinner",
+    "quote": " Well, a home-cooked meal would be a nice change of pace. I'd be delighted!",
+    "directions": [
+      "RUBBING CHIN"
+    ],
+    "raw_quote": " (RUBBING CHIN) Well, a home-cooked meal would be a nice change of pace. I'd be delighted!"
+  },
+  {
+    "timecode": "10:23",
+    "speaker": "Homer Simpson",
+    "quote": " Excellent.",
+    "directions": [
+      "TENTING FINGERS"
+    ],
+    "raw_quote": " (TENTING FINGERS) Excellent."
+  },
+  {
+    "timecode": "10:31",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room - evening"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room - evening)"
+  },
+  {
+    "timecode": "10:31",
+    "speaker": "Bart Simpson",
+    "quote": " Good evening, Principal Skinner and welcome to our home.",
+    "directions": [
+      "REHEARSED"
+    ],
+    "raw_quote": " (REHEARSED) Good evening, Principal Skinner and welcome to our home."
+  },
+  {
+    "timecode": "10:34",
+    "speaker": "Seymour Skinner",
+    "quote": " Well thank you, Bart. I only hope that for the next few hours you and I can leave our differences in the schoolyard.",
+    "directions": [],
+    "raw_quote": " Well thank you, Bart. I only hope that for the next few hours you and I can leave our differences in the schoolyard."
+  },
+  {
+    "timecode": "10:41",
+    "speaker": "Bart Simpson",
+    "quote": " Fine. Now just get inside already.",
+    "directions": [],
+    "raw_quote": " Fine. Now just get inside already."
+  },
+  {
+    "timecode": "10:43",
+    "speaker": "Marge Simpson",
+    "quote": " He's here.",
+    "directions": [],
+    "raw_quote": " He's here."
+  },
+  {
+    "timecode": "10:44",
+    "speaker": "Patty Bouvier",
+    "quote": " Well, what are you waiting for? Get out there and shake your money-maker.",
+    "directions": [
+      "TO SELMA"
+    ],
+    "raw_quote": " (TO SELMA) Well, what are you waiting for? Get out there and shake your money-maker."
+  },
+  {
+    "timecode": "10:48",
+    "speaker": "Selma Bouvier",
+    "quote": " I'm too nervous, you do it.",
+    "directions": [],
+    "raw_quote": " I'm too nervous, you do it."
+  },
+  {
+    "timecode": "10:51",
+    "speaker": "Patty Bouvier",
+    "quote": " No, you do it.",
+    "directions": [],
+    "raw_quote": " No, you do it."
+  },
+  {
+    "timecode": "10:51",
+    "speaker": "Selma Bouvier",
+    "quote": " No, you do it.",
+    "directions": [],
+    "raw_quote": " No, you do it."
+  },
+  {
+    "timecode": "10:52",
+    "speaker": "Patty Bouvier",
+    "quote": " No, you do it.",
+    "directions": [],
+    "raw_quote": " No, you do it."
+  },
+  {
+    "timecode": "10:53",
+    "speaker": "Selma Bouvier",
+    "quote": " No, you do it.",
+    "directions": [],
+    "raw_quote": " No, you do it."
+  },
+  {
+    "timecode": "10:54",
+    "speaker": "Seymour Skinner",
+    "quote": " Now, Simpson. I-I had a discomforting thought on the way over here. This dinner wouldn't be a master plan of yours to set me up with some unmarried relation? Because I can assure you that...",
+    "directions": [],
+    "raw_quote": " Now, Simpson. I-I had a discomforting thought on the way over here. This dinner wouldn't be a master plan of yours to set me up with some unmarried relation? Because I can assure you that..."
+  },
+  {
+    "timecode": "11:06",
+    "speaker": "Seymour Skinner",
+    "quote": " I... ah... muh... Be still my foolish heart.",
+    "directions": [
+      "MOANING"
+    ],
+    "raw_quote": " (MOANING) I... ah... muh... Be still my foolish heart."
+  },
+  {
+    "timecode": "11:13",
+    "speaker": "Homer Simpson",
+    "quote": " Heh heh heh. Here we go. Boy meets beast. Principal Skinner, allow me to introduce you to my wife's lovely and available sister, Selma.",
+    "directions": [
+      "SOTTO",
+      "CLEARING THROAT"
+    ],
+    "raw_quote": " (SOTTO) Heh heh heh. Here we go. Boy meets beast. (CLEARING THROAT) Principal Skinner, allow me to introduce you to my wife's lovely and available sister, Selma."
+  },
+  {
+    "timecode": "11:16",
+    "speaker": "Seymour Skinner",
+    "quote": " Sel-ma.",
+    "directions": [
+      "SAVORING THE WORD"
+    ],
+    "raw_quote": " (SAVORING THE WORD) Sel-ma."
+  },
+  {
+    "timecode": "11:24",
+    "speaker": "Patty Bouvier",
+    "quote": " Hey, Baldilocks, I'm Patty.",
+    "directions": [
+      "GRUFF, TO HOMER"
+    ],
+    "raw_quote": " (GRUFF, TO HOMER) Hey, Baldilocks, I'm Patty."
+  },
+  {
+    "timecode": "11:25",
+    "speaker": "Homer Simpson",
+    "quote": " Wha...?",
+    "directions": [],
+    "raw_quote": " Wha...?"
+  },
+  {
+    "timecode": "11:26",
+    "speaker": "Seymour Skinner",
+    "quote": " Pat-ty.",
+    "directions": [
+      "SAVORING"
+    ],
+    "raw_quote": " (SAVORING) Pat-ty."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " (ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "11:30",
+    "speaker": "Seymour Skinner",
+    "quote": " So Patty, tell me more about your trip to Egypt.",
+    "directions": [],
+    "raw_quote": " So Patty, tell me more about your trip to Egypt."
+  },
+  {
+    "timecode": "11:36",
+    "speaker": "Patty Bouvier",
+    "quote": " Nothing more to tell, really. The Nile smells like cattle rot and they've got horseflies over there the size of your fist.",
+    "directions": [],
+    "raw_quote": " Nothing more to tell, really. The Nile smells like cattle rot and they've got horseflies over there the size of your fist."
+  },
+  {
+    "timecode": "11:41",
+    "speaker": "Seymour Skinner",
+    "quote": " Marvelous. Just marvelous.",
+    "directions": [
+      "DREAMILY"
+    ],
+    "raw_quote": " (DREAMILY) Marvelous. Just marvelous."
+  },
+  {
+    "timecode": "11:44",
+    "speaker": "Marge Simpson",
+    "quote": " Well, Selma hated Egypt, too. A camel spit on her.",
+    "directions": [
+      "PROMPTING"
+    ],
+    "raw_quote": " (PROMPTING) Well, Selma hated Egypt, too. A camel spit on her."
+  },
+  {
+    "timecode": "11:47",
+    "speaker": "Seymour Skinner",
+    "quote": " Oh, yes. I've heard they can be difficult. Patty, the Parents Advisory Board has asked that I attend the premiere of Space Mutants Part 5 tomorrow night. Would you be interested in joining me?",
+    "directions": [
+      "NOT CARING"
+    ],
+    "raw_quote": " (NOT CARING) Oh, yes. I've heard they can be difficult. Patty, the Parents Advisory Board has asked that I attend the premiere of Space Mutants Part 5 tomorrow night. Would you be interested in joining me?"
+  },
+  {
+    "timecode": "12:00",
+    "speaker": "Patty Bouvier",
+    "quote": " Well... I don't really think...",
+    "directions": [
+      "LOOKING AT SELMA"
+    ],
+    "raw_quote": " (LOOKING AT SELMA) Well... I don't really think..."
+  },
+  {
+    "timecode": "12:01",
+    "speaker": "Selma Bouvier",
+    "quote": " She'd be delighted.",
+    "directions": [
+      "CUTTING HER OFF"
+    ],
+    "raw_quote": " (CUTTING HER OFF) She'd be delighted."
+  },
+  {
+    "timecode": "12:03",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Selma's Car: int. selma's car - night"
+    ],
+    "raw_quote": "(Selma's Car: int. selma's car - night)"
+  },
+  {
+    "timecode": "12:03",
+    "speaker": "Patty Bouvier",
+    "quote": " I'm going to cancel.",
+    "directions": [],
+    "raw_quote": " I'm going to cancel."
+  },
+  {
+    "timecode": "12:04",
+    "speaker": "Selma Bouvier",
+    "quote": " No, you're not.",
+    "directions": [],
+    "raw_quote": " No, you're not."
+  },
+  {
+    "timecode": "12:05",
+    "speaker": "Patty Bouvier",
+    "quote": " We already have plans for tomorrow night.",
+    "directions": [],
+    "raw_quote": " We already have plans for tomorrow night."
+  },
+  {
+    "timecode": "12:06",
+    "speaker": "Selma Bouvier",
+    "quote": " Patty, your first date in twenty-five years is a little more important than playing hearts with Mother.",
+    "directions": [],
+    "raw_quote": " Patty, your first date in twenty-five years is a little more important than playing hearts with Mother."
+  },
+  {
+    "timecode": "12:11",
+    "speaker": "Patty Bouvier",
+    "quote": " I tried to repel him, I really did.",
+    "directions": [
+      "GRUNTS"
+    ],
+    "raw_quote": " (GRUNTS) I tried to repel him, I really did."
+  },
+  {
+    "timecode": "12:14",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Kwik-E-Mart: int. Kwik-e-mart - night"
+    ],
+    "raw_quote": "(Kwik-E-Mart: int. Kwik-e-mart - night)"
+  },
+  {
+    "timecode": "12:14",
+    "speaker": "Patty Bouvier",
+    "quote": " A pack of Lady Laramie Hundreds, please.",
+    "directions": [
+      "TO APU"
+    ],
+    "raw_quote": " (TO APU) A pack of Lady Laramie Hundreds, please."
+  },
+  {
+    "timecode": "12:17",
+    "speaker": "Selma Bouvier",
+    "quote": " God knows it could have easily been me. Easily. Laramie Hi-Tars. Hard pack. And I don't have all day.",
+    "directions": [
+      "TO APU"
+    ],
+    "raw_quote": " God knows it could have easily been me. Easily. (TO APU) Laramie Hi-Tars. Hard pack. And I don't have all day."
+  },
+  {
+    "timecode": "12:22",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Here you go. Smoke them in good health. And will you be needing any lottery tickets with that?",
+    "directions": [],
+    "raw_quote": " Here you go. Smoke them in good health. And will you be needing any lottery tickets with that?"
+  },
+  {
+    "timecode": "12:28",
+    "speaker": "Selma Bouvier",
+    "quote": " No. All right, five.",
+    "directions": [
+      "BEAT"
+    ],
+    "raw_quote": " No. (BEAT) All right, five."
+  },
+  {
+    "timecode": "12:30",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Football Field: ext. football field - day"
+    ],
+    "raw_quote": "(Football Field: ext. football field - day)"
+  },
+  {
+    "timecode": "12:30",
+    "speaker": "Bart Simpson",
+    "quote": " Stupid - Principal - Skinner. No - sense - of - humor.",
+    "directions": [
+      "SODDING"
+    ],
+    "raw_quote": " (SODDING) Stupid - Principal - Skinner. No - sense - of - humor."
+  },
+  {
+    "timecode": "12:35",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Save your strength, lad. There's a whole field for to resod yet.",
+    "directions": [],
+    "raw_quote": " Save your strength, lad. There's a whole field for to resod yet."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED SOUND"
+    ],
+    "raw_quote": " (ANNOYED SOUND)"
+  },
+  {
+    "timecode": "12:40",
+    "speaker": "Seymour Skinner",
+    "quote": " Bart, you wouldn't happen to know what sort of candy your Aunt Patty likes, would you?",
+    "directions": [],
+    "raw_quote": " Bart, you wouldn't happen to know what sort of candy your Aunt Patty likes, would you?"
+  },
+  {
+    "timecode": "12:46",
+    "speaker": "Bart Simpson",
+    "quote": " Cherry cordials, sir.",
+    "directions": [],
+    "raw_quote": " Cherry cordials, sir."
+  },
+  {
+    "timecode": "12:48",
+    "speaker": "Seymour Skinner",
+    "quote": " Very good. Now then, regarding your punishment... do you feel that you've learned your lesson?",
+    "directions": [],
+    "raw_quote": " Very good. Now then, regarding your punishment... do you feel that you've learned your lesson?"
+  },
+  {
+    "timecode": "12:55",
+    "speaker": "Bart Simpson",
+    "quote": " Have I ever. Just the thought of doing anything bad again makes my stomach turn.",
+    "directions": [
+      "SEEING HIS OPENING"
+    ],
+    "raw_quote": " (SEEING HIS OPENING) Have I ever. Just the thought of doing anything bad again makes my stomach turn."
+  },
+  {
+    "timecode": "13:00",
+    "speaker": "Seymour Skinner",
+    "quote": " Well, then, you are free to go.",
+    "directions": [],
+    "raw_quote": " Well, then, you are free to go."
+  },
+  {
+    "timecode": "13:04",
+    "speaker": "Bart Simpson",
+    "quote": " Well, Willie, you can take it from here. Adios, dude.",
+    "directions": [],
+    "raw_quote": " Well, Willie, you can take it from here. Adios, dude."
+  },
+  {
+    "timecode": "13:06",
+    "speaker": "Groundskeeper Willie",
+    "quote": " You'll be back!",
+    "directions": [
+      "SHAKING RAKE"
+    ],
+    "raw_quote": " (SHAKING RAKE) You'll be back!"
+  },
+  {
+    "timecode": "13:14",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Patty and Selma's Apartment: InT. SELMA AND PATTY'S APARTMENT - EVENING"
+    ],
+    "raw_quote": "(Patty and Selma's Apartment: InT. SELMA AND PATTY'S APARTMENT - EVENING)"
+  },
+  {
+    "timecode": "13:14",
+    "speaker": "Patty Bouvier",
+    "quote": " I don't see why all this is necessary.",
+    "directions": [],
+    "raw_quote": " I don't see why all this is necessary."
+  },
+  {
+    "timecode": "13:17",
+    "speaker": "Marge Simpson",
+    "quote": " C'mon, Patty. You don't want to show up looking like Yosemite Sam.",
+    "directions": [],
+    "raw_quote": " C'mon, Patty. You don't want to show up looking like Yosemite Sam."
+  },
+  {
+    "timecode": "13:22",
+    "speaker": "Patty Bouvier",
+    "quote": " How do I look?",
+    "directions": [
+      "TO SELMA"
+    ],
+    "raw_quote": " (TO SELMA) How do I look?"
+  },
+  {
+    "timecode": "13:27",
+    "speaker": "Selma Bouvier",
+    "quote": " Achingly beautiful.",
+    "directions": [],
+    "raw_quote": " Achingly beautiful."
+  },
+  {
+    "timecode": "13:29",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hallway Outside Selma And Patty's Apt.: int. hallway outside selma and patty's apt. - night"
+    ],
+    "raw_quote": "(Hallway Outside Selma And Patty's Apt.: int. hallway outside selma and patty's apt. - night)"
+  },
+  {
+    "timecode": "13:29",
+    "speaker": "Seymour Skinner",
+    "quote": " \"Two and Two are Four, Four and Four are Eight, Eight and Eight are Sixteen...\"",
+    "directions": [
+      "FROM \"HANS CHRISTIAN ANDERSEN\""
+    ],
+    "raw_quote": " (FROM \"HANS CHRISTIAN ANDERSEN\") \"Two and Two are Four, Four and Four are Eight, Eight and Eight are Sixteen...\""
+  },
+  {
+    "timecode": "13:39",
+    "speaker": "Seymour Skinner",
+    "quote": " Cherry cordials. I hope you like 'em.",
+    "directions": [
+      "SLYLY"
+    ],
+    "raw_quote": " Cherry cordials. (SLYLY) I hope you like 'em."
+  },
+  {
+    "timecode": "13:43",
+    "speaker": "Patty Bouvier",
+    "quote": " Yeah, I like 'em okay. So come on, let's get this over with.",
+    "directions": [],
+    "raw_quote": " Yeah, I like 'em okay. So come on, let's get this over with."
+  },
+  {
+    "timecode": "13:47",
+    "speaker": "Seymour Skinner",
+    "quote": " Ah, excellent suggestion. I suggest we start with The Springfield Revolving Restaurant. You know, food tastes better when you're revolving.",
+    "directions": [],
+    "raw_quote": " Ah, excellent suggestion. I suggest we start with The Springfield Revolving Restaurant. You know, food tastes better when you're revolving."
+  },
+  {
+    "timecode": "13:56",
+    "speaker": "Patty Bouvier",
+    "quote": " Yeah, right. Well, so far I must say the evening is a big disappointment.",
+    "directions": [],
+    "raw_quote": " Yeah, right. Well, so far I must say the evening is a big disappointment."
+  },
+  {
+    "timecode": "13:56",
+    "speaker": "Seymour Skinner",
+    "quote": " Indeed. Truly terrible.",
+    "directions": [],
+    "raw_quote": " Indeed. Truly terrible."
+  },
+  {
+    "timecode": "13:56",
+    "speaker": "Patty Bouvier",
+    "quote": " Hey, can we get some service over here? I've asked for water three times now.",
+    "directions": [],
+    "raw_quote": " Hey, can we get some service over here? I've asked for water three times now."
+  },
+  {
+    "timecode": "13:57",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SPRINGFIELD REVOLVING RESTAURANT: int. springfield revolving Restaurant - night"
+    ],
+    "raw_quote": "(SPRINGFIELD REVOLVING RESTAURANT: int. springfield revolving Restaurant - night)"
+  },
+  {
+    "timecode": "13:57",
+    "speaker": "Patty Bouvier",
+    "quote": " Well I must say, so far the evening is a big disappointment.",
+    "directions": [],
+    "raw_quote": " Well I must say, so far the evening is a big disappointment."
+  },
+  {
+    "timecode": "14:00",
+    "speaker": "Seymour Skinner",
+    "quote": " Indeed, truly terrible.",
+    "directions": [
+      "DREAMILY"
+    ],
+    "raw_quote": " (DREAMILY) Indeed, truly terrible."
+  },
+  {
+    "timecode": "14:02",
+    "speaker": "Patty Bouvier",
+    "quote": " Hey, can we get some service over here? I've asked for water three times now.",
+    "directions": [
+      "POUNDING TABLE",
+      "TO SKINNER"
+    ],
+    "raw_quote": " (POUNDING TABLE) Hey, can we get some service over here? (TO SKINNER) I've asked for water three times now."
+  },
+  {
+    "timecode": "14:08",
+    "speaker": "Busboy",
+    "quote": " Is everything all right?",
+    "directions": [],
+    "raw_quote": " Is everything all right?"
+  },
+  {
+    "timecode": "14:09",
+    "speaker": "Seymour Skinner",
+    "quote": " Well, well, well. If it isn't little Jimmy Pearson. Class of '71 I believe.",
+    "directions": [
+      "TURNING SHARP"
+    ],
+    "raw_quote": " (TURNING SHARP) Well, well, well. If it isn't little Jimmy Pearson. Class of '71 I believe."
+  },
+  {
+    "timecode": "14:14",
+    "speaker": "Busboy",
+    "quote": " Good evening, Principal Skinner.",
+    "directions": [
+      "SHEEPISH"
+    ],
+    "raw_quote": " (SHEEPISH) Good evening, Principal Skinner."
+  },
+  {
+    "timecode": "14:15",
+    "speaker": "Seymour Skinner",
+    "quote": " Pearson, get this woman a glass of water, immediately! And tuck in your shirt.",
+    "directions": [],
+    "raw_quote": " Pearson, get this woman a glass of water, immediately! And tuck in your shirt."
+  },
+  {
+    "timecode": "14:20",
+    "speaker": "Seymour Skinner",
+    "quote": " Nearly thirty and still working as a busboy. Standardized testing never lies.",
+    "directions": [
+      "SHAKING HIS HEAD",
+      "CONFIDENTIALLY"
+    ],
+    "raw_quote": " (SHAKING HIS HEAD) Nearly thirty and still working as a busboy. (CONFIDENTIALLY) Standardized testing never lies."
+  },
+  {
+    "timecode": "14:29",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room - night"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room - night)"
+  },
+  {
+    "timecode": "14:29",
+    "speaker": "Selma Bouvier",
+    "quote": " It doesn't surprise me. She has always been the lucky one. Two minutes younger. Skin like a China doll. And bosoms 'til Tuesday.",
+    "directions": [
+      "SHRUGGING"
+    ],
+    "raw_quote": " (SHRUGGING) It doesn't surprise me. She has always been the lucky one. Two minutes younger. Skin like a China doll. And bosoms 'til Tuesday."
+  },
+  {
+    "timecode": "14:38",
+    "speaker": "Marge Simpson",
+    "quote": " Well, don't worry. There are still plenty of fish in the sea. Right, Homer?",
+    "directions": [
+      "THREATENING"
+    ],
+    "raw_quote": " Well, don't worry. There are still plenty of fish in the sea. (THREATENING) Right, Homer?"
+  },
+  {
+    "timecode": "14:43",
+    "speaker": "Homer Simpson",
+    "quote": " Oh yes, plenty of fish. We just don't have any bait.",
+    "directions": [
+      "UNDER BREATH"
+    ],
+    "raw_quote": " Oh yes, plenty of fish. (UNDER BREATH) We just don't have any bait."
+  },
+  {
+    "timecode": "14:54",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Movie Theater: int. movie theater - night"
+    ],
+    "raw_quote": "(Movie Theater: int. movie theater - night)"
+  },
+  {
+    "timecode": "14:54",
+    "speaker": "Seymour Skinner",
+    "quote": " Hmm.",
+    "directions": [
+      "TO HIMSELF"
+    ],
+    "raw_quote": " (TO HIMSELF) Hmm."
+  },
+  {
+    "timecode": "14:59",
+    "speaker": "Patty Bouvier",
+    "quote": " Don't be stupid.",
+    "directions": [],
+    "raw_quote": " Don't be stupid."
+  },
+  {
+    "timecode": "15:01",
+    "speaker": "Seymour Skinner",
+    "quote": " Oh.. uh... sorry.",
+    "directions": [],
+    "raw_quote": " Oh.. uh... sorry."
+  },
+  {
+    "timecode": "15:05",
+    "speaker": "Australian Boy",
+    "quote": " Come on, luv... Loosen up.",
+    "directions": [],
+    "raw_quote": " Come on, luv... Loosen up."
+  },
+  {
+    "timecode": "15:08",
+    "speaker": "Australian Girl",
+    "quote": " I just can't forget what happened to that poor dingo back there. Who, or what, could've done such a horrible thing?",
+    "directions": [],
+    "raw_quote": " I just can't forget what happened to that poor dingo back there. Who, or what, could've done such a horrible thing?"
+  },
+  {
+    "timecode": "15:15",
+    "speaker": "Australian Boy",
+    "quote": " Oh, it was probably just a wallaby... now come on...",
+    "directions": [],
+    "raw_quote": " Oh, it was probably just a wallaby... now come on..."
+  },
+  {
+    "timecode": "15:19",
+    "speaker": "Australian Girl",
+    "quote": " Well, okay...",
+    "directions": [],
+    "raw_quote": " Well, okay..."
+  },
+  {
+    "timecode": "15:29",
+    "speaker": "Seymour Skinner",
+    "quote": " Hello, Dolly.",
+    "directions": [
+      "TO HIMSELF"
+    ],
+    "raw_quote": " (TO HIMSELF) Hello, Dolly."
+  },
+  {
+    "timecode": "15:31",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Patty and Selma's Apartment: ext. patty and selma's apartment - hallway - night"
+    ],
+    "raw_quote": "(Patty and Selma's Apartment: ext. patty and selma's apartment - hallway - night)"
+  },
+  {
+    "timecode": "15:31",
+    "speaker": "Seymour Skinner",
+    "quote": " Oh, that was the worst film I've ever seen.",
+    "directions": [],
+    "raw_quote": " Oh, that was the worst film I've ever seen."
+  },
+  {
+    "timecode": "15:34",
+    "speaker": "Patty Bouvier",
+    "quote": " Not as bad as the service at the revolving restaurant.",
+    "directions": [],
+    "raw_quote": " Not as bad as the service at the revolving restaurant."
+  },
+  {
+    "timecode": "15:40",
+    "speaker": "Seymour Skinner",
+    "quote": " Isn't it nice we hate the same things?",
+    "directions": [],
+    "raw_quote": " Isn't it nice we hate the same things?"
+  },
+  {
+    "timecode": "15:46",
+    "speaker": "Seymour Skinner",
+    "quote": " See me again tomorrow?",
+    "directions": [
+      "HOPEFUL"
+    ],
+    "raw_quote": " (HOPEFUL) See me again tomorrow?"
+  },
+  {
+    "timecode": "15:48",
+    "speaker": "Patty Bouvier",
+    "quote": " I'm afraid that's my microwave cookery class.",
+    "directions": [
+      "SHAKES HEAD"
+    ],
+    "raw_quote": " (SHAKES HEAD) I'm afraid that's my microwave cookery class."
+  },
+  {
+    "timecode": "15:51",
+    "speaker": "Seymour Skinner",
+    "quote": " Then the day after that.",
+    "directions": [],
+    "raw_quote": " Then the day after that."
+  },
+  {
+    "timecode": "15:53",
+    "speaker": "Patty Bouvier",
+    "quote": " Oh, gee. Tai Kwon Do.",
+    "directions": [
+      "SHAKING HEAD"
+    ],
+    "raw_quote": " (SHAKING HEAD) Oh, gee. Tai Kwon Do."
+  },
+  {
+    "timecode": "15:55",
+    "speaker": "Seymour Skinner",
+    "quote": " The day after that, then.",
+    "directions": [
+      "DETERMINED"
+    ],
+    "raw_quote": " (DETERMINED) The day after that, then."
+  },
+  {
+    "timecode": "15:57",
+    "speaker": "Patty Bouvier",
+    "quote": " Seymour... you're touching me.",
+    "directions": [],
+    "raw_quote": " Seymour... you're touching me."
+  },
+  {
+    "timecode": "15:59",
+    "speaker": "Seymour Skinner",
+    "quote": " Kiss me, Patty. I don't have cooties.",
+    "directions": [
+      "PASSIONATELY, MOVING CLOSER"
+    ],
+    "raw_quote": " (PASSIONATELY, MOVING CLOSER) Kiss me, Patty. I don't have cooties."
+  },
+  {
+    "timecode": "16:01",
+    "speaker": "Patty Bouvier",
+    "quote": " Hwa!",
+    "directions": [],
+    "raw_quote": " Hwa!"
+  },
+  {
+    "timecode": "16:06",
+    "speaker": "Patty Bouvier",
+    "quote": " Thursday I'm going food shopping. You can come along if you like.",
+    "directions": [
+      "THROWING A BONE"
+    ],
+    "raw_quote": " (THROWING A BONE) Thursday I'm going food shopping. You can come along if you like."
+  },
+  {
+    "timecode": "16:12",
+    "speaker": "Seymour Skinner",
+    "quote": " Until then!",
+    "directions": [
+      "HAPPILY"
+    ],
+    "raw_quote": " (HAPPILY) Until then!"
+  },
+  {
+    "timecode": "16:15",
+    "speaker": "Selma Bouvier",
+    "quote": " Tell me every filthy detail. Or is your tongue too tired?",
+    "directions": [
+      "GIRL TALK"
+    ],
+    "raw_quote": " (GIRL TALK) Tell me every filthy detail. Or is your tongue too tired?"
+  },
+  {
+    "timecode": "16:19",
+    "speaker": "Patty Bouvier",
+    "quote": " Selma, it was a lousy meal. The movie was awful. And he didn't get anything. Now goodnight.",
+    "directions": [],
+    "raw_quote": " Selma, it was a lousy meal. The movie was awful. And he didn't get anything. Now goodnight."
+  },
+  {
+    "timecode": "16:51",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Apartment: int. apartment - Patty's bedroom - continuous"
+    ],
+    "raw_quote": "(Apartment: int. apartment - Patty's bedroom - continuous)"
+  },
+  {
+    "timecode": "16:51",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Patty and Selma's Apartment: int. patty AND selma's apartment - night"
+    ],
+    "raw_quote": "(Patty and Selma's Apartment: int. patty AND selma's apartment - night)"
+  },
+  {
+    "timecode": "16:51",
+    "speaker": "Patty Bouvier",
+    "quote": " All right. One kiss. But I don't want you bragging to your friends about how you scored.",
+    "directions": [],
+    "raw_quote": " All right. One kiss. But I don't want you bragging to your friends about how you scored."
+  },
+  {
+    "timecode": "17:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: ext. springfield elementary - PLAYGROUND - day"
+    ],
+    "raw_quote": "(Springfield Elementary School: ext. springfield elementary - PLAYGROUND - day)"
+  },
+  {
+    "timecode": "17:10",
+    "speaker": "Seymour Skinner",
+    "quote": " I wish I could make a P.A. announcement to the whole world. Attention, everyone: Seymour Skinner is in love!",
+    "directions": [
+      "GIDDY SIGH"
+    ],
+    "raw_quote": " (GIDDY SIGH) I wish I could make a P.A. announcement to the whole world. Attention, everyone: Seymour Skinner is in love!"
+  },
+  {
+    "timecode": "17:21",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Bart, Skinner's gonna kill you.",
+    "directions": [],
+    "raw_quote": " Bart, Skinner's gonna kill you."
+  },
+  {
+    "timecode": "17:23",
+    "speaker": "Bart Simpson",
+    "quote": " Skinner? He works for me now.",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Skinner? (LAUGHS) He works for me now."
+  },
+  {
+    "timecode": "17:25",
+    "speaker": "Seymour Skinner",
+    "quote": " Simpson!",
+    "directions": [
+      "APPROACHING"
+    ],
+    "raw_quote": " (APPROACHING) Simpson!"
+  },
+  {
+    "timecode": "17:26",
+    "speaker": "Bart Simpson",
+    "quote": " Uh oh.",
+    "directions": [],
+    "raw_quote": " Uh oh."
+  },
+  {
+    "timecode": "17:26",
+    "speaker": "Seymour Skinner",
+    "quote": " What is that there?",
+    "directions": [],
+    "raw_quote": " What is that there?"
+  },
+  {
+    "timecode": "17:36",
+    "speaker": "Seymour Skinner",
+    "quote": " Ah... Bart, I hate to pull you away from your daily exercise, but ... well...",
+    "directions": [
+      "SHAKING IT OFF"
+    ],
+    "raw_quote": " (SHAKING IT OFF) Ah... Bart, I hate to pull you away from your daily exercise, but ... well..."
+  },
+  {
+    "timecode": "17:42",
+    "speaker": "Seymour Skinner",
+    "quote": " I wanted you to be the first to know. I'm going to ask for your Aunt Patty's hand in marriage.",
+    "directions": [],
+    "raw_quote": " I wanted you to be the first to know. I'm going to ask for your Aunt Patty's hand in marriage."
+  },
+  {
+    "timecode": "17:48",
+    "speaker": "Bart Simpson",
+    "quote": " Your funeral, Seymour.",
+    "directions": [],
+    "raw_quote": " Your funeral, Seymour."
+  },
+  {
+    "timecode": "17:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: INT. MOE'S TAVERN"
+    ],
+    "raw_quote": "(Moe's Tavern: INT. MOE'S TAVERN)"
+  },
+  {
+    "timecode": "17:50",
+    "speaker": "Moe Szyslak",
+    "quote": " Lighten up, Homer. You're making Happy Hour bitterly ironic.",
+    "directions": [],
+    "raw_quote": " Lighten up, Homer. You're making Happy Hour bitterly ironic."
+  },
+  {
+    "timecode": "17:55",
+    "speaker": "Homer Simpson",
+    "quote": " Ah, Moe. I've gotta find a date for my big, fat, snotty sister-in-law, Selma.",
+    "directions": [],
+    "raw_quote": " Ah, Moe. I've gotta find a date for my big, fat, snotty sister-in-law, Selma."
+  },
+  {
+    "timecode": "18:00",
+    "speaker": "Barney Gumble",
+    "quote": " I'm intrigued. What does this Selma look like?",
+    "directions": [],
+    "raw_quote": " I'm intrigued. What does this Selma look like?"
+  },
+  {
+    "timecode": "18:03",
+    "speaker": "Homer Simpson",
+    "quote": " Like my wife's ugly sister.",
+    "directions": [
+      "HOPEFUL"
+    ],
+    "raw_quote": " (HOPEFUL) Like my wife's ugly sister."
+  },
+  {
+    "timecode": "18:05",
+    "speaker": "Barney Gumble",
+    "quote": " Wheel her in, Homer. I'm not a picky man. ",
+    "directions": [
+      "BURP"
+    ],
+    "raw_quote": " Wheel her in, Homer. I'm not a picky man. (BURP)"
+  },
+  {
+    "timecode": "18:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SPRINGFIELD JEWELRY STORE: Int. SPRINGFIELD JEWELRY STORE - later"
+    ],
+    "raw_quote": "(SPRINGFIELD JEWELRY STORE: Int. SPRINGFIELD JEWELRY STORE - later)"
+  },
+  {
+    "timecode": "18:11",
+    "speaker": "Jeweler",
+    "quote": " A good rule of thumb is two years salary, sir. Try this.",
+    "directions": [
+      "BUTTING IN"
+    ],
+    "raw_quote": " (BUTTING IN) A good rule of thumb is two years salary, sir. Try this."
+  },
+  {
+    "timecode": "18:14",
+    "speaker": "Seymour Skinner",
+    "quote": " I can't afford that! I'm an educator.",
+    "directions": [],
+    "raw_quote": " I can't afford that! I'm an educator."
+  },
+  {
+    "timecode": "18:16",
+    "speaker": "Bart Simpson",
+    "quote": " Seymour?",
+    "directions": [],
+    "raw_quote": " Seymour?"
+  },
+  {
+    "timecode": "18:16",
+    "speaker": "Seymour Skinner",
+    "quote": " I'll take it!",
+    "directions": [],
+    "raw_quote": " I'll take it!"
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: InT. simpson house - living room - CONTINUOUS"
+    ],
+    "raw_quote": "(Simpson Home: InT. simpson house - living room - CONTINUOUS)"
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, my sister is not going out with Barney Gumbel.",
+    "directions": [],
+    "raw_quote": " Homer, my sister is not going out with Barney Gumbel."
+  },
+  {
+    "timecode": "18:21",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, Selma's no prize pig herself you know.",
+    "directions": [],
+    "raw_quote": " Hey, Selma's no prize pig herself you know."
+  },
+  {
+    "timecode": "18:26",
+    "speaker": "Selma Bouvier",
+    "quote": " Bart, come cheer up your Aunt Selma.",
+    "directions": [
+      "LONELY"
+    ],
+    "raw_quote": " (LONELY) Bart, come cheer up your Aunt Selma."
+  },
+  {
+    "timecode": "18:30",
+    "speaker": "Bart Simpson",
+    "quote": " Okay.",
+    "directions": [],
+    "raw_quote": " Okay."
+  },
+  {
+    "timecode": "18:31",
+    "speaker": "Selma Bouvier",
+    "quote": " What did you learn in school today?",
+    "directions": [],
+    "raw_quote": " What did you learn in school today?"
+  },
+  {
+    "timecode": "18:32",
+    "speaker": "Bart Simpson",
+    "quote": " Principal Skinner is going to ask Aunt Patty to marry him.",
+    "directions": [],
+    "raw_quote": " Principal Skinner is going to ask Aunt Patty to marry him."
+  },
+  {
+    "timecode": "18:37",
+    "speaker": "Selma Bouvier",
+    "quote": " Thanks kid. You made my day.",
+    "directions": [
+      "MISERABLE"
+    ],
+    "raw_quote": " (MISERABLE) Thanks kid. You made my day."
+  },
+  {
+    "timecode": "18:41",
+    "speaker": "Homer Simpson",
+    "quote": " But' nothing, Marge. She's a heifer, plain and simple.",
+    "directions": [
+      "PLEADING"
+    ],
+    "raw_quote": " (PLEADING) But' nothing, Marge. She's a heifer, plain and simple."
+  },
+  {
+    "timecode": "18:46",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, there's the little prom queen now.",
+    "directions": [],
+    "raw_quote": " Oh, there's the little prom queen now."
+  },
+  {
+    "timecode": "18:49",
+    "speaker": "Selma Bouvier",
+    "quote": " Can the sweet talk, you're right. It's time to ashcan my girlish hopes and dreams and grab hold of the next train out of the station.",
+    "directions": [],
+    "raw_quote": " Can the sweet talk, you're right. It's time to ashcan my girlish hopes and dreams and grab hold of the next train out of the station."
+  },
+  {
+    "timecode": "19:05",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Patty and Selma's Apartment: InT. patty and selma's apartment - living ROOM - NIGHT"
+    ],
+    "raw_quote": "(Patty and Selma's Apartment: InT. patty and selma's apartment - living ROOM - NIGHT)"
+  },
+  {
+    "timecode": "19:05",
+    "speaker": "Homer Simpson",
+    "quote": " Is that Selma? Ring-a-ding-ding!",
+    "directions": [
+      "OVERLY ENTHUSIASTIC"
+    ],
+    "raw_quote": " (OVERLY ENTHUSIASTIC) Is that Selma? Ring-a-ding-ding!"
+  },
+  {
+    "timecode": "19:10",
+    "speaker": "Selma Bouvier",
+    "quote": " Oh, shut up.",
+    "directions": [],
+    "raw_quote": " Oh, shut up."
+  },
+  {
+    "timecode": "19:11",
+    "speaker": "Patty Bouvier",
+    "quote": " Why are you all dolled up like a chorus girl?",
+    "directions": [],
+    "raw_quote": " Why are you all dolled up like a chorus girl?"
+  },
+  {
+    "timecode": "19:14",
+    "speaker": "Selma Bouvier",
+    "quote": " It takes a ripe piece of cheese to catch the mouse.",
+    "directions": [],
+    "raw_quote": " It takes a ripe piece of cheese to catch the mouse."
+  },
+  {
+    "timecode": "19:18",
+    "speaker": "Selma Bouvier",
+    "quote": " It's time to give away my love like so much cheap wine.",
+    "directions": [],
+    "raw_quote": " It's time to give away my love like so much cheap wine."
+  },
+  {
+    "timecode": "19:21",
+    "speaker": "Homer Simpson",
+    "quote": " Take it to the hoop, Selma.",
+    "directions": [],
+    "raw_quote": " Take it to the hoop, Selma."
+  },
+  {
+    "timecode": "19:24",
+    "speaker": "Barney Gumble",
+    "quote": " Hey, look what I brought... Schnapps?",
+    "directions": [
+      "HE LOOKS AT THE LABEL"
+    ],
+    "raw_quote": " Hey, look what I brought... (HE LOOKS AT THE LABEL) Schnapps?"
+  },
+  {
+    "timecode": "19:28",
+    "speaker": "Selma Bouvier",
+    "quote": " I'll take that.",
+    "directions": [],
+    "raw_quote": " I'll take that."
+  },
+  {
+    "timecode": "19:32",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: ext. springfield elementary - BELL TOWER - night"
+    ],
+    "raw_quote": "(Springfield Elementary School: ext. springfield elementary - BELL TOWER - night)"
+  },
+  {
+    "timecode": "19:32",
+    "speaker": "Seymour Skinner",
+    "quote": " You seem preoccupied tonight, my little... pudding cup.",
+    "directions": [
+      "STRUGGLING"
+    ],
+    "raw_quote": " (STRUGGLING) You seem preoccupied tonight, my little... pudding cup."
+  },
+  {
+    "timecode": "19:36",
+    "speaker": "Patty Bouvier",
+    "quote": " My sister's on a date with a big fat rummy.",
+    "directions": [],
+    "raw_quote": " My sister's on a date with a big fat rummy."
+  },
+  {
+    "timecode": "19:39",
+    "speaker": "Seymour Skinner",
+    "quote": " Oh, well there's something up here that will pick up your spirit.",
+    "directions": [
+      "UNDER HER WEIGHT"
+    ],
+    "raw_quote": " (UNDER HER WEIGHT) Oh, well there's something up here that will pick up your spirit."
+  },
+  {
+    "timecode": "19:48",
+    "speaker": "Patty Bouvier",
+    "quote": " \"Marry me Patty\"",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " (GASP) \"Marry me Patty\""
+  },
+  {
+    "timecode": "19:50",
+    "speaker": "Patty Bouvier",
+    "quote": " Jeezum Crow! Look at the size of that rock.",
+    "directions": [],
+    "raw_quote": " Jeezum Crow! Look at the size of that rock."
+  },
+  {
+    "timecode": "19:54",
+    "speaker": "Seymour Skinner",
+    "quote": " It's the second most precious jewel in this bell tower. Patty, the question before you is will you marry me?",
+    "directions": [],
+    "raw_quote": " It's the second most precious jewel in this bell tower. Patty, the question before you is will you marry me?"
+  },
+  {
+    "timecode": "20:01",
+    "speaker": "Patty Bouvier",
+    "quote": " Well, Seymour, I don't know. I mean, this is so awk...",
+    "directions": [],
+    "raw_quote": " Well, Seymour, I don't know. I mean, this is so awk..."
+  },
+  {
+    "timecode": "20:02",
+    "speaker": "Seymour Skinner",
+    "quote": " Just say whatever's in your heart.",
+    "directions": [],
+    "raw_quote": " Just say whatever's in your heart."
+  },
+  {
+    "timecode": "20:05",
+    "speaker": "Patty Bouvier",
+    "quote": " Okay, you see. It's not that I don't love you...",
+    "directions": [],
+    "raw_quote": " Okay, you see. It's not that I don't love you..."
+  },
+  {
+    "timecode": "20:08",
+    "speaker": "Seymour Skinner",
+    "quote": " You love me! Caloo Calay!",
+    "directions": [],
+    "raw_quote": " You love me! Caloo Calay!"
+  },
+  {
+    "timecode": "20:12",
+    "speaker": "Patty Bouvier",
+    "quote": " Yes, yes. But...",
+    "directions": [],
+    "raw_quote": " Yes, yes. But..."
+  },
+  {
+    "timecode": "20:14",
+    "speaker": "Seymour Skinner",
+    "quote": " But?",
+    "directions": [],
+    "raw_quote": " But?"
+  },
+  {
+    "timecode": "20:15",
+    "speaker": "Patty Bouvier",
+    "quote": " You see, I'm a twin...",
+    "directions": [],
+    "raw_quote": " You see, I'm a twin..."
+  },
+  {
+    "timecode": "20:15",
+    "speaker": "Seymour Skinner",
+    "quote": " You have a special tie to your sister...",
+    "directions": [
+      "OVERLAPPING"
+    ],
+    "raw_quote": " (OVERLAPPING) You have a special tie to your sister..."
+  },
+  {
+    "timecode": "20:18",
+    "speaker": "Patty Bouvier",
+    "quote": " ... Mmm-hmm. And the only man I could marry would have to understand--",
+    "directions": [],
+    "raw_quote": " ... Mmm-hmm. And the only man I could marry would have to understand--"
+  },
+  {
+    "timecode": "20:23",
+    "speaker": "Seymour Skinner",
+    "quote": " ... that you couldn't leave your sister for any man. Oh.",
+    "directions": [],
+    "raw_quote": " ... that you couldn't leave your sister for any man. Oh."
+  },
+  {
+    "timecode": "20:26",
+    "speaker": "Patty Bouvier",
+    "quote": " Yes, so I know you appreciate why I can never...",
+    "directions": [],
+    "raw_quote": " Yes, so I know you appreciate why I can never..."
+  },
+  {
+    "timecode": "20:30",
+    "speaker": "Seymour Skinner",
+    "quote": " See you again?",
+    "directions": [],
+    "raw_quote": " See you again?"
+  },
+  {
+    "timecode": "20:32",
+    "speaker": "Patty Bouvier",
+    "quote": " Exactly. It's kind of a catch twenty-two.",
+    "directions": [],
+    "raw_quote": " Exactly. It's kind of a catch twenty-two."
+  },
+  {
+    "timecode": "20:39",
+    "speaker": "Seymour Skinner",
+    "quote": " Farewell, my Pattycake.",
+    "directions": [],
+    "raw_quote": " Farewell, my Pattycake."
+  },
+  {
+    "timecode": "20:42",
+    "speaker": "Patty Bouvier",
+    "quote": " Good night, sweet Principal.",
+    "directions": [],
+    "raw_quote": " Good night, sweet Principal."
+  },
+  {
+    "timecode": "21:08",
+    "speaker": "Seymour Skinner",
+    "quote": " Oh, Springfield Elementary! I will have you back again! After all, tomorrow is another school day!",
+    "directions": [
+      "\u00c0 LA SCARLETT O'HARA"
+    ],
+    "raw_quote": " (\u00c0 LA SCARLETT O'HARA) Oh, Springfield Elementary! I will have you back again! After all, tomorrow is another school day!"
+  },
+  {
+    "timecode": "21:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: InT. MOE'S TAVERN - NIGHT"
+    ],
+    "raw_quote": "(Moe's Tavern: InT. MOE'S TAVERN - NIGHT)"
+  },
+  {
+    "timecode": "21:19",
+    "speaker": "Barney Gumble",
+    "quote": " And then when I got out of the service, well, the next few years are a blur.",
+    "directions": [],
+    "raw_quote": " And then when I got out of the service, well, the next few years are a blur."
+  },
+  {
+    "timecode": "21:28",
+    "speaker": "Selma Bouvier",
+    "quote": " Patty. Where's Skinner?",
+    "directions": [],
+    "raw_quote": " Patty. Where's Skinner?"
+  },
+  {
+    "timecode": "21:30",
+    "speaker": "Patty Bouvier",
+    "quote": " We decided we loved each other enough never to see each other again!",
+    "directions": [],
+    "raw_quote": " We decided we loved each other enough never to see each other again!"
+  },
+  {
+    "timecode": "21:35",
+    "speaker": "Selma Bouvier",
+    "quote": " I hope I can find a man like that. Patty, are you throwing away your last chance at happiness just for me?",
+    "directions": [
+      "THINKS A BEAT"
+    ],
+    "raw_quote": " I hope I can find a man like that. (THINKS A BEAT) Patty, are you throwing away your last chance at happiness just for me?"
+  },
+  {
+    "timecode": "21:41",
+    "speaker": "Patty Bouvier",
+    "quote": " Yes.",
+    "directions": [],
+    "raw_quote": " Yes."
+  },
+  {
+    "timecode": "21:42",
+    "speaker": "Selma Bouvier",
+    "quote": " Thanks.",
+    "directions": [],
+    "raw_quote": " Thanks."
+  },
+  {
+    "timecode": "21:44",
+    "speaker": "Patty Bouvier",
+    "quote": " Now let's get some pancakes.",
+    "directions": [],
+    "raw_quote": " Now let's get some pancakes."
+  },
+  {
+    "timecode": "21:46",
+    "speaker": "Selma Bouvier",
+    "quote": " Listen Barney, I... Eh.",
+    "directions": [
+      "DISDAINFUL"
+    ],
+    "raw_quote": " Listen Barney, I... (DISDAINFUL) Eh."
+  },
+  {
+    "timecode": "21:50",
+    "speaker": "Barney Gumble",
+    "quote": " She broke my heart, Moe.",
+    "directions": [],
+    "raw_quote": " She broke my heart, Moe."
+  },
+  {
+    "timecode": "21:53",
+    "speaker": "Moe Szyslak",
+    "quote": " Don't worry, Barney. Time heals all wounds.",
+    "directions": [],
+    "raw_quote": " Don't worry, Barney. Time heals all wounds."
+  },
+  {
+    "timecode": "21:57",
+    "speaker": "Barney Gumble",
+    "quote": " Well, what do you know. You're right! And look, a whole pitcher to myself.",
+    "directions": [],
+    "raw_quote": " Well, what do you know. You're right! And look, a whole pitcher to myself."
+  },
+  {
+    "timecode": "22:12",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: ext. springfield elementary - play field - day"
+    ],
+    "raw_quote": "(Springfield Elementary School: ext. springfield elementary - play field - day)"
+  },
+  {
+    "timecode": "22:12",
+    "speaker": "Groundskeeper Willie",
+    "quote": " I told you you'd be back!",
+    "directions": [],
+    "raw_quote": " I told you you'd be back!"
+  }
+]

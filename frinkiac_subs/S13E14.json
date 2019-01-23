@@ -1,0 +1,2243 @@
+[
+  {
+    "timecode": "01:26",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Ext. Simpson house - day - establishing"
+    ],
+    "raw_quote": "(Simpson Home: Ext. Simpson house - day - establishing)"
+  },
+  {
+    "timecode": "01:26",
+    "speaker": "Marge Simpson",
+    "quote": " Bill... bill...",
+    "directions": [],
+    "raw_quote": " Bill... bill..."
+  },
+  {
+    "timecode": "01:29",
+    "speaker": "Marge Simpson",
+    "quote": " Bill.",
+    "directions": [
+      "UNFAZED"
+    ],
+    "raw_quote": " (UNFAZED) Bill."
+  },
+  {
+    "timecode": "01:31",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, you got a letter. Hm. It's from the library.",
+    "directions": [
+      "READING, PUZZLED"
+    ],
+    "raw_quote": " Homer, you got a letter. (READING, PUZZLED) Hm. It's from the library."
+  },
+  {
+    "timecode": "01:37",
+    "speaker": "Homer Simpson",
+    "quote": " Overdue book?! This is the biggest frame-up since O.J. Wait a minute... blood in the Bronco... the cuts on his hand... those Jay Leno monologues... Oh my God, he did it!",
+    "directions": [
+      "THINKS"
+    ],
+    "raw_quote": " Overdue book?! This is the biggest frame-up since O.J. (THINKS) Wait a minute... blood in the Bronco... the cuts on his hand... those Jay Leno monologues... Oh my God, he did it!"
+  },
+  {
+    "timecode": "01:50",
+    "speaker": "Lisa Simpson",
+    "quote": " Here's the book... \"Classics for Children?\"",
+    "directions": [],
+    "raw_quote": " Here's the book... \"Classics for Children?\""
+  },
+  {
+    "timecode": "01:54",
+    "speaker": "Homer Simpson",
+    "quote": " Oh yeah, I checked that out when Bart was born. I was gonna read to him every day.",
+    "directions": [
+      "DREAMY"
+    ],
+    "raw_quote": " Oh yeah, I checked that out when Bart was born. (DREAMY) I was gonna read to him every day."
+  },
+  {
+    "timecode": "02:01",
+    "speaker": "Bart Simpson",
+    "quote": " What happened?",
+    "directions": [],
+    "raw_quote": " What happened?"
+  },
+  {
+    "timecode": "02:02",
+    "speaker": "Homer Simpson",
+    "quote": " Stuff kept comin' up -- mostly car-related. Piece of crap...",
+    "directions": [
+      "BITTER"
+    ],
+    "raw_quote": " Stuff kept comin' up -- mostly car-related. (BITTER) Piece of crap..."
+  },
+  {
+    "timecode": "02:05",
+    "speaker": "Lisa Simpson",
+    "quote": " Why don't you read to us now?",
+    "directions": [],
+    "raw_quote": " Why don't you read to us now?"
+  },
+  {
+    "timecode": "02:07",
+    "speaker": "Homer Simpson",
+    "quote": " I decide who reads and when. How 'bout now?",
+    "directions": [
+      "TWO SECOND PAUSE"
+    ],
+    "raw_quote": " I decide who reads and when. (TWO SECOND PAUSE) How 'bout now?"
+  },
+  {
+    "timecode": "02:13",
+    "speaker": "Homer Simpson",
+    "quote": " Hm, \"Homer's Odyssey.\" Is this about that mini-van I rented once?",
+    "directions": [],
+    "raw_quote": " Hm, \"Homer's Odyssey.\" Is this about that mini-van I rented once?"
+  },
+  {
+    "timecode": "02:17",
+    "speaker": "Lisa Simpson",
+    "quote": " No Dad. It's an epic tale from ancient Greece.",
+    "directions": [],
+    "raw_quote": " No Dad. It's an epic tale from ancient Greece."
+  },
+  {
+    "timecode": "02:20",
+    "speaker": "Homer Simpson",
+    "quote": " That mini-van had the biggest cup holders. And change slots for every coin, from penny to quarter!",
+    "directions": [],
+    "raw_quote": " That mini-van had the biggest cup holders. And change slots for every coin, from penny to quarter!"
+  },
+  {
+    "timecode": "02:28",
+    "speaker": "Bart Simpson",
+    "quote": " Dad, I loved it, too, but it was seven years ago.",
+    "directions": [],
+    "raw_quote": " Dad, I loved it, too, but it was seven years ago."
+  },
+  {
+    "timecode": "02:32",
+    "speaker": "Homer Simpson",
+    "quote": " Fine. ",
+    "directions": [
+      "TOSSES PICTURE"
+    ],
+    "raw_quote": " Fine. (TOSSES PICTURE)"
+  },
+  {
+    "timecode": "02:33",
+    "speaker": "Homer Simpson",
+    "quote": " \"It was the end of the Trojan War. Clever Odysseus had come up with a plan to destroy the Trojans once and for all...\"",
+    "directions": [
+      "READS"
+    ],
+    "raw_quote": " (READS) \"It was the end of the Trojan War. Clever Odysseus had come up with a plan to destroy the Trojans once and for all...\""
+  },
+  {
+    "timecode": "02:36",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "PLAIN: Ext. plain - outside troy - day"
+    ],
+    "raw_quote": "(PLAIN: Ext. plain - outside troy - day)"
+  },
+  {
+    "timecode": "02:36",
+    "speaker": "Ned Flanders",
+    "quote": " Hi-O-diddily-ysseus!",
+    "directions": [],
+    "raw_quote": " Hi-O-diddily-ysseus!"
+  },
+  {
+    "timecode": "02:49",
+    "speaker": "Homer Simpson",
+    "quote": " Stupid King of Troy. I think I speak for all the Greeks when I say this war has gone on for too long.",
+    "directions": [
+      "TO SELF",
+      "TO FLANDERS"
+    ],
+    "raw_quote": " (TO SELF) Stupid King of Troy. (TO FLANDERS) I think I speak for all the Greeks when I say this war has gone on for too long."
+  },
+  {
+    "timecode": "02:56",
+    "speaker": "Ned Flanders",
+    "quote": " I'll say. I'd really like to go out and get the mail.",
+    "directions": [],
+    "raw_quote": " I'll say. I'd really like to go out and get the mail."
+  },
+  {
+    "timecode": "03:01",
+    "speaker": "Homer Simpson",
+    "quote": " Anyway, over torture, one of your soldiers mentioned that you collect giant wooden animals. We hope you don't have a horse.",
+    "directions": [
+      "CASUAL"
+    ],
+    "raw_quote": " (CASUAL) Anyway, over torture, one of your soldiers mentioned that you collect giant wooden animals. We hope you don't have a horse."
+  },
+  {
+    "timecode": "03:09",
+    "speaker": "Ned Flanders",
+    "quote": " Well... I don't have one from you!",
+    "directions": [
+      "DIPLOMATIC"
+    ],
+    "raw_quote": " (DIPLOMATIC) Well... I don't have one from you!"
+  },
+  {
+    "timecode": "03:13",
+    "speaker": "Ned Flanders",
+    "quote": " Bring it in!",
+    "directions": [
+      "CALLS DOWN"
+    ],
+    "raw_quote": " (CALLS DOWN) Bring it in!"
+  },
+  {
+    "timecode": "03:21",
+    "speaker": "Ned Flanders",
+    "quote": " Now, throughout history, when people get wood, they'll think of Trojans.",
+    "directions": [],
+    "raw_quote": " Now, throughout history, when people get wood, they'll think of Trojans."
+  },
+  {
+    "timecode": "03:27",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room - day"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room - day)"
+  },
+  {
+    "timecode": "03:27",
+    "speaker": "Homer Simpson",
+    "quote": " Trojans.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) Trojans."
+  },
+  {
+    "timecode": "03:27",
+    "speaker": "Lisa Simpson",
+    "quote": " What are you laughing at, Dad?",
+    "directions": [],
+    "raw_quote": " What are you laughing at, Dad?"
+  },
+  {
+    "timecode": "03:31",
+    "speaker": "Homer Simpson",
+    "quote": " If I'm laughing at what I think I am, it's very funny. Anyway... \"As night fell, the Greek soldiers crept from the wooden horse...\"",
+    "directions": [
+      "CHUCKLES",
+      "READS"
+    ],
+    "raw_quote": " If I'm laughing at what I think I am, it's very funny. (CHUCKLES) Anyway... (READS) \"As night fell, the Greek soldiers crept from the wooden horse...\""
+  },
+  {
+    "timecode": "03:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "INSIDE CITY OF TROY: Ext. inside city of troy - evening"
+    ],
+    "raw_quote": "(INSIDE CITY OF TROY: Ext. inside city of troy - evening)"
+  },
+  {
+    "timecode": "03:34",
+    "speaker": "Moe Szyslak",
+    "quote": " Aw, look at 'em, sleeping like little angels. Spare no one.",
+    "directions": [
+      "TOUCHED",
+      "TURNS TO SOLDIERS, BUSINESSLIKE"
+    ],
+    "raw_quote": " (TOUCHED) Aw, look at 'em, sleeping like little angels. (TURNS TO SOLDIERS, BUSINESSLIKE) Spare no one."
+  },
+  {
+    "timecode": "03:57",
+    "speaker": "Moe Szyslak",
+    "quote": " Remember, just 'cause their heads are off, it don't mean they're dead.",
+    "directions": [],
+    "raw_quote": " Remember, just 'cause their heads are off, it don't mean they're dead."
+  },
+  {
+    "timecode": "04:05",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "FLAMING RUINS OF TROY: Ext. flaming ruins of Troy - day"
+    ],
+    "raw_quote": "(FLAMING RUINS OF TROY: Ext. flaming ruins of Troy - day)"
+  },
+  {
+    "timecode": "04:05",
+    "speaker": "Homer Simpson",
+    "quote": " Now, I can return to Ithaca, and my sweet wife Penelope.",
+    "directions": [
+      "SWEETLY"
+    ],
+    "raw_quote": " (SWEETLY) Now, I can return to Ithaca, and my sweet wife Penelope."
+  },
+  {
+    "timecode": "04:10",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Odysseus, do not forget to thank the gods for our victory with an appropriate animal sacrifice.",
+    "directions": [],
+    "raw_quote": " Odysseus, do not forget to thank the gods for our victory with an appropriate animal sacrifice."
+  },
+  {
+    "timecode": "04:16",
+    "speaker": "Homer Simpson",
+    "quote": " Forget it. Sacrificing animals is barbaric. Now have the slaves kill the wounded.",
+    "directions": [],
+    "raw_quote": " Forget it. Sacrificing animals is barbaric. Now have the slaves kill the wounded."
+  },
+  {
+    "timecode": "04:27",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Mt. Olympus: Ext. Mt. Olympus - continuous"
+    ],
+    "raw_quote": "(Mt. Olympus: Ext. Mt. Olympus - continuous)"
+  },
+  {
+    "timecode": "04:27",
+    "speaker": "Mayor Joe Quimby",
+    "quote": " No sacrifice? We'll teach that mortal to trifle with the gods.",
+    "directions": [],
+    "raw_quote": " No sacrifice? We'll teach that mortal to trifle with the gods."
+  },
+  {
+    "timecode": "04:31",
+    "speaker": "Dionysus Barney",
+    "quote": " I got it.",
+    "directions": [],
+    "raw_quote": " I got it."
+  },
+  {
+    "timecode": "04:35",
+    "speaker": "Mayor Joe Quimby",
+    "quote": " You fat lush! You just destroyed Atlantis!",
+    "directions": [],
+    "raw_quote": " You fat lush! You just destroyed Atlantis!"
+  },
+  {
+    "timecode": "04:38",
+    "speaker": "Dionysus Barney",
+    "quote": " You used to be fun. Where's the Zeus who used to turn into a cow and pick up chicks?",
+    "directions": [],
+    "raw_quote": " You used to be fun. Where's the Zeus who used to turn into a cow and pick up chicks?"
+  },
+  {
+    "timecode": "04:45",
+    "speaker": "Mayor Joe Quimby",
+    "quote": " He grew up. Maybe you should too. Poseidon, you take care of Odysseus.",
+    "directions": [
+      "TO SEA CAPTAIN"
+    ],
+    "raw_quote": " He grew up. Maybe you should too. (TO SEA CAPTAIN) Poseidon, you take care of Odysseus."
+  },
+  {
+    "timecode": "04:49",
+    "speaker": "SEA CAPTAIN/POSEIDON",
+    "quote": " Yarrr, I'll send him farrrr... off course.",
+    "directions": [
+      "THEN QUICKLY"
+    ],
+    "raw_quote": " Yarrr, I'll send him farrrr... (THEN QUICKLY) off course."
+  },
+  {
+    "timecode": "04:58",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Homer's Ship: Ext. Homer's ship - continuous"
+    ],
+    "raw_quote": "(Homer's Ship: Ext. Homer's ship - continuous)"
+  },
+  {
+    "timecode": "04:58",
+    "speaker": "Moe Szyslak",
+    "quote": " Greece is the word! ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Greece is the word! (LAUGHS)"
+  },
+  {
+    "timecode": "05:02",
+    "speaker": "Lenny Leonard",
+    "quote": " Is it \"vase\" or \"vase\" ?",
+    "directions": [
+      "SIPS FROM VASE",
+      "LONG A",
+      "SHORT A"
+    ],
+    "raw_quote": " (SIPS FROM VASE) Is it \"vase\" (LONG A) or \"vase\" (SHORT A)?"
+  },
+  {
+    "timecode": "05:04",
+    "speaker": "Carl Carlson",
+    "quote": " You gonna be askin' that the whole trip?",
+    "directions": [],
+    "raw_quote": " You gonna be askin' that the whole trip?"
+  },
+  {
+    "timecode": "05:06",
+    "speaker": "Homer Simpson",
+    "quote": " Gentlemen, I must be wasted, 'cause it looks like that cloud is mad at me. ",
+    "directions": [
+      "POINTS"
+    ],
+    "raw_quote": " Gentlemen, I must be wasted, 'cause it looks like that cloud is mad at me. (POINTS)"
+  },
+  {
+    "timecode": "",
+    "speaker": "SEA CAPTAIN/POSEIDON CLOUD",
+    "quote": " ",
+    "directions": [
+      "ALTERNATING BLOWING NOISES AND YARRRS"
+    ],
+    "raw_quote": " (ALTERNATING BLOWING NOISES AND YARRRS)"
+  },
+  {
+    "timecode": "05:27",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ocean: ext. ocean - hours later"
+    ],
+    "raw_quote": "(Ocean: ext. ocean - hours later)"
+  },
+  {
+    "timecode": "05:27",
+    "speaker": "Sirens",
+    "quote": " ON THE ISLAND, ISLAND OF SIRENS / OUR HOT SEX WILL LEAVE YOU PERSPIRIN'...",
+    "directions": [],
+    "raw_quote": " ON THE ISLAND, ISLAND OF SIRENS / OUR HOT SEX WILL LEAVE YOU PERSPIRIN'..."
+  },
+  {
+    "timecode": "05:36",
+    "speaker": "Lenny Leonard",
+    "quote": " Hey, that's kinda catchy.",
+    "directions": [],
+    "raw_quote": " Hey, that's kinda catchy."
+  },
+  {
+    "timecode": "05:37",
+    "speaker": "Carl Carlson",
+    "quote": " It's comin' from that island. Let's steer heedlessly towards it.",
+    "directions": [
+      "POINTING"
+    ],
+    "raw_quote": " (POINTING) It's comin' from that island. Let's steer heedlessly towards it."
+  },
+  {
+    "timecode": "05:41",
+    "speaker": "Lenny Leonard",
+    "quote": " Heedlessly it is.",
+    "directions": [],
+    "raw_quote": " Heedlessly it is."
+  },
+  {
+    "timecode": "05:48",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ship: Ext. ship - later"
+    ],
+    "raw_quote": "(Ship: Ext. ship - later)"
+  },
+  {
+    "timecode": "05:48",
+    "speaker": "Sirens",
+    "quote": " THE FETA IS CHEESY / THE SIRENS ARE EASY...",
+    "directions": [],
+    "raw_quote": " THE FETA IS CHEESY / THE SIRENS ARE EASY..."
+  },
+  {
+    "timecode": "05:52",
+    "speaker": "Homer Simpson",
+    "quote": " Boy, if they kiss as good as they lure... wow!",
+    "directions": [],
+    "raw_quote": " Boy, if they kiss as good as they lure... wow!"
+  },
+  {
+    "timecode": "05:57",
+    "speaker": "Sirens",
+    "quote": " ON THE ISLAND, WE'LL SEX YOU UP!",
+    "directions": [],
+    "raw_quote": " ON THE ISLAND, WE'LL SEX YOU UP!"
+  },
+  {
+    "timecode": "06:04",
+    "speaker": "Sirens",
+    "quote": " ISLAND OF...SIRENS!",
+    "directions": [],
+    "raw_quote": " ISLAND OF...SIRENS!"
+  },
+  {
+    "timecode": "06:07",
+    "speaker": "Crewmembers",
+    "quote": " Oh God, they're hideous! / Woof! / Woof!",
+    "directions": [
+      "HOMER"
+    ],
+    "raw_quote": " (HOMER) Oh God, they're hideous! / Woof! / Woof!"
+  },
+  {
+    "timecode": "06:11",
+    "speaker": "Lenny Leonard",
+    "quote": " Someone gouge my eyes!",
+    "directions": [],
+    "raw_quote": " Someone gouge my eyes!"
+  },
+  {
+    "timecode": "06:13",
+    "speaker": "Professor Jonathan Frink",
+    "quote": " Save me from the ladies!",
+    "directions": [],
+    "raw_quote": " Save me from the ladies!"
+  },
+  {
+    "timecode": "06:20",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Ithaca: Ext. Ithaca - Odysseus and penelope's house - day"
+    ],
+    "raw_quote": "(Ithaca: Ext. Ithaca - Odysseus and penelope's house - day)"
+  },
+  {
+    "timecode": "06:20",
+    "speaker": "Marge Simpson",
+    "quote": " It's been so many years since I've seen your father. I hope he's still the magnificent physical specimen he was when he left.",
+    "directions": [],
+    "raw_quote": " It's been so many years since I've seen your father. I hope he's still the magnificent physical specimen he was when he left."
+  },
+  {
+    "timecode": "06:30",
+    "speaker": "Bart Simpson",
+    "quote": " Mom, maybe it's time to choose a suitor.",
+    "directions": [
+      "GENTLY"
+    ],
+    "raw_quote": " (GENTLY) Mom, maybe it's time to choose a suitor."
+  },
+  {
+    "timecode": "06:37",
+    "speaker": "Discus Stu",
+    "quote": " Discus Stu has Ouzo for twozo.",
+    "directions": [],
+    "raw_quote": " Discus Stu has Ouzo for twozo."
+  },
+  {
+    "timecode": "06:42",
+    "speaker": "Bart Simpson",
+    "quote": " I'll leave you guys alone.",
+    "directions": [],
+    "raw_quote": " I'll leave you guys alone."
+  },
+  {
+    "timecode": "06:43",
+    "speaker": "Discus Stu",
+    "quote": " Discus Stu was talkin' to you.",
+    "directions": [],
+    "raw_quote": " Discus Stu was talkin' to you."
+  },
+  {
+    "timecode": "06:47",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, where could your father be?",
+    "directions": [],
+    "raw_quote": " Oh, where could your father be?"
+  },
+  {
+    "timecode": "06:50",
+    "speaker": "Homer Simpson",
+    "quote": " Almost home!",
+    "directions": [],
+    "raw_quote": " Almost home!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Greek Sailors",
+    "quote": " ",
+    "directions": [
+      "HAPPY CHEERS"
+    ],
+    "raw_quote": " (HAPPY CHEERS)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Greek Sailors",
+    "quote": " ",
+    "directions": [
+      "UNHAPPY NOISES"
+    ],
+    "raw_quote": " (UNHAPPY NOISES)"
+  },
+  {
+    "timecode": "06:56",
+    "speaker": "SEA CAPTAIN/POSEIDON",
+    "quote": " Ain't I a stinker?",
+    "directions": [],
+    "raw_quote": " Ain't I a stinker?"
+  },
+  {
+    "timecode": "07:02",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "ISLAND OF CIRCE: Ext. Island of circe - day"
+    ],
+    "raw_quote": "(ISLAND OF CIRCE: Ext. Island of circe - day)"
+  },
+  {
+    "timecode": "07:02",
+    "speaker": "Circe",
+    "quote": " Welcome to my island. I am Circe, the sorceress.",
+    "directions": [
+      "LINDSAY NAEGLE VOICE"
+    ],
+    "raw_quote": " (LINDSAY NAEGLE VOICE) Welcome to my island. I am Circe, the sorceress."
+  },
+  {
+    "timecode": "07:06",
+    "speaker": "Moe Szyslak",
+    "quote": " Boy, who decided to give every weirdo an island?",
+    "directions": [
+      "TO LENNY"
+    ],
+    "raw_quote": " (TO LENNY) Boy, who decided to give every weirdo an island?"
+  },
+  {
+    "timecode": "07:08",
+    "speaker": "Circe",
+    "quote": " You must be thirsty. Drink from my cauldron.",
+    "directions": [],
+    "raw_quote": " You must be thirsty. Drink from my cauldron."
+  },
+  {
+    "timecode": "07:14",
+    "speaker": "Lenny Leonard",
+    "quote": " Well, I was in the mood for something bubbling.",
+    "directions": [],
+    "raw_quote": " Well, I was in the mood for something bubbling."
+  },
+  {
+    "timecode": "07:16",
+    "speaker": "Moe Szyslak",
+    "quote": " Outta the way, Slim.",
+    "directions": [],
+    "raw_quote": " Outta the way, Slim."
+  },
+  {
+    "timecode": "",
+    "speaker": "Greek Sailors",
+    "quote": " ",
+    "directions": [
+      "PIG NOISES"
+    ],
+    "raw_quote": " (PIG NOISES)"
+  },
+  {
+    "timecode": "07:25",
+    "speaker": "Homer Simpson",
+    "quote": " Thanks for your help with the anchor, guys. Guys?",
+    "directions": [
+      "SARCASTIC"
+    ],
+    "raw_quote": " (SARCASTIC) Thanks for your help with the anchor, guys. Guys?"
+  },
+  {
+    "timecode": "07:31",
+    "speaker": "Homer Simpson",
+    "quote": " That pig looks like Lenny.",
+    "directions": [],
+    "raw_quote": " That pig looks like Lenny."
+  },
+  {
+    "timecode": "07:34",
+    "speaker": "Lenny Pig",
+    "quote": " Hey!",
+    "directions": [],
+    "raw_quote": " Hey!"
+  },
+  {
+    "timecode": "07:35",
+    "speaker": "Homer Simpson",
+    "quote": " Mmm! That's the next best thing to eating Lenny.",
+    "directions": [],
+    "raw_quote": " Mmm! That's the next best thing to eating Lenny."
+  },
+  {
+    "timecode": "07:41",
+    "speaker": "Homer Simpson",
+    "quote": " I'm still hungry.",
+    "directions": [
+      "DISPLEASED NOISE"
+    ],
+    "raw_quote": " (DISPLEASED NOISE) I'm still hungry."
+  },
+  {
+    "timecode": "07:43",
+    "speaker": "Circe",
+    "quote": " Didn't you eat enough of your friends?",
+    "directions": [],
+    "raw_quote": " Didn't you eat enough of your friends?"
+  },
+  {
+    "timecode": "07:45",
+    "speaker": "Homer Simpson",
+    "quote": " Those were my friends?!",
+    "directions": [
+      "GASP, THEN AGHAST"
+    ],
+    "raw_quote": " (GASP, THEN AGHAST) Those were my friends?!"
+  },
+  {
+    "timecode": "07:47",
+    "speaker": "Circe",
+    "quote": " Yes, I've been saying that for hours.",
+    "directions": [],
+    "raw_quote": " Yes, I've been saying that for hours."
+  },
+  {
+    "timecode": "07:49",
+    "speaker": "Homer Simpson",
+    "quote": " That's it, I'm going home. Which way to Ithaca?",
+    "directions": [],
+    "raw_quote": " That's it, I'm going home. Which way to Ithaca?"
+  },
+  {
+    "timecode": "07:53",
+    "speaker": "Circe",
+    "quote": " It's not so easy. You must go through Hades, crossing the river Styx.",
+    "directions": [],
+    "raw_quote": " It's not so easy. You must go through Hades, crossing the river Styx."
+  },
+  {
+    "timecode": "07:59",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "River Styx: Ext. river styx - day"
+    ],
+    "raw_quote": "(River Styx: Ext. river styx - day)"
+  },
+  {
+    "timecode": "07:59",
+    "speaker": "Dead Souls",
+    "quote": " YOU'RE MY LA-DY / OF THE MOR-NING... / ",
+    "directions": [
+      "SINGS",
+      "CONTINUING"
+    ],
+    "raw_quote": " (SINGS) YOU'RE MY LA-DY / OF THE MOR-NING... / (CONTINUING)"
+  },
+  {
+    "timecode": "08:06",
+    "speaker": "Homer Simpson",
+    "quote": " This truly is Hell!",
+    "directions": [
+      "ANGUISHED WAIL"
+    ],
+    "raw_quote": " (ANGUISHED WAIL) This truly is Hell!"
+  },
+  {
+    "timecode": "08:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "PENELOPE AND ODYSSEUS'S LIVING ROOM: int. Penelope and Odysseus's living room - day"
+    ],
+    "raw_quote": "(PENELOPE AND ODYSSEUS'S LIVING ROOM: int. Penelope and Odysseus's living room - day)"
+  },
+  {
+    "timecode": "08:11",
+    "speaker": "Marge Simpson",
+    "quote": " Okay, it has been twenty years, and you suitors have been very patient.",
+    "directions": [],
+    "raw_quote": " Okay, it has been twenty years, and you suitors have been very patient."
+  },
+  {
+    "timecode": "08:16",
+    "speaker": "Sideshow Mel",
+    "quote": " We've been beyond patient!",
+    "directions": [],
+    "raw_quote": " We've been beyond patient!"
+  },
+  {
+    "timecode": "08:18",
+    "speaker": "Krusty the Clown",
+    "quote": " When we came here Helen of Troy was hot. Now look at her.",
+    "directions": [],
+    "raw_quote": " When we came here Helen of Troy was hot. Now look at her."
+  },
+  {
+    "timecode": "08:23",
+    "speaker": "Agnes Skinner",
+    "quote": " This is the face that launched a thousand ships. The other way! ",
+    "directions": [
+      "PHYLLIS DILLER LAUGH"
+    ],
+    "raw_quote": " This is the face that launched a thousand ships. The other way! (PHYLLIS DILLER LAUGH)"
+  },
+  {
+    "timecode": "08:28",
+    "speaker": "Homer Simpson",
+    "quote": " Honey, I'm home!",
+    "directions": [],
+    "raw_quote": " Honey, I'm home!"
+  },
+  {
+    "timecode": "08:30",
+    "speaker": "Marge Simpson",
+    "quote": " Well, look who the Fates dragged in.",
+    "directions": [],
+    "raw_quote": " Well, look who the Fates dragged in."
+  },
+  {
+    "timecode": "08:33",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, I'm sorry I was gone so long. But I'm gonna do something I haven't done for twenty years -- take out the trash.",
+    "directions": [],
+    "raw_quote": " Oh, I'm sorry I was gone so long. But I'm gonna do something I haven't done for twenty years -- take out the trash."
+  },
+  {
+    "timecode": "08:46",
+    "speaker": "Homer Simpson",
+    "quote": " Sweet Penelope, you're just as beautiful as you were when I left.",
+    "directions": [],
+    "raw_quote": " Sweet Penelope, you're just as beautiful as you were when I left."
+  },
+  {
+    "timecode": "08:50",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, I can't stay mad at you.",
+    "directions": [],
+    "raw_quote": " Oh, I can't stay mad at you."
+  },
+  {
+    "timecode": "08:54",
+    "speaker": "Other Suitors",
+    "quote": " Awww...",
+    "directions": [
+      "TOUCHED"
+    ],
+    "raw_quote": " (TOUCHED) Awww..."
+  },
+  {
+    "timecode": "08:57",
+    "speaker": "Marge Simpson",
+    "quote": " Brave Odysseus, it has been twenty long years. Regale me with tales of your adventures.",
+    "directions": [],
+    "raw_quote": " Brave Odysseus, it has been twenty long years. Regale me with tales of your adventures."
+  },
+  {
+    "timecode": "09:02",
+    "speaker": "Homer Simpson",
+    "quote": " Quit suffocating me. I'm going to Moe's.",
+    "directions": [],
+    "raw_quote": " Quit suffocating me. I'm going to Moe's."
+  },
+  {
+    "timecode": "09:09",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, here's the story of Joan of Arc...",
+    "directions": [],
+    "raw_quote": " Oh, here's the story of Joan of Arc..."
+  },
+  {
+    "timecode": "09:12",
+    "speaker": "Marge Simpson",
+    "quote": " Ooh, did you say Joan Van Ark?",
+    "directions": [],
+    "raw_quote": " Ooh, did you say Joan Van Ark?"
+  },
+  {
+    "timecode": "09:14",
+    "speaker": "Lisa Simpson",
+    "quote": " No, Mom. Joan of Arc.",
+    "directions": [],
+    "raw_quote": " No, Mom. Joan of Arc."
+  },
+  {
+    "timecode": "09:16",
+    "speaker": "Marge Simpson",
+    "quote": " It's never Joan Van Ark.",
+    "directions": [
+      "BITTER NOISE"
+    ],
+    "raw_quote": " (BITTER NOISE) It's never Joan Van Ark."
+  },
+  {
+    "timecode": "09:19",
+    "speaker": "Homer Simpson",
+    "quote": " This one takes place in a make-believe kingdom called \"France...\"",
+    "directions": [],
+    "raw_quote": " This one takes place in a make-believe kingdom called \"France...\""
+  },
+  {
+    "timecode": "09:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MEDIEVAL FRENCH TOWN: ext. medieval french town - DAY"
+    ],
+    "raw_quote": "(MEDIEVAL FRENCH TOWN: ext. medieval french town - DAY)"
+  },
+  {
+    "timecode": "09:25",
+    "speaker": "Homer Simpson",
+    "quote": " ...The French were fighting the English, in The Hundred Years War, which was then called \"Operation Speedy Resolution.\"",
+    "directions": [],
+    "raw_quote": " ...The French were fighting the English, in The Hundred Years War, which was then called \"Operation Speedy Resolution.\""
+  },
+  {
+    "timecode": "09:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Barn: Int. barn - continuous"
+    ],
+    "raw_quote": "(Barn: Int. barn - continuous)"
+  },
+  {
+    "timecode": "09:34",
+    "speaker": "Homer Simpson",
+    "quote": " Son, how's it going with the breakfast p\u00e2t\u00e9?",
+    "directions": [],
+    "raw_quote": " Son, how's it going with the breakfast p\u00e2t\u00e9?"
+  },
+  {
+    "timecode": "09:38",
+    "speaker": "Bart Simpson",
+    "quote": " I'm on it.",
+    "directions": [],
+    "raw_quote": " I'm on it."
+  },
+  {
+    "timecode": "",
+    "speaker": "Goose",
+    "quote": " ",
+    "directions": [
+      "ONE LAST HONK"
+    ],
+    "raw_quote": " (ONE LAST HONK)"
+  },
+  {
+    "timecode": "09:43",
+    "speaker": "Marge Simpson",
+    "quote": " Bartrand, where is your sister Joan? Morning bells are ringing. Morning bells are ringing!",
+    "directions": [],
+    "raw_quote": " Bartrand, where is your sister Joan? Morning bells are ringing. Morning bells are ringing!"
+  },
+  {
+    "timecode": "09:49",
+    "speaker": "Bart Simpson",
+    "quote": " She's talking to her invisible friend. God.",
+    "directions": [
+      "SCORNFUL"
+    ],
+    "raw_quote": " She's talking to her invisible friend. (SCORNFUL) God."
+  },
+  {
+    "timecode": "09:53",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Field: Ext. field - continuous"
+    ],
+    "raw_quote": "(Field: Ext. field - continuous)"
+  },
+  {
+    "timecode": "09:53",
+    "speaker": "Lisa Simpson",
+    "quote": " ...and please bless Mama and Papa and Bartrand and Coco Chanel...",
+    "directions": [],
+    "raw_quote": " ...and please bless Mama and Papa and Bartrand and Coco Chanel..."
+  },
+  {
+    "timecode": "10:01",
+    "speaker": "God",
+    "quote": " Joan of Arc, I am your God.",
+    "directions": [],
+    "raw_quote": " Joan of Arc, I am your God."
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "CHARLES NELSON REILLY SOUND"
+    ],
+    "raw_quote": " (CHARLES NELSON REILLY SOUND)"
+  },
+  {
+    "timecode": "10:08",
+    "speaker": "God",
+    "quote": " I have chosen you to lead the French army to victory over the English invaders.",
+    "directions": [],
+    "raw_quote": " I have chosen you to lead the French army to victory over the English invaders."
+  },
+  {
+    "timecode": "10:13",
+    "speaker": "Lisa Simpson",
+    "quote": " But I'm just a little girl.",
+    "directions": [],
+    "raw_quote": " But I'm just a little girl."
+  },
+  {
+    "timecode": "10:15",
+    "speaker": "God",
+    "quote": " I know -- I have three eyes. Now get cracking.",
+    "directions": [
+      "INSULTED"
+    ],
+    "raw_quote": " (INSULTED) I know -- I have three eyes. Now get cracking."
+  },
+  {
+    "timecode": "10:22",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "FRENCH HOUSE: int. french house - Night"
+    ],
+    "raw_quote": "(FRENCH HOUSE: int. french house - Night)"
+  },
+  {
+    "timecode": "10:22",
+    "speaker": "Marge Simpson",
+    "quote": " God wants you to lead the French army to what?",
+    "directions": [],
+    "raw_quote": " God wants you to lead the French army to what?"
+  },
+  {
+    "timecode": "10:26",
+    "speaker": "Lisa Simpson",
+    "quote": " Victory.",
+    "directions": [],
+    "raw_quote": " Victory."
+  },
+  {
+    "timecode": "10:27",
+    "speaker": "Homer Simpson",
+    "quote": " Victory? We're French! We don't even have a word for it.",
+    "directions": [
+      "SHOCKED"
+    ],
+    "raw_quote": " (SHOCKED) Victory? We're French! We don't even have a word for it."
+  },
+  {
+    "timecode": "10:32",
+    "speaker": "Lisa Simpson",
+    "quote": " God spoke to me -- I must obey.",
+    "directions": [],
+    "raw_quote": " God spoke to me -- I must obey."
+  },
+  {
+    "timecode": "10:35",
+    "speaker": "Bart Simpson",
+    "quote": " Joan, give me your dessert.",
+    "directions": [
+      "GODLIKE"
+    ],
+    "raw_quote": " (GODLIKE) Joan, give me your dessert."
+  },
+  {
+    "timecode": "10:38",
+    "speaker": "Lisa Simpson",
+    "quote": " That's just you, Bart.",
+    "directions": [],
+    "raw_quote": " That's just you, Bart."
+  },
+  {
+    "timecode": "10:40",
+    "speaker": "God",
+    "quote": " Joan, give me your dessert.",
+    "directions": [],
+    "raw_quote": " Joan, give me your dessert."
+  },
+  {
+    "timecode": "10:43",
+    "speaker": "Lisa Simpson",
+    "quote": " Yes, sir.",
+    "directions": [
+      "SMALL VOICE"
+    ],
+    "raw_quote": " (SMALL VOICE) Yes, sir."
+  },
+  {
+    "timecode": "10:49",
+    "speaker": "God",
+    "quote": " Oh, that's going straight to my five thighs.",
+    "directions": [
+      "EATING NOISES"
+    ],
+    "raw_quote": " (EATING NOISES) Oh, that's going straight to my five thighs."
+  },
+  {
+    "timecode": "10:54",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "FIELD OUTSIDE FORTRESS: ext. field outside fortress - DAY"
+    ],
+    "raw_quote": "(FIELD OUTSIDE FORTRESS: ext. field outside fortress - DAY)"
+  },
+  {
+    "timecode": "10:54",
+    "speaker": "Chief Wiggum",
+    "quote": " All right, gar\u00e7ons. Trois, deux, un!",
+    "directions": [
+      "IN FRENCH"
+    ],
+    "raw_quote": " All right, gar\u00e7ons. (IN FRENCH) Trois, deux, un!"
+  },
+  {
+    "timecode": "10:58",
+    "speaker": "Lou",
+    "quote": " Huh?",
+    "directions": [],
+    "raw_quote": " Huh?"
+  },
+  {
+    "timecode": "10:59",
+    "speaker": "Chief Wiggum",
+    "quote": " No, un. You know, French for \"one.\"",
+    "directions": [],
+    "raw_quote": " No, un. You know, French for \"one.\""
+  },
+  {
+    "timecode": "11:01",
+    "speaker": "Lou",
+    "quote": " Well, you keep switching back between French and English.",
+    "directions": [],
+    "raw_quote": " Well, you keep switching back between French and English."
+  },
+  {
+    "timecode": "11:05",
+    "speaker": "Chief Wiggum",
+    "quote": " Just fire the damn thing.",
+    "directions": [],
+    "raw_quote": " Just fire the damn thing."
+  },
+  {
+    "timecode": "11:08",
+    "speaker": "Catapult Man",
+    "quote": " Sacr\u00e9 Bleeeuu!",
+    "directions": [
+      "DOPPLER"
+    ],
+    "raw_quote": " (DOPPLER) Sacr\u00e9 Bleeeuu!"
+  },
+  {
+    "timecode": "11:16",
+    "speaker": "Catapult Man",
+    "quote": " My fault this time. I didn't tuck in my legs.",
+    "directions": [],
+    "raw_quote": " My fault this time. I didn't tuck in my legs."
+  },
+  {
+    "timecode": "11:22",
+    "speaker": "Lisa Simpson",
+    "quote": " Wait! I have been sent to lead the French army to victory.",
+    "directions": [],
+    "raw_quote": " Wait! I have been sent to lead the French army to victory."
+  },
+  {
+    "timecode": "11:27",
+    "speaker": "Chief Wiggum",
+    "quote": " Oh, really? And how are you gonna do that?",
+    "directions": [],
+    "raw_quote": " Oh, really? And how are you gonna do that?"
+  },
+  {
+    "timecode": "11:30",
+    "speaker": "Lisa Simpson",
+    "quote": " With modern ideas -- like putting bigger, harder people in the catapults. Or how 'bout rocks?",
+    "directions": [
+      "INSPIRED"
+    ],
+    "raw_quote": " With modern ideas -- like putting bigger, harder people in the catapults. (INSPIRED) Or how 'bout rocks?"
+  },
+  {
+    "timecode": "",
+    "speaker": "French Army",
+    "quote": " ",
+    "directions": [
+      "MURMURS OF GRUDGING AGREEMENT WITH FRENCH ACCENTS"
+    ],
+    "raw_quote": " (MURMURS OF GRUDGING AGREEMENT WITH FRENCH ACCENTS)"
+  },
+  {
+    "timecode": "11:39",
+    "speaker": "Catapult Man",
+    "quote": " I don't know how to feel just now.",
+    "directions": [],
+    "raw_quote": " I don't know how to feel just now."
+  },
+  {
+    "timecode": "11:42",
+    "speaker": "Lisa Simpson",
+    "quote": " And now... attack!",
+    "directions": [],
+    "raw_quote": " And now... attack!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "BATTLE CRY"
+    ],
+    "raw_quote": " (BATTLE CRY)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "SWORD-FIGHTING NOISES"
+    ],
+    "raw_quote": " (SWORD-FIGHTING NOISES)"
+  },
+  {
+    "timecode": "11:50",
+    "speaker": "Lou",
+    "quote": " Uh, shouldn't we help her?",
+    "directions": [],
+    "raw_quote": " Uh, shouldn't we help her?"
+  },
+  {
+    "timecode": "11:51",
+    "speaker": "Chief Wiggum",
+    "quote": " Yeah, right behind ya, Lou.",
+    "directions": [],
+    "raw_quote": " Yeah, right behind ya, Lou."
+  },
+  {
+    "timecode": "",
+    "speaker": "Lou",
+    "quote": " ",
+    "directions": [
+      "BATTLE CRY"
+    ],
+    "raw_quote": " (BATTLE CRY)"
+  },
+  {
+    "timecode": "11:57",
+    "speaker": "Chief Wiggum",
+    "quote": " Uh oh, there's my supervisor. ",
+    "directions": [
+      "CHUCKLES",
+      "THEN, NOTICING SOMETHING:",
+      "BATTLE CRY"
+    ],
+    "raw_quote": " (CHUCKLES) (THEN, NOTICING SOMETHING:) Uh oh, there's my supervisor. (BATTLE CRY)"
+  },
+  {
+    "timecode": "12:05",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "RAMPARTS OF ENGLISH CASTLE: Ext. ramparts of english castle"
+    ],
+    "raw_quote": "(RAMPARTS OF ENGLISH CASTLE: Ext. ramparts of english castle)"
+  },
+  {
+    "timecode": "12:05",
+    "speaker": "English Soldier",
+    "quote": " 'Ello, 'ello, 'ello. What's all this then? It's a little bird with a knife, idn't it?",
+    "directions": [
+      "WHILE FIGHTING"
+    ],
+    "raw_quote": " (WHILE FIGHTING) 'Ello, 'ello, 'ello. What's all this then? It's a little bird with a knife, idn't it?"
+  },
+  {
+    "timecode": "12:13",
+    "speaker": "English Soldier",
+    "quote": " Wha' a thing to 'appen. ",
+    "directions": [
+      "DYING SOUND"
+    ],
+    "raw_quote": " Wha' a thing to 'appen. (DYING SOUND)"
+  },
+  {
+    "timecode": "12:24",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "FRENCH THRONE ROOM: Int. French throne room - day"
+    ],
+    "raw_quote": "(FRENCH THRONE ROOM: Int. French throne room - day)"
+  },
+  {
+    "timecode": "12:24",
+    "speaker": "Mayor Joe Quimby",
+    "quote": " We welcome our savior, Joan of Arc. It is customary to kneel before the king.",
+    "directions": [],
+    "raw_quote": " We welcome our savior, Joan of Arc. It is customary to kneel before the king."
+  },
+  {
+    "timecode": "12:30",
+    "speaker": "Lisa Simpson",
+    "quote": " I would gladly kneel -- were you the real king!",
+    "directions": [],
+    "raw_quote": " I would gladly kneel -- were you the real king!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Everyone",
+    "quote": " ",
+    "directions": [
+      "SHOCKED GASP"
+    ],
+    "raw_quote": " (SHOCKED GASP)"
+  },
+  {
+    "timecode": "12:36",
+    "speaker": "Lisa Simpson",
+    "quote": " You are the true Dauphin. You had this impostor try to fool me, to see if I was truly sent by God.",
+    "directions": [],
+    "raw_quote": " You are the true Dauphin. You had this impostor try to fool me, to see if I was truly sent by God."
+  },
+  {
+    "timecode": "12:43",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Bravo, Joan of Arc. You are as brainsome as you are toothsome.",
+    "directions": [],
+    "raw_quote": " Bravo, Joan of Arc. You are as brainsome as you are toothsome."
+  },
+  {
+    "timecode": "12:53",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Quimb\u00e9, you may resume your regular duties now.",
+    "directions": [],
+    "raw_quote": " Quimb\u00e9, you may resume your regular duties now."
+  },
+  {
+    "timecode": "12:56",
+    "speaker": "Mayor Joe Quimby",
+    "quote": " It would be my pleasure.",
+    "directions": [],
+    "raw_quote": " It would be my pleasure."
+  },
+  {
+    "timecode": "12:59",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Vibrate for me, footstool.",
+    "directions": [],
+    "raw_quote": " Vibrate for me, footstool."
+  },
+  {
+    "timecode": "",
+    "speaker": "Mayor Joe Quimby",
+    "quote": " ",
+    "directions": [
+      "VIBRATING NOISE"
+    ],
+    "raw_quote": " (VIBRATING NOISE)"
+  },
+  {
+    "timecode": "13:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "FEASTING HALL: int. feasting hall - nIGHT"
+    ],
+    "raw_quote": "(FEASTING HALL: int. feasting hall - nIGHT)"
+  },
+  {
+    "timecode": "13:06",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Loyal subjects, let us drink to Joan of Arc, who will conquer the English...",
+    "directions": [],
+    "raw_quote": " Loyal subjects, let us drink to Joan of Arc, who will conquer the English..."
+  },
+  {
+    "timecode": "13:06",
+    "speaker": "Milhouse Van Houten",
+    "quote": " And has already conquered my heart. ",
+    "directions": [
+      "CHUCKLE"
+    ],
+    "raw_quote": " And has already conquered my heart. (CHUCKLE)"
+  },
+  {
+    "timecode": "13:15",
+    "speaker": "Lisa Simpson",
+    "quote": " Uh, God says we should just be friends.",
+    "directions": [],
+    "raw_quote": " Uh, God says we should just be friends."
+  },
+  {
+    "timecode": "13:17",
+    "speaker": "Krusty the Clown",
+    "quote": " I wouldn't say King Milhouse is a loser, but that's the twelfth girl he struck out with this week.",
+    "directions": [],
+    "raw_quote": " I wouldn't say King Milhouse is a loser, but that's the twelfth girl he struck out with this week."
+  },
+  {
+    "timecode": "13:23",
+    "speaker": "Milhouse Van Houten",
+    "quote": " Boil him in oil!",
+    "directions": [
+      "POINTS TO KRUSTY"
+    ],
+    "raw_quote": " (POINTS TO KRUSTY) Boil him in oil!"
+  },
+  {
+    "timecode": "13:25",
+    "speaker": "Krusty the Clown",
+    "quote": " So no ten-thirty show?",
+    "directions": [],
+    "raw_quote": " So no ten-thirty show?"
+  },
+  {
+    "timecode": "13:36",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Field: Ext. field - day"
+    ],
+    "raw_quote": "(Field: Ext. field - day)"
+  },
+  {
+    "timecode": "13:36",
+    "speaker": "Lisa Simpson",
+    "quote": " Let us kill the English! Their concept of individual rights could undermine the power of our beloved tyrants!",
+    "directions": [],
+    "raw_quote": " Let us kill the English! Their concept of individual rights could undermine the power of our beloved tyrants!"
+  },
+  {
+    "timecode": "13:44",
+    "speaker": "English Soldier #1",
+    "quote": " They're attacking again.",
+    "directions": [],
+    "raw_quote": " They're attacking again."
+  },
+  {
+    "timecode": "13:47",
+    "speaker": "English Soldier #2",
+    "quote": " I thought we had a truce.",
+    "directions": [],
+    "raw_quote": " I thought we had a truce."
+  },
+  {
+    "timecode": "13:48",
+    "speaker": "English Soldier #1",
+    "quote": " Just because you keep saying it, doesn't make it so.",
+    "directions": [],
+    "raw_quote": " Just because you keep saying it, doesn't make it so."
+  },
+  {
+    "timecode": "13:52",
+    "speaker": "English Soldier #2",
+    "quote": " / My word.",
+    "directions": [
+      "DYING NOISES"
+    ],
+    "raw_quote": " (DYING NOISES) / My word."
+  },
+  {
+    "timecode": "13:58",
+    "speaker": "Lisa Simpson",
+    "quote": " You can't stop me! I was sent by God!",
+    "directions": [],
+    "raw_quote": " You can't stop me! I was sent by God!"
+  },
+  {
+    "timecode": "14:04",
+    "speaker": "Lisa Simpson",
+    "quote": " I want my Mommy!",
+    "directions": [
+      "NOT MUFFLED"
+    ],
+    "raw_quote": " (NOT MUFFLED) I want my Mommy!"
+  },
+  {
+    "timecode": "14:06",
+    "speaker": "Groundskeeper Willie",
+    "quote": " I captured a wee girl. I'm the greatest hero in English history!",
+    "directions": [],
+    "raw_quote": " I captured a wee girl. I'm the greatest hero in English history!"
+  },
+  {
+    "timecode": "14:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Courtroom: int. courtroom - english-occupied france"
+    ],
+    "raw_quote": "(Courtroom: int. courtroom - english-occupied france)"
+  },
+  {
+    "timecode": "14:13",
+    "speaker": "Judge Lovejoy",
+    "quote": " Joan of Arc, you are accused of heresy, witchcraft, and that man told me you pushed him.",
+    "directions": [],
+    "raw_quote": " Joan of Arc, you are accused of heresy, witchcraft, and that man told me you pushed him."
+  },
+  {
+    "timecode": "14:22",
+    "speaker": "Lisa Simpson",
+    "quote": " I would like to call my only witness: almighty God.",
+    "directions": [],
+    "raw_quote": " I would like to call my only witness: almighty God."
+  },
+  {
+    "timecode": "",
+    "speaker": "Courtroom Audience",
+    "quote": " ",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " (GASP)"
+  },
+  {
+    "timecode": "14:39",
+    "speaker": "God",
+    "quote": " I told this maiden to lead the French to victory.",
+    "directions": [],
+    "raw_quote": " I told this maiden to lead the French to victory."
+  },
+  {
+    "timecode": "14:42",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Wait a minute, you two-timin' spot of light. You told me to lead the English to victory.",
+    "directions": [],
+    "raw_quote": " Wait a minute, you two-timin' spot of light. You told me to lead the English to victory."
+  },
+  {
+    "timecode": "14:50",
+    "speaker": "Lisa Simpson",
+    "quote": " Is that true, Lord?",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " (GASP) Is that true, Lord?"
+  },
+  {
+    "timecode": "14:52",
+    "speaker": "God",
+    "quote": " Well, I never thought the two of you would be in the same room actually. Ha. This is a little embarrassing. Goodbye now.",
+    "directions": [
+      "UNEASY LAUGH"
+    ],
+    "raw_quote": " (UNEASY LAUGH) Well, I never thought the two of you would be in the same room actually. Ha. This is a little embarrassing. Goodbye now."
+  },
+  {
+    "timecode": "15:02",
+    "speaker": "Lenny Leonard",
+    "quote": " That was weird. Let's burn her!",
+    "directions": [],
+    "raw_quote": " That was weird. Let's burn her!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Crowd",
+    "quote": " ",
+    "directions": [
+      "AGREEING SHOUTS"
+    ],
+    "raw_quote": " (AGREEING SHOUTS)"
+  },
+  {
+    "timecode": "15:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Town Square: ext. town square - day"
+    ],
+    "raw_quote": "(Springfield Town Square: ext. town square - day)"
+  },
+  {
+    "timecode": "15:10",
+    "speaker": "Marge Simpson",
+    "quote": " Don't burn her! She's just an innocent child!",
+    "directions": [],
+    "raw_quote": " Don't burn her! She's just an innocent child!"
+  },
+  {
+    "timecode": "15:14",
+    "speaker": "Homer Simpson",
+    "quote": " Burn this guy! He lost our good bucket!",
+    "directions": [],
+    "raw_quote": " Burn this guy! He lost our good bucket!"
+  },
+  {
+    "timecode": "15:21",
+    "speaker": "Marge Simpson",
+    "quote": " Joan, renounce your faith! Save yourself!",
+    "directions": [],
+    "raw_quote": " Joan, renounce your faith! Save yourself!"
+  },
+  {
+    "timecode": "15:25",
+    "speaker": "Lisa Simpson",
+    "quote": " Don't worry, beloved parents. God won't let anything happen to me.",
+    "directions": [
+      "SMILES"
+    ],
+    "raw_quote": " (SMILES) Don't worry, beloved parents. God won't let anything happen to me."
+  },
+  {
+    "timecode": "15:30",
+    "speaker": "Lisa Simpson",
+    "quote": " Huh. Getting kind of hot around here.",
+    "directions": [
+      "STARTING TO WORRY"
+    ],
+    "raw_quote": " (STARTING TO WORRY) Huh. Getting kind of hot around here."
+  },
+  {
+    "timecode": "15:33",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house -- living room - DAY"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house -- living room - DAY)"
+  },
+  {
+    "timecode": "15:33",
+    "speaker": "Homer Simpson",
+    "quote": " Wow.",
+    "directions": [
+      "OFF BOOK"
+    ],
+    "raw_quote": " (OFF BOOK) Wow."
+  },
+  {
+    "timecode": "15:34",
+    "speaker": "Lisa Simpson",
+    "quote": " What happened, Dad? They didn't really burn her, did they?",
+    "directions": [
+      "SCARED"
+    ],
+    "raw_quote": " (SCARED) What happened, Dad? They didn't really burn her, did they?"
+  },
+  {
+    "timecode": "15:38",
+    "speaker": "Marge Simpson",
+    "quote": " Of course they didn't, honey.",
+    "directions": [
+      "QUICKLY"
+    ],
+    "raw_quote": " (QUICKLY) Of course they didn't, honey."
+  },
+  {
+    "timecode": "15:39",
+    "speaker": "Marge Simpson",
+    "quote": " \"Just then, Sir Lancelot rode up on a white horse and saved Joan of Arc. They got married and lived in a spaceship. The end.\"",
+    "directions": [],
+    "raw_quote": " \"Just then, Sir Lancelot rode up on a white horse and saved Joan of Arc. They got married and lived in a spaceship. The end.\""
+  },
+  {
+    "timecode": "15:49",
+    "speaker": "Marge Simpson",
+    "quote": " Well, it's easier to chew than that Bambi video.",
+    "directions": [
+      "SWALLOWS, THEN:"
+    ],
+    "raw_quote": " (SWALLOWS, THEN:) Well, it's easier to chew than that Bambi video."
+  },
+  {
+    "timecode": "15:57",
+    "speaker": "Homer Simpson",
+    "quote": " Our next story is \"Hamlet,\" by William Shakespeare.",
+    "directions": [],
+    "raw_quote": " Our next story is \"Hamlet,\" by William Shakespeare."
+  },
+  {
+    "timecode": "16:01",
+    "speaker": "Bart Simpson",
+    "quote": " Dad, these old stories can't compare with our modern super-writers. Stephen Bochco could kick Shakespeare's ass.",
+    "directions": [],
+    "raw_quote": " Dad, these old stories can't compare with our modern super-writers. Stephen Bochco could kick Shakespeare's ass."
+  },
+  {
+    "timecode": "16:07",
+    "speaker": "Lisa Simpson",
+    "quote": " Look, this story is more interesting than you think. It starts with Hamlet's father getting murdered.",
+    "directions": [
+      "TEMPTING"
+    ],
+    "raw_quote": " Look, this story is more interesting than you think. (TEMPTING) It starts with Hamlet's father getting murdered."
+  },
+  {
+    "timecode": "16:12",
+    "speaker": "Bart Simpson",
+    "quote": " Cool. Does he get to marry his Mom?",
+    "directions": [
+      "PERKING UP"
+    ],
+    "raw_quote": " (PERKING UP) Cool. Does he get to marry his Mom?"
+  },
+  {
+    "timecode": "16:14",
+    "speaker": "Homer Simpson",
+    "quote": " I don't know, but that would be hot. \"Once upon a time there was a young prince of Denmark.\"",
+    "directions": [
+      "READING"
+    ],
+    "raw_quote": " I don't know, but that would be hot. (READING) \"Once upon a time there was a young prince of Denmark.\""
+  },
+  {
+    "timecode": "16:17",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "HAMLET'S BEDCHAMBER: INT. HAMLET'S BEDCHAMBER - NIGHT"
+    ],
+    "raw_quote": "(HAMLET'S BEDCHAMBER: INT. HAMLET'S BEDCHAMBER - NIGHT)"
+  },
+  {
+    "timecode": "16:17",
+    "speaker": "Ghost Homer",
+    "quote": " Hamlet... avenge me!",
+    "directions": [],
+    "raw_quote": " Hamlet... avenge me!"
+  },
+  {
+    "timecode": "16:27",
+    "speaker": "Hamlet Bart",
+    "quote": " Dad?!",
+    "directions": [],
+    "raw_quote": " Dad?!"
+  },
+  {
+    "timecode": "16:29",
+    "speaker": "Ghost Homer",
+    "quote": " Yes, I have returned from the dead.",
+    "directions": [],
+    "raw_quote": " Yes, I have returned from the dead."
+  },
+  {
+    "timecode": "16:31",
+    "speaker": "Hamlet Bart",
+    "quote": " Looks like you've returned from the buffet.",
+    "directions": [],
+    "raw_quote": " Looks like you've returned from the buffet."
+  },
+  {
+    "timecode": "16:33",
+    "speaker": "Ghost Homer",
+    "quote": " Why you little...",
+    "directions": [],
+    "raw_quote": " Why you little..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Ghost Homer",
+    "quote": " ",
+    "directions": [
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " (ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Hamlet Bart",
+    "quote": " ",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES)"
+  },
+  {
+    "timecode": "16:38",
+    "speaker": "Ghost Homer",
+    "quote": " My son, I have some shocking news. I was murdered. Murdered, I tells ya!",
+    "directions": [],
+    "raw_quote": " My son, I have some shocking news. I was murdered. Murdered, I tells ya!"
+  },
+  {
+    "timecode": "16:44",
+    "speaker": "Hamlet Bart",
+    "quote": " Really?",
+    "directions": [],
+    "raw_quote": " Really?"
+  },
+  {
+    "timecode": "16:44",
+    "speaker": "Ghost Homer",
+    "quote": " Behold, as I slept, your Uncle Claudius poured poison in my ear... poison most foul...so he could marry your mother and become the King.",
+    "directions": [],
+    "raw_quote": " Behold, as I slept, your Uncle Claudius poured poison in my ear... poison most foul...so he could marry your mother and become the King."
+  },
+  {
+    "timecode": "16:58",
+    "speaker": "Hamlet Bart",
+    "quote": " Yeah, that was quite a weekend.",
+    "directions": [],
+    "raw_quote": " Yeah, that was quite a weekend."
+  },
+  {
+    "timecode": "17:00",
+    "speaker": "Ghost Homer",
+    "quote": " Now you must avenge me. Avenge me!",
+    "directions": [],
+    "raw_quote": " Now you must avenge me. Avenge me!"
+  },
+  {
+    "timecode": "17:03",
+    "speaker": "Hamlet Bart",
+    "quote": " How?",
+    "directions": [],
+    "raw_quote": " How?"
+  },
+  {
+    "timecode": "17:04",
+    "speaker": "Ghost Homer",
+    "quote": " I'unno. Surprise me! Surprise me!",
+    "directions": [
+      "SHRUGS",
+      "SCARY"
+    ],
+    "raw_quote": " (SHRUGS) I'unno. (SCARY) Surprise me! Surprise me!"
+  },
+  {
+    "timecode": "17:12",
+    "speaker": "Bart Simpson",
+    "quote": " Could that fat ghost be telling the truth? First I've got to get Uncle Claudius to confess, then I've gotta kill him.",
+    "directions": [],
+    "raw_quote": " Could that fat ghost be telling the truth? First I've got to get Uncle Claudius to confess, then I've gotta kill him."
+  },
+  {
+    "timecode": "17:18",
+    "speaker": "Homer Simpson",
+    "quote": " It's cold outside. You'll need a sweater. A sweater!",
+    "directions": [
+      "SCARY"
+    ],
+    "raw_quote": " It's cold outside. You'll need a sweater. (SCARY) A sweater!"
+  },
+  {
+    "timecode": "17:28",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Castle: Ext. castle - day - establishing"
+    ],
+    "raw_quote": "(Castle: Ext. castle - day - establishing)"
+  },
+  {
+    "timecode": "17:28",
+    "speaker": "Krusty the Clown",
+    "quote": " ...And if your idea of a first date is burning down her village, you just might be a Viking.",
+    "directions": [
+      "DELIVERING LIKE A CATCHPHRASE"
+    ],
+    "raw_quote": " ...And if your idea of a first date is burning down her village, (DELIVERING LIKE A CATCHPHRASE) you just might be a Viking."
+  },
+  {
+    "timecode": "",
+    "speaker": "Court",
+    "quote": " ",
+    "directions": [
+      "BIG LAUGHTER"
+    ],
+    "raw_quote": " (BIG LAUGHTER)"
+  },
+  {
+    "timecode": "17:39",
+    "speaker": "Viking",
+    "quote": " That's what I get for sitting up front, eh?",
+    "directions": [
+      "CHUCKLES GOOD-NATUREDLY"
+    ],
+    "raw_quote": " (CHUCKLES GOOD-NATUREDLY) That's what I get for sitting up front, eh?"
+  },
+  {
+    "timecode": "17:48",
+    "speaker": "Marge Simpson",
+    "quote": " I love these jesters. They're exactly what I need to forget about my first husband.",
+    "directions": [
+      "TO MOE"
+    ],
+    "raw_quote": " (TO MOE) I love these jesters. They're exactly what I need to forget about my first husband."
+  },
+  {
+    "timecode": "17:55",
+    "speaker": "Moe Szyslak",
+    "quote": " Yeah, I really miss the old guy. It was all I could do to put on his jewels.",
+    "directions": [],
+    "raw_quote": " Yeah, I really miss the old guy. It was all I could do to put on his jewels."
+  },
+  {
+    "timecode": "17:57",
+    "speaker": "Moe Szyslak",
+    "quote": " And score with his wife every night. Hey, how ya doin', kid? Nice to see ya.",
+    "directions": [
+      "NOTICING BART, SURPRISED NOISE"
+    ],
+    "raw_quote": " And score with his wife every night. (NOTICING BART, SURPRISED NOISE) Hey, how ya doin', kid? Nice to see ya."
+  },
+  {
+    "timecode": "18:04",
+    "speaker": "Krusty the Clown",
+    "quote": " Now we would like to warn you, our performances tend to make audience members blurt out hidden secrets.",
+    "directions": [],
+    "raw_quote": " Now we would like to warn you, our performances tend to make audience members blurt out hidden secrets."
+  },
+  {
+    "timecode": "18:10",
+    "speaker": "Moe Szyslak",
+    "quote": " Hoo, boy.",
+    "directions": [
+      "WORRIED"
+    ],
+    "raw_quote": " (WORRIED) Hoo, boy."
+  },
+  {
+    "timecode": "18:12",
+    "speaker": "Hamlet Bart",
+    "quote": " Aha! \"Methinks the play's the thing / wherein I'll catch the conscience of the King.\"",
+    "directions": [],
+    "raw_quote": " Aha! \"Methinks the play's the thing / wherein I'll catch the conscience of the King.\""
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "Moe Szyslak",
+    "quote": " Catch my conscience!? What?",
+    "directions": [],
+    "raw_quote": " Catch my conscience!? What?"
+  },
+  {
+    "timecode": "18:20",
+    "speaker": "Hamlet Bart",
+    "quote": " You're not supposed to hear me. That's a soliloquy.",
+    "directions": [],
+    "raw_quote": " You're not supposed to hear me. That's a soliloquy."
+  },
+  {
+    "timecode": "18:23",
+    "speaker": "Moe Szyslak",
+    "quote": " Okay, well I'll do a soliloquy too. Note to self: \"Kill that kid.\"",
+    "directions": [
+      "CLEARS THROAT, TO SELF, LOUDLY"
+    ],
+    "raw_quote": " Okay, well I'll do a soliloquy too. (CLEARS THROAT, TO SELF, LOUDLY) Note to self: \"Kill that kid.\""
+  },
+  {
+    "timecode": "18:29",
+    "speaker": "Krusty the Clown",
+    "quote": " Okay, we're gonna open it up with a little improv. Somebody shout out a location.",
+    "directions": [],
+    "raw_quote": " Okay, we're gonna open it up with a little improv. Somebody shout out a location."
+  },
+  {
+    "timecode": "18:34",
+    "speaker": "Hamlet Bart",
+    "quote": " This castle!",
+    "directions": [
+      "SHOUTING"
+    ],
+    "raw_quote": " (SHOUTING) This castle!"
+  },
+  {
+    "timecode": "18:35",
+    "speaker": "Krusty the Clown",
+    "quote": " OK. How about an occupation?",
+    "directions": [],
+    "raw_quote": " OK. How about an occupation?"
+  },
+  {
+    "timecode": "18:37",
+    "speaker": "Hamlet Bart",
+    "quote": " \"Usurper of the throne!\"",
+    "directions": [
+      "LOOKS AT MOE"
+    ],
+    "raw_quote": " (LOOKS AT MOE) \"Usurper of the throne!\""
+  },
+  {
+    "timecode": "18:41",
+    "speaker": "Krusty the Clown",
+    "quote": " I think I heard \"usurper of the throne.\" Now finally, I need an object.",
+    "directions": [],
+    "raw_quote": " I think I heard \"usurper of the throne.\" Now finally, I need an object."
+  },
+  {
+    "timecode": "18:45",
+    "speaker": "Hamlet Bart",
+    "quote": " Ear poison!",
+    "directions": [],
+    "raw_quote": " Ear poison!"
+  },
+  {
+    "timecode": "18:46",
+    "speaker": "Moe Szyslak",
+    "quote": " Hey uh, do you have diarrhea? I-I have diarrhea.",
+    "directions": [
+      "FAKE CASUAL"
+    ],
+    "raw_quote": " (FAKE CASUAL) Hey uh, do you have diarrhea? I-I have diarrhea."
+  },
+  {
+    "timecode": "18:50",
+    "speaker": "Marge Simpson",
+    "quote": " Sit down.",
+    "directions": [],
+    "raw_quote": " Sit down."
+  },
+  {
+    "timecode": "19:02",
+    "speaker": "Moe Szyslak",
+    "quote": " Wait a minute! I didn't use that much poison.",
+    "directions": [],
+    "raw_quote": " Wait a minute! I didn't use that much poison."
+  },
+  {
+    "timecode": "19:07",
+    "speaker": "Moe Szyslak",
+    "quote": " I mean I didn't use that much poi, son. At the royal luau. ",
+    "directions": [
+      "NERVOUS CHUCKLE"
+    ],
+    "raw_quote": " I mean I didn't use that much poi, son. At the royal luau. (NERVOUS CHUCKLE)"
+  },
+  {
+    "timecode": "19:16",
+    "speaker": "Hamlet Bart",
+    "quote": " Daddy, it's true! Uncle Claudius murdered you!",
+    "directions": [],
+    "raw_quote": " Daddy, it's true! Uncle Claudius murdered you!"
+  },
+  {
+    "timecode": "19:20",
+    "speaker": "Lisa Simpson",
+    "quote": " Oh great, now Hamlet's acting crazy. Well, nobody out-crazies Ophelia! Hey, nonny, nonny, with a hoo and a haw and a nonny, nonny, hey...",
+    "directions": [
+      "ANNOYED",
+      "SINGING CRAZILY"
+    ],
+    "raw_quote": " (ANNOYED) Oh great, now Hamlet's acting crazy. Well, nobody out-crazies Ophelia! (SINGING CRAZILY) Hey, nonny, nonny, with a hoo and a haw and a nonny, nonny, hey..."
+  },
+  {
+    "timecode": "19:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "KING'S BEDCHAMBER: INT. KING'S BEDCHAMBER - NIGHT"
+    ],
+    "raw_quote": "(KING'S BEDCHAMBER: INT. KING'S BEDCHAMBER - NIGHT)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Hamlet Bart",
+    "quote": " ",
+    "directions": [
+      "MURDEROUS SCREAM"
+    ],
+    "raw_quote": " (MURDEROUS SCREAM)"
+  },
+  {
+    "timecode": "19:38",
+    "speaker": "Marge Simpson",
+    "quote": " Hamlet! What'd I tell you about running with swords?",
+    "directions": [],
+    "raw_quote": " Hamlet! What'd I tell you about running with swords?"
+  },
+  {
+    "timecode": "19:41",
+    "speaker": "Hamlet Bart",
+    "quote": " Someone's behind the curtain. It could be Claudius. Only one way to find out...",
+    "directions": [],
+    "raw_quote": " Someone's behind the curtain. It could be Claudius. Only one way to find out..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Chief Wiggum",
+    "quote": " ",
+    "directions": [
+      "STABBED NOISES"
+    ],
+    "raw_quote": " (STABBED NOISES)"
+  },
+  {
+    "timecode": "19:49",
+    "speaker": "Hamlet Bart",
+    "quote": " Polonius? What are you doing behind the curtain?",
+    "directions": [],
+    "raw_quote": " Polonius? What are you doing behind the curtain?"
+  },
+  {
+    "timecode": "19:53",
+    "speaker": "Chief Wiggum",
+    "quote": " I hide behind curtains 'cause I have a fear of getting stabbed.",
+    "directions": [],
+    "raw_quote": " I hide behind curtains 'cause I have a fear of getting stabbed."
+  },
+  {
+    "timecode": "19:57",
+    "speaker": "Ralph Wiggum",
+    "quote": " Daddy's stomach is crying!",
+    "directions": [],
+    "raw_quote": " Daddy's stomach is crying!"
+  },
+  {
+    "timecode": "19:59",
+    "speaker": "Chief Wiggum",
+    "quote": " Laertes, you gotta do a special big-boy job for daddy. I need you to avenge my death.",
+    "directions": [],
+    "raw_quote": " Laertes, you gotta do a special big-boy job for daddy. I need you to avenge my death."
+  },
+  {
+    "timecode": "20:07",
+    "speaker": "Ralph Wiggum",
+    "quote": " I like ba-venging.",
+    "directions": [],
+    "raw_quote": " I like ba-venging."
+  },
+  {
+    "timecode": "20:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Throne Room: Int. throne room - evening"
+    ],
+    "raw_quote": "(Throne Room: Int. throne room - evening)"
+  },
+  {
+    "timecode": "20:11",
+    "speaker": "Ralph Wiggum",
+    "quote": " I'm gonna kill Hamlet. Here's my mad face.",
+    "directions": [],
+    "raw_quote": " I'm gonna kill Hamlet. Here's my mad face."
+  },
+  {
+    "timecode": "20:16",
+    "speaker": "Moe Szyslak",
+    "quote": " Ha. Ha. Cute kid. But, just in case you don't kill Hamlet, I put some poison on the food, on the drapes, even on Rosen-Carl and Guilden-Lenny here.",
+    "directions": [],
+    "raw_quote": " Ha. Ha. Cute kid. But, just in case you don't kill Hamlet, I put some poison on the food, on the drapes, even on Rosen-Carl and Guilden-Lenny here."
+  },
+  {
+    "timecode": "20:26",
+    "speaker": "Guilden-Lenny",
+    "quote": " If Hamlet touches either of us, he's dead.",
+    "directions": [],
+    "raw_quote": " If Hamlet touches either of us, he's dead."
+  },
+  {
+    "timecode": "20:28",
+    "speaker": "Rosen-Carl",
+    "quote": " Boo-yeah!",
+    "directions": [],
+    "raw_quote": " Boo-yeah!"
+  },
+  {
+    "timecode": "20:32",
+    "speaker": "Moe Szyslak",
+    "quote": " Ah, now Hamlet, you know the rules. Laertes here gets uh one practice stab.",
+    "directions": [],
+    "raw_quote": " Ah, now Hamlet, you know the rules. Laertes here gets uh one practice stab."
+  },
+  {
+    "timecode": "20:38",
+    "speaker": "Ralph Wiggum",
+    "quote": " Oh, boy!",
+    "directions": [],
+    "raw_quote": " Oh, boy!"
+  },
+  {
+    "timecode": "20:40",
+    "speaker": "Moe Szyslak",
+    "quote": " Boy, did I bet on the wrong horse.",
+    "directions": [],
+    "raw_quote": " Boy, did I bet on the wrong horse."
+  },
+  {
+    "timecode": "20:44",
+    "speaker": "Hamlet Bart",
+    "quote": " Now there's nothing to stop me from getting my vengeance.",
+    "directions": [],
+    "raw_quote": " Now there's nothing to stop me from getting my vengeance."
+  },
+  {
+    "timecode": "20:47",
+    "speaker": "Moe Szyslak",
+    "quote": " You sure you don't want a nice piece of fish, or to finger the drapes a little?",
+    "directions": [],
+    "raw_quote": " You sure you don't want a nice piece of fish, or to finger the drapes a little?"
+  },
+  {
+    "timecode": "20:51",
+    "speaker": "Hamlet Bart",
+    "quote": " This ends here!",
+    "directions": [
+      "DRAMATICALLY"
+    ],
+    "raw_quote": " (DRAMATICALLY) This ends here!"
+  },
+  {
+    "timecode": "20:55",
+    "speaker": "Moe Szyslak",
+    "quote": " Remember me as a peace maker.",
+    "directions": [],
+    "raw_quote": " Remember me as a peace maker."
+  },
+  {
+    "timecode": "21:00",
+    "speaker": "Hamlet Bart",
+    "quote": " And now to celebrate life.",
+    "directions": [],
+    "raw_quote": " And now to celebrate life."
+  },
+  {
+    "timecode": "21:02",
+    "speaker": "Hamlet Bart",
+    "quote": " Bloody floor!",
+    "directions": [
+      "SCREAMS"
+    ],
+    "raw_quote": " (SCREAMS) Bloody floor!"
+  },
+  {
+    "timecode": "21:08",
+    "speaker": "Marge Simpson",
+    "quote": " No way I'm cleaning up this mess.",
+    "directions": [],
+    "raw_quote": " No way I'm cleaning up this mess."
+  },
+  {
+    "timecode": "21:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Living Room: Int. Simpson living room - PRESENT day"
+    ],
+    "raw_quote": "(Simpson Living Room: Int. Simpson living room - PRESENT day)"
+  },
+  {
+    "timecode": "21:13",
+    "speaker": "Lisa Simpson",
+    "quote": " And that's the greatest thing ever written.",
+    "directions": [],
+    "raw_quote": " And that's the greatest thing ever written."
+  },
+  {
+    "timecode": "21:16",
+    "speaker": "Bart Simpson",
+    "quote": " Are you crazy? I can't believe a play where every character was murdered could be so boring.",
+    "directions": [],
+    "raw_quote": " Are you crazy? I can't believe a play where every character was murdered could be so boring."
+  },
+  {
+    "timecode": "21:21",
+    "speaker": "Homer Simpson",
+    "quote": " Son, it's not only a great play, but also became a great movie. Called \"Ghostbusters.\"",
+    "directions": [],
+    "raw_quote": " Son, it's not only a great play, but also became a great movie. Called \"Ghostbusters.\""
+  }
+]

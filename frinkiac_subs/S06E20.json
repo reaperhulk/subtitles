@@ -1,0 +1,1898 @@
+[
+  {
+    "timecode": "00:35",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Living Room: int. simpson living room - evening"
+    ],
+    "raw_quote": "(Simpson Living Room: int. simpson living room - evening)"
+  },
+  {
+    "timecode": "00:35",
+    "speaker": "Kent Brockman",
+    "quote": " Welcome to the six o'clock news in our brand new studio! Lookin' good, Springfield!!",
+    "directions": [
+      "TO CAMERA",
+      "TO CROWD"
+    ],
+    "raw_quote": " (TO CAMERA) Welcome to the six o'clock news in our brand new studio! (TO CROWD) Lookin' good, Springfield!!"
+  },
+  {
+    "timecode": "00:42",
+    "speaker": "Kent Brockman",
+    "quote": " In today's news, a two ton rhino escaped from the Springfield Zoo. But zoo officials were quick to act and Petunia, as she is known, is safely back in captivity.",
+    "directions": [],
+    "raw_quote": " In today's news, a two ton rhino escaped from the Springfield Zoo. But zoo officials were quick to act and Petunia, as she is known, is safely back in captivity."
+  },
+  {
+    "timecode": "00:54",
+    "speaker": "Kent Brockman",
+    "quote": " In other news, a three ton rhino that escaped from the zoo last week is still at large.",
+    "directions": [],
+    "raw_quote": " In other news, a three ton rhino that escaped from the zoo last week is still at large."
+  },
+  {
+    "timecode": "01:02",
+    "speaker": "Marge Simpson",
+    "quote": " All right, who broke my vase?!",
+    "directions": [],
+    "raw_quote": " All right, who broke my vase?!"
+  },
+  {
+    "timecode": "01:03",
+    "speaker": "Lisa Simpson",
+    "quote": " Who took all my test papers off the refrigerator and tore them up?!",
+    "directions": [],
+    "raw_quote": " Who took all my test papers off the refrigerator and tore them up?!"
+  },
+  {
+    "timecode": "01:06",
+    "speaker": "Homer Simpson",
+    "quote": " Who spread garbage all over Flanders' yard before I got a chance to?",
+    "directions": [],
+    "raw_quote": " Who spread garbage all over Flanders' yard before I got a chance to?"
+  },
+  {
+    "timecode": "01:10",
+    "speaker": "Bart Simpson",
+    "quote": " Oh, please! This is senseless destruction, with none of my usual social commentary.",
+    "directions": [
+      "INSULTED"
+    ],
+    "raw_quote": " (INSULTED) Oh, please! This is senseless destruction, with none of my usual social commentary."
+  },
+  {
+    "timecode": "01:16",
+    "speaker": "Lisa Simpson",
+    "quote": " If it wasn't you, then who was it?",
+    "directions": [],
+    "raw_quote": " If it wasn't you, then who was it?"
+  },
+  {
+    "timecode": "01:20",
+    "speaker": "Marge Simpson",
+    "quote": " Well, I'm sure these things didn't destroy themselves, now did they?",
+    "directions": [],
+    "raw_quote": " Well, I'm sure these things didn't destroy themselves, now did they?"
+  },
+  {
+    "timecode": "01:24",
+    "speaker": "Homer Simpson",
+    "quote": " Did they?!",
+    "directions": [
+      "SCARED"
+    ],
+    "raw_quote": " (SCARED) Did they?!"
+  },
+  {
+    "timecode": "01:29",
+    "speaker": "Homer Simpson",
+    "quote": " Hmm, I guess Bart's not to blame. He's lucky too, because it's spankin' season and I've got a hankerin' for some spankerin'.",
+    "directions": [],
+    "raw_quote": " Hmm, I guess Bart's not to blame. He's lucky too, because it's spankin' season and I've got a hankerin' for some spankerin'."
+  },
+  {
+    "timecode": "01:39",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Backyard: ext. simpson backyard - a few minutes later"
+    ],
+    "raw_quote": "(Simpson Backyard: ext. simpson backyard - a few minutes later)"
+  },
+  {
+    "timecode": "01:39",
+    "speaker": "Bart Simpson",
+    "quote": " I don't know why you're so energetic today, boy, but prepare to be worn out.",
+    "directions": [],
+    "raw_quote": " I don't know why you're so energetic today, boy, but prepare to be worn out."
+  },
+  {
+    "timecode": "01:49",
+    "speaker": "Lisa Simpson",
+    "quote": " What's wrong, boy? Getting tired?",
+    "directions": [],
+    "raw_quote": " What's wrong, boy? Getting tired?"
+  },
+  {
+    "timecode": "02:05",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Kitchen: int. simpson kitchen - the next morning"
+    ],
+    "raw_quote": "(Simpson Kitchen: int. simpson kitchen - the next morning)"
+  },
+  {
+    "timecode": "02:05",
+    "speaker": "Marge Simpson",
+    "quote": " I think there's really something wrong with Santa's Little Helper. He was up barking all night and dug up the back yard worse than ever.",
+    "directions": [],
+    "raw_quote": " I think there's really something wrong with Santa's Little Helper. He was up barking all night and dug up the back yard worse than ever."
+  },
+  {
+    "timecode": "02:14",
+    "speaker": "Lisa Simpson",
+    "quote": " My Bongo drums!",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " (GASP) My Bongo drums!"
+  },
+  {
+    "timecode": "02:15",
+    "speaker": "Bart Simpson",
+    "quote": " My strobe light!",
+    "directions": [],
+    "raw_quote": " My strobe light!"
+  },
+  {
+    "timecode": "02:17",
+    "speaker": "Homer Simpson",
+    "quote": " My \"Best of Ray Stevens featuring The Streak\" album! So it was the dog that buried all our stuff!",
+    "directions": [],
+    "raw_quote": " My \"Best of Ray Stevens featuring The Streak\" album! So it was the dog that buried all our stuff!"
+  },
+  {
+    "timecode": "02:23",
+    "speaker": "Marge Simpson",
+    "quote": " Yes, the dog...",
+    "directions": [
+      "EYES DARTING"
+    ],
+    "raw_quote": " (EYES DARTING) Yes, the dog..."
+  },
+  {
+    "timecode": "02:25",
+    "speaker": "Homer Simpson",
+    "quote": " Oh my God! He's got the precious cable TV cable!",
+    "directions": [],
+    "raw_quote": " Oh my God! He's got the precious cable TV cable!"
+  },
+  {
+    "timecode": "02:35",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Chief Wiggum's Bedroom: int. chief wiggum's bedroom - continuous action"
+    ],
+    "raw_quote": "(Chief Wiggum's Bedroom: int. chief wiggum's bedroom - continuous action)"
+  },
+  {
+    "timecode": "02:35",
+    "speaker": "Kent Brockman",
+    "quote": " Always use fresh macaroni. If the box rattles, throw it away...",
+    "directions": [],
+    "raw_quote": " Always use fresh macaroni. If the box rattles, throw it away..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Chief Wiggum",
+    "quote": " ",
+    "directions": [
+      "DISAPPOINTED NOISE"
+    ],
+    "raw_quote": " (DISAPPOINTED NOISE)"
+  },
+  {
+    "timecode": "02:44",
+    "speaker": "Cable Announcer",
+    "quote": " Your cable TV is experiencing difficulties. Please do not panic. Resist the temptation to read or talk to loved ones. Do not attempt sexual relations, as years of TV radiation have left your genitals withered and useless.",
+    "directions": [],
+    "raw_quote": " Your cable TV is experiencing difficulties. Please do not panic. Resist the temptation to read or talk to loved ones. Do not attempt sexual relations, as years of TV radiation have left your genitals withered and useless."
+  },
+  {
+    "timecode": "02:58",
+    "speaker": "Chief Wiggum",
+    "quote": " Well, I'll be damned.",
+    "directions": [
+      "LOOKING DOWN"
+    ],
+    "raw_quote": " (LOOKING DOWN) Well, I'll be damned."
+  },
+  {
+    "timecode": "03:05",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Pet Store: ext. pet store - the next day"
+    ],
+    "raw_quote": "(Pet Store: ext. pet store - the next day)"
+  },
+  {
+    "timecode": "03:05",
+    "speaker": "Marge Simpson",
+    "quote": " Excuse me, we're having a problem with our dog...",
+    "directions": [],
+    "raw_quote": " Excuse me, we're having a problem with our dog..."
+  },
+  {
+    "timecode": "03:08",
+    "speaker": "Pet Store Man",
+    "quote": " Lady, I'll tell you what I'm telling everyone else. I'm sorry if your dog went blind, but your gripe is with Hartz Mountain, not with me.",
+    "directions": [],
+    "raw_quote": " Lady, I'll tell you what I'm telling everyone else. I'm sorry if your dog went blind, but your gripe is with Hartz Mountain, not with me."
+  },
+  {
+    "timecode": "03:15",
+    "speaker": "Marge Simpson",
+    "quote": " No, no, our dog is out of control. He's wild, destructive, and has little or no respect for authority.",
+    "directions": [],
+    "raw_quote": " No, no, our dog is out of control. He's wild, destructive, and has little or no respect for authority."
+  },
+  {
+    "timecode": "03:22",
+    "speaker": "Pet Store Man",
+    "quote": " Hmm... let me try a canine/human mind meld. It's an incredibly rare psychic power possessed only by me and three other clerks at this store.",
+    "directions": [],
+    "raw_quote": " Hmm... let me try a canine/human mind meld. It's an incredibly rare psychic power possessed only by me and three other clerks at this store."
+  },
+  {
+    "timecode": "03:32",
+    "speaker": "Pet Store Man",
+    "quote": " Okay. I'm bored... I'm restless... Need change in life... Like imported leather leash... Uh, blue contact lenses. 200 volt shock training collar...",
+    "directions": [
+      "IN MIND MELD; SOMEWHAT TORTURED; BARKS",
+      "BARK",
+      "BARK",
+      "BARK"
+    ],
+    "raw_quote": " Okay. (IN MIND MELD; SOMEWHAT TORTURED; BARKS) I'm bored... I'm restless... Need change in life... (BARK) Like imported leather leash... (BARK) Uh, blue contact lenses. (BARK) 200 volt shock training collar..."
+  },
+  {
+    "timecode": "03:53",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Car: int. simpson car - a short while later"
+    ],
+    "raw_quote": "(Simpson Car: int. simpson car - a short while later)"
+  },
+  {
+    "timecode": "03:53",
+    "speaker": "Homer Simpson",
+    "quote": " Well, problem solved.",
+    "directions": [
+      "COCKY"
+    ],
+    "raw_quote": " (COCKY) Well, problem solved."
+  },
+  {
+    "timecode": "03:57",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, hold on to the wheel!",
+    "directions": [],
+    "raw_quote": " Homer, hold on to the wheel!"
+  },
+  {
+    "timecode": "04:00",
+    "speaker": "Homer Simpson",
+    "quote": " You got it.",
+    "directions": [
+      "OBLIGINGLY"
+    ],
+    "raw_quote": " (OBLIGINGLY) You got it."
+  },
+  {
+    "timecode": "04:03",
+    "speaker": "Bart Simpson",
+    "quote": " Hey!",
+    "directions": [],
+    "raw_quote": " Hey!"
+  },
+  {
+    "timecode": "04:07",
+    "speaker": "Homer Simpson",
+    "quote": " Don't worry. We'll catch him, or run him over tryin'.",
+    "directions": [],
+    "raw_quote": " Don't worry. We'll catch him, or run him over tryin'."
+  },
+  {
+    "timecode": "04:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Street: ext. street - later"
+    ],
+    "raw_quote": "(Street: ext. street - later)"
+  },
+  {
+    "timecode": "04:10",
+    "speaker": "Bart Simpson",
+    "quote": " Look, he's heading back to the greyhound racing track where we found him!",
+    "directions": [],
+    "raw_quote": " Look, he's heading back to the greyhound racing track where we found him!"
+  },
+  {
+    "timecode": "04:14",
+    "speaker": "Homer Simpson",
+    "quote": " Don't worry. As soon as they find out he doesn't have any money, they'll throw him out. Believe me, I know.",
+    "directions": [],
+    "raw_quote": " Don't worry. As soon as they find out he doesn't have any money, they'll throw him out. Believe me, I know."
+  },
+  {
+    "timecode": "04:26",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "DOG RACING TRACK LOBBY: INT. DOG RACING TRACK lobby - continuous action"
+    ],
+    "raw_quote": "(DOG RACING TRACK LOBBY: INT. DOG RACING TRACK lobby - continuous action)"
+  },
+  {
+    "timecode": "04:26",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, this place is so big. Do you think we should split up and look for them, Homie? Homie?",
+    "directions": [],
+    "raw_quote": " Oh, this place is so big. Do you think we should split up and look for them, Homie? Homie?"
+  },
+  {
+    "timecode": "04:32",
+    "speaker": "Homer Simpson",
+    "quote": " Two bucks to win on number eight... ...and have you seen my beloved dog? Gimme the ticket.",
+    "directions": [
+      "TO MAN BEHIND WINDOW, QUIETLY",
+      "OFF FAMILY'S GLARE",
+      "NERVOUS LAUGH; SOTTO"
+    ],
+    "raw_quote": " (TO MAN BEHIND WINDOW, QUIETLY) Two bucks to win on number eight... (OFF FAMILY'S GLARE)...and have you seen my beloved dog? (NERVOUS LAUGH; SOTTO) Gimme the ticket."
+  },
+  {
+    "timecode": "04:40",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Track: int. track - GRANDSTAND AREA - a short while later"
+    ],
+    "raw_quote": "(Track: int. track - GRANDSTAND AREA - a short while later)"
+  },
+  {
+    "timecode": "04:40",
+    "speaker": "Homer Simpson",
+    "quote": " We can't lose. Look at the name of the dog I bet on. ",
+    "directions": [
+      "SHOWS MARGE PROGRAM"
+    ],
+    "raw_quote": " We can't lose. Look at the name of the dog I bet on. (SHOWS MARGE PROGRAM)"
+  },
+  {
+    "timecode": "04:44",
+    "speaker": "Marge Simpson",
+    "quote": " \"She's The Fastest...\" Homer, I don't think that means necessarily...",
+    "directions": [
+      "READING"
+    ],
+    "raw_quote": " (READING) \"She's The Fastest...\" Homer, I don't think that means necessarily..."
+  },
+  {
+    "timecode": "04:49",
+    "speaker": "Track Announcer",
+    "quote": " And they're off! She's The Fastest jumps out to an insurmountable lead!",
+    "directions": [],
+    "raw_quote": " And they're off! She's The Fastest jumps out to an insurmountable lead!"
+  },
+  {
+    "timecode": "04:52",
+    "speaker": "Homer Simpson",
+    "quote": " You're lucky you got looks, Marge.",
+    "directions": [
+      "GLOATING"
+    ],
+    "raw_quote": " (GLOATING) You're lucky you got looks, Marge."
+  },
+  {
+    "timecode": "04:54",
+    "speaker": "Track Announcer",
+    "quote": " As they round the far turn, it's She's The Fastest, followed by Always Comes In Second and I'm Number Three...",
+    "directions": [],
+    "raw_quote": " As they round the far turn, it's She's The Fastest, followed by Always Comes In Second and I'm Number Three..."
+  },
+  {
+    "timecode": "04:59",
+    "speaker": "Homer Simpson",
+    "quote": " Yes! Come on, you little horse!",
+    "directions": [],
+    "raw_quote": " Yes! Come on, you little horse!"
+  },
+  {
+    "timecode": "05:01",
+    "speaker": "Track Announcer",
+    "quote": " And they're in the home stretch. It's -- wait! Another dog is on the track!",
+    "directions": [],
+    "raw_quote": " And they're in the home stretch. It's -- wait! Another dog is on the track!"
+  },
+  {
+    "timecode": "05:06",
+    "speaker": "Bart Simpson",
+    "quote": " It's Santa's Little Helper!",
+    "directions": [],
+    "raw_quote": " It's Santa's Little Helper!"
+  },
+  {
+    "timecode": "05:07",
+    "speaker": "Track Announcer",
+    "quote": " The mystery dog is gaining fast on the outside. Of course, he could never win this race - or could he?",
+    "directions": [],
+    "raw_quote": " The mystery dog is gaining fast on the outside. Of course, he could never win this race - or could he?"
+  },
+  {
+    "timecode": "05:21",
+    "speaker": "Lisa Simpson",
+    "quote": " What's Santa's Little Helper doing to that dog?",
+    "directions": [
+      "CONFUSED"
+    ],
+    "raw_quote": " (CONFUSED) What's Santa's Little Helper doing to that dog?"
+  },
+  {
+    "timecode": "05:23",
+    "speaker": "Marge Simpson",
+    "quote": " Uh-oh...",
+    "directions": [],
+    "raw_quote": " Uh-oh..."
+  },
+  {
+    "timecode": "05:25",
+    "speaker": "Bart Simpson",
+    "quote": " It looks like he's trying to jump over her, but he can't quite make it. Come on, boy, you can do it!",
+    "directions": [
+      "CONFUSED"
+    ],
+    "raw_quote": " (CONFUSED) It looks like he's trying to jump over her, but he can't quite make it. Come on, boy, you can do it!"
+  },
+  {
+    "timecode": "05:31",
+    "speaker": "Track Announcer",
+    "quote": " Ladies and gentlemen, this is the end. This is the end of dog racing.",
+    "directions": [],
+    "raw_quote": " Ladies and gentlemen, this is the end. This is the end of dog racing."
+  },
+  {
+    "timecode": "",
+    "speaker": "Crowd",
+    "quote": " ",
+    "directions": [
+      "GENERAL BOOING AND DISCONTENT"
+    ],
+    "raw_quote": " (GENERAL BOOING AND DISCONTENT)"
+  },
+  {
+    "timecode": "05:35",
+    "speaker": "Marge Simpson",
+    "quote": " I think they're in love.",
+    "directions": [],
+    "raw_quote": " I think they're in love."
+  },
+  {
+    "timecode": "05:38",
+    "speaker": "Crowd",
+    "quote": " Aww...",
+    "directions": [
+      "SUDDENLY MOVED"
+    ],
+    "raw_quote": " (SUDDENLY MOVED) Aww..."
+  },
+  {
+    "timecode": "05:44",
+    "speaker": "Homer Simpson",
+    "quote": " Aw, so that's what's been wrong with the little fella. He misses casual sex.",
+    "directions": [
+      "SWEETLY"
+    ],
+    "raw_quote": " (SWEETLY) Aw, so that's what's been wrong with the little fella. He misses casual sex."
+  },
+  {
+    "timecode": "05:51",
+    "speaker": "Lisa Simpson",
+    "quote": " Can we keep Santa's girlfriend, Mom?",
+    "directions": [],
+    "raw_quote": " Can we keep Santa's girlfriend, Mom?"
+  },
+  {
+    "timecode": "05:53",
+    "speaker": "Bart Simpson",
+    "quote": " Please?",
+    "directions": [],
+    "raw_quote": " Please?"
+  },
+  {
+    "timecode": "05:54",
+    "speaker": "Marge Simpson",
+    "quote": " But she's not our dog.",
+    "directions": [],
+    "raw_quote": " But she's not our dog."
+  },
+  {
+    "timecode": "05:55",
+    "speaker": "Texan",
+    "quote": " She's yours now!",
+    "directions": [],
+    "raw_quote": " She's yours now!"
+  },
+  {
+    "timecode": "05:58",
+    "speaker": "Texan",
+    "quote": " Once they fall in love they lose their racin' spirit.",
+    "directions": [],
+    "raw_quote": " Once they fall in love they lose their racin' spirit."
+  },
+  {
+    "timecode": "06:00",
+    "speaker": "Marge Simpson",
+    "quote": " But won't you miss her loyalty and companionship?",
+    "directions": [],
+    "raw_quote": " But won't you miss her loyalty and companionship?"
+  },
+  {
+    "timecode": "06:07",
+    "speaker": "Texan",
+    "quote": " Lady, you're allll-right!",
+    "directions": [
+      "BIG LAUGH"
+    ],
+    "raw_quote": " (BIG LAUGH) Lady, you're allll-right!"
+  },
+  {
+    "timecode": "06:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Kitchen: int. simpson kitchen - a little later"
+    ],
+    "raw_quote": "(Simpson Kitchen: int. simpson kitchen - a little later)"
+  },
+  {
+    "timecode": "06:11",
+    "speaker": "Marge Simpson",
+    "quote": " Okay, you can go out and play, but... no more you know what in front of the house, all right?",
+    "directions": [
+      "OPENING DOOR",
+      "CONFIDENTIALLY"
+    ],
+    "raw_quote": " (OPENING DOOR) Okay, you can go out and play, but...(CONFIDENTIALLY) no more you know what in front of the house, all right?"
+  },
+  {
+    "timecode": "06:18",
+    "speaker": "Marge Simpson",
+    "quote": " Hey, what did I just say?!!",
+    "directions": [
+      "YELLING OUT DOOR"
+    ],
+    "raw_quote": " (YELLING OUT DOOR) Hey, what did I just say?!!"
+  },
+  {
+    "timecode": "06:54",
+    "speaker": "Luigi",
+    "quote": " Take it, it fell on the floor-a.",
+    "directions": [],
+    "raw_quote": " Take it, it fell on the floor-a."
+  },
+  {
+    "timecode": "07:12",
+    "speaker": "Bart Simpson",
+    "quote": " Hey, boy, you wanna play fetch?",
+    "directions": [],
+    "raw_quote": " Hey, boy, you wanna play fetch?"
+  },
+  {
+    "timecode": "07:14",
+    "speaker": "Bart Simpson",
+    "quote": " Me and Santa's Little Helper used to be a team, but he never wants to play anymore since his bitch moved in!",
+    "directions": [
+      "MOANS"
+    ],
+    "raw_quote": " (MOANS) Me and Santa's Little Helper used to be a team, but he never wants to play anymore since his bitch moved in!"
+  },
+  {
+    "timecode": "07:22",
+    "speaker": "Marge Simpson",
+    "quote": " Bart! Don't ever say that word again!",
+    "directions": [],
+    "raw_quote": " Bart! Don't ever say that word again!"
+  },
+  {
+    "timecode": "07:24",
+    "speaker": "Bart Simpson",
+    "quote": " Well that's what she is! I looked it up.",
+    "directions": [],
+    "raw_quote": " Well that's what she is! I looked it up."
+  },
+  {
+    "timecode": "07:26",
+    "speaker": "Marge Simpson",
+    "quote": " Well, I'm going to write the dictionary people and have that checked. It feels like a mistake to me.",
+    "directions": [],
+    "raw_quote": " Well, I'm going to write the dictionary people and have that checked. It feels like a mistake to me."
+  },
+  {
+    "timecode": "07:32",
+    "speaker": "Bart Simpson",
+    "quote": " Hey look! A really small dog just fell out of Santa's girlfriend.",
+    "directions": [],
+    "raw_quote": " Hey look! A really small dog just fell out of Santa's girlfriend."
+  },
+  {
+    "timecode": "07:37",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, my God! She's having babies! Oh, I'm sorry, girl. I thought you were just getting fat.",
+    "directions": [
+      "GASP",
+      "TO SHE'S THE FASTEST"
+    ],
+    "raw_quote": " (GASP) Oh, my God! She's having babies! (TO SHE'S THE FASTEST) Oh, I'm sorry, girl. I thought you were just getting fat."
+  },
+  {
+    "timecode": "07:43",
+    "speaker": "Lisa Simpson",
+    "quote": " Look, it's twins!",
+    "directions": [],
+    "raw_quote": " Look, it's twins!"
+  },
+  {
+    "timecode": "07:45",
+    "speaker": "Homer Simpson",
+    "quote": " Now it's two sets of twins.",
+    "directions": [],
+    "raw_quote": " Now it's two sets of twins."
+  },
+  {
+    "timecode": "07:47",
+    "speaker": "Bart Simpson",
+    "quote": " Two sets of twins and a triplet!",
+    "directions": [],
+    "raw_quote": " Two sets of twins and a triplet!"
+  },
+  {
+    "timecode": "07:49",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, Homer find a place for all these little miracles.",
+    "directions": [],
+    "raw_quote": " Homer, Homer find a place for all these little miracles."
+  },
+  {
+    "timecode": "08:04",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, my. I've never seen anything like this.",
+    "directions": [],
+    "raw_quote": " Oh, my. I've never seen anything like this."
+  },
+  {
+    "timecode": "08:08",
+    "speaker": "Lisa Simpson",
+    "quote": " How many more can there be?",
+    "directions": [],
+    "raw_quote": " How many more can there be?"
+  },
+  {
+    "timecode": "08:11",
+    "speaker": "Bart Simpson",
+    "quote": " Twenty-two, twenty-three, twenty-four...",
+    "directions": [
+      "AMAZED"
+    ],
+    "raw_quote": " (AMAZED) Twenty-two, twenty-three, twenty-four..."
+  },
+  {
+    "timecode": "08:24",
+    "speaker": "Bart Simpson",
+    "quote": " Twenty-five.",
+    "directions": [],
+    "raw_quote": " Twenty-five."
+  },
+  {
+    "timecode": "08:39",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - continuous action"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - continuous action)"
+  },
+  {
+    "timecode": "08:39",
+    "speaker": "Lisa Simpson",
+    "quote": " Wow! Twenty-five puppies!",
+    "directions": [],
+    "raw_quote": " Wow! Twenty-five puppies!"
+  },
+  {
+    "timecode": "08:45",
+    "speaker": "Bart Simpson",
+    "quote": " An army of dogs! No bully will ever touch me again!",
+    "directions": [],
+    "raw_quote": " An army of dogs! No bully will ever touch me again!"
+  },
+  {
+    "timecode": "08:52",
+    "speaker": "Bart Simpson",
+    "quote": " Hey, jerkface! You have the face of a jerk!",
+    "directions": [],
+    "raw_quote": " Hey, jerkface! You have the face of a jerk!"
+  },
+  {
+    "timecode": "08:57",
+    "speaker": "Jimbo Jones",
+    "quote": " All right, Simpson, you asked for...",
+    "directions": [],
+    "raw_quote": " All right, Simpson, you asked for..."
+  },
+  {
+    "timecode": "08:58",
+    "speaker": "Bart Simpson",
+    "quote": " Get 'em, boys!",
+    "directions": [
+      "TO PUPPIES"
+    ],
+    "raw_quote": " (TO PUPPIES) Get 'em, boys!"
+  },
+  {
+    "timecode": "09:06",
+    "speaker": "Bart Simpson",
+    "quote": " Say, Jimbo ... hope I wasn't out of line with that \"jerkface\" crack.",
+    "directions": [
+      "CHEESY SMILE, \u00c0 LA \"GET SMART\"",
+      "SMALL CHUCKLE"
+    ],
+    "raw_quote": " (CHEESY SMILE, \u00c0 LA \"GET SMART\") Say, Jimbo (SMALL CHUCKLE)... hope I wasn't out of line with that \"jerkface\" crack."
+  },
+  {
+    "timecode": "09:31",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Kitchen: INT. SIMPSON KITCHEN - A week LATER"
+    ],
+    "raw_quote": "(Simpson Kitchen: INT. SIMPSON KITCHEN - A week LATER)"
+  },
+  {
+    "timecode": "09:31",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, Homie, aren't they adorable?",
+    "directions": [],
+    "raw_quote": " Oh, Homie, aren't they adorable?"
+  },
+  {
+    "timecode": "09:35",
+    "speaker": "Homer Simpson",
+    "quote": " Yes, we've waited many years, but the good Lord has finally blessed us with a real family.",
+    "directions": [],
+    "raw_quote": " Yes, we've waited many years, but the good Lord has finally blessed us with a real family."
+  },
+  {
+    "timecode": "09:53",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Living Room: int. simpson living room - that night"
+    ],
+    "raw_quote": "(Simpson Living Room: int. simpson living room - that night)"
+  },
+  {
+    "timecode": "09:53",
+    "speaker": "Marge Simpson",
+    "quote": " Look at Branford II! Isn't that cute? He thinks he's one of the Models, Inc.",
+    "directions": [
+      "CHUCKLES",
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) Look at Branford II! Isn't that cute? (CHUCKLES) He thinks he's one of the Models, Inc."
+  },
+  {
+    "timecode": "10:02",
+    "speaker": "Homer Simpson",
+    "quote": " Get that cat out of the way!",
+    "directions": [],
+    "raw_quote": " Get that cat out of the way!"
+  },
+  {
+    "timecode": "10:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Bart's Bedroom: Int. Bart's bedroom"
+    ],
+    "raw_quote": "(Bart's Bedroom: Int. Bart's bedroom)"
+  },
+  {
+    "timecode": "10:11",
+    "speaker": "Bart Simpson",
+    "quote": " Agh, my socks!",
+    "directions": [],
+    "raw_quote": " Agh, my socks!"
+  },
+  {
+    "timecode": "10:20",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "KITCHEN: int. kitchen"
+    ],
+    "raw_quote": "(KITCHEN: int. kitchen)"
+  },
+  {
+    "timecode": "10:20",
+    "speaker": "Lisa Simpson",
+    "quote": " Mom, why do I have to wear a flea collar?",
+    "directions": [],
+    "raw_quote": " Mom, why do I have to wear a flea collar?"
+  },
+  {
+    "timecode": "10:24",
+    "speaker": "Marge Simpson",
+    "quote": " Well, it's just easier this way.",
+    "directions": [],
+    "raw_quote": " Well, it's just easier this way."
+  },
+  {
+    "timecode": "10:29",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "LIVING ROOM: Int. Living room"
+    ],
+    "raw_quote": "(LIVING ROOM: Int. Living room)"
+  },
+  {
+    "timecode": "10:29",
+    "speaker": "Homer Simpson",
+    "quote": " Ooh... this time... Ah... ",
+    "directions": [
+      "ANNOYED GRUNTS",
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " Ooh... this time... (ANNOYED GRUNTS) Ah... (ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "10:45",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Kitchen: int. simpson kitchen - a few weeks later"
+    ],
+    "raw_quote": "(Simpson Kitchen: int. simpson kitchen - a few weeks later)"
+  },
+  {
+    "timecode": "10:45",
+    "speaker": "Marge Simpson",
+    "quote": " Yeeesch! This house stinks! You're not just putting the new newspapers over the old ones, are you?",
+    "directions": [],
+    "raw_quote": " Yeeesch! This house stinks! You're not just putting the new newspapers over the old ones, are you?"
+  },
+  {
+    "timecode": "10:52",
+    "speaker": "Homer Simpson",
+    "quote": " Do you have a better idea?",
+    "directions": [
+      "HUFFY"
+    ],
+    "raw_quote": " (HUFFY) Do you have a better idea?"
+  },
+  {
+    "timecode": "10:55",
+    "speaker": "Marge Simpson",
+    "quote": " Now I know we love the puppies very much, but I think they're getting to be a problem.",
+    "directions": [],
+    "raw_quote": " Now I know we love the puppies very much, but I think they're getting to be a problem."
+  },
+  {
+    "timecode": "11:01",
+    "speaker": "Bart Simpson",
+    "quote": " Yeah, they ate all my socks! I have to wear Lisa's to school today!",
+    "directions": [],
+    "raw_quote": " Yeah, they ate all my socks! I have to wear Lisa's to school today!"
+  },
+  {
+    "timecode": "11:04",
+    "speaker": "Homer Simpson",
+    "quote": " How do you explain the culottes, boy?",
+    "directions": [],
+    "raw_quote": " How do you explain the culottes, boy?"
+  },
+  {
+    "timecode": "11:07",
+    "speaker": "Bart Simpson",
+    "quote": " Well, I have to coordinate, don't I?",
+    "directions": [],
+    "raw_quote": " Well, I have to coordinate, don't I?"
+  },
+  {
+    "timecode": "11:08",
+    "speaker": "Homer Simpson",
+    "quote": " Your mother and I have been thinking about giving the puppies away.",
+    "directions": [],
+    "raw_quote": " Your mother and I have been thinking about giving the puppies away."
+  },
+  {
+    "timecode": "11:11",
+    "speaker": "Lisa Simpson",
+    "quote": " Nooooooo!",
+    "directions": [],
+    "raw_quote": " Nooooooo!"
+  },
+  {
+    "timecode": "11:12",
+    "speaker": "Homer Simpson",
+    "quote": " Mainly your mother.",
+    "directions": [
+      "QUICKLY"
+    ],
+    "raw_quote": " (QUICKLY) Mainly your mother."
+  },
+  {
+    "timecode": "11:13",
+    "speaker": "Lisa Simpson",
+    "quote": " Is that what we do in this family? When someone becomes an inconvenience, we just get rid of them?!",
+    "directions": [],
+    "raw_quote": " Is that what we do in this family? When someone becomes an inconvenience, we just get rid of them?!"
+  },
+  {
+    "timecode": "11:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Retirement Castle: Int. Retirement castle"
+    ],
+    "raw_quote": "(Springfield Retirement Castle: Int. Retirement castle)"
+  },
+  {
+    "timecode": "11:23",
+    "speaker": "Grampa Simpson",
+    "quote": " Hello? Is anybody there? ",
+    "directions": [
+      "HOPEFUL",
+      "SAD GROAN"
+    ],
+    "raw_quote": " (HOPEFUL) Hello? Is anybody there? (SAD GROAN)"
+  },
+  {
+    "timecode": "11:28",
+    "speaker": "Marge Simpson",
+    "quote": " All right, we'll give the dogs one more chance. As long as the puppies don't do anything else wrong, they stay. On a completely unrelated topic, I'm having a very, very important dinner party tonight.",
+    "directions": [],
+    "raw_quote": " All right, we'll give the dogs one more chance. As long as the puppies don't do anything else wrong, they stay. On a completely unrelated topic, I'm having a very, very important dinner party tonight."
+  },
+  {
+    "timecode": "11:42",
+    "speaker": "Homer Simpson",
+    "quote": " Splendid. Who's coming?",
+    "directions": [],
+    "raw_quote": " Splendid. Who's coming?"
+  },
+  {
+    "timecode": "11:45",
+    "speaker": "Marge Simpson",
+    "quote": " Rev. Lovejoy, your old Army drill sergeant, and the Regional Director of the IRS.",
+    "directions": [],
+    "raw_quote": " Rev. Lovejoy, your old Army drill sergeant, and the Regional Director of the IRS."
+  },
+  {
+    "timecode": "11:52",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Dining Room: int. simpson dining room - that night"
+    ],
+    "raw_quote": "(Simpson Dining Room: int. simpson dining room - that night)"
+  },
+  {
+    "timecode": "11:52",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Oh, just lovely, Marge. The whole town will hear what a perfect evening this was, how nothing at all went wrong.",
+    "directions": [],
+    "raw_quote": " Oh, just lovely, Marge. The whole town will hear what a perfect evening this was, how nothing at all went wrong."
+  },
+  {
+    "timecode": "11:59",
+    "speaker": "DRILL SGT.",
+    "quote": " Simpson, this evening has gone so flawlessly, I'm gonna forget that you were mistakenly let out of the Army a month early.",
+    "directions": [
+      "TO HOMER"
+    ],
+    "raw_quote": " (TO HOMER) Simpson, this evening has gone so flawlessly, I'm gonna forget that you were mistakenly let out of the Army a month early."
+  },
+  {
+    "timecode": "12:06",
+    "speaker": "Irs Agent",
+    "quote": " And I'm so impressed by this problem-free evening that there's no need for that audit.",
+    "directions": [],
+    "raw_quote": " And I'm so impressed by this problem-free evening that there's no need for that audit."
+  },
+  {
+    "timecode": "12:10",
+    "speaker": "Irs Agent",
+    "quote": " A toast to the Simpsons...",
+    "directions": [],
+    "raw_quote": " A toast to the Simpsons..."
+  },
+  {
+    "timecode": "12:13",
+    "speaker": "DRILL SGT.",
+    "quote": " And to the delectable turkey...that's walking around the table??!!",
+    "directions": [],
+    "raw_quote": " And to the delectable turkey...that's walking around the table??!!"
+  },
+  {
+    "timecode": "12:17",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Dear Lord, it's a demon bird!",
+    "directions": [],
+    "raw_quote": " Dear Lord, it's a demon bird!"
+  },
+  {
+    "timecode": "12:27",
+    "speaker": "Everyone",
+    "quote": " Ewwwww!",
+    "directions": [],
+    "raw_quote": " Ewwwww!"
+  },
+  {
+    "timecode": "12:27",
+    "speaker": "DRILL SGT.",
+    "quote": " Simpson, see you at reveille O-five hundred tomorrow. ",
+    "directions": [
+      "EXITS SLAMMING DOOR"
+    ],
+    "raw_quote": " Simpson, see you at reveille O-five hundred tomorrow. (EXITS SLAMMING DOOR)"
+  },
+  {
+    "timecode": "12:32",
+    "speaker": "Irs Agent",
+    "quote": " See you at the IRS! ",
+    "directions": [
+      "EXITS SLAMMING DOOR"
+    ],
+    "raw_quote": " See you at the IRS! (EXITS SLAMMING DOOR)"
+  },
+  {
+    "timecode": "12:34",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " See you in hell! From heaven. ",
+    "directions": [
+      "EXITS; THEN STICKS HIS HEAD BACK IN THE DOOR",
+      "EXITS SLAMMING DOOR"
+    ],
+    "raw_quote": " See you in hell! (EXITS; THEN STICKS HIS HEAD BACK IN THE DOOR) From heaven. (EXITS SLAMMING DOOR)"
+  },
+  {
+    "timecode": "12:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: ext. simpson house - the next day"
+    ],
+    "raw_quote": "(Simpson Home: ext. simpson house - the next day)"
+  },
+  {
+    "timecode": "12:42",
+    "speaker": "Ned Flanders",
+    "quote": " Oh, we sure could use a pooch to guard the flock at the Flanderosa.",
+    "directions": [],
+    "raw_quote": " Oh, we sure could use a pooch to guard the flock at the Flanderosa."
+  },
+  {
+    "timecode": "12:47",
+    "speaker": "Seymour Skinner",
+    "quote": " It'd be nice to have some companionship when mother goes out on dates.",
+    "directions": [],
+    "raw_quote": " It'd be nice to have some companionship when mother goes out on dates."
+  },
+  {
+    "timecode": "12:51",
+    "speaker": "Grampa Simpson",
+    "quote": " We could use a new pet over at the home seein' how we accidentally killed that smart-mouthed bird.",
+    "directions": [],
+    "raw_quote": " We could use a new pet over at the home seein' how we accidentally killed that smart-mouthed bird."
+  },
+  {
+    "timecode": "13:01",
+    "speaker": "Lisa Simpson",
+    "quote": " They don't like being broken up.",
+    "directions": [],
+    "raw_quote": " They don't like being broken up."
+  },
+  {
+    "timecode": "13:03",
+    "speaker": "Marge Simpson",
+    "quote": " We've got to be realistic, kids. Who's gonna have a big enough heart to take care of twenty-five puppies?",
+    "directions": [],
+    "raw_quote": " We've got to be realistic, kids. Who's gonna have a big enough heart to take care of twenty-five puppies?"
+  },
+  {
+    "timecode": "13:10",
+    "speaker": "C. Montgomery Burns",
+    "quote": " ...and I know the little fellas would love romping around my many acres, chasing my many cars, drinking from my many toilets...",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " (LAUGHS) ...and I know the little fellas would love romping around my many acres, chasing my many cars, drinking from my many toilets..."
+  },
+  {
+    "timecode": "13:18",
+    "speaker": "Homer Simpson",
+    "quote": " Who wouldn't?",
+    "directions": [
+      "ENTHUSED"
+    ],
+    "raw_quote": " (ENTHUSED) Who wouldn't?"
+  },
+  {
+    "timecode": "13:20",
+    "speaker": "Lisa Simpson",
+    "quote": " Mom, don't give the puppies to him! He'll be mean to them!",
+    "directions": [
+      "SOTTO, TO MARGE"
+    ],
+    "raw_quote": " (SOTTO, TO MARGE) Mom, don't give the puppies to him! He'll be mean to them!"
+  },
+  {
+    "timecode": "13:24",
+    "speaker": "Marge Simpson",
+    "quote": " She's right, Homer. There's something about his face I don't trust.",
+    "directions": [
+      "MURMUR"
+    ],
+    "raw_quote": " (MURMUR) She's right, Homer. There's something about his face I don't trust."
+  },
+  {
+    "timecode": "13:32",
+    "speaker": "Homer Simpson",
+    "quote": " Uh, I'm sorry, Mr. Burns, but you can't have these dogs. Am I fired?",
+    "directions": [
+      "WORRIED",
+      "EYES CLOSED"
+    ],
+    "raw_quote": " (WORRIED) Uh, I'm sorry, Mr. Burns, but you can't have these dogs. (EYES CLOSED) Am I fired?"
+  },
+  {
+    "timecode": "13:40",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Hmm? Oh, of course not. They're your pets, you can do as you wish. Good day, everyone.",
+    "directions": [],
+    "raw_quote": " Hmm? Oh, of course not. They're your pets, you can do as you wish. Good day, everyone."
+  },
+  {
+    "timecode": "13:47",
+    "speaker": "Marge Simpson",
+    "quote": " My, he certainly took that well.",
+    "directions": [],
+    "raw_quote": " My, he certainly took that well."
+  },
+  {
+    "timecode": "13:50",
+    "speaker": "Homer Simpson",
+    "quote": " A little too well, if you ask me. I'm sure he's plotting some brilliant scheme to get those puppies.",
+    "directions": [],
+    "raw_quote": " A little too well, if you ask me. I'm sure he's plotting some brilliant scheme to get those puppies."
+  },
+  {
+    "timecode": "13:58",
+    "speaker": "C. Montgomery Burns",
+    "quote": " There you go. There you go. You too...",
+    "directions": [],
+    "raw_quote": " There you go. There you go. You too..."
+  },
+  {
+    "timecode": "14:01",
+    "speaker": "Waylon Smithers",
+    "quote": " Honestly, sir, you just don't put the effort into your schemes that you used to.",
+    "directions": [],
+    "raw_quote": " Honestly, sir, you just don't put the effort into your schemes that you used to."
+  },
+  {
+    "timecode": "14:17",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Kitchen: int. simpson kitchen - the next morning"
+    ],
+    "raw_quote": "(Simpson Kitchen: int. simpson kitchen - the next morning)"
+  },
+  {
+    "timecode": "14:17",
+    "speaker": "Chief Wiggum",
+    "quote": " Don't worry folks, we'll find your wallet.",
+    "directions": [],
+    "raw_quote": " Don't worry folks, we'll find your wallet."
+  },
+  {
+    "timecode": "14:21",
+    "speaker": "Marge Simpson",
+    "quote": " Dogs! Chief, you're getting powdered sugar all over my floor!",
+    "directions": [],
+    "raw_quote": " Dogs! Chief, you're getting powdered sugar all over my floor!"
+  },
+  {
+    "timecode": "14:25",
+    "speaker": "Chief Wiggum",
+    "quote": " No, I'm not. No, I'm not. I'm, uh, dusting for prints.",
+    "directions": [],
+    "raw_quote": " No, I'm not. No, I'm not. I'm, uh, dusting for prints."
+  },
+  {
+    "timecode": "14:31",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Backyard: ext. simpson backyard - continuous action"
+    ],
+    "raw_quote": "(Simpson Backyard: ext. simpson backyard - continuous action)"
+  },
+  {
+    "timecode": "14:31",
+    "speaker": "Bart Simpson",
+    "quote": " We don't have to wait for the cops - who can track the puppies better than their own mom and dad?",
+    "directions": [],
+    "raw_quote": " We don't have to wait for the cops - who can track the puppies better than their own mom and dad?"
+  },
+  {
+    "timecode": "14:35",
+    "speaker": "Lisa Simpson",
+    "quote": " Let's go find your babies!",
+    "directions": [],
+    "raw_quote": " Let's go find your babies!"
+  },
+  {
+    "timecode": "14:38",
+    "speaker": "Marge Simpson",
+    "quote": " Dinner's on, dogs!",
+    "directions": [],
+    "raw_quote": " Dinner's on, dogs!"
+  },
+  {
+    "timecode": "14:42",
+    "speaker": "Chief Wiggum",
+    "quote": " I'm sorry, kids. I don't think we're ever gonna find your greyhounds. Maybe Mr. Burns will sell you one of the twenty-five he got last night.",
+    "directions": [
+      "SADLY"
+    ],
+    "raw_quote": " (SADLY) I'm sorry, kids. I don't think we're ever gonna find your greyhounds. Maybe Mr. Burns will sell you one of the twenty-five he got last night."
+  },
+  {
+    "timecode": "15:05",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Burns's Gate: Ext. Burns gate - stock shot - a short while later"
+    ],
+    "raw_quote": "(Burns's Gate: Ext. Burns gate - stock shot - a short while later)"
+  },
+  {
+    "timecode": "15:05",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Burns Manor: ext. burns mansion"
+    ],
+    "raw_quote": "(Burns Manor: ext. burns mansion)"
+  },
+  {
+    "timecode": "15:05",
+    "speaker": "Lisa Simpson",
+    "quote": " Who knows what horrible things he's doing to those innocent little puppies?",
+    "directions": [],
+    "raw_quote": " Who knows what horrible things he's doing to those innocent little puppies?"
+  },
+  {
+    "timecode": "15:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Burns's Bathroom: int. burns bathroom - continuous action"
+    ],
+    "raw_quote": "(Burns's Bathroom: int. burns bathroom - continuous action)"
+  },
+  {
+    "timecode": "15:19",
+    "speaker": "C. Montgomery Burns",
+    "quote": " There. Now, wasn't that heavenly? And don't you feel better, too?",
+    "directions": [
+      "FINISHING GIVING BATHS; LAUGHING"
+    ],
+    "raw_quote": " (FINISHING GIVING BATHS; LAUGHING) There. Now, wasn't that heavenly? And don't you feel better, too?"
+  },
+  {
+    "timecode": "15:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Burns Manor: ext. burns mansion - continuous action"
+    ],
+    "raw_quote": "(Burns Manor: ext. burns mansion - continuous action)"
+  },
+  {
+    "timecode": "15:25",
+    "speaker": "Lisa Simpson",
+    "quote": " He's giving them a bath!",
+    "directions": [
+      "SURPRISED"
+    ],
+    "raw_quote": " (SURPRISED) He's giving them a bath!"
+  },
+  {
+    "timecode": "15:28",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Burns's Bathroom: int. burns bathroom - continuous action"
+    ],
+    "raw_quote": "(Burns's Bathroom: int. burns bathroom - continuous action)"
+  },
+  {
+    "timecode": "15:28",
+    "speaker": "C. Montgomery Burns",
+    "quote": " There you are, there ya go li'l' fella, and you...",
+    "directions": [],
+    "raw_quote": " There you are, there ya go li'l' fella, and you..."
+  },
+  {
+    "timecode": "15:37",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Smithers, look! He's standing up! I've never seen anything so adorable. You know who it reminds me of...",
+    "directions": [
+      "GASPS"
+    ],
+    "raw_quote": " (GASPS) Smithers, look! He's standing up! I've never seen anything so adorable. You know who it reminds me of..."
+  },
+  {
+    "timecode": "15:44",
+    "speaker": "Waylon Smithers",
+    "quote": " Benji?",
+    "directions": [
+      "GUESSING"
+    ],
+    "raw_quote": " (GUESSING) Benji?"
+  },
+  {
+    "timecode": "15:44",
+    "speaker": "C. Montgomery Burns",
+    "quote": " No.",
+    "directions": [],
+    "raw_quote": " No."
+  },
+  {
+    "timecode": "15:45",
+    "speaker": "Waylon Smithers",
+    "quote": " Lassie?",
+    "directions": [],
+    "raw_quote": " Lassie?"
+  },
+  {
+    "timecode": "15:46",
+    "speaker": "C. Montgomery Burns",
+    "quote": " No, no, no. A person, you know who I mean.",
+    "directions": [],
+    "raw_quote": " No, no, no. A person, you know who I mean."
+  },
+  {
+    "timecode": "15:49",
+    "speaker": "Waylon Smithers",
+    "quote": " Snoop Doggy Dog? Bob Barker? David Brenner?",
+    "directions": [],
+    "raw_quote": " Snoop Doggy Dog? Bob Barker? David Brenner?"
+  },
+  {
+    "timecode": "15:52",
+    "speaker": "C. Montgomery Burns",
+    "quote": " No, no. The person who's always standing and walking.",
+    "directions": [],
+    "raw_quote": " No, no. The person who's always standing and walking."
+  },
+  {
+    "timecode": "15:56",
+    "speaker": "Waylon Smithers",
+    "quote": " Rory Calhoun?",
+    "directions": [],
+    "raw_quote": " Rory Calhoun?"
+  },
+  {
+    "timecode": "15:58",
+    "speaker": "C. Montgomery Burns",
+    "quote": " That's it! You stay with me. You're the pick of the litter.",
+    "directions": [
+      "HUGS THE PUPPY CLOSE"
+    ],
+    "raw_quote": " That's it! You stay with me. (HUGS THE PUPPY CLOSE) You're the pick of the litter."
+  },
+  {
+    "timecode": "16:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Burns Manor: ext. burns mansion - continuous action"
+    ],
+    "raw_quote": "(Burns Manor: ext. burns mansion - continuous action)"
+  },
+  {
+    "timecode": "16:06",
+    "speaker": "Lisa Simpson",
+    "quote": " Maybe we were wrong about Burns on this one.",
+    "directions": [],
+    "raw_quote": " Maybe we were wrong about Burns on this one."
+  },
+  {
+    "timecode": "16:12",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Burns's Bedroom: INT. BURNS master bedroom - CONTINUOUS ACTION"
+    ],
+    "raw_quote": "(Burns's Bedroom: INT. BURNS master bedroom - CONTINUOUS ACTION)"
+  },
+  {
+    "timecode": "16:12",
+    "speaker": "Waylon Smithers",
+    "quote": " Are you sure you want to go through with this, sir? You do have a very full wardrobe as it is.",
+    "directions": [],
+    "raw_quote": " Are you sure you want to go through with this, sir? You do have a very full wardrobe as it is."
+  },
+  {
+    "timecode": "16:18",
+    "speaker": "C. Montgomery Burns",
+    "quote": " : Yes... But not completely full, for you see... / \"SOME MEN HUNT FOR SPORT, /OTHERS HUNT FOR FOOD / THE ONLY THING I'M HUNTING FOR / IS AN OUTFIT THAT LOOKS GOOD...\"",
+    "directions": [
+      "OMINOUSLY",
+      "TALK/SINGING"
+    ],
+    "raw_quote": " (OMINOUSLY): Yes... But not completely full, for you see... (TALK/SINGING) / \"SOME MEN HUNT FOR SPORT, /OTHERS HUNT FOR FOOD / THE ONLY THING I'M HUNTING FOR / IS AN OUTFIT THAT LOOKS GOOD...\""
+  },
+  {
+    "timecode": "16:43",
+    "speaker": "C. Montgomery Burns",
+    "quote": " / SEE MY VEST, SEE MY VEST / MADE FROM REAL GORILLA CHEST / FEEL THIS SWEATER, THERE'S NO BETTER / THAN AUTHENTIC IRISH SETTER... / SEE THIS HAT, T'WAS MY CAT / MY EVENING WEAR, A VAMPIRE BAT / THESE WHITE SLIPPERS ARE ALBINO / AFRICAN ENDANGERED RHINO... / GRIZZLY BEAR UNDERWEAR / TURTLES NECKS, I'VE GOT MY SHARE / BERET OF POODLE ON MY NOODLE, / IT SHALL REST... / TRY MY RED ROBIN SUIT / IT COMES ONE BREAST OR TWO... / SEE MY VEST, SEE MY VEST, SEE MY VEST / / LIKE... MY... LOAFERS? / FORMER... GOPHERS... / IT WAS THAT OR / SKIN MY CHAUFFEURS",
+    "directions": [
+      "SINGING TO \"BE OUR GUEST\"",
+      "TEMPO SLOWS FOR HIGH KICKING FINISH"
+    ],
+    "raw_quote": " (SINGING TO \"BE OUR GUEST\") / SEE MY VEST, SEE MY VEST / MADE FROM REAL GORILLA CHEST / FEEL THIS SWEATER, THERE'S NO BETTER / THAN AUTHENTIC IRISH SETTER... / SEE THIS HAT, T'WAS MY CAT / MY EVENING WEAR, A VAMPIRE BAT / THESE WHITE SLIPPERS ARE ALBINO / AFRICAN ENDANGERED RHINO... / GRIZZLY BEAR UNDERWEAR / TURTLES NECKS, I'VE GOT MY SHARE / BERET OF POODLE ON MY NOODLE, / IT SHALL REST... / TRY MY RED ROBIN SUIT / IT COMES ONE BREAST OR TWO... / SEE MY VEST, SEE MY VEST, SEE MY VEST / (TEMPO SLOWS FOR HIGH KICKING FINISH) / LIKE... MY... LOAFERS? / FORMER... GOPHERS... / IT WAS THAT OR / SKIN MY CHAUFFEURS"
+  },
+  {
+    "timecode": "17:28",
+    "speaker": "C. Montgomery Burns",
+    "quote": " BUT A GREYHOUND FUR TUXEDO / WOULD BE BEST / SO LET'S PREPARE THESE DOGS...",
+    "directions": [],
+    "raw_quote": " BUT A GREYHOUND FUR TUXEDO / WOULD BE BEST / SO LET'S PREPARE THESE DOGS..."
+  },
+  {
+    "timecode": "17:34",
+    "speaker": "Fat Cheeked Housekeeper",
+    "quote": " KILL TWO FOR MATCHING CLOGS",
+    "directions": [],
+    "raw_quote": " KILL TWO FOR MATCHING CLOGS"
+  },
+  {
+    "timecode": "17:35",
+    "speaker": "C. Montgomery Burns",
+    "quote": " SEE MY VEST... / SEE MY VEST... / OH, PLEASE, WON'T YOU SEE MY VEESSSST!",
+    "directions": [],
+    "raw_quote": " SEE MY VEST... / SEE MY VEST... / OH, PLEASE, WON'T YOU SEE MY VEESSSST!"
+  },
+  {
+    "timecode": "17:45",
+    "speaker": "C. Montgomery Burns",
+    "quote": " I really like the vest.",
+    "directions": [],
+    "raw_quote": " I really like the vest."
+  },
+  {
+    "timecode": "17:47",
+    "speaker": "Waylon Smithers",
+    "quote": " I gathered, yeah.",
+    "directions": [],
+    "raw_quote": " I gathered, yeah."
+  },
+  {
+    "timecode": "17:49",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Burns Manor: EXT. BURNS MANSION - CONTINUOUS ACTION"
+    ],
+    "raw_quote": "(Burns Manor: EXT. BURNS MANSION - CONTINUOUS ACTION)"
+  },
+  {
+    "timecode": "17:49",
+    "speaker": "Lisa Simpson",
+    "quote": " He's gonna make a tuxedo out of our puppies!!!",
+    "directions": [
+      "GASPS"
+    ],
+    "raw_quote": " (GASPS) He's gonna make a tuxedo out of our puppies!!!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "HUMMING TUNE OF BURNS' SONG"
+    ],
+    "raw_quote": " (HUMMING TUNE OF BURNS' SONG)"
+  },
+  {
+    "timecode": "17:54",
+    "speaker": "Lisa Simpson",
+    "quote": " Bart!",
+    "directions": [],
+    "raw_quote": " Bart!"
+  },
+  {
+    "timecode": "17:55",
+    "speaker": "Bart Simpson",
+    "quote": " Sorry. You've gotta admit it's catchy.",
+    "directions": [],
+    "raw_quote": " Sorry. You've gotta admit it's catchy."
+  },
+  {
+    "timecode": "17:57",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Come on, Smithers. Let's go finish the little flea circuses off. Except for \"Little Monty,\" of course. ",
+    "directions": [
+      "RE: DOG IN ARMS",
+      "KISSES PUPPY"
+    ],
+    "raw_quote": " Come on, Smithers. Let's go finish the little flea circuses off. (RE: DOG IN ARMS) Except for \"Little Monty,\" of course. (KISSES PUPPY)"
+  },
+  {
+    "timecode": "18:06",
+    "speaker": "Bart Simpson",
+    "quote": " We've gotta get the dogs outta there!",
+    "directions": [],
+    "raw_quote": " We've gotta get the dogs outta there!"
+  },
+  {
+    "timecode": "18:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Bathroom: int. bathroom"
+    ],
+    "raw_quote": "(Bathroom: int. bathroom)"
+  },
+  {
+    "timecode": "18:11",
+    "speaker": "Lisa Simpson",
+    "quote": " Ssh.",
+    "directions": [],
+    "raw_quote": " Ssh."
+  },
+  {
+    "timecode": "18:12",
+    "speaker": "Bart Simpson",
+    "quote": " Hush, puppies!",
+    "directions": [],
+    "raw_quote": " Hush, puppies!"
+  },
+  {
+    "timecode": "18:14",
+    "speaker": "Lisa Simpson",
+    "quote": " We've gotta get you outta here!",
+    "directions": [],
+    "raw_quote": " We've gotta get you outta here!"
+  },
+  {
+    "timecode": "18:22",
+    "speaker": "Bart Simpson",
+    "quote": " I know, the window!",
+    "directions": [],
+    "raw_quote": " I know, the window!"
+  },
+  {
+    "timecode": "18:24",
+    "speaker": "Lisa Simpson",
+    "quote": " No Bart! What're you doing?",
+    "directions": [],
+    "raw_quote": " No Bart! What're you doing?"
+  },
+  {
+    "timecode": "18:27",
+    "speaker": "Bart Simpson",
+    "quote": " Dogs always land on their feet.",
+    "directions": [],
+    "raw_quote": " Dogs always land on their feet."
+  },
+  {
+    "timecode": "18:28",
+    "speaker": "Lisa Simpson",
+    "quote": " That's cats.",
+    "directions": [],
+    "raw_quote": " That's cats."
+  },
+  {
+    "timecode": "18:29",
+    "speaker": "Bart Simpson",
+    "quote": " No, it's dogs. I'll prove it.",
+    "directions": [],
+    "raw_quote": " No, it's dogs. I'll prove it."
+  },
+  {
+    "timecode": "18:33",
+    "speaker": "Bart Simpson",
+    "quote": " Best two out of three.",
+    "directions": [],
+    "raw_quote": " Best two out of three."
+  },
+  {
+    "timecode": "18:37",
+    "speaker": "Lisa Simpson",
+    "quote": " Bart, Look! A laundry chute!",
+    "directions": [],
+    "raw_quote": " Bart, Look! A laundry chute!"
+  },
+  {
+    "timecode": "18:40",
+    "speaker": "Bart Simpson",
+    "quote": " Okay guys, let's move!",
+    "directions": [],
+    "raw_quote": " Okay guys, let's move!"
+  },
+  {
+    "timecode": "18:49",
+    "speaker": "Bart Simpson",
+    "quote": " Come on! Come on!",
+    "directions": [],
+    "raw_quote": " Come on! Come on!"
+  },
+  {
+    "timecode": "18:52",
+    "speaker": "Lisa Simpson",
+    "quote": " I've got an idea!",
+    "directions": [],
+    "raw_quote": " I've got an idea!"
+  },
+  {
+    "timecode": "19:03",
+    "speaker": "Bart Simpson",
+    "quote": " Sorry, Monty, but you're too big for this ride. ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Sorry, Monty, but you're too big for this ride. (LAUGHS)"
+  },
+  {
+    "timecode": "19:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Laundry Chute: int. laundry chute - continuous action"
+    ],
+    "raw_quote": "(Laundry Chute: int. laundry chute - continuous action)"
+  },
+  {
+    "timecode": "19:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "BASEMENT LAUNDRY ROOM: int. basement laundry room - continuous action"
+    ],
+    "raw_quote": "(BASEMENT LAUNDRY ROOM: int. basement laundry room - continuous action)"
+  },
+  {
+    "timecode": "19:13",
+    "speaker": "Lisa Simpson",
+    "quote": " Quick, let's get...",
+    "directions": [],
+    "raw_quote": " Quick, let's get..."
+  },
+  {
+    "timecode": "19:16",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Going somewhere?",
+    "directions": [],
+    "raw_quote": " Going somewhere?"
+  },
+  {
+    "timecode": "19:17",
+    "speaker": "Bart Simpson",
+    "quote": " That's impossible! How did you get here first?",
+    "directions": [],
+    "raw_quote": " That's impossible! How did you get here first?"
+  },
+  {
+    "timecode": "19:20",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Oh well, there'll be plenty of time for explanations later. Right now, I'll be taking my puppies back.",
+    "directions": [],
+    "raw_quote": " Oh well, there'll be plenty of time for explanations later. Right now, I'll be taking my puppies back."
+  },
+  {
+    "timecode": "19:26",
+    "speaker": "Lisa Simpson",
+    "quote": " But they're ours! You stole them from us!",
+    "directions": [],
+    "raw_quote": " But they're ours! You stole them from us!"
+  },
+  {
+    "timecode": "19:29",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Here's a phone. Call somebody who cares.",
+    "directions": [
+      "HANDS HER A CELLULAR PHONE"
+    ],
+    "raw_quote": " (HANDS HER A CELLULAR PHONE) Here's a phone. Call somebody who cares."
+  },
+  {
+    "timecode": "19:33",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Give me that! Now if you'll excuse us, children, the pups have a date with a fashion knife.",
+    "directions": [],
+    "raw_quote": " Give me that! Now if you'll excuse us, children, the pups have a date with a fashion knife."
+  },
+  {
+    "timecode": "19:40",
+    "speaker": "Bart Simpson",
+    "quote": " There! Now you don't know which one is Little Monty! I guess if you don't want him to be part of your tuxedo, you'll have to let the other dogs go, too!",
+    "directions": [],
+    "raw_quote": " There! Now you don't know which one is Little Monty! I guess if you don't want him to be part of your tuxedo, you'll have to let the other dogs go, too!"
+  },
+  {
+    "timecode": "19:48",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Nice try. C'mon, Little Monty, stand up!",
+    "directions": [],
+    "raw_quote": " Nice try. C'mon, Little Monty, stand up!"
+  },
+  {
+    "timecode": "19:53",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Come on, stand up! Do your trick.",
+    "directions": [],
+    "raw_quote": " Come on, stand up! Do your trick."
+  },
+  {
+    "timecode": "19:56",
+    "speaker": "Lisa Simpson",
+    "quote": " No, don't! Stay down, Monty! Don't get up! Stay down! Stay down, boy! ",
+    "directions": [
+      "ETC."
+    ],
+    "raw_quote": " No, don't! Stay down, Monty! Don't get up! Stay down! Stay down, boy! (ETC.)"
+  },
+  {
+    "timecode": "20:02",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Excellent.",
+    "directions": [],
+    "raw_quote": " Excellent."
+  },
+  {
+    "timecode": "20:10",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Now it's simply a matter of bending down and picking up the one and only...",
+    "directions": [],
+    "raw_quote": " Now it's simply a matter of bending down and picking up the one and only..."
+  },
+  {
+    "timecode": "20:19",
+    "speaker": "C. Montgomery Burns",
+    "quote": " This can't be happening! They're all standing! I can't tell them apart! All right, you win...",
+    "directions": [
+      "SPUTTERS; THEN",
+      "DEFEATED SIGH"
+    ],
+    "raw_quote": " (SPUTTERS; THEN) This can't be happening! They're all standing! I can't tell them apart! (DEFEATED SIGH) All right, you win..."
+  },
+  {
+    "timecode": "20:28",
+    "speaker": "C. Montgomery Burns",
+    "quote": " I'll have to kill them all.",
+    "directions": [],
+    "raw_quote": " I'll have to kill them all."
+  },
+  {
+    "timecode": "20:30",
+    "speaker": "Lisa Simpson",
+    "quote": " Nooo!!",
+    "directions": [],
+    "raw_quote": " Nooo!!"
+  },
+  {
+    "timecode": "20:34",
+    "speaker": "C. Montgomery Burns",
+    "quote": " But they're so wretchedly adorable! Twenty-five little Rory Calhouns. I can't do it!",
+    "directions": [
+      "OFF PUPPIES FACES"
+    ],
+    "raw_quote": " (OFF PUPPIES FACES) But they're so wretchedly adorable! Twenty-five little Rory Calhouns. I can't do it!"
+  },
+  {
+    "timecode": "20:41",
+    "speaker": "C. Montgomery Burns",
+    "quote": " But I can kill you!",
+    "directions": [
+      "TO CHILDREN"
+    ],
+    "raw_quote": " (TO CHILDREN) But I can kill you!"
+  },
+  {
+    "timecode": "20:44",
+    "speaker": "C. Montgomery Burns",
+    "quote": " No, I can't kill you either. Look at you standing there on your hind legs like a couple of Rory Calhouns.",
+    "directions": [],
+    "raw_quote": " No, I can't kill you either. Look at you standing there on your hind legs like a couple of Rory Calhouns."
+  },
+  {
+    "timecode": "20:56",
+    "speaker": "Lisa Simpson",
+    "quote": " Well, Mr. Burns, I hope you've realized the folly of killing innocent animals for fashion.",
+    "directions": [],
+    "raw_quote": " Well, Mr. Burns, I hope you've realized the folly of killing innocent animals for fashion."
+  },
+  {
+    "timecode": "21:01",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Oh, I have. I have! I swear I'll never wear any clothing made from an animal that can do an amusing trick!",
+    "directions": [
+      "FALLS TO KNEES",
+      "SOTTO"
+    ],
+    "raw_quote": " (FALLS TO KNEES) Oh, I have. I have! I swear I'll never wear any clothing made from an animal (SOTTO) that can do an amusing trick!"
+  },
+  {
+    "timecode": "21:09",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Downs Dog Track: ext. dog racing track - SIX months later"
+    ],
+    "raw_quote": "(Springfield Downs Dog Track: ext. dog racing track - SIX months later)"
+  },
+  {
+    "timecode": "21:09",
+    "speaker": "Track Announcer",
+    "quote": " Another victory for Montgomery Burns' champion greyhounds! Twenty-five dogs, twenty-five world champions, which so far have earned their owner over ten million dollars. I'll bet whoever gave him those dogs is kicking themselves now!",
+    "directions": [],
+    "raw_quote": " Another victory for Montgomery Burns' champion greyhounds! Twenty-five dogs, twenty-five world champions, which so far have earned their owner over ten million dollars. I'll bet whoever gave him those dogs is kicking themselves now!"
+  },
+  {
+    "timecode": "21:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Basement: int. simpson basement"
+    ],
+    "raw_quote": "(Simpson Basement: int. simpson basement)"
+  },
+  {
+    "timecode": "21:23",
+    "speaker": "Marge Simpson",
+    "quote": " Homer! For the love of God, no.",
+    "directions": [],
+    "raw_quote": " Homer! For the love of God, no."
+  },
+  {
+    "timecode": "21:26",
+    "speaker": "Homer Simpson",
+    "quote": " Marge, you know that batting this lightbulb is the only thing that cheers me up after giving away those million dollar greyhounds.",
+    "directions": [],
+    "raw_quote": " Marge, you know that batting this lightbulb is the only thing that cheers me up after giving away those million dollar greyhounds."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " (ANNOYED GRUNT)"
+  }
+]

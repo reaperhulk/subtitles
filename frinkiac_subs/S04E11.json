@@ -1,0 +1,2458 @@
+[
+  {
+    "timecode": "01:25",
+    "speaker": "Announcer",
+    "quote": " COPS: in Springfield!",
+    "directions": [],
+    "raw_quote": " COPS: in Springfield!"
+  },
+  {
+    "timecode": "01:30",
+    "speaker": "Singers",
+    "quote": " BAD COPS BAD COPS / BAD COPS BAD COPS / SPRINGFIELD COPS ARE ON THE TAKE / BUT WHAT DO YOU EXPECT FOR THE MONEY WE MAKE / WHETHER IN A CAR OR ON A BUS / WE DON'T MIND USING EXCESSIVE FORCE BAD COPS BAD COPS / BAD COPS BAD COPS...",
+    "directions": [
+      "SING"
+    ],
+    "raw_quote": " (SING) BAD COPS BAD COPS / BAD COPS BAD COPS / SPRINGFIELD COPS ARE ON THE TAKE / BUT WHAT DO YOU EXPECT FOR THE MONEY WE MAKE / WHETHER IN A CAR OR ON A BUS / WE DON'T MIND USING EXCESSIVE FORCE BAD COPS BAD COPS / BAD COPS BAD COPS..."
+  },
+  {
+    "timecode": "01:53",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Suburban House: EXT. suburban HOUSE - NIGHT"
+    ],
+    "raw_quote": "(Suburban House: EXT. suburban HOUSE - NIGHT)"
+  },
+  {
+    "timecode": "01:53",
+    "speaker": "Chief Wiggum",
+    "quote": " All right, boys, time to bag us a cattle rustler.",
+    "directions": [],
+    "raw_quote": " All right, boys, time to bag us a cattle rustler."
+  },
+  {
+    "timecode": "01:58",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " What in God's name are you doing?",
+    "directions": [],
+    "raw_quote": " What in God's name are you doing?"
+  },
+  {
+    "timecode": "02:01",
+    "speaker": "Chief Wiggum",
+    "quote": " Isn't this 742 Evergreen Terrace?",
+    "directions": [
+      "CONFUSED"
+    ],
+    "raw_quote": " (CONFUSED) Isn't this 742 Evergreen Terrace?"
+  },
+  {
+    "timecode": "02:04",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " No, that's next door.",
+    "directions": [],
+    "raw_quote": " No, that's next door."
+  },
+  {
+    "timecode": "02:11",
+    "speaker": "Snake Jailbird",
+    "quote": " Close but no donut, cops.",
+    "directions": [],
+    "raw_quote": " Close but no donut, cops."
+  },
+  {
+    "timecode": "02:15",
+    "speaker": "Chief Wiggum",
+    "quote": " This is \"Papa Bear.\" Put out an A.P.B. for a male suspect; driving a... car of some sort; heading in the direction of a... you know, that place that sells chili. Suspect is hatless. Repeat, hatless.",
+    "directions": [
+      "THINKS"
+    ],
+    "raw_quote": " This is \"Papa Bear.\" Put out an A.P.B. for a male suspect; driving a... (THINKS) car of some sort; heading in the direction of a... you know, that place that sells chili. Suspect is hatless. Repeat, hatless."
+  },
+  {
+    "timecode": "02:29",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - master bedroom - night"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - master bedroom - night)"
+  },
+  {
+    "timecode": "02:29",
+    "speaker": "Homer Simpson",
+    "quote": " I can't wait till they throw his hatless butt in jail.",
+    "directions": [],
+    "raw_quote": " I can't wait till they throw his hatless butt in jail."
+  },
+  {
+    "timecode": "02:33",
+    "speaker": "Marge Simpson",
+    "quote": " Honey, you really shouldn't eat so much in bed.",
+    "directions": [
+      "CONCERNED"
+    ],
+    "raw_quote": " (CONCERNED) Honey, you really shouldn't eat so much in bed."
+  },
+  {
+    "timecode": "02:36",
+    "speaker": "Marge Simpson",
+    "quote": " It's not good for your heart.",
+    "directions": [],
+    "raw_quote": " It's not good for your heart."
+  },
+  {
+    "timecode": "02:38",
+    "speaker": "Homer Simpson",
+    "quote": " My heart is just fine... ",
+    "directions": [
+      "PAINED NOISE"
+    ],
+    "raw_quote": " My heart is just fine... (PAINED NOISE)"
+  },
+  {
+    "timecode": "02:42",
+    "speaker": "Marge Simpson",
+    "quote": " Homie, what is it?",
+    "directions": [],
+    "raw_quote": " Homie, what is it?"
+  },
+  {
+    "timecode": "02:43",
+    "speaker": "Homer Simpson",
+    "quote": " Just workin' the turkey through. There it goes!",
+    "directions": [
+      "POUNDS CHEST, THEN HAPPY"
+    ],
+    "raw_quote": " Just workin' the turkey through. (POUNDS CHEST, THEN HAPPY) There it goes!"
+  },
+  {
+    "timecode": "02:53",
+    "speaker": "Bart Simpson",
+    "quote": " Hey Lis, there was a big train wreck last night. You wanna see the victims?",
+    "directions": [],
+    "raw_quote": " Hey Lis, there was a big train wreck last night. You wanna see the victims?"
+  },
+  {
+    "timecode": "02:56",
+    "speaker": "Lisa Simpson",
+    "quote": " Huh, okay.",
+    "directions": [
+      "SUSPICIOUS"
+    ],
+    "raw_quote": " (SUSPICIOUS) Huh, okay."
+  },
+  {
+    "timecode": "02:58",
+    "speaker": "Lisa Simpson",
+    "quote": " Bart, that's gross!",
+    "directions": [],
+    "raw_quote": " Bart, that's gross!"
+  },
+  {
+    "timecode": "02:59",
+    "speaker": "Bart Simpson",
+    "quote": " You're right. Let's bury them at sea.",
+    "directions": [],
+    "raw_quote": " You're right. Let's bury them at sea."
+  },
+  {
+    "timecode": "03:03",
+    "speaker": "Lisa Simpson",
+    "quote": " Daaad!",
+    "directions": [
+      "SCREAMS"
+    ],
+    "raw_quote": " (SCREAMS) Daaad!"
+  },
+  {
+    "timecode": "03:07",
+    "speaker": "Bart Simpson",
+    "quote": " What's wrong?",
+    "directions": [],
+    "raw_quote": " What's wrong?"
+  },
+  {
+    "timecode": "03:09",
+    "speaker": "Homer Simpson",
+    "quote": " You know that feeling you get when a thousand knives of fire are stabbing you in the heart? I've got that right now. Ooh... bacon!",
+    "directions": [
+      "PLEASANTLY",
+      "THEN"
+    ],
+    "raw_quote": " (PLEASANTLY) You know that feeling you get when a thousand knives of fire are stabbing you in the heart? I've got that right now. (THEN) Ooh... bacon!"
+  },
+  {
+    "timecode": "03:19",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, I prepared a special surprise just for you.",
+    "directions": [],
+    "raw_quote": " Homer, I prepared a special surprise just for you."
+  },
+  {
+    "timecode": "03:22",
+    "speaker": "Homer Simpson",
+    "quote": " It could only be one thing.",
+    "directions": [],
+    "raw_quote": " It could only be one thing."
+  },
+  {
+    "timecode": "03:25",
+    "speaker": "Pig",
+    "quote": " Psst! The best meat's in the rump.",
+    "directions": [],
+    "raw_quote": " Psst! The best meat's in the rump."
+  },
+  {
+    "timecode": "03:29",
+    "speaker": "Marge Simpson",
+    "quote": " Here you go.",
+    "directions": [],
+    "raw_quote": " Here you go."
+  },
+  {
+    "timecode": "03:30",
+    "speaker": "Homer Simpson",
+    "quote": " What the hell is this?",
+    "directions": [],
+    "raw_quote": " What the hell is this?"
+  },
+  {
+    "timecode": "03:32",
+    "speaker": "Marge Simpson",
+    "quote": " Nice healthy oatmeal.",
+    "directions": [],
+    "raw_quote": " Nice healthy oatmeal."
+  },
+  {
+    "timecode": "03:34",
+    "speaker": "Homer Simpson",
+    "quote": " Ooh, oatmeal. What a delightful treat. Ugh, there's a bug in it.",
+    "directions": [
+      "TAKES THE BOWL, THEN LYING"
+    ],
+    "raw_quote": " Ooh, oatmeal. What a delightful treat. (TAKES THE BOWL, THEN LYING) Ugh, there's a bug in it."
+  },
+  {
+    "timecode": "03:40",
+    "speaker": "Marge Simpson",
+    "quote": " No there isn't.",
+    "directions": [],
+    "raw_quote": " No there isn't."
+  },
+  {
+    "timecode": "03:41",
+    "speaker": "Homer Simpson",
+    "quote": " Trust me.",
+    "directions": [],
+    "raw_quote": " Trust me."
+  },
+  {
+    "timecode": "03:46",
+    "speaker": "Bart Simpson",
+    "quote": " Dad, there's a bug on that.",
+    "directions": [],
+    "raw_quote": " Dad, there's a bug on that."
+  },
+  {
+    "timecode": "03:49",
+    "speaker": "Homer Simpson",
+    "quote": " Eh.",
+    "directions": [],
+    "raw_quote": " Eh."
+  },
+  {
+    "timecode": "03:57",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Homer's Car: int. homer's car - LATER"
+    ],
+    "raw_quote": "(Homer's Car: int. homer's car - LATER)"
+  },
+  {
+    "timecode": "03:57",
+    "speaker": "Homer Simpson",
+    "quote": " Come on, come on!",
+    "directions": [],
+    "raw_quote": " Come on, come on!"
+  },
+  {
+    "timecode": "04:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Truck Cab: int. truck cab"
+    ],
+    "raw_quote": "(Truck Cab: int. truck cab)"
+  },
+  {
+    "timecode": "04:06",
+    "speaker": "Hans Moleman",
+    "quote": " Oh dear.",
+    "directions": [],
+    "raw_quote": " Oh dear."
+  },
+  {
+    "timecode": "04:08",
+    "speaker": "Hans Moleman",
+    "quote": " Now, you've done it.",
+    "directions": [],
+    "raw_quote": " Now, you've done it."
+  },
+  {
+    "timecode": "04:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Homer's Car: int. homer car"
+    ],
+    "raw_quote": "(Homer's Car: int. homer car)"
+  },
+  {
+    "timecode": "04:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Gas Station: ext. gas station - day"
+    ],
+    "raw_quote": "(Gas Station: ext. gas station - day)"
+  },
+  {
+    "timecode": "04:19",
+    "speaker": "Homer Simpson",
+    "quote": " I keep hearing this horrible irregular thumping noise.",
+    "directions": [],
+    "raw_quote": " I keep hearing this horrible irregular thumping noise."
+  },
+  {
+    "timecode": "04:23",
+    "speaker": "Attendant",
+    "quote": " It's your heart. And I think it's on its last thump.",
+    "directions": [
+      "WISE GUY VOICE"
+    ],
+    "raw_quote": " (WISE GUY VOICE) It's your heart. And I think it's on its last thump."
+  },
+  {
+    "timecode": "04:27",
+    "speaker": "Homer Simpson",
+    "quote": " Whew! I was afraid it was my transmission.",
+    "directions": [],
+    "raw_quote": " Whew! I was afraid it was my transmission."
+  },
+  {
+    "timecode": "04:30",
+    "speaker": "Gas Station Boy",
+    "quote": " Hey, where's he goin'?",
+    "directions": [],
+    "raw_quote": " Hey, where's he goin'?"
+  },
+  {
+    "timecode": "04:32",
+    "speaker": "Attendant",
+    "quote": " Billy, remember that old Plymouth we just couldn't fix?",
+    "directions": [
+      "FATHERLY"
+    ],
+    "raw_quote": " (FATHERLY) Billy, remember that old Plymouth we just couldn't fix?"
+  },
+  {
+    "timecode": "04:35",
+    "speaker": "Billy",
+    "quote": " We're gonna sell him to Mr. Nickapaupolous?",
+    "directions": [],
+    "raw_quote": " We're gonna sell him to Mr. Nickapaupolous?"
+  },
+  {
+    "timecode": "04:38",
+    "speaker": "Attendant",
+    "quote": " You're a dull boy, Billy.",
+    "directions": [],
+    "raw_quote": " You're a dull boy, Billy."
+  },
+  {
+    "timecode": "04:43",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: ext. nuclear power plant - establishing - day"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: ext. nuclear power plant - establishing - day)"
+  },
+  {
+    "timecode": "04:43",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Look at that pig stuffing his face with donuts on my time. That's right, keep eating. Little do you know you're drawing ever closer to the poisoned donut. There is a poisoned one isn't there, Smithers?",
+    "directions": [
+      "TO MONITOR",
+      "CHUCKLES"
+    ],
+    "raw_quote": " Look at that pig stuffing his face with donuts on my time. (TO MONITOR) That's right, keep eating. Little do you know you're drawing ever closer to the poisoned donut. (CHUCKLES) There is a poisoned one isn't there, Smithers?"
+  },
+  {
+    "timecode": "04:58",
+    "speaker": "Waylon Smithers",
+    "quote": " Uh, no sir. I discussed this with our lawyers. They consider it murder.",
+    "directions": [],
+    "raw_quote": " Uh, no sir. I discussed this with our lawyers. They consider it murder."
+  },
+  {
+    "timecode": "05:01",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Damn their oily hides.",
+    "directions": [],
+    "raw_quote": " Damn their oily hides."
+  },
+  {
+    "timecode": "05:06",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Bring him to me!",
+    "directions": [],
+    "raw_quote": " Bring him to me!"
+  },
+  {
+    "timecode": "05:12",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Relax, Simpson. I just brought you in here for a friendly, \"Hello.\"",
+    "directions": [
+      "CONGENIAL"
+    ],
+    "raw_quote": " (CONGENIAL) Relax, Simpson. I just brought you in here for a friendly, \"Hello.\""
+  },
+  {
+    "timecode": "05:19",
+    "speaker": "C. Montgomery Burns",
+    "quote": " ... and, \"Goodbye!\" You're fired!",
+    "directions": [],
+    "raw_quote": " ... and, \"Goodbye!\" You're fired!"
+  },
+  {
+    "timecode": "05:21",
+    "speaker": "C. Montgomery Burns",
+    "quote": " But wait, perhaps I'm being too hasty. You are highly skilled... at goofing off!",
+    "directions": [],
+    "raw_quote": " But wait, perhaps I'm being too hasty. You are highly skilled... at goofing off!"
+  },
+  {
+    "timecode": "05:30",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Now don't worry, Homer. You're the kind of guy I could really dig. A grave for. Your indolence is inefficacious!",
+    "directions": [],
+    "raw_quote": " Now don't worry, Homer. You're the kind of guy I could really dig. A grave for. Your indolence is inefficacious!"
+  },
+  {
+    "timecode": "05:42",
+    "speaker": "Homer Simpson",
+    "quote": " Huh?",
+    "directions": [],
+    "raw_quote": " Huh?"
+  },
+  {
+    "timecode": "05:42",
+    "speaker": "C. Montgomery Burns",
+    "quote": " That means you're terrible!",
+    "directions": [],
+    "raw_quote": " That means you're terrible!"
+  },
+  {
+    "timecode": "05:53",
+    "speaker": "Waylon Smithers",
+    "quote": " Mr. Burns, I think he's dead.",
+    "directions": [],
+    "raw_quote": " Mr. Burns, I think he's dead."
+  },
+  {
+    "timecode": "05:55",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Oh dear. Send a ham to his widow.",
+    "directions": [],
+    "raw_quote": " Oh dear. Send a ham to his widow."
+  },
+  {
+    "timecode": "05:59",
+    "speaker": "Homer's Spirit",
+    "quote": " Mmm... ham.",
+    "directions": [],
+    "raw_quote": " Mmm... ham."
+  },
+  {
+    "timecode": "06:03",
+    "speaker": "Waylon Smithers",
+    "quote": " No, wait. He's alive.",
+    "directions": [],
+    "raw_quote": " No, wait. He's alive."
+  },
+  {
+    "timecode": "06:05",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Oh good. Cancel the ham.",
+    "directions": [],
+    "raw_quote": " Oh good. Cancel the ham."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " (ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "06:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Street: ext. street - day"
+    ],
+    "raw_quote": "(Street: ext. street - day)"
+  },
+  {
+    "timecode": "06:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Road: ext. road - a little later"
+    ],
+    "raw_quote": "(Road: ext. road - a little later)"
+  },
+  {
+    "timecode": "06:13",
+    "speaker": "Driver",
+    "quote": " Wow, look at that! How do they know to cross there?",
+    "directions": [],
+    "raw_quote": " Wow, look at that! How do they know to cross there?"
+  },
+  {
+    "timecode": "06:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "HOSPITAL EMERGENCY ROOM: int. hospital emergency room - day"
+    ],
+    "raw_quote": "(HOSPITAL EMERGENCY ROOM: int. hospital emergency room - day)"
+  },
+  {
+    "timecode": "06:23",
+    "speaker": "Sideshow Mel",
+    "quote": " I'm telling you, it's not going to work.",
+    "directions": [],
+    "raw_quote": " I'm telling you, it's not going to work."
+  },
+  {
+    "timecode": "06:28",
+    "speaker": "Sideshow Mel",
+    "quote": " See?",
+    "directions": [],
+    "raw_quote": " See?"
+  },
+  {
+    "timecode": "06:29",
+    "speaker": "Eddie",
+    "quote": " He was taking a bite and his jaw locked.",
+    "directions": [],
+    "raw_quote": " He was taking a bite and his jaw locked."
+  },
+  {
+    "timecode": "06:32",
+    "speaker": "Lou",
+    "quote": " Hey, look. I can fit my entire fist in here.",
+    "directions": [],
+    "raw_quote": " Hey, look. I can fit my entire fist in here."
+  },
+  {
+    "timecode": "",
+    "speaker": "Chief Wiggum",
+    "quote": " ",
+    "directions": [
+      "ANGRY OPEN MOUTH NOISES"
+    ],
+    "raw_quote": " (ANGRY OPEN MOUTH NOISES)"
+  },
+  {
+    "timecode": "06:37",
+    "speaker": "Lou",
+    "quote": " What's that, Chief?",
+    "directions": [],
+    "raw_quote": " What's that, Chief?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Chief Wiggum",
+    "quote": " ",
+    "directions": [
+      "ANGRY NOISES CONTINUE"
+    ],
+    "raw_quote": " (ANGRY NOISES CONTINUE)"
+  },
+  {
+    "timecode": "06:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - kitchen - day"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - kitchen - day)"
+  },
+  {
+    "timecode": "06:42",
+    "speaker": "Patty Bouvier",
+    "quote": " Oooh, \"Buy three tubes of Mr. Blister, get one free.\"",
+    "directions": [],
+    "raw_quote": " Oooh, \"Buy three tubes of Mr. Blister, get one free.\""
+  },
+  {
+    "timecode": "06:49",
+    "speaker": "Marge Simpson",
+    "quote": " Hello?... Yes... Oh, dear lord! Homer's in the hospital! They think it's his heart.",
+    "directions": [
+      "INTO THE PHONE",
+      "TO HER SISTERS - VERY WORRIED"
+    ],
+    "raw_quote": " (INTO THE PHONE) Hello?... Yes... Oh, dear lord! (TO HER SISTERS - VERY WORRIED) Homer's in the hospital! They think it's his heart."
+  },
+  {
+    "timecode": "06:57",
+    "speaker": "Selma Bouvier",
+    "quote": " Oh, my God.",
+    "directions": [],
+    "raw_quote": " Oh, my God."
+  },
+  {
+    "timecode": "06:58",
+    "speaker": "Patty Bouvier",
+    "quote": " What?",
+    "directions": [],
+    "raw_quote": " What?"
+  },
+  {
+    "timecode": "07:00",
+    "speaker": "Selma Bouvier",
+    "quote": " Five cents off wax paper.",
+    "directions": [],
+    "raw_quote": " Five cents off wax paper."
+  },
+  {
+    "timecode": "07:04",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Emergency Room: INT. EMERGENCY ROOM - day"
+    ],
+    "raw_quote": "(Emergency Room: INT. EMERGENCY ROOM - day)"
+  },
+  {
+    "timecode": "07:04",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Clear!",
+    "directions": [],
+    "raw_quote": " Clear!"
+  },
+  {
+    "timecode": "07:08",
+    "speaker": "Homer Simpson",
+    "quote": " More.",
+    "directions": [],
+    "raw_quote": " More."
+  },
+  {
+    "timecode": "07:11",
+    "speaker": "Homer Simpson",
+    "quote": " Thank you.",
+    "directions": [],
+    "raw_quote": " Thank you."
+  },
+  {
+    "timecode": "07:13",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, Homie, I was so frightened.",
+    "directions": [],
+    "raw_quote": " Oh, Homie, I was so frightened."
+  },
+  {
+    "timecode": "07:16",
+    "speaker": "Homer Simpson",
+    "quote": " Marge, my whole life flashed before my eyes.",
+    "directions": [],
+    "raw_quote": " Marge, my whole life flashed before my eyes."
+  },
+  {
+    "timecode": "07:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hospital: int. hospital - day"
+    ],
+    "raw_quote": "(Hospital: int. hospital - day)"
+  },
+  {
+    "timecode": "07:19",
+    "speaker": "Grampa Simpson",
+    "quote": " Aw, little Homer.",
+    "directions": [],
+    "raw_quote": " Aw, little Homer."
+  },
+  {
+    "timecode": "07:25",
+    "speaker": "Grampa Simpson",
+    "quote": " How'd he get that?!",
+    "directions": [],
+    "raw_quote": " How'd he get that?!"
+  },
+  {
+    "timecode": "07:29",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Cathedral: int. cathedral - night"
+    ],
+    "raw_quote": "(Cathedral: int. cathedral - night)"
+  },
+  {
+    "timecode": "07:29",
+    "speaker": "Homer Simpson",
+    "quote": " FALL ON YOUR KNEES / OH HEAR THE ANGELS' VOICES /",
+    "directions": [
+      "BOY SOPRANO VOICE"
+    ],
+    "raw_quote": " (BOY SOPRANO VOICE) FALL ON YOUR KNEES / OH HEAR THE ANGELS' VOICES /"
+  },
+  {
+    "timecode": "07:37",
+    "speaker": "Grampa Simpson",
+    "quote": " What a voice. Young Homer is going to make me a millionaire.",
+    "directions": [],
+    "raw_quote": " What a voice. Young Homer is going to make me a millionaire."
+  },
+  {
+    "timecode": "07:43",
+    "speaker": "Homer Simpson",
+    "quote": " OH NI-IGHT, DI- Vine. Hey, my voice just changed. ",
+    "directions": [
+      "VOICE CRACKS",
+      "HOMER'S ADULT VOICE",
+      "SINGS BADLY, LIKE HOMER"
+    ],
+    "raw_quote": " OH NI-IGHT, DI- (VOICE CRACKS) Vine. (HOMER'S ADULT VOICE) Hey, my voice just changed. (SINGS BADLY, LIKE HOMER)"
+  },
+  {
+    "timecode": "07:50",
+    "speaker": "Homer Simpson",
+    "quote": " OH NIGHT, WHEN CHRIST WAS BORN...",
+    "directions": [],
+    "raw_quote": " OH NIGHT, WHEN CHRIST WAS BORN..."
+  },
+  {
+    "timecode": "07:55",
+    "speaker": "Grampa Simpson",
+    "quote": " Dagnabit!",
+    "directions": [],
+    "raw_quote": " Dagnabit!"
+  },
+  {
+    "timecode": "07:56",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Mr. Simpson, I'm afraid you've just had a mild heart attack.",
+    "directions": [],
+    "raw_quote": " Mr. Simpson, I'm afraid you've just had a mild heart attack."
+  },
+  {
+    "timecode": "08:00",
+    "speaker": "Homer Simpson",
+    "quote": " But I'm out of the woods now, right? I mean, whatever doesn't kill me can only make me stronger.",
+    "directions": [],
+    "raw_quote": " But I'm out of the woods now, right? I mean, whatever doesn't kill me can only make me stronger."
+  },
+  {
+    "timecode": "08:05",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Oh no, quite the opposite. It's made you weak as a kitten. Look!",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " Oh no, quite the opposite. It's made you weak as a kitten. (CHUCKLES) Look!"
+  },
+  {
+    "timecode": "08:11",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, c'mon, quit it.",
+    "directions": [
+      "WEAKLY"
+    ],
+    "raw_quote": " (WEAKLY) Hey, c'mon, quit it."
+  },
+  {
+    "timecode": "08:13",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Coochy coochy coo! ",
+    "directions": [
+      "ETC."
+    ],
+    "raw_quote": " Coochy coochy coo! (ETC.)"
+  },
+  {
+    "timecode": "08:14",
+    "speaker": "Homer Simpson",
+    "quote": " Stop. Please stop.",
+    "directions": [
+      "WEAK"
+    ],
+    "raw_quote": " (WEAK) Stop. Please stop."
+  },
+  {
+    "timecode": "08:16",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Oh, you swing like a girl. Come on, now.",
+    "directions": [],
+    "raw_quote": " Oh, you swing like a girl. Come on, now."
+  },
+  {
+    "timecode": "08:19",
+    "speaker": "Homer Simpson",
+    "quote": " Please, have mercy.",
+    "directions": [],
+    "raw_quote": " Please, have mercy."
+  },
+  {
+    "timecode": "08:20",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Got your nose. ",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " Got your nose. (CHUCKLES)"
+  },
+  {
+    "timecode": "08:22",
+    "speaker": "Homer Simpson",
+    "quote": " Not funny.",
+    "directions": [],
+    "raw_quote": " Not funny."
+  },
+  {
+    "timecode": "08:23",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " How 'bout this little bee? ",
+    "directions": [
+      "BUZZING SOUND"
+    ],
+    "raw_quote": " How 'bout this little bee? (BUZZING SOUND)"
+  },
+  {
+    "timecode": "08:26",
+    "speaker": "Homer Simpson",
+    "quote": " No! Remember your hippopotamus oath.",
+    "directions": [],
+    "raw_quote": " No! Remember your hippopotamus oath."
+  },
+  {
+    "timecode": "08:30",
+    "speaker": "Marge Simpson",
+    "quote": " Can't you do something for him?",
+    "directions": [
+      "WORRIED MURMUR"
+    ],
+    "raw_quote": " (WORRIED MURMUR) Can't you do something for him?"
+  },
+  {
+    "timecode": "08:33",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Well, we can't fix his heart, but we can tell you exactly how damaged it is.",
+    "directions": [],
+    "raw_quote": " Well, we can't fix his heart, but we can tell you exactly how damaged it is."
+  },
+  {
+    "timecode": "08:38",
+    "speaker": "Homer Simpson",
+    "quote": " What an age we live in!",
+    "directions": [
+      "IMPRESSED"
+    ],
+    "raw_quote": " (IMPRESSED) What an age we live in!"
+  },
+  {
+    "timecode": "08:40",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hospital: int. hospital"
+    ],
+    "raw_quote": "(Hospital: int. hospital)"
+  },
+  {
+    "timecode": "08:40",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Now, what you see here is the radioactive dye we injected, flowing through your husband's circulatory system.",
+    "directions": [],
+    "raw_quote": " Now, what you see here is the radioactive dye we injected, flowing through your husband's circulatory system."
+  },
+  {
+    "timecode": "08:47",
+    "speaker": "Nurse",
+    "quote": " But doctor, I haven't injected the dye yet!",
+    "directions": [
+      "HOLDING A GLOWING SYRINGE"
+    ],
+    "raw_quote": " (HOLDING A GLOWING SYRINGE) But doctor, I haven't injected the dye yet!"
+  },
+  {
+    "timecode": "08:49",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Good lord.",
+    "directions": [
+      "QUIETLY"
+    ],
+    "raw_quote": " (QUIETLY) Good lord."
+  },
+  {
+    "timecode": "08:51",
+    "speaker": "Homer Simpson",
+    "quote": " Hi.",
+    "directions": [
+      "CHEERFUL"
+    ],
+    "raw_quote": " (CHEERFUL) Hi."
+  },
+  {
+    "timecode": "08:52",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Now Homer, this is a new body fat analysis test. I start you jiggling, and measure how long it takes to stop.",
+    "directions": [],
+    "raw_quote": " Now Homer, this is a new body fat analysis test. I start you jiggling, and measure how long it takes to stop."
+  },
+  {
+    "timecode": "09:03",
+    "speaker": "Homer Simpson",
+    "quote": " Woo hoo, look at that blubber fly.",
+    "directions": [],
+    "raw_quote": " Woo hoo, look at that blubber fly."
+  },
+  {
+    "timecode": "09:06",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Yes. Nurse, cancel my one o'clock.",
+    "directions": [
+      "GRIM",
+      "INTO INTERCOM"
+    ],
+    "raw_quote": " (GRIM) Yes. (INTO INTERCOM) Nurse, cancel my one o'clock."
+  },
+  {
+    "timecode": "09:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Dr. Hibbert's Office: int. dr. hibbert's office"
+    ],
+    "raw_quote": "(Dr. Hibbert's Office: int. dr. hibbert's office)"
+  },
+  {
+    "timecode": "09:10",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Homer, I'm afraid you'll have to undergo a coronary by-pass operation.",
+    "directions": [],
+    "raw_quote": " Homer, I'm afraid you'll have to undergo a coronary by-pass operation."
+  },
+  {
+    "timecode": "09:14",
+    "speaker": "Homer Simpson",
+    "quote": " Say it in English, doc.",
+    "directions": [],
+    "raw_quote": " Say it in English, doc."
+  },
+  {
+    "timecode": "09:16",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " You're going to need open heart surgery!",
+    "directions": [],
+    "raw_quote": " You're going to need open heart surgery!"
+  },
+  {
+    "timecode": "09:18",
+    "speaker": "Homer Simpson",
+    "quote": " Spare me your medical mumbo jumbo.",
+    "directions": [],
+    "raw_quote": " Spare me your medical mumbo jumbo."
+  },
+  {
+    "timecode": "09:20",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " We're going to cut you open and tinker with your ticker.",
+    "directions": [],
+    "raw_quote": " We're going to cut you open and tinker with your ticker."
+  },
+  {
+    "timecode": "09:23",
+    "speaker": "Homer Simpson",
+    "quote": " Could you dumb it down a shade?",
+    "directions": [],
+    "raw_quote": " Could you dumb it down a shade?"
+  },
+  {
+    "timecode": "09:25",
+    "speaker": "Marge Simpson",
+    "quote": " Doctor, we'll do whatever it takes to get my Homie well.",
+    "directions": [
+      "INTERJECTING"
+    ],
+    "raw_quote": " (INTERJECTING) Doctor, we'll do whatever it takes to get my Homie well."
+  },
+  {
+    "timecode": "09:28",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Good. I must warn you though, the procedure will cost you upwards of thirty thousand dollars.",
+    "directions": [
+      "SOMBER"
+    ],
+    "raw_quote": " Good. (SOMBER) I must warn you though, the procedure will cost you upwards of thirty thousand dollars."
+  },
+  {
+    "timecode": "09:38",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " I'm afraid it's now forty thousand.",
+    "directions": [],
+    "raw_quote": " I'm afraid it's now forty thousand."
+  },
+  {
+    "timecode": "09:47",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: ext. Simpson house - night - establishing"
+    ],
+    "raw_quote": "(Simpson Home: ext. Simpson house - night - establishing)"
+  },
+  {
+    "timecode": "09:47",
+    "speaker": "Homer Simpson",
+    "quote": " Okay, okay. We need forty-thousand dollars. Now, how much do we have in the checkbook?",
+    "directions": [],
+    "raw_quote": " Okay, okay. We need forty-thousand dollars. Now, how much do we have in the checkbook?"
+  },
+  {
+    "timecode": "09:51",
+    "speaker": "Marge Simpson",
+    "quote": " Seventy dollars.",
+    "directions": [],
+    "raw_quote": " Seventy dollars."
+  },
+  {
+    "timecode": "09:52",
+    "speaker": "Homer Simpson",
+    "quote": " Hmm, have we deposited any forty-thousand dollar checks that haven't cleared yet?",
+    "directions": [],
+    "raw_quote": " Hmm, have we deposited any forty-thousand dollar checks that haven't cleared yet?"
+  },
+  {
+    "timecode": "09:57",
+    "speaker": "Marge Simpson",
+    "quote": " No. Don't you have health insurance at work?",
+    "directions": [],
+    "raw_quote": " No. Don't you have health insurance at work?"
+  },
+  {
+    "timecode": "10:00",
+    "speaker": "Homer Simpson",
+    "quote": " Well actually, we gave it all up for a pinball machine in the lounge.",
+    "directions": [],
+    "raw_quote": " Well actually, we gave it all up for a pinball machine in the lounge."
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " (ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "10:04",
+    "speaker": "Homer Simpson",
+    "quote": " Don't worry, Marge. America's healthcare system is second only to Japan... Canada, Sweden, Great Britain. Well, all of Europe. But you can thank your lucky stars we don't live in Paraguay.",
+    "directions": [],
+    "raw_quote": " Don't worry, Marge. America's healthcare system is second only to Japan... Canada, Sweden, Great Britain. Well, all of Europe. But you can thank your lucky stars we don't live in Paraguay."
+  },
+  {
+    "timecode": "10:26",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MERRY WIDOW INSURANCE COMPANY: ext. merry widow insurance company - day"
+    ],
+    "raw_quote": "(MERRY WIDOW INSURANCE COMPANY: ext. merry widow insurance company - day)"
+  },
+  {
+    "timecode": "10:26",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "INSURANCE COMPANY: int. insurance company - continuous"
+    ],
+    "raw_quote": "(INSURANCE COMPANY: int. insurance company - continuous)"
+  },
+  {
+    "timecode": "10:26",
+    "speaker": "Insurance Agent",
+    "quote": " Now before we give you health insurance, I have to ask you a few questions.",
+    "directions": [],
+    "raw_quote": " Now before we give you health insurance, I have to ask you a few questions."
+  },
+  {
+    "timecode": "10:29",
+    "speaker": "Homer Simpson",
+    "quote": " Questions? Questions? Oh gee, my whole scheme down the... I mean, ask away.",
+    "directions": [
+      "UPSET",
+      "SMOOTHLY"
+    ],
+    "raw_quote": " (UPSET) Questions? Questions? Oh gee, my whole scheme down the... (SMOOTHLY) I mean, ask away."
+  },
+  {
+    "timecode": "10:35",
+    "speaker": "Insurance Agent",
+    "quote": " Oh good. Now, under \"Heart Attacks\" you crossed out \"3\" and wrote \"0\".",
+    "directions": [
+      "LOOKS AT FORM"
+    ],
+    "raw_quote": " Oh good. (LOOKS AT FORM) Now, under \"Heart Attacks\" you crossed out \"3\" and wrote \"0\"."
+  },
+  {
+    "timecode": "10:37",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, I thought that said, \"Brain Hemorrhages.\"",
+    "directions": [],
+    "raw_quote": " Oh, I thought that said, \"Brain Hemorrhages.\""
+  },
+  {
+    "timecode": "10:44",
+    "speaker": "Insurance Agent",
+    "quote": " Uh huh. And uh, do you drink?",
+    "directions": [],
+    "raw_quote": " Uh huh. And uh, do you drink?"
+  },
+  {
+    "timecode": "10:46",
+    "speaker": "Homer Simpson",
+    "quote": " I do enjoy a snifter of port at Christmas.",
+    "directions": [],
+    "raw_quote": " I do enjoy a snifter of port at Christmas."
+  },
+  {
+    "timecode": "10:50",
+    "speaker": "Insurance Agent",
+    "quote": " All right. Here's your policy.",
+    "directions": [],
+    "raw_quote": " All right. Here's your policy."
+  },
+  {
+    "timecode": "10:51",
+    "speaker": "Homer Simpson",
+    "quote": " Now let me tell you something, Mr. Sucker... I just...",
+    "directions": [
+      "SMUG"
+    ],
+    "raw_quote": " (SMUG) Now let me tell you something, Mr. Sucker... I just..."
+  },
+  {
+    "timecode": "10:54",
+    "speaker": "Insurance Agent",
+    "quote": " Oh, hold on there, you still have to sign it.",
+    "directions": [],
+    "raw_quote": " Oh, hold on there, you still have to sign it."
+  },
+  {
+    "timecode": "10:57",
+    "speaker": "Homer Simpson",
+    "quote": " Oh. I...",
+    "directions": [],
+    "raw_quote": " Oh. I..."
+  },
+  {
+    "timecode": "11:01",
+    "speaker": "Homer Simpson",
+    "quote": " Must... sign... policy...",
+    "directions": [
+      "WITH DIFFICULTY"
+    ],
+    "raw_quote": " (WITH DIFFICULTY) Must... sign... policy..."
+  },
+  {
+    "timecode": "11:02",
+    "speaker": "Insurance Agent",
+    "quote": " Sir, I'm sorry, we can't insure you.",
+    "directions": [],
+    "raw_quote": " Sir, I'm sorry, we can't insure you."
+  },
+  {
+    "timecode": "11:05",
+    "speaker": "Homer Simpson",
+    "quote": " I made an \"H\".",
+    "directions": [],
+    "raw_quote": " I made an \"H\"."
+  },
+  {
+    "timecode": "11:05",
+    "speaker": "Insurance Agent",
+    "quote": " No, that doesn't count.",
+    "directions": [],
+    "raw_quote": " No, that doesn't count."
+  },
+  {
+    "timecode": "11:08",
+    "speaker": "Homer Simpson",
+    "quote": " Looks like an \"X.\"",
+    "directions": [],
+    "raw_quote": " Looks like an \"X.\""
+  },
+  {
+    "timecode": "11:08",
+    "speaker": "Insurance Agent",
+    "quote": " We'd better get you to a hospital.",
+    "directions": [],
+    "raw_quote": " We'd better get you to a hospital."
+  },
+  {
+    "timecode": "11:11",
+    "speaker": "Homer Simpson",
+    "quote": " Can I have a free calendar?",
+    "directions": [],
+    "raw_quote": " Can I have a free calendar?"
+  },
+  {
+    "timecode": "11:13",
+    "speaker": "Insurance Agent",
+    "quote": " Okay.",
+    "directions": [],
+    "raw_quote": " Okay."
+  },
+  {
+    "timecode": "11:14",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "HOSPITAL EMERGENCY ROOM: int. hospital emergency room"
+    ],
+    "raw_quote": "(HOSPITAL EMERGENCY ROOM: int. hospital emergency room)"
+  },
+  {
+    "timecode": "11:14",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Clear!",
+    "directions": [],
+    "raw_quote": " Clear!"
+  },
+  {
+    "timecode": "11:16",
+    "speaker": "Homer Simpson",
+    "quote": " Oh doctor, I was in a wonderful place filled with fire and brimstone. And there were all these guys in red pajamas sticking pitchforks in my butt.",
+    "directions": [
+      "DREAMILY"
+    ],
+    "raw_quote": " (DREAMILY) Oh doctor, I was in a wonderful place filled with fire and brimstone. And there were all these guys in red pajamas sticking pitchforks in my butt."
+  },
+  {
+    "timecode": "11:26",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Mr. Simpson, you must get that operation as soon as possible.",
+    "directions": [],
+    "raw_quote": " Mr. Simpson, you must get that operation as soon as possible."
+  },
+  {
+    "timecode": "11:30",
+    "speaker": "Homer Simpson",
+    "quote": " I can't afford it. Maybe I should buy one of those machines.",
+    "directions": [
+      "RE: DEFIBRILLATOR"
+    ],
+    "raw_quote": " I can't afford it. (RE: DEFIBRILLATOR) Maybe I should buy one of those machines."
+  },
+  {
+    "timecode": "11:34",
+    "speaker": "Homer Simpson",
+    "quote": " Oh yeah, that's the stuff.",
+    "directions": [],
+    "raw_quote": " Oh yeah, that's the stuff."
+  },
+  {
+    "timecode": "11:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "First Church of Springfield: int. springfield church - day"
+    ],
+    "raw_quote": "(First Church of Springfield: int. springfield church - day)"
+  },
+  {
+    "timecode": "11:37",
+    "speaker": "Homer Simpson",
+    "quote": " Now, I know I haven't been the best Christian. In fact, when you're up there \"Blah, blah, blah-ing\" I'm usually doodling or mentally undressing the female parishioners... well, anyhoo... can I have forty-thousand dollars?",
+    "directions": [],
+    "raw_quote": " Now, I know I haven't been the best Christian. In fact, when you're up there \"Blah, blah, blah-ing\" I'm usually doodling or mentally undressing the female parishioners... well, anyhoo... can I have forty-thousand dollars?"
+  },
+  {
+    "timecode": "11:49",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SPRINGFIELD TEMPLE: int. springfield temple - day"
+    ],
+    "raw_quote": "(SPRINGFIELD TEMPLE: int. springfield temple - day)"
+  },
+  {
+    "timecode": "11:49",
+    "speaker": "Homer Simpson",
+    "quote": " Now, I know I haven't been the best Jew... but I rented \"Fiddler on the Roof\", and I will watch it. Anyway, can I have forty-thousand dollars?",
+    "directions": [],
+    "raw_quote": " Now, I know I haven't been the best Jew... but I rented \"Fiddler on the Roof\", and I will watch it. Anyway, can I have forty-thousand dollars?"
+  },
+  {
+    "timecode": "11:58",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Buddhist Temple: Int. buddhist temple"
+    ],
+    "raw_quote": "(Springfield Buddhist Temple: Int. buddhist temple)"
+  },
+  {
+    "timecode": "11:58",
+    "speaker": "Homer Simpson",
+    "quote": " Now, I know I haven't been the best... aw, forget it.",
+    "directions": [],
+    "raw_quote": " Now, I know I haven't been the best... aw, forget it."
+  },
+  {
+    "timecode": "12:03",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. simpson house - living room - night"
+    ],
+    "raw_quote": "(Simpson Home: Int. simpson house - living room - night)"
+  },
+  {
+    "timecode": "12:03",
+    "speaker": "Marge Simpson",
+    "quote": " Honey, did you have any luck?",
+    "directions": [],
+    "raw_quote": " Honey, did you have any luck?"
+  },
+  {
+    "timecode": "12:05",
+    "speaker": "Homer Simpson",
+    "quote": " No, but the rabbi gave me this.",
+    "directions": [],
+    "raw_quote": " No, but the rabbi gave me this."
+  },
+  {
+    "timecode": "12:07",
+    "speaker": "Bart Simpson",
+    "quote": " What is it, Dad?",
+    "directions": [],
+    "raw_quote": " What is it, Dad?"
+  },
+  {
+    "timecode": "12:08",
+    "speaker": "Homer Simpson",
+    "quote": " Son, they call it a \"droodle\". Whoo hoo! Look at him go!",
+    "directions": [
+      "INSTRUCTIVE",
+      "SPINS IT"
+    ],
+    "raw_quote": " (INSTRUCTIVE) Son, they call it a \"droodle\". (SPINS IT) Whoo hoo! Look at him go!"
+  },
+  {
+    "timecode": "12:14",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Hi Everybody. Are you looking for a way to slash the cost of your medical expenses?",
+    "directions": [],
+    "raw_quote": " Hi Everybody. Are you looking for a way to slash the cost of your medical expenses?"
+  },
+  {
+    "timecode": "12:19",
+    "speaker": "Homer Simpson",
+    "quote": " Bo-ring.",
+    "directions": [],
+    "raw_quote": " Bo-ring."
+  },
+  {
+    "timecode": "12:20",
+    "speaker": "Marge Simpson",
+    "quote": " Wait, this might be the answer we're looking for.",
+    "directions": [],
+    "raw_quote": " Wait, this might be the answer we're looking for."
+  },
+  {
+    "timecode": "12:22",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " I will perform any operation for One twenty-nine ninety-five. Come in for brain surgery and receive a free Chinese finger trap.",
+    "directions": [],
+    "raw_quote": " I will perform any operation for One twenty-nine ninety-five. Come in for brain surgery and receive a free Chinese finger trap."
+  },
+  {
+    "timecode": "",
+    "speaker": "Man",
+    "quote": " ",
+    "directions": [
+      "GROWLS"
+    ],
+    "raw_quote": " (GROWLS)"
+  },
+  {
+    "timecode": "12:34",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Okay, friend. You tried the best, now try the rest. Call 1-600-DOCTORB. The \"B\" is for bargain!",
+    "directions": [],
+    "raw_quote": " Okay, friend. You tried the best, now try the rest. Call 1-600-DOCTORB. The \"B\" is for bargain!"
+  },
+  {
+    "timecode": "12:42",
+    "speaker": "Homer Simpson",
+    "quote": " Well, Marge, we could do worse.",
+    "directions": [],
+    "raw_quote": " Well, Marge, we could do worse."
+  },
+  {
+    "timecode": "12:47",
+    "speaker": "Marge Simpson",
+    "quote": " How?",
+    "directions": [],
+    "raw_quote": " How?"
+  },
+  {
+    "timecode": "12:48",
+    "speaker": "Homer Simpson",
+    "quote": " Uh... some dog could do the operation.",
+    "directions": [],
+    "raw_quote": " Uh... some dog could do the operation."
+  },
+  {
+    "timecode": "12:52",
+    "speaker": "Lisa Simpson",
+    "quote": " Operation? What are you talking about?",
+    "directions": [],
+    "raw_quote": " Operation? What are you talking about?"
+  },
+  {
+    "timecode": "12:54",
+    "speaker": "Homer Simpson",
+    "quote": " Kids, I have something to tell you.",
+    "directions": [],
+    "raw_quote": " Kids, I have something to tell you."
+  },
+  {
+    "timecode": "12:56",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, Homie, I don't know. This might upset them.",
+    "directions": [],
+    "raw_quote": " Oh, Homie, I don't know. This might upset them."
+  },
+  {
+    "timecode": "12:59",
+    "speaker": "Bart Simpson",
+    "quote": " Nothing you say can upset us. We're the MTV generation.",
+    "directions": [],
+    "raw_quote": " Nothing you say can upset us. We're the MTV generation."
+  },
+  {
+    "timecode": "13:03",
+    "speaker": "Lisa Simpson",
+    "quote": " We feel neither highs nor lows.",
+    "directions": [],
+    "raw_quote": " We feel neither highs nor lows."
+  },
+  {
+    "timecode": "13:04",
+    "speaker": "Homer Simpson",
+    "quote": " Really? What's it like?",
+    "directions": [],
+    "raw_quote": " Really? What's it like?"
+  },
+  {
+    "timecode": "13:05",
+    "speaker": "Lisa Simpson",
+    "quote": " Eh.",
+    "directions": [],
+    "raw_quote": " Eh."
+  },
+  {
+    "timecode": "13:06",
+    "speaker": "Homer Simpson",
+    "quote": " Well, you kids are old enough to know the truth and I'm not gonna sugarcoat it.",
+    "directions": [],
+    "raw_quote": " Well, you kids are old enough to know the truth and I'm not gonna sugarcoat it."
+  },
+  {
+    "timecode": "13:11",
+    "speaker": "Homer Simpson",
+    "quote": " So the tiny Aorta Fairies will take Mr. Leg Vein on a long trip to get married to Princess Left Ventricle.",
+    "directions": [],
+    "raw_quote": " So the tiny Aorta Fairies will take Mr. Leg Vein on a long trip to get married to Princess Left Ventricle."
+  },
+  {
+    "timecode": "13:19",
+    "speaker": "Lisa Simpson",
+    "quote": " Dad, are you trying to tell us you're getting a coronary-artery bypass graft?",
+    "directions": [
+      "UPSET"
+    ],
+    "raw_quote": " (UPSET) Dad, are you trying to tell us you're getting a coronary-artery bypass graft?"
+  },
+  {
+    "timecode": "13:23",
+    "speaker": "Homer Simpson",
+    "quote": " Uh, yeah.",
+    "directions": [],
+    "raw_quote": " Uh, yeah."
+  },
+  {
+    "timecode": "13:24",
+    "speaker": "Bart Simpson",
+    "quote": " Oh, no. What if they botch it? I won't have a dad... for a while.",
+    "directions": [
+      "UPSET"
+    ],
+    "raw_quote": " (UPSET) Oh, no. What if they botch it? I won't have a dad... for a while."
+  },
+  {
+    "timecode": "13:33",
+    "speaker": "Homer Simpson",
+    "quote": " Kids. Kids... I'm not gonna die. That only happens to bad people.",
+    "directions": [],
+    "raw_quote": " Kids. Kids... I'm not gonna die. That only happens to bad people."
+  },
+  {
+    "timecode": "13:38",
+    "speaker": "Bart Simpson",
+    "quote": " What about Abraham Lincoln?",
+    "directions": [],
+    "raw_quote": " What about Abraham Lincoln?"
+  },
+  {
+    "timecode": "13:40",
+    "speaker": "Homer Simpson",
+    "quote": " Uh... he sold poison milk to school children.",
+    "directions": [],
+    "raw_quote": " Uh... he sold poison milk to school children."
+  },
+  {
+    "timecode": "13:42",
+    "speaker": "Marge Simpson",
+    "quote": " Homer!",
+    "directions": [],
+    "raw_quote": " Homer!"
+  },
+  {
+    "timecode": "13:44",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, I'm just trying to make it easier on 'em.",
+    "directions": [],
+    "raw_quote": " Hey, I'm just trying to make it easier on 'em."
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield General Hospital: ext. springfield general hospital - establishing - day"
+    ],
+    "raw_quote": "(Springfield General Hospital: ext. springfield general hospital - establishing - day)"
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hospital: int. hospital - homer's room"
+    ],
+    "raw_quote": "(Hospital: int. hospital - homer's room)"
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "Homer Simpson",
+    "quote": " Bed goes up. Bed goes down. Bed goes up. Bed goes down. Bed goes up. Bed goes down. Bed goes up. Bed goes down.",
+    "directions": [],
+    "raw_quote": " Bed goes up. Bed goes down. Bed goes up. Bed goes down. Bed goes up. Bed goes down. Bed goes up. Bed goes down."
+  },
+  {
+    "timecode": "13:53",
+    "speaker": "Ned Flanders",
+    "quote": " Homer Simpson! Well, if that don't put the \"dink\" in co-inky-dink.",
+    "directions": [],
+    "raw_quote": " Homer Simpson! Well, if that don't put the \"dink\" in co-inky-dink."
+  },
+  {
+    "timecode": "13:59",
+    "speaker": "Homer Simpson",
+    "quote": " Flanders? What are you doin' here?",
+    "directions": [],
+    "raw_quote": " Flanders? What are you doin' here?"
+  },
+  {
+    "timecode": "14:01",
+    "speaker": "Ned Flanders",
+    "quote": " I'm having a kidney and a lung removed.",
+    "directions": [],
+    "raw_quote": " I'm having a kidney and a lung removed."
+  },
+  {
+    "timecode": "14:03",
+    "speaker": "Homer Simpson",
+    "quote": " Who are you donating them to?",
+    "directions": [],
+    "raw_quote": " Who are you donating them to?"
+  },
+  {
+    "timecode": "14:05",
+    "speaker": "Ned Flanders",
+    "quote": " First come, first served! What are you in for?",
+    "directions": [],
+    "raw_quote": " First come, first served! What are you in for?"
+  },
+  {
+    "timecode": "14:07",
+    "speaker": "Homer Simpson",
+    "quote": " I got a bad heart.",
+    "directions": [],
+    "raw_quote": " I got a bad heart."
+  },
+  {
+    "timecode": "14:09",
+    "speaker": "Ned Flanders",
+    "quote": " If I could give you my heart, Homer, I would.",
+    "directions": [],
+    "raw_quote": " If I could give you my heart, Homer, I would."
+  },
+  {
+    "timecode": "14:11",
+    "speaker": "Homer Simpson",
+    "quote": " Shut up, Flanders.",
+    "directions": [],
+    "raw_quote": " Shut up, Flanders."
+  },
+  {
+    "timecode": "14:14",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Hi, everybody! I'm Dr. Nick Riviera",
+    "directions": [
+      "ENTERING"
+    ],
+    "raw_quote": " (ENTERING) Hi, everybody! I'm Dr. Nick Riviera"
+  },
+  {
+    "timecode": "14:18",
+    "speaker": "INTERCOM",
+    "quote": " Dr. Riviera... Dr. Nick Riviera please report to the coroner immediately.",
+    "directions": [],
+    "raw_quote": " Dr. Riviera... Dr. Nick Riviera please report to the coroner immediately."
+  },
+  {
+    "timecode": "14:22",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " The coroner? I'm so sick of that guy. Well, see you in the operating place.",
+    "directions": [],
+    "raw_quote": " The coroner? I'm so sick of that guy. Well, see you in the operating place."
+  },
+  {
+    "timecode": "14:28",
+    "speaker": "Reporters",
+    "quote": " Dr. Riviera! Dr. Riviera! Where are the bodies? ",
+    "directions": [
+      "ETC."
+    ],
+    "raw_quote": " Dr. Riviera! Dr. Riviera! Where are the bodies? (ETC.)"
+  },
+  {
+    "timecode": "14:31",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Ah, such a nice day, I think I'll go out the window.",
+    "directions": [],
+    "raw_quote": " Ah, such a nice day, I think I'll go out the window."
+  },
+  {
+    "timecode": "14:42",
+    "speaker": "Ned Flanders",
+    "quote": " Dear Lord, thank you for Ziggy comics, little baby ducks, and \"Sweatin' to the Oldies,\" Volumes One, Two and Four.",
+    "directions": [],
+    "raw_quote": " Dear Lord, thank you for Ziggy comics, little baby ducks, and \"Sweatin' to the Oldies,\" Volumes One, Two and Four."
+  },
+  {
+    "timecode": "14:53",
+    "speaker": "Homer Simpson",
+    "quote": " Dear Lord, I'm really scared about this operation tomorrow. If something happens, please look after Marge, and make sure my kids grow up right.",
+    "directions": [],
+    "raw_quote": " Dear Lord, I'm really scared about this operation tomorrow. If something happens, please look after Marge, and make sure my kids grow up right."
+  },
+  {
+    "timecode": "15:03",
+    "speaker": "Nurse",
+    "quote": " Shhh.",
+    "directions": [],
+    "raw_quote": " Shhh."
+  },
+  {
+    "timecode": "15:06",
+    "speaker": "Homer Simpson",
+    "quote": " Sorry.",
+    "directions": [],
+    "raw_quote": " Sorry."
+  },
+  {
+    "timecode": "15:14",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "First Church of Springfield: INT. FIRST CHURCH OF SPRINGFIELD - SUNDAY SCHOOL"
+    ],
+    "raw_quote": "(First Church of Springfield: INT. FIRST CHURCH OF SPRINGFIELD - SUNDAY SCHOOL)"
+  },
+  {
+    "timecode": "15:14",
+    "speaker": "Sunday School Teacher",
+    "quote": " ... And that's why God causes train wrecks.",
+    "directions": [],
+    "raw_quote": " ... And that's why God causes train wrecks."
+  },
+  {
+    "timecode": "15:18",
+    "speaker": "Lisa Simpson",
+    "quote": " My dad is very sick. What's gonna happen if he dies?",
+    "directions": [],
+    "raw_quote": " My dad is very sick. What's gonna happen if he dies?"
+  },
+  {
+    "timecode": "15:22",
+    "speaker": "Sunday School Teacher",
+    "quote": " Well, if he's been good, he'll go to heaven.",
+    "directions": [],
+    "raw_quote": " Well, if he's been good, he'll go to heaven."
+  },
+  {
+    "timecode": "15:25",
+    "speaker": "Sunday School Teacher",
+    "quote": " In heaven, you get to do whatever you like best, all the time.",
+    "directions": [],
+    "raw_quote": " In heaven, you get to do whatever you like best, all the time."
+  },
+  {
+    "timecode": "15:29",
+    "speaker": "Homer Simpson",
+    "quote": " Cloud goes up. Cloud goes down. Cloud goes up. Cloud goes down...",
+    "directions": [],
+    "raw_quote": " Cloud goes up. Cloud goes down. Cloud goes up. Cloud goes down..."
+  },
+  {
+    "timecode": "15:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hospital: int. hospital - homer's room"
+    ],
+    "raw_quote": "(Hospital: int. hospital - homer's room)"
+  },
+  {
+    "timecode": "15:34",
+    "speaker": "Homer Simpson",
+    "quote": " Bed goes up. Bed goes down...",
+    "directions": [],
+    "raw_quote": " Bed goes up. Bed goes down..."
+  },
+  {
+    "timecode": "15:36",
+    "speaker": "Krusty the Clown",
+    "quote": " Hey hey!",
+    "directions": [],
+    "raw_quote": " Hey hey!"
+  },
+  {
+    "timecode": "15:41",
+    "speaker": "Krusty the Clown",
+    "quote": " Hey, what's the matter? Oh, that's right. My grotesque appearance. ",
+    "directions": [
+      "CHIPPER",
+      "LAUGHS"
+    ],
+    "raw_quote": " Hey, what's the matter? (CHIPPER) Oh, that's right. My grotesque appearance. (LAUGHS)"
+  },
+  {
+    "timecode": "15:47",
+    "speaker": "Homer Simpson",
+    "quote": " Krusty, why are you here?",
+    "directions": [],
+    "raw_quote": " Krusty, why are you here?"
+  },
+  {
+    "timecode": "15:49",
+    "speaker": "Krusty the Clown",
+    "quote": " Oh, it's part of my public service for my glug, glug, vroom, vroom, thump thump.",
+    "directions": [],
+    "raw_quote": " Oh, it's part of my public service for my glug, glug, vroom, vroom, thump thump."
+  },
+  {
+    "timecode": "15:55",
+    "speaker": "Homer Simpson",
+    "quote": " Oh well, I could use a good laugh.",
+    "directions": [],
+    "raw_quote": " Oh well, I could use a good laugh."
+  },
+  {
+    "timecode": "15:57",
+    "speaker": "Krusty the Clown",
+    "quote": " Well, there's nothing funny about what you're about to go through. I know, I'm in the Zipper Club myself.",
+    "directions": [],
+    "raw_quote": " Well, there's nothing funny about what you're about to go through. I know, I'm in the Zipper Club myself."
+  },
+  {
+    "timecode": "16:05",
+    "speaker": "Homer Simpson",
+    "quote": " You seem okay.",
+    "directions": [],
+    "raw_quote": " You seem okay."
+  },
+  {
+    "timecode": "16:06",
+    "speaker": "Krusty the Clown",
+    "quote": " Yeah? Well, I got news for ya. This ain't make-up.",
+    "directions": [
+      "TAPS HIS WHITE FACE"
+    ],
+    "raw_quote": " Yeah? Well, I got news for ya. (TAPS HIS WHITE FACE) This ain't make-up."
+  },
+  {
+    "timecode": "16:11",
+    "speaker": "Grampa Simpson",
+    "quote": " They say the greatest tragedy is when a father outlives his son. I've never fully understood why that is. Frankly, I can see an up side to it. ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " They say the greatest tragedy is when a father outlives his son. I've never fully understood why that is. Frankly, I can see an up side to it. (LAUGHS)"
+  },
+  {
+    "timecode": "16:24",
+    "speaker": "Lenny Leonard",
+    "quote": " We passed this card around at work.",
+    "directions": [],
+    "raw_quote": " We passed this card around at work."
+  },
+  {
+    "timecode": "16:27",
+    "speaker": "Homer Simpson",
+    "quote": " Gee, thanks, guys.",
+    "directions": [],
+    "raw_quote": " Gee, thanks, guys."
+  },
+  {
+    "timecode": "16:29",
+    "speaker": "Carl Carlson",
+    "quote": " They had a hell of a time replacing you.",
+    "directions": [],
+    "raw_quote": " They had a hell of a time replacing you."
+  },
+  {
+    "timecode": "16:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: int. power plant - homer's station"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: int. power plant - homer's station)"
+  },
+  {
+    "timecode": "16:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hospital: int. hospital - homer's room - later"
+    ],
+    "raw_quote": "(Hospital: int. hospital - homer's room - later)"
+  },
+  {
+    "timecode": "16:34",
+    "speaker": "Barney Gumble",
+    "quote": " When I first heard about the operation, I was against it. But then I thought, if Homer wants to be a woman, so be it.",
+    "directions": [],
+    "raw_quote": " When I first heard about the operation, I was against it. But then I thought, if Homer wants to be a woman, so be it."
+  },
+  {
+    "timecode": "16:34",
+    "speaker": "Homer Simpson",
+    "quote": " Barney, I'm not getting a sex change!",
+    "directions": [],
+    "raw_quote": " Barney, I'm not getting a sex change!"
+  },
+  {
+    "timecode": "16:45",
+    "speaker": "Barney Gumble",
+    "quote": " Whaaa? Well, what the hell am I sposed to do with this jumbo thong bikini? ",
+    "directions": [
+      "HOLDS IT UP"
+    ],
+    "raw_quote": " Whaaa? Well, what the hell am I sposed to do with this jumbo thong bikini? (HOLDS IT UP)"
+  },
+  {
+    "timecode": "16:51",
+    "speaker": "Moe Szyslak",
+    "quote": " Uh, Homer, I snuck you in a beer for old time's sake.",
+    "directions": [],
+    "raw_quote": " Uh, Homer, I snuck you in a beer for old time's sake."
+  },
+  {
+    "timecode": "16:55",
+    "speaker": "Homer Simpson",
+    "quote": " Thanks, Moe.",
+    "directions": [
+      "TOUCHED"
+    ],
+    "raw_quote": " (TOUCHED) Thanks, Moe."
+  },
+  {
+    "timecode": "16:57",
+    "speaker": "Moe Szyslak",
+    "quote": " Ah, you know, Homer, that beer ain't free.",
+    "directions": [],
+    "raw_quote": " Ah, you know, Homer, that beer ain't free."
+  },
+  {
+    "timecode": "17:02",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - lisa's bedroom"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - lisa's bedroom)"
+  },
+  {
+    "timecode": "17:02",
+    "speaker": "Lisa Simpson",
+    "quote": " Mom, this is fascinating. Did you know that they'll stop Dad's heart for six whole minutes?",
+    "directions": [
+      "RE: JOURNAL"
+    ],
+    "raw_quote": " (RE: JOURNAL) Mom, this is fascinating. Did you know that they'll stop Dad's heart for six whole minutes?"
+  },
+  {
+    "timecode": "17:07",
+    "speaker": "Marge Simpson",
+    "quote": " I don't know if I like you reading all those cardiology books.",
+    "directions": [
+      "ANNOYED MURMUR"
+    ],
+    "raw_quote": " (ANNOYED MURMUR) I don't know if I like you reading all those cardiology books."
+  },
+  {
+    "timecode": "17:12",
+    "speaker": "Lisa Simpson",
+    "quote": " No, Mom, it's very reassuring. And I've learned a great deal from this cow's heart I got at the butcher shop.",
+    "directions": [],
+    "raw_quote": " No, Mom, it's very reassuring. And I've learned a great deal from this cow's heart I got at the butcher shop."
+  },
+  {
+    "timecode": "17:20",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MEDICAL LIBRARY: int. medical library - day"
+    ],
+    "raw_quote": "(MEDICAL LIBRARY: int. medical library - day)"
+  },
+  {
+    "timecode": "17:20",
+    "speaker": "VIDEO TAPE NARRATOR",
+    "quote": " Insert the retractor and crank it until the ribs swing open like a rusty drawbridge.",
+    "directions": [],
+    "raw_quote": " Insert the retractor and crank it until the ribs swing open like a rusty drawbridge."
+  },
+  {
+    "timecode": "17:26",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Oh no! Blood! ",
+    "directions": [
+      "WATCHING TAPE",
+      "MOANS"
+    ],
+    "raw_quote": " (WATCHING TAPE) Oh no! Blood! (MOANS)"
+  },
+  {
+    "timecode": "17:29",
+    "speaker": "VIDEO TAPE NARRATOR",
+    "quote": " Next, make an incision in the coronary artery...",
+    "directions": [],
+    "raw_quote": " Next, make an incision in the coronary artery..."
+  },
+  {
+    "timecode": "17:32",
+    "speaker": "Talk Show Host",
+    "quote": " And we are back with more of \"People Who Look Like Things.\"",
+    "directions": [],
+    "raw_quote": " And we are back with more of \"People Who Look Like Things.\""
+  },
+  {
+    "timecode": "17:44",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Oh no! no! Someone taped over the end of this.",
+    "directions": [],
+    "raw_quote": " Oh no! no! Someone taped over the end of this."
+  },
+  {
+    "timecode": "17:48",
+    "speaker": "Pumpkin Man",
+    "quote": " All we ask is to be treated with dignity and respect.",
+    "directions": [],
+    "raw_quote": " All we ask is to be treated with dignity and respect."
+  },
+  {
+    "timecode": "17:51",
+    "speaker": "Talk Show Host",
+    "quote": " And a new candle now and then?",
+    "directions": [],
+    "raw_quote": " And a new candle now and then?"
+  },
+  {
+    "timecode": "17:53",
+    "speaker": "Pumpkin Man",
+    "quote": " And a new... no!",
+    "directions": [],
+    "raw_quote": " And a new... no!"
+  },
+  {
+    "timecode": "17:56",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hospital: int. hospital - homer's room"
+    ],
+    "raw_quote": "(Hospital: int. hospital - homer's room)"
+  },
+  {
+    "timecode": "17:56",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, my little Maggie, I may never hold you again... ew, stinky pants.",
+    "directions": [
+      "WARMLY"
+    ],
+    "raw_quote": " (WARMLY) Oh, my little Maggie, I may never hold you again... ew, stinky pants."
+  },
+  {
+    "timecode": "18:03",
+    "speaker": "Homer Simpson",
+    "quote": " Now, Marge, if the unthinkable should happen, you're gonna be lonely...",
+    "directions": [],
+    "raw_quote": " Now, Marge, if the unthinkable should happen, you're gonna be lonely..."
+  },
+  {
+    "timecode": "18:08",
+    "speaker": "Marge Simpson",
+    "quote": " Oh Homie, I could never remarry...",
+    "directions": [],
+    "raw_quote": " Oh Homie, I could never remarry..."
+  },
+  {
+    "timecode": "18:10",
+    "speaker": "Homer Simpson",
+    "quote": " Darn right. And to make sure, I want to be stuffed and put on the couch as a constant reminder of our marital vows.",
+    "directions": [],
+    "raw_quote": " Darn right. And to make sure, I want to be stuffed and put on the couch as a constant reminder of our marital vows."
+  },
+  {
+    "timecode": "18:18",
+    "speaker": "Marge Simpson",
+    "quote": " Ohhh... kids, you can come in now.",
+    "directions": [],
+    "raw_quote": " Ohhh... kids, you can come in now."
+  },
+  {
+    "timecode": "18:21",
+    "speaker": "Homer Simpson",
+    "quote": " Bed goes up... Kids, I want to give you some words to remember me by in case something happens. Let's see... uh... Oh, I'm no good at this.",
+    "directions": [],
+    "raw_quote": " Bed goes up... Kids, I want to give you some words to remember me by in case something happens. Let's see... uh... Oh, I'm no good at this."
+  },
+  {
+    "timecode": "18:35",
+    "speaker": "Homer Simpson",
+    "quote": " Bart, the saddest thing about this is I won't get to see you grow up, because...",
+    "directions": [],
+    "raw_quote": " Bart, the saddest thing about this is I won't get to see you grow up, because..."
+  },
+  {
+    "timecode": "18:41",
+    "speaker": "Homer Simpson",
+    "quote": " I know you're gonna turn out great, with or without your old man.",
+    "directions": [],
+    "raw_quote": " I know you're gonna turn out great, with or without your old man."
+  },
+  {
+    "timecode": "18:46",
+    "speaker": "Bart Simpson",
+    "quote": " Thanks dad.",
+    "directions": [
+      "TOUCHED"
+    ],
+    "raw_quote": " (TOUCHED) Thanks dad."
+  },
+  {
+    "timecode": "18:47",
+    "speaker": "Homer Simpson",
+    "quote": " And Lisa...",
+    "directions": [],
+    "raw_quote": " And Lisa..."
+  },
+  {
+    "timecode": "18:52",
+    "speaker": "Homer Simpson",
+    "quote": " I guess this is the time to tell you...",
+    "directions": [
+      "TO LISA"
+    ],
+    "raw_quote": " (TO LISA) I guess this is the time to tell you..."
+  },
+  {
+    "timecode": "18:55",
+    "speaker": "Homer Simpson",
+    "quote": " You're adopted and I don't like you.",
+    "directions": [],
+    "raw_quote": " You're adopted and I don't like you."
+  },
+  {
+    "timecode": "18:57",
+    "speaker": "Homer Simpson",
+    "quote": " Bart!",
+    "directions": [],
+    "raw_quote": " Bart!"
+  },
+  {
+    "timecode": "18:58",
+    "speaker": "Homer Simpson",
+    "quote": " But don't worry, because you've got a big brother who loves you and will always look out for you.",
+    "directions": [],
+    "raw_quote": " But don't worry, because you've got a big brother who loves you and will always look out for you."
+  },
+  {
+    "timecode": "19:04",
+    "speaker": "Lisa Simpson",
+    "quote": " Oh dad.",
+    "directions": [
+      "SNIFFLING"
+    ],
+    "raw_quote": " (SNIFFLING) Oh dad."
+  },
+  {
+    "timecode": "19:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "OPERATING THEATER: int. operating theater"
+    ],
+    "raw_quote": "(OPERATING THEATER: int. operating theater)"
+  },
+  {
+    "timecode": "19:10",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Hi, everybody!",
+    "directions": [],
+    "raw_quote": " Hi, everybody!"
+  },
+  {
+    "timecode": "19:12",
+    "speaker": "Med Students",
+    "quote": " Hi Dr. Nick!",
+    "directions": [],
+    "raw_quote": " Hi Dr. Nick!"
+  },
+  {
+    "timecode": "19:15",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Now if something should go wrong, let's not get the law involved. One hand washes the other -- Ooh, that reminds me.",
+    "directions": [],
+    "raw_quote": " Now if something should go wrong, let's not get the law involved. One hand washes the other -- Ooh, that reminds me."
+  },
+  {
+    "timecode": "19:27",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " These gloves came free with my toilet brush.",
+    "directions": [],
+    "raw_quote": " These gloves came free with my toilet brush."
+  },
+  {
+    "timecode": "19:35",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " What the hell is that?",
+    "directions": [],
+    "raw_quote": " What the hell is that?"
+  },
+  {
+    "timecode": "19:43",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Hospital: int. hospital - waiting room"
+    ],
+    "raw_quote": "(Hospital: int. hospital - waiting room)"
+  },
+  {
+    "timecode": "19:43",
+    "speaker": "Patty Bouvier",
+    "quote": " Marge, this is Andre.",
+    "directions": [],
+    "raw_quote": " Marge, this is Andre."
+  },
+  {
+    "timecode": "19:45",
+    "speaker": "Handsome Young Man",
+    "quote": " Hello... ",
+    "directions": [
+      "SLEAZY CHUCKLE"
+    ],
+    "raw_quote": " Hello... (SLEAZY CHUCKLE)"
+  },
+  {
+    "timecode": "19:46",
+    "speaker": "Patty Bouvier",
+    "quote": " I think you two would make a lovely couple.",
+    "directions": [],
+    "raw_quote": " I think you two would make a lovely couple."
+  },
+  {
+    "timecode": "19:49",
+    "speaker": "Marge Simpson",
+    "quote": " My husband is still alive!",
+    "directions": [],
+    "raw_quote": " My husband is still alive!"
+  },
+  {
+    "timecode": "19:51",
+    "speaker": "Patty Bouvier",
+    "quote": " Oh, thank God. I hope he pulls through.",
+    "directions": [
+      "FLATLY"
+    ],
+    "raw_quote": " (FLATLY) Oh, thank God. I hope he pulls through."
+  },
+  {
+    "timecode": "19:54",
+    "speaker": "Andre",
+    "quote": " Not me. ",
+    "directions": [
+      "SMOOTHLY",
+      "CHUCKLES"
+    ],
+    "raw_quote": " (SMOOTHLY) Not me. (CHUCKLES)"
+  },
+  {
+    "timecode": "19:56",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: int. moe's tavern"
+    ],
+    "raw_quote": "(Moe's Tavern: int. moe's tavern)"
+  },
+  {
+    "timecode": "19:56",
+    "speaker": "Moe Szyslak",
+    "quote": " Let's have a minute of silent prayer for our good friend Homer Simpson.",
+    "directions": [],
+    "raw_quote": " Let's have a minute of silent prayer for our good friend Homer Simpson."
+  },
+  {
+    "timecode": "20:08",
+    "speaker": "Barney Gumble",
+    "quote": " How long has it been?",
+    "directions": [],
+    "raw_quote": " How long has it been?"
+  },
+  {
+    "timecode": "20:09",
+    "speaker": "Moe Szyslak",
+    "quote": " Six seconds.",
+    "directions": [],
+    "raw_quote": " Six seconds."
+  },
+  {
+    "timecode": "20:10",
+    "speaker": "Barney Gumble",
+    "quote": " Do we have to start over?",
+    "directions": [],
+    "raw_quote": " Do we have to start over?"
+  },
+  {
+    "timecode": "20:11",
+    "speaker": "Moe Szyslak",
+    "quote": " Hell, no.",
+    "directions": [],
+    "raw_quote": " Hell, no."
+  },
+  {
+    "timecode": "20:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Kwik-E-Mart: Int. Kwik-E-Mart"
+    ],
+    "raw_quote": "(Kwik-E-Mart: Int. Kwik-E-Mart)"
+  },
+  {
+    "timecode": "20:13",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Poor Mister Homer. Could it be that my snack treats are responsible for his wretched health?",
+    "directions": [],
+    "raw_quote": " Poor Mister Homer. Could it be that my snack treats are responsible for his wretched health?"
+  },
+  {
+    "timecode": "20:19",
+    "speaker": "Customer",
+    "quote": " Gimme some jerky.",
+    "directions": [],
+    "raw_quote": " Gimme some jerky."
+  },
+  {
+    "timecode": "20:20",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Would you like some vodka with that?",
+    "directions": [],
+    "raw_quote": " Would you like some vodka with that?"
+  },
+  {
+    "timecode": "20:21",
+    "speaker": "Customer",
+    "quote": " Oh, what the Hell, sure.",
+    "directions": [],
+    "raw_quote": " Oh, what the Hell, sure."
+  },
+  {
+    "timecode": "20:28",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "OPERATING THEATER: int. operating theater"
+    ],
+    "raw_quote": "(OPERATING THEATER: int. operating theater)"
+  },
+  {
+    "timecode": "20:28",
+    "speaker": "Nurse",
+    "quote": " Doctor, what's wrong? Don't you know where to make the incision?",
+    "directions": [],
+    "raw_quote": " Doctor, what's wrong? Don't you know where to make the incision?"
+  },
+  {
+    "timecode": "20:32",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Alright Nick, don't panic. Think back to Med school.",
+    "directions": [],
+    "raw_quote": " Alright Nick, don't panic. Think back to Med school."
+  },
+  {
+    "timecode": "20:39",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "COLLEGE FRAT HOUSE: int. college frat house"
+    ],
+    "raw_quote": "(COLLEGE FRAT HOUSE: int. college frat house)"
+  },
+  {
+    "timecode": "20:39",
+    "speaker": "Young Riviera",
+    "quote": " Seriously baby, I can prescribe anything I want.",
+    "directions": [],
+    "raw_quote": " Seriously baby, I can prescribe anything I want."
+  },
+  {
+    "timecode": "20:44",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " I know I'm supposed to cut something, but what? And where?",
+    "directions": [
+      "ALOUD"
+    ],
+    "raw_quote": " (ALOUD) I know I'm supposed to cut something, but what? And where?"
+  },
+  {
+    "timecode": "20:49",
+    "speaker": "Lisa Simpson",
+    "quote": " Hey! The incision in the coronary artery must be made below the blockage. Below!",
+    "directions": [
+      "LOUD THROUGH GLASS"
+    ],
+    "raw_quote": " (LOUD THROUGH GLASS) Hey! The incision in the coronary artery must be made below the blockage. Below!"
+  },
+  {
+    "timecode": "20:57",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Thanks, little girl.",
+    "directions": [],
+    "raw_quote": " Thanks, little girl."
+  },
+  {
+    "timecode": "20:59",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " THE KNEE BONE'S CONNECTED TO THE... SOMETHING. / THE SOMETHING'S CONNECTED TO THE... RED THING. / THE RED THING'S CONNECTED TO MY... WRISTWATCH... UH-OH.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) THE KNEE BONE'S CONNECTED TO THE... SOMETHING. / THE SOMETHING'S CONNECTED TO THE... RED THING. / THE RED THING'S CONNECTED TO MY... WRISTWATCH... UH-OH."
+  },
+  {
+    "timecode": "21:15",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "HOSPITAL WAITING ROOM: int. hospital waiting room"
+    ],
+    "raw_quote": "(HOSPITAL WAITING ROOM: int. hospital waiting room)"
+  },
+  {
+    "timecode": "21:15",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Good news! The operation was a complete success.",
+    "directions": [],
+    "raw_quote": " Good news! The operation was a complete success."
+  },
+  {
+    "timecode": "21:23",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, that's wonderful!",
+    "directions": [],
+    "raw_quote": " Oh, that's wonderful!"
+  },
+  {
+    "timecode": "21:29",
+    "speaker": "Angry Man",
+    "quote": " Dr. Nick Riviera. Remember me?",
+    "directions": [],
+    "raw_quote": " Dr. Nick Riviera. Remember me?"
+  },
+  {
+    "timecode": "21:32",
+    "speaker": "Dr. Nick Riviera",
+    "quote": " Well if it isn't my old friend Mr. McGreg -- with a leg for an arm and an arm for a leg.",
+    "directions": [],
+    "raw_quote": " Well if it isn't my old friend Mr. McGreg -- with a leg for an arm and an arm for a leg."
+  },
+  {
+    "timecode": "21:43",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Intensive Care Corridor: int. intensive care corridor"
+    ],
+    "raw_quote": "(Intensive Care Corridor: int. intensive care corridor)"
+  },
+  {
+    "timecode": "21:43",
+    "speaker": "Lisa Simpson",
+    "quote": " All right, Dad!",
+    "directions": [],
+    "raw_quote": " All right, Dad!"
+  },
+  {
+    "timecode": "21:45",
+    "speaker": "Bart Simpson",
+    "quote": " You rule intensive care!",
+    "directions": [],
+    "raw_quote": " You rule intensive care!"
+  }
+]

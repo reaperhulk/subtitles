@@ -1,0 +1,2369 @@
+[
+  {
+    "timecode": "01:24",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "GAME SHOW SET: Int. game show set - day"
+    ],
+    "raw_quote": "(GAME SHOW SET: Int. game show set - day)"
+  },
+  {
+    "timecode": "01:24",
+    "speaker": "Game Show Host",
+    "quote": " Welcome back to America's favorite game shoooowwww...",
+    "directions": [],
+    "raw_quote": " Welcome back to America's favorite game shoooowwww..."
+  },
+  {
+    "timecode": "01:27",
+    "speaker": "Audience",
+    "quote": " \"Me Wantee!\"",
+    "directions": [
+      "ECSTATIC"
+    ],
+    "raw_quote": " (ECSTATIC) \"Me Wantee!\""
+  },
+  {
+    "timecode": "01:29",
+    "speaker": "Game Show Host",
+    "quote": " And here's that question-asking guy... Virgil Sinclair!",
+    "directions": [],
+    "raw_quote": " And here's that question-asking guy... Virgil Sinclair!"
+  },
+  {
+    "timecode": "01:34",
+    "speaker": "Game Show Host",
+    "quote": " Alll right, Moe Szyslak...",
+    "directions": [],
+    "raw_quote": " Alll right, Moe Szyslak..."
+  },
+  {
+    "timecode": "01:36",
+    "speaker": "Moe Szyslak",
+    "quote": " Yes, Virgil?",
+    "directions": [
+      "EXCITED"
+    ],
+    "raw_quote": " (EXCITED) Yes, Virgil?"
+  },
+  {
+    "timecode": "01:37",
+    "speaker": "Game Show Host",
+    "quote": " Yesterday we asked if you wanted to risk it all for five hundred thousand dollars. And you stalled for twenty minutes.",
+    "directions": [],
+    "raw_quote": " Yesterday we asked if you wanted to risk it all for five hundred thousand dollars. And you stalled for twenty minutes."
+  },
+  {
+    "timecode": "01:43",
+    "speaker": "Moe Szyslak",
+    "quote": " Yes, yes, I did. I was told to.",
+    "directions": [],
+    "raw_quote": " Yes, yes, I did. I was told to."
+  },
+  {
+    "timecode": "01:45",
+    "speaker": "Game Show Host",
+    "quote": " Hey, that's great. But now, we must have your answer... in the next ten or fifteen minutes.",
+    "directions": [
+      "COVERING"
+    ],
+    "raw_quote": " (COVERING) Hey, that's great. But now, we must have your answer... in the next ten or fifteen minutes."
+  },
+  {
+    "timecode": "01:54",
+    "speaker": "Game Show Host",
+    "quote": " You want some of this? Well, do ya?",
+    "directions": [],
+    "raw_quote": " You want some of this? Well, do ya?"
+  },
+  {
+    "timecode": "01:56",
+    "speaker": "Moe Szyslak",
+    "quote": " I can honestly say I do.",
+    "directions": [],
+    "raw_quote": " I can honestly say I do."
+  },
+  {
+    "timecode": "01:58",
+    "speaker": "Game Show Host",
+    "quote": " Ah-all right, then. For a half a million dollars... Which of the following is not a subatomic particle?",
+    "directions": [],
+    "raw_quote": " Ah-all right, then. For a half a million dollars... Which of the following is not a subatomic particle?"
+  },
+  {
+    "timecode": "02:03",
+    "speaker": "Moe Szyslak",
+    "quote": " Oy.",
+    "directions": [],
+    "raw_quote": " Oy."
+  },
+  {
+    "timecode": "02:11",
+    "speaker": "Game Show Host",
+    "quote": " A) proton, B) neutron, C) bonbon, or D) electron?",
+    "directions": [],
+    "raw_quote": " A) proton, B) neutron, C) bonbon, or D) electron?"
+  },
+  {
+    "timecode": "02:11",
+    "speaker": "Moe Szyslak",
+    "quote": " Oooh, boy. All right, let's see here, uh... Well I was born in Indiana... so that ain't it. And, uh... I better call my Lifeline.",
+    "directions": [
+      "FIGURING",
+      "THEN"
+    ],
+    "raw_quote": " Oooh, boy. All right, let's see here, uh... (FIGURING) Well I was born in Indiana... so that ain't it. And, uh... (THEN) I better call my Lifeline."
+  },
+  {
+    "timecode": "02:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson house - living room - continuous"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson house - living room - continuous)"
+  },
+  {
+    "timecode": "02:25",
+    "speaker": "Homer Simpson",
+    "quote": " Y'ello!... Hey, Moe. We're watching you on TV.",
+    "directions": [
+      "INTO PHONE"
+    ],
+    "raw_quote": " (INTO PHONE) Y'ello!... Hey, Moe. We're watching you on TV."
+  },
+  {
+    "timecode": "02:29",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "GAME SHOW SET: Int. game show set - continuous"
+    ],
+    "raw_quote": "(GAME SHOW SET: Int. game show set - continuous)"
+  },
+  {
+    "timecode": "02:29",
+    "speaker": "Moe Szyslak",
+    "quote": " Yeah, I know, Homer. ",
+    "directions": [
+      "ANNOYED LAUGH"
+    ],
+    "raw_quote": " Yeah, I know, Homer. (ANNOYED LAUGH)"
+  },
+  {
+    "timecode": "02:30",
+    "speaker": "Homer Simpson",
+    "quote": " So, how's that bowel obstruction doing?",
+    "directions": [],
+    "raw_quote": " So, how's that bowel obstruction doing?"
+  },
+  {
+    "timecode": "02:33",
+    "speaker": "Moe Szyslak",
+    "quote": " Homer, please. Ha ha. I got a nuclear-type question, here.",
+    "directions": [],
+    "raw_quote": " Homer, please. Ha ha. I got a nuclear-type question, here."
+  },
+  {
+    "timecode": "02:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Living Room: Int. Simpson living room - continuous"
+    ],
+    "raw_quote": "(Simpson Living Room: Int. Simpson living room - continuous)"
+  },
+  {
+    "timecode": "02:37",
+    "speaker": "Homer Simpson",
+    "quote": " Well, it all starts when the nulecule comes out of its nest...",
+    "directions": [
+      "INTO PHONE",
+      "\"NEW-LA-CULE\""
+    ],
+    "raw_quote": " (INTO PHONE) Well, it all starts when the nulecule (\"NEW-LA-CULE\") comes out of its nest..."
+  },
+  {
+    "timecode": "02:41",
+    "speaker": "Lisa Simpson",
+    "quote": " The answer is \"bonbon\"!",
+    "directions": [],
+    "raw_quote": " The answer is \"bonbon\"!"
+  },
+  {
+    "timecode": "02:42",
+    "speaker": "Moe Szyslak",
+    "quote": " Ahh, I'm gonna say \"bonbon.\"",
+    "directions": [],
+    "raw_quote": " Ahh, I'm gonna say \"bonbon.\""
+  },
+  {
+    "timecode": "02:42",
+    "speaker": "Game Show Host",
+    "quote": " Bonbon, eh, Moe? Is that your ultimate response?",
+    "directions": [],
+    "raw_quote": " Bonbon, eh, Moe? Is that your ultimate response?"
+  },
+  {
+    "timecode": "02:48",
+    "speaker": "Moe Szyslak",
+    "quote": " Yuh-huh.",
+    "directions": [],
+    "raw_quote": " Yuh-huh."
+  },
+  {
+    "timecode": "02:49",
+    "speaker": "Game Show Host",
+    "quote": " Ohhh... You are correct!",
+    "directions": [],
+    "raw_quote": " Ohhh... You are correct!"
+  },
+  {
+    "timecode": "02:54",
+    "speaker": "Game Show Host",
+    "quote": " Ha ha ha. Well, Moe, would you like to stop where you are, or try for one million dollars?",
+    "directions": [],
+    "raw_quote": " Ha ha ha. Well, Moe, would you like to stop where you are, or try for one million dollars?"
+  },
+  {
+    "timecode": "03:01",
+    "speaker": "Moe Szyslak",
+    "quote": " Well... Gee, I really do love currency... but, um, I think I'm gonna play it safe and stick with what I got.",
+    "directions": [
+      "EYEING CASH"
+    ],
+    "raw_quote": " (EYEING CASH) Well... Gee, I really do love currency... but, um, I think I'm gonna play it safe and stick with what I got."
+  },
+  {
+    "timecode": "03:07",
+    "speaker": "Game Show Host",
+    "quote": " You're the boss.",
+    "directions": [],
+    "raw_quote": " You're the boss."
+  },
+  {
+    "timecode": "03:07",
+    "speaker": "Moe Szyslak",
+    "quote": " Yes, I am.",
+    "directions": [],
+    "raw_quote": " Yes, I am."
+  },
+  {
+    "timecode": "03:13",
+    "speaker": "Audience",
+    "quote": " Yayyy! / Woo!",
+    "directions": [],
+    "raw_quote": " Yayyy! / Woo!"
+  },
+  {
+    "timecode": "03:13",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Krustylu Studios: Int. Krustylu studios - conference room - later"
+    ],
+    "raw_quote": "(Krustylu Studios: Int. Krustylu studios - conference room - later)"
+  },
+  {
+    "timecode": "03:13",
+    "speaker": "Krusty the Clown",
+    "quote": " Eh, this quiz show crap is just a fad.",
+    "directions": [],
+    "raw_quote": " Eh, this quiz show crap is just a fad."
+  },
+  {
+    "timecode": "03:16",
+    "speaker": "Male Executive",
+    "quote": " Well, fad or not, it's here to stay.",
+    "directions": [
+      "GRIM"
+    ],
+    "raw_quote": " (GRIM) Well, fad or not, it's here to stay."
+  },
+  {
+    "timecode": "03:17",
+    "speaker": "Female Executive",
+    "quote": " And it's killing your show in the ratings.",
+    "directions": [],
+    "raw_quote": " And it's killing your show in the ratings."
+  },
+  {
+    "timecode": "03:19",
+    "speaker": "Krusty the Clown",
+    "quote": " Hey, whaddaya want from me? I do a kid show!",
+    "directions": [],
+    "raw_quote": " Hey, whaddaya want from me? I do a kid show!"
+  },
+  {
+    "timecode": "03:21",
+    "speaker": "Female Executive",
+    "quote": " And it's a classic. We just want you to open it up.",
+    "directions": [],
+    "raw_quote": " And it's a classic. We just want you to open it up."
+  },
+  {
+    "timecode": "03:24",
+    "speaker": "Male Executive",
+    "quote": " Run wild. Shatter the boundaries. Slash and burn.",
+    "directions": [],
+    "raw_quote": " Run wild. Shatter the boundaries. Slash and burn."
+  },
+  {
+    "timecode": "03:26",
+    "speaker": "Female Executive",
+    "quote": " Without alienating anyone.",
+    "directions": [],
+    "raw_quote": " Without alienating anyone."
+  },
+  {
+    "timecode": "03:28",
+    "speaker": "Krusty the Clown",
+    "quote": " Oy, these facockta network notes. Can you believe this?",
+    "directions": [
+      "TURNS TO SOMEONE O.S."
+    ],
+    "raw_quote": " Oy, these facockta network notes. (TURNS TO SOMEONE O.S.) Can you believe this?"
+  },
+  {
+    "timecode": "03:34",
+    "speaker": "Female Executive",
+    "quote": " All we're saying is be dangerous. But warm. And edgy-cute.",
+    "directions": [],
+    "raw_quote": " All we're saying is be dangerous. But warm. And edgy-cute."
+  },
+  {
+    "timecode": "",
+    "speaker": "Krusty the Clown",
+    "quote": " ",
+    "directions": [
+      "EXASPERATED SCREAM"
+    ],
+    "raw_quote": " (EXASPERATED SCREAM)"
+  },
+  {
+    "timecode": "03:40",
+    "speaker": "Male Executive",
+    "quote": " Did that exit work for you?",
+    "directions": [
+      "TAPPING CHIN WITH PEN"
+    ],
+    "raw_quote": " (TAPPING CHIN WITH PEN) Did that exit work for you?"
+  },
+  {
+    "timecode": "03:41",
+    "speaker": "Female Executive",
+    "quote": " I'd like to see it without the scream.",
+    "directions": [],
+    "raw_quote": " I'd like to see it without the scream."
+  },
+  {
+    "timecode": "03:43",
+    "speaker": "Male Executive",
+    "quote": " I was just thinking that.",
+    "directions": [],
+    "raw_quote": " I was just thinking that."
+  },
+  {
+    "timecode": "03:48",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Krustylu Studios: Int. Krusty show studio - next day"
+    ],
+    "raw_quote": "(Krustylu Studios: Int. Krusty show studio - next day)"
+  },
+  {
+    "timecode": "03:48",
+    "speaker": "Krusty the Clown",
+    "quote": " Hey, hey, kids. Let's hear it for Madame Mimi and her Cheese-Seeking Poodles!",
+    "directions": [],
+    "raw_quote": " Hey, hey, kids. Let's hear it for Madame Mimi and her Cheese-Seeking Poodles!"
+  },
+  {
+    "timecode": "03:50",
+    "speaker": "Kids",
+    "quote": " Yayyy!",
+    "directions": [],
+    "raw_quote": " Yayyy!"
+  },
+  {
+    "timecode": "03:56",
+    "speaker": "Krusty the Clown",
+    "quote": " We'll be back with a sketch set in the craaaziest place -- a restaurant! ",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " We'll be back with a sketch set in the craaaziest place -- a restaurant! (LAUGHS)"
+  },
+  {
+    "timecode": "04:05",
+    "speaker": "Stage Manager",
+    "quote": " Aaand roll commercial.",
+    "directions": [],
+    "raw_quote": " Aaand roll commercial."
+  },
+  {
+    "timecode": "04:06",
+    "speaker": "Female Executive",
+    "quote": " Krusty? Yeah. Quick thought about this restaurant set.",
+    "directions": [],
+    "raw_quote": " Krusty? Yeah. Quick thought about this restaurant set."
+  },
+  {
+    "timecode": "04:09",
+    "speaker": "Krusty the Clown",
+    "quote": " Whuh?",
+    "directions": [],
+    "raw_quote": " Whuh?"
+  },
+  {
+    "timecode": "04:10",
+    "speaker": "Female Executive",
+    "quote": " Could it look more like a diner?",
+    "directions": [],
+    "raw_quote": " Could it look more like a diner?"
+  },
+  {
+    "timecode": "04:12",
+    "speaker": "Male Executive",
+    "quote": " Ooo! The Seinfeld diner!",
+    "directions": [
+      "POPPING IN"
+    ],
+    "raw_quote": " (POPPING IN) Ooo! The Seinfeld diner!"
+  },
+  {
+    "timecode": "04:13",
+    "speaker": "Krusty the Clown",
+    "quote": " Are you nuts? I'm on in five seconds.",
+    "directions": [],
+    "raw_quote": " Are you nuts? I'm on in five seconds."
+  },
+  {
+    "timecode": "04:15",
+    "speaker": "Male Executive",
+    "quote": " 'Cause the great thing about Seinfeld was the--",
+    "directions": [],
+    "raw_quote": " 'Cause the great thing about Seinfeld was the--"
+  },
+  {
+    "timecode": "04:17",
+    "speaker": "Stage Manager",
+    "quote": " You're on, Krusty.",
+    "directions": [],
+    "raw_quote": " You're on, Krusty."
+  },
+  {
+    "timecode": "04:20",
+    "speaker": "Krusty the Clown",
+    "quote": " Ah... Nothing like a meal in a fine restaurant. Ah, here comes the waitress.",
+    "directions": [
+      "STAGEY"
+    ],
+    "raw_quote": " (STAGEY) Ah... Nothing like a meal in a fine restaurant. Ah, here comes the waitress."
+  },
+  {
+    "timecode": "04:28",
+    "speaker": "Female Executive",
+    "quote": " We're losing male teens. Can you get jiggy with something?",
+    "directions": [
+      "SOTTO, TO KRUSTY"
+    ],
+    "raw_quote": " (SOTTO, TO KRUSTY) We're losing male teens. Can you get jiggy with something?"
+  },
+  {
+    "timecode": "04:31",
+    "speaker": "Krusty the Clown",
+    "quote": " You're givin' me notes while I'm on the air?! That tears it!",
+    "directions": [],
+    "raw_quote": " You're givin' me notes while I'm on the air?! That tears it!"
+  },
+  {
+    "timecode": "04:35",
+    "speaker": "Krusty the Clown",
+    "quote": " Folks, I've been in show biz for 61 years, but now these jerks have sucked all the fun out. I don't need twelve suits tellin' me which way to pee...",
+    "directions": [
+      "TO CAMERAMAN",
+      "GESTURES O.S."
+    ],
+    "raw_quote": " (TO CAMERAMAN) Folks, I've been in show biz for 61 years, but now these jerks (GESTURES O.S.) have sucked all the fun out. I don't need twelve suits tellin' me which way to pee..."
+  },
+  {
+    "timecode": "04:45",
+    "speaker": "Male Executive",
+    "quote": " Uh, for \"pee\" could you substitute \"whiz\"?",
+    "directions": [
+      "POPPING OUT BEHIND KRUSTY"
+    ],
+    "raw_quote": " (POPPING OUT BEHIND KRUSTY) Uh, for \"pee\" could you substitute \"whiz\"?"
+  },
+  {
+    "timecode": "04:47",
+    "speaker": "Female Executive",
+    "quote": " I... don't know. That could upset the \"Cheez Whiz\" people.",
+    "directions": [
+      "WALKS UP TO KRUSTY"
+    ],
+    "raw_quote": " (WALKS UP TO KRUSTY) I... don't know. That could upset the \"Cheez Whiz\" people."
+  },
+  {
+    "timecode": "04:50",
+    "speaker": "Male Executive",
+    "quote": " I was just thinking that.",
+    "directions": [],
+    "raw_quote": " I was just thinking that."
+  },
+  {
+    "timecode": "04:51",
+    "speaker": "Krusty the Clown",
+    "quote": " I can't take it anymore! Folks, don't miss this Friday's show. It'll be my last.",
+    "directions": [
+      "TO CAMERA"
+    ],
+    "raw_quote": " I can't take it anymore! (TO CAMERA) Folks, don't miss this Friday's show. It'll be my last."
+  },
+  {
+    "timecode": "",
+    "speaker": "Audience",
+    "quote": " ",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " (GASP)"
+  },
+  {
+    "timecode": "04:59",
+    "speaker": "Male Executive",
+    "quote": " Quitting showbiz -- yeah, I know I like the area, but where does it go?",
+    "directions": [],
+    "raw_quote": " Quitting showbiz -- yeah, I know I like the area, but where does it go?"
+  },
+  {
+    "timecode": "05:03",
+    "speaker": "Krusty the Clown",
+    "quote": " Get away from me!",
+    "directions": [
+      "EXASPERATED YELL"
+    ],
+    "raw_quote": " (EXASPERATED YELL) Get away from me!"
+  },
+  {
+    "timecode": "05:04",
+    "speaker": "Male Executive",
+    "quote": " Wait!",
+    "directions": [],
+    "raw_quote": " Wait!"
+  },
+  {
+    "timecode": "05:05",
+    "speaker": "Female Executive",
+    "quote": " We have more noootes!",
+    "directions": [],
+    "raw_quote": " We have more noootes!"
+  },
+  {
+    "timecode": "05:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Stage: ext. stage - parking lot - continuous"
+    ],
+    "raw_quote": "(Stage: ext. stage - parking lot - continuous)"
+  },
+  {
+    "timecode": "05:10",
+    "speaker": "Krusty the Clown",
+    "quote": " Get off, damn you! Ah!",
+    "directions": [
+      "FRUSTRATED SOUNDS"
+    ],
+    "raw_quote": " (FRUSTRATED SOUNDS) Get off, damn you! Ah!"
+  },
+  {
+    "timecode": "05:12",
+    "speaker": "Male Executive",
+    "quote": " You can kill me but two more will take my plaaace!",
+    "directions": [
+      "SHOUTING"
+    ],
+    "raw_quote": " (SHOUTING) You can kill me but two more will take my plaaace!"
+  },
+  {
+    "timecode": "05:20",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Dining Room: Int. Simpson dining room - later"
+    ],
+    "raw_quote": "(Simpson Dining Room: Int. Simpson dining room - later)"
+  },
+  {
+    "timecode": "05:20",
+    "speaker": "Lisa Simpson",
+    "quote": " I can't believe Krusty's retiring. This is tragic!",
+    "directions": [],
+    "raw_quote": " I can't believe Krusty's retiring. This is tragic!"
+  },
+  {
+    "timecode": "05:24",
+    "speaker": "Homer Simpson",
+    "quote": " A world without Krusty -- what would that be like?",
+    "directions": [
+      "SADLY"
+    ],
+    "raw_quote": " (SADLY) A world without Krusty -- what would that be like?"
+  },
+  {
+    "timecode": "05:30",
+    "speaker": "Homer Simpson",
+    "quote": " What's on TV?",
+    "directions": [],
+    "raw_quote": " What's on TV?"
+  },
+  {
+    "timecode": "05:31",
+    "speaker": "Bart Simpson",
+    "quote": " Nutsy the clown.",
+    "directions": [],
+    "raw_quote": " Nutsy the clown."
+  },
+  {
+    "timecode": "05:32",
+    "speaker": "Homer Simpson",
+    "quote": " Oh boy! Oh boy! Oh boy!",
+    "directions": [
+      "EXCITED"
+    ],
+    "raw_quote": " (EXCITED) Oh boy! Oh boy! Oh boy!"
+  },
+  {
+    "timecode": "05:37",
+    "speaker": "Marge Simpson",
+    "quote": " Well, I think it's good for a show to go off the air before it becomes stale and repetitive.",
+    "directions": [],
+    "raw_quote": " Well, I think it's good for a show to go off the air before it becomes stale and repetitive."
+  },
+  {
+    "timecode": "05:42",
+    "speaker": "Waylon Smithers",
+    "quote": " Maggie shot Mr. Burns again!",
+    "directions": [],
+    "raw_quote": " Maggie shot Mr. Burns again!"
+  },
+  {
+    "timecode": "05:50",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "TV Studio: iNT. TV STUDIO - NEWSDESK - DAY"
+    ],
+    "raw_quote": "(TV Studio: iNT. TV STUDIO - NEWSDESK - DAY)"
+  },
+  {
+    "timecode": "05:50",
+    "speaker": "Kent Brockman",
+    "quote": " Krusty the Clown's retirement has provoked an outpouring of anguish not seen since the small plane crash that killed the Banana Splits. We now go live to Krustylu Studios.",
+    "directions": [],
+    "raw_quote": " Krusty the Clown's retirement has provoked an outpouring of anguish not seen since the small plane crash that killed the Banana Splits. We now go live to Krustylu Studios."
+  },
+  {
+    "timecode": "06:03",
+    "speaker": "Kent Brockman",
+    "quote": " What's the mood there, Chief Clancy Wiggum?",
+    "directions": [],
+    "raw_quote": " What's the mood there, Chief Clancy Wiggum?"
+  },
+  {
+    "timecode": "06:05",
+    "speaker": "Chief Wiggum",
+    "quote": " These kids are gettin' a little out of hand, Kent, so we're gonna have to fire the time-out gas.",
+    "directions": [],
+    "raw_quote": " These kids are gettin' a little out of hand, Kent, so we're gonna have to fire the time-out gas."
+  },
+  {
+    "timecode": "06:13",
+    "speaker": "Chief Wiggum",
+    "quote": " Hey Kent, are you guys still having that contest where we guess what city the weather girl's in?",
+    "directions": [],
+    "raw_quote": " Hey Kent, are you guys still having that contest where we guess what city the weather girl's in?"
+  },
+  {
+    "timecode": "06:18",
+    "speaker": "Kent Brockman",
+    "quote": " That was eight years ago.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) That was eight years ago."
+  },
+  {
+    "timecode": "06:20",
+    "speaker": "Chief Wiggum",
+    "quote": " Is it Pittsburgh?",
+    "directions": [],
+    "raw_quote": " Is it Pittsburgh?"
+  },
+  {
+    "timecode": "06:21",
+    "speaker": "Kent Brockman",
+    "quote": " I spoke to Krusty about his legacy of laughter.",
+    "directions": [],
+    "raw_quote": " I spoke to Krusty about his legacy of laughter."
+  },
+  {
+    "timecode": "06:25",
+    "speaker": "Krusty the Clown",
+    "quote": " Kent, the young people today, they think comedy is dirty words. It's not. It's words that sound dirty. Like mukluk.",
+    "directions": [
+      "PONTIFICATING"
+    ],
+    "raw_quote": " (PONTIFICATING) Kent, the young people today, they think comedy is dirty words. It's not. It's words that sound dirty. Like mukluk."
+  },
+  {
+    "timecode": "",
+    "speaker": "Kent Brockman",
+    "quote": " ",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES)"
+  },
+  {
+    "timecode": "06:36",
+    "speaker": "Krusty the Clown",
+    "quote": " Mukluk. You like that? No charge. Mukluk.",
+    "directions": [
+      "LAUGH"
+    ],
+    "raw_quote": " (LAUGH) Mukluk. You like that? No charge. Mukluk."
+  },
+  {
+    "timecode": "06:41",
+    "speaker": "",
+    "quote": ")",
+    "directions": [
+      "Springfield Minimum Security Prison: Ext. Springrield minimum security prison - night - establishing (EDITOR: Try to use stock shot."
+    ],
+    "raw_quote": "(Springfield Minimum Security Prison: Ext. Springrield minimum security prison - night - establishing (EDITOR: Try to use stock shot.))"
+  },
+  {
+    "timecode": "06:41",
+    "speaker": "Krusty the Clown",
+    "quote": " Mukluk.",
+    "directions": [
+      "LAUGH"
+    ],
+    "raw_quote": " (LAUGH) Mukluk."
+  },
+  {
+    "timecode": "06:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Minimum Security Prison: Int. Springfield minimum security prison - cell - continuous"
+    ],
+    "raw_quote": "(Springfield Minimum Security Prison: Int. Springfield minimum security prison - cell - continuous)"
+  },
+  {
+    "timecode": "06:42",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh, can it, you tiresome tot-sitter. I was the risible one in our dyad.",
+    "directions": [],
+    "raw_quote": " Oh, can it, you tiresome tot-sitter. I was the risible one in our dyad."
+  },
+  {
+    "timecode": "06:46",
+    "speaker": "Kent Brockman",
+    "quote": " Ever watch the old episodes?",
+    "directions": [],
+    "raw_quote": " Ever watch the old episodes?"
+  },
+  {
+    "timecode": "06:48",
+    "speaker": "Krusty the Clown",
+    "quote": " Ohh, Kent, that's a sad story.",
+    "directions": [],
+    "raw_quote": " Ohh, Kent, that's a sad story."
+  },
+  {
+    "timecode": "06:50",
+    "speaker": "Krusty the Clown",
+    "quote": " I taped over all my old episodes. Well, you know, I had a thing for Judge Judy, and blank tape was 3.99. What would you do?",
+    "directions": [],
+    "raw_quote": " I taped over all my old episodes. Well, you know, I had a thing for Judge Judy, and blank tape was 3.99. What would you do?"
+  },
+  {
+    "timecode": "07:00",
+    "speaker": "Sideshow Bob",
+    "quote": " Those are my shows!",
+    "directions": [
+      "GASP, AGHAST"
+    ],
+    "raw_quote": " (GASP, AGHAST) Those are my shows!"
+  },
+  {
+    "timecode": "07:03",
+    "speaker": "Krusty the Clown",
+    "quote": " Frankly Kent, those episodes were no big loss. The show didn't really get funny until we fired Sideshow Bob and hired Who'sits.",
+    "directions": [],
+    "raw_quote": " Frankly Kent, those episodes were no big loss. The show didn't really get funny until we fired Sideshow Bob and hired Who'sits."
+  },
+  {
+    "timecode": "07:11",
+    "speaker": "Sideshow Bob",
+    "quote": " You've erased my past. Now I'll erase your future.",
+    "directions": [
+      "SEETHING MURMUR"
+    ],
+    "raw_quote": " (SEETHING MURMUR) You've erased my past. Now I'll erase your future."
+  },
+  {
+    "timecode": "07:18",
+    "speaker": "Guard",
+    "quote": " Hey, hey, lights out!",
+    "directions": [],
+    "raw_quote": " Hey, hey, lights out!"
+  },
+  {
+    "timecode": "07:19",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh, honestly. At Chino they get to stay up till nine.",
+    "directions": [],
+    "raw_quote": " Oh, honestly. At Chino they get to stay up till nine."
+  },
+  {
+    "timecode": "07:23",
+    "speaker": "Guard",
+    "quote": " Now Bob, I've talked to the warden at Chino, and that's just not true.",
+    "directions": [],
+    "raw_quote": " Now Bob, I've talked to the warden at Chino, and that's just not true."
+  },
+  {
+    "timecode": "",
+    "speaker": "Sideshow Bob",
+    "quote": " ",
+    "directions": [
+      "FRUSTRATED SOUND"
+    ],
+    "raw_quote": " (FRUSTRATED SOUND)"
+  },
+  {
+    "timecode": "07:31",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Courtroom: Int. courtroom - the next day"
+    ],
+    "raw_quote": "(Courtroom: Int. courtroom - the next day)"
+  },
+  {
+    "timecode": "07:31",
+    "speaker": "Sideshow Bob",
+    "quote": " Your Honor, my incarceration is cruel and unusual punishment. First, my prison-issued shower sandals are grossly undersized.",
+    "directions": [],
+    "raw_quote": " Your Honor, my incarceration is cruel and unusual punishment. First, my prison-issued shower sandals are grossly undersized."
+  },
+  {
+    "timecode": "07:39",
+    "speaker": "Sideshow Bob",
+    "quote": " Secondly, the prison book club consists mainly of prisoners who club me with books.",
+    "directions": [],
+    "raw_quote": " Secondly, the prison book club consists mainly of prisoners who club me with books."
+  },
+  {
+    "timecode": "07:46",
+    "speaker": "Sideshow Bob",
+    "quote": " These are from the new Tom Clancy. Although it's less painful than reading him. Am I right, folks?",
+    "directions": [],
+    "raw_quote": " These are from the new Tom Clancy. Although it's less painful than reading him. Am I right, folks?"
+  },
+  {
+    "timecode": "07:51",
+    "speaker": "Judge Snyder",
+    "quote": " Motion granted! Release the prisoner!",
+    "directions": [],
+    "raw_quote": " Motion granted! Release the prisoner!"
+  },
+  {
+    "timecode": "07:59",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Minimum Security Prison: Ext. Springfield minimum security prison - day"
+    ],
+    "raw_quote": "(Springfield Minimum Security Prison: Ext. Springfield minimum security prison - day)"
+  },
+  {
+    "timecode": "07:59",
+    "speaker": "Chief Wiggum",
+    "quote": " Now, don't try anything funny this time, Bob. I'm gonna be on you like red beans on, ah... uh, hey, hey, hey, don't walk so fast.",
+    "directions": [],
+    "raw_quote": " Now, don't try anything funny this time, Bob. I'm gonna be on you like red beans on, ah... uh, hey, hey, hey, don't walk so fast."
+  },
+  {
+    "timecode": "08:07",
+    "speaker": "Chief Wiggum",
+    "quote": " Hey, no fair. You got long legs. I got these little bitty hooves...",
+    "directions": [],
+    "raw_quote": " Hey, no fair. You got long legs. I got these little bitty hooves..."
+  },
+  {
+    "timecode": "08:12",
+    "speaker": "Chief Wiggum",
+    "quote": " Bob!",
+    "directions": [
+      "CALLING"
+    ],
+    "raw_quote": " (CALLING) Bob!"
+  },
+  {
+    "timecode": "08:16",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "STORAGE LOCKER DEPOT: ext. storage locker depot - EVENING"
+    ],
+    "raw_quote": "(STORAGE LOCKER DEPOT: ext. storage locker depot - EVENING)"
+  },
+  {
+    "timecode": "08:16",
+    "speaker": "Attendant",
+    "quote": " Okay, here's your storage locker. Just the way you left it.",
+    "directions": [
+      "WISEGUY VOICE"
+    ],
+    "raw_quote": " (WISEGUY VOICE) Okay, here's your storage locker. Just the way you left it."
+  },
+  {
+    "timecode": "08:20",
+    "speaker": "Sideshow Bob",
+    "quote": " Thank you, Raphael. Now, this is a ticklish question, but...",
+    "directions": [],
+    "raw_quote": " Thank you, Raphael. Now, this is a ticklish question, but..."
+  },
+  {
+    "timecode": "08:24",
+    "speaker": "Attendant",
+    "quote": " You wanna live in the box? Cost ya two bucks a day.",
+    "directions": [],
+    "raw_quote": " You wanna live in the box? Cost ya two bucks a day."
+  },
+  {
+    "timecode": "08:26",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh, thank you, kind innkeeper.",
+    "directions": [],
+    "raw_quote": " Oh, thank you, kind innkeeper."
+  },
+  {
+    "timecode": "08:31",
+    "speaker": "Attendant",
+    "quote": " You gonna want a wake-up jab?",
+    "directions": [],
+    "raw_quote": " You gonna want a wake-up jab?"
+  },
+  {
+    "timecode": "08:33",
+    "speaker": "Sideshow Bob",
+    "quote": " Please.",
+    "directions": [],
+    "raw_quote": " Please."
+  },
+  {
+    "timecode": "08:33",
+    "speaker": "Attendant",
+    "quote": " No problemo.",
+    "directions": [],
+    "raw_quote": " No problemo."
+  },
+  {
+    "timecode": "08:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "STORAGE LOCKER: int. storage locker - later"
+    ],
+    "raw_quote": "(STORAGE LOCKER: int. storage locker - later)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Sideshow Bob",
+    "quote": " ",
+    "directions": [
+      "HAPPY HUMMING"
+    ],
+    "raw_quote": " (HAPPY HUMMING)"
+  },
+  {
+    "timecode": "08:38",
+    "speaker": "Gil Gunderson",
+    "quote": " Hiya, neighbor!",
+    "directions": [],
+    "raw_quote": " Hiya, neighbor!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Sideshow Bob",
+    "quote": " ",
+    "directions": [
+      "STARTLED SOUND"
+    ],
+    "raw_quote": " (STARTLED SOUND)"
+  },
+  {
+    "timecode": "08:41",
+    "speaker": "Gil Gunderson",
+    "quote": " Hey, wai-wai-wait. Wha-whatcha writin' there?",
+    "directions": [],
+    "raw_quote": " Hey, wai-wai-wait. Wha-whatcha writin' there?"
+  },
+  {
+    "timecode": "08:43",
+    "speaker": "Sideshow Bob",
+    "quote": " If you must know, it's an exquisite scheme for revenge.",
+    "directions": [],
+    "raw_quote": " If you must know, it's an exquisite scheme for revenge."
+  },
+  {
+    "timecode": "08:47",
+    "speaker": "Gil Gunderson",
+    "quote": " Ah, revenge, huh? Half the guys in here are workin' on that.",
+    "directions": [],
+    "raw_quote": " Ah, revenge, huh? Half the guys in here are workin' on that."
+  },
+  {
+    "timecode": "08:54",
+    "speaker": "Sideshow Bob",
+    "quote": " Well, mine's better.",
+    "directions": [],
+    "raw_quote": " Well, mine's better."
+  },
+  {
+    "timecode": "08:59",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: Ext. Springfield elementary - the next day"
+    ],
+    "raw_quote": "(Springfield Elementary School: Ext. Springfield elementary - the next day)"
+  },
+  {
+    "timecode": "08:59",
+    "speaker": "Sideshow Bob",
+    "quote": " Phase One begins in ten... nine... eight... Oh, I can't wait!",
+    "directions": [
+      "QUICKLY"
+    ],
+    "raw_quote": " Phase One begins in ten... nine... eight... (QUICKLY) Oh, I can't wait!"
+  },
+  {
+    "timecode": "09:08",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: Int. Springfield elementary - Skinner's office - later"
+    ],
+    "raw_quote": "(Springfield Elementary School: Int. Springfield elementary - Skinner's office - later)"
+  },
+  {
+    "timecode": "09:08",
+    "speaker": "Seymour Skinner",
+    "quote": " Now, Bob, uh, your graduate degrees more than qualify you to be assistant janitor.",
+    "directions": [],
+    "raw_quote": " Now, Bob, uh, your graduate degrees more than qualify you to be assistant janitor."
+  },
+  {
+    "timecode": "09:14",
+    "speaker": "Sideshow Bob",
+    "quote": " My blushes.",
+    "directions": [
+      "COY CHUCKLE"
+    ],
+    "raw_quote": " (COY CHUCKLE) My blushes."
+  },
+  {
+    "timecode": "09:15",
+    "speaker": "Seymour Skinner",
+    "quote": " But I am a bit troubled by your constant attempts to murder people.",
+    "directions": [],
+    "raw_quote": " But I am a bit troubled by your constant attempts to murder people."
+  },
+  {
+    "timecode": "09:19",
+    "speaker": "Sideshow Bob",
+    "quote": " To be fair, most of those people were Bart Simpson.",
+    "directions": [],
+    "raw_quote": " To be fair, most of those people were Bart Simpson."
+  },
+  {
+    "timecode": "09:22",
+    "speaker": "Seymour Skinner",
+    "quote": " Good luck. That kid's like the Road Runner. He won't go down.",
+    "directions": [
+      "EMPATHETIC CHUCKLE"
+    ],
+    "raw_quote": " (EMPATHETIC CHUCKLE) Good luck. That kid's like the Road Runner. He won't go down."
+  },
+  {
+    "timecode": "09:28",
+    "speaker": "Sideshow Bob",
+    "quote": " Tell me about it.",
+    "directions": [],
+    "raw_quote": " Tell me about it."
+  },
+  {
+    "timecode": "09:32",
+    "speaker": "Seymour Skinner",
+    "quote": " I-- You know, Bob, your voice would be perfect for the school's morning announcements.",
+    "directions": [
+      "GETTING IDEA"
+    ],
+    "raw_quote": " I-- (GETTING IDEA) You know, Bob, your voice would be perfect for the school's morning announcements."
+  },
+  {
+    "timecode": "09:37",
+    "speaker": "Sideshow Bob",
+    "quote": " Attention: the French club picnic has been canceled. Quel dommage.",
+    "directions": [],
+    "raw_quote": " Attention: the French club picnic has been canceled. Quel dommage."
+  },
+  {
+    "timecode": "09:42",
+    "speaker": "Seymour Skinner",
+    "quote": " Ha! You're hired.",
+    "directions": [
+      "RAPTUROUS"
+    ],
+    "raw_quote": " (RAPTUROUS) Ha! You're hired."
+  },
+  {
+    "timecode": "09:44",
+    "speaker": "Sideshow Bob",
+    "quote": " It begins. ",
+    "directions": [
+      "MENACING",
+      "MANIACAL LAUGH"
+    ],
+    "raw_quote": " (MENACING) It begins. (MANIACAL LAUGH)"
+  },
+  {
+    "timecode": "09:52",
+    "speaker": "Sideshow Bob",
+    "quote": " I mean, my announcing career. That's what's beginning.",
+    "directions": [],
+    "raw_quote": " I mean, my announcing career. That's what's beginning."
+  },
+  {
+    "timecode": "10:01",
+    "speaker": "Sideshow Bob",
+    "quote": " Good morning, Springfield Elementary.",
+    "directions": [],
+    "raw_quote": " Good morning, Springfield Elementary."
+  },
+  {
+    "timecode": "10:03",
+    "speaker": "Sideshow Bob",
+    "quote": " In the lost and found today we have one plaid kilt.",
+    "directions": [],
+    "raw_quote": " In the lost and found today we have one plaid kilt."
+  },
+  {
+    "timecode": "",
+    "speaker": "Groundskeeper Willie",
+    "quote": " ",
+    "directions": [
+      "HOPEFUL NOISE"
+    ],
+    "raw_quote": " (HOPEFUL NOISE)"
+  },
+  {
+    "timecode": "10:06",
+    "speaker": "Sideshow Bob",
+    "quote": " I believe the clan is \"Graham of Montrose.\"",
+    "directions": [],
+    "raw_quote": " I believe the clan is \"Graham of Montrose.\""
+  },
+  {
+    "timecode": "",
+    "speaker": "Groundskeeper Willie",
+    "quote": " ",
+    "directions": [
+      "DISAPPOINTED NOISE"
+    ],
+    "raw_quote": " (DISAPPOINTED NOISE)"
+  },
+  {
+    "timecode": "10:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Mrs. Krabappel's Classroom: Int. Bart's class - continuous"
+    ],
+    "raw_quote": "(Mrs. Krabappel's Classroom: Int. Bart's class - continuous)"
+  },
+  {
+    "timecode": "10:10",
+    "speaker": "Bart Simpson",
+    "quote": " This new morning announcer sounds awfully familiar.",
+    "directions": [],
+    "raw_quote": " This new morning announcer sounds awfully familiar."
+  },
+  {
+    "timecode": "10:14",
+    "speaker": "Sideshow Bob",
+    "quote": " And finally, Bart Simpson should immediately proceed, unescorted, to the old sports equipment shed behind the school. ",
+    "directions": [
+      "SINISTER CHUCKLE"
+    ],
+    "raw_quote": " And finally, Bart Simpson should immediately proceed, unescorted, to the old sports equipment shed behind the school. (SINISTER CHUCKLE)"
+  },
+  {
+    "timecode": "10:25",
+    "speaker": "Bart Simpson",
+    "quote": " Ha. So long, suckers!",
+    "directions": [
+      "COCKY"
+    ],
+    "raw_quote": " (COCKY) Ha. So long, suckers!"
+  },
+  {
+    "timecode": "10:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Elementary School: ext. springfield elementary - day"
+    ],
+    "raw_quote": "(Springfield Elementary School: ext. springfield elementary - day)"
+  },
+  {
+    "timecode": "10:34",
+    "speaker": "Children",
+    "quote": " RING AROUND THE ROSEY...",
+    "directions": [
+      "GHOSTLY, SINGING"
+    ],
+    "raw_quote": " (GHOSTLY, SINGING) RING AROUND THE ROSEY..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "FRIGHTENED YELL"
+    ],
+    "raw_quote": " (FRIGHTENED YELL)"
+  },
+  {
+    "timecode": "10:50",
+    "speaker": "Sideshow Bob",
+    "quote": " Hello, Bart.",
+    "directions": [
+      "MENACING"
+    ],
+    "raw_quote": " (MENACING) Hello, Bart."
+  },
+  {
+    "timecode": "10:53",
+    "speaker": "Bart Simpson",
+    "quote": " Oh, it's you, Bob. How ya doin'?",
+    "directions": [
+      "RELIEVED",
+      "FRIENDLY"
+    ],
+    "raw_quote": " (RELIEVED) Oh, it's you, Bob. (FRIENDLY) How ya doin'?"
+  },
+  {
+    "timecode": "10:56",
+    "speaker": "Sideshow Bob",
+    "quote": " No screams? Not even an \"eep\"?",
+    "directions": [
+      "FEELINGS HURT"
+    ],
+    "raw_quote": " (FEELINGS HURT) No screams? Not even an \"eep\"?"
+  },
+  {
+    "timecode": "10:59",
+    "speaker": "Bart Simpson",
+    "quote": " Hey, I'm not afraid of you. Every time we tangle, you wind up in jail. I'm 6 and 0.",
+    "directions": [],
+    "raw_quote": " Hey, I'm not afraid of you. Every time we tangle, you wind up in jail. I'm 6 and 0."
+  },
+  {
+    "timecode": "11:04",
+    "speaker": "Sideshow Bob",
+    "quote": " I'll admit that the record is a little one-sided. But this time I cannot fail.",
+    "directions": [
+      "MENACING"
+    ],
+    "raw_quote": " I'll admit that the record is a little one-sided. (MENACING) But this time I cannot fail."
+  },
+  {
+    "timecode": "11:14",
+    "speaker": "Sideshow Bob",
+    "quote": " Rakes. My old arch-enemy.",
+    "directions": [
+      "PAINED SOUND, THEN"
+    ],
+    "raw_quote": " (PAINED SOUND, THEN) Rakes. My old arch-enemy."
+  },
+  {
+    "timecode": "11:17",
+    "speaker": "Bart Simpson",
+    "quote": " I thought I was your arch-enemy.",
+    "directions": [],
+    "raw_quote": " I thought I was your arch-enemy."
+  },
+  {
+    "timecode": "11:19",
+    "speaker": "Sideshow Bob",
+    "quote": " I have a life outside of you, Bart.",
+    "directions": [],
+    "raw_quote": " I have a life outside of you, Bart."
+  },
+  {
+    "timecode": "11:26",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SPORTS EQUIPMENT SHED: ext. sports equipment shed - day - later"
+    ],
+    "raw_quote": "(SPORTS EQUIPMENT SHED: ext. sports equipment shed - day - later)"
+  },
+  {
+    "timecode": "11:26",
+    "speaker": "Bart Simpson",
+    "quote": " What are you gonna do to me?",
+    "directions": [
+      "SCARED"
+    ],
+    "raw_quote": " (SCARED) What are you gonna do to me?"
+  },
+  {
+    "timecode": "11:27",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh, believe me, I have a plan. Let's see... Get job as school announcer...lure Bart to shed...secure same to chair with rope... Ah, here we are. \"Have Bart kill Krusty.\"",
+    "directions": [
+      "QUICKLY"
+    ],
+    "raw_quote": " Oh, believe me, I have a plan. Let's see... (QUICKLY) Get job as school announcer...lure Bart to shed...secure same to chair with rope... Ah, here we are. \"Have Bart kill Krusty.\""
+  },
+  {
+    "timecode": "11:35",
+    "speaker": "Bart Simpson",
+    "quote": " Krusty?! That's the one man I would never kill.",
+    "directions": [],
+    "raw_quote": " Krusty?! That's the one man I would never kill."
+  },
+  {
+    "timecode": "11:41",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh, you will kill Krusty, during his final show -- and you won't even know you're doing it.",
+    "directions": [],
+    "raw_quote": " Oh, you will kill Krusty, during his final show -- and you won't even know you're doing it."
+  },
+  {
+    "timecode": "11:50",
+    "speaker": "Sideshow Bob",
+    "quote": " Watch the shiny quarter, Bart... that's it... Oh, dammit, where'd it go?",
+    "directions": [
+      "HYPNOTIC",
+      "DROPS QUARTER"
+    ],
+    "raw_quote": " (HYPNOTIC) Watch the shiny quarter, Bart... that's it... (DROPS QUARTER) Oh, dammit, where'd it go?"
+  },
+  {
+    "timecode": "11:57",
+    "speaker": "Sideshow Bob",
+    "quote": " I needed that for laundry!",
+    "directions": [
+      "PLAINTIVE"
+    ],
+    "raw_quote": " (PLAINTIVE) I needed that for laundry!"
+  },
+  {
+    "timecode": "11:58",
+    "speaker": "Bart Simpson",
+    "quote": " Hey, stupid.",
+    "directions": [],
+    "raw_quote": " Hey, stupid."
+  },
+  {
+    "timecode": "12:00",
+    "speaker": "Bart Simpson",
+    "quote": " You looked!",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " (LAUGHS) You looked!"
+  },
+  {
+    "timecode": "12:07",
+    "speaker": "Sideshow Bob",
+    "quote": " Yes, that will do.",
+    "directions": [],
+    "raw_quote": " Yes, that will do."
+  },
+  {
+    "timecode": "12:11",
+    "speaker": "Sideshow Bob",
+    "quote": " Watch the spiral, Bart. Let it entrance you with its twirliness. Twirliness!",
+    "directions": [],
+    "raw_quote": " Watch the spiral, Bart. Let it entrance you with its twirliness. Twirliness!"
+  },
+  {
+    "timecode": "12:20",
+    "speaker": "Sideshow Bob",
+    "quote": " You are in my power!",
+    "directions": [],
+    "raw_quote": " You are in my power!"
+  },
+  {
+    "timecode": "12:21",
+    "speaker": "Bart Simpson",
+    "quote": " I am at your command.",
+    "directions": [
+      "TRANCE-LIKE"
+    ],
+    "raw_quote": " (TRANCE-LIKE) I am at your command."
+  },
+  {
+    "timecode": "12:23",
+    "speaker": "Sideshow Bob",
+    "quote": " I didn't say anything about command. If you're in my power, say so.",
+    "directions": [],
+    "raw_quote": " I didn't say anything about command. If you're in my power, say so."
+  },
+  {
+    "timecode": "12:27",
+    "speaker": "Bart Simpson",
+    "quote": " I am in your power.",
+    "directions": [
+      "TRANCE-LIKE"
+    ],
+    "raw_quote": " (TRANCE-LIKE) I am in your power."
+  },
+  {
+    "timecode": "12:29",
+    "speaker": "Sideshow Bob",
+    "quote": " Excellent... Actually, go back to \"command.\" No, \"power,\" \"power.\"",
+    "directions": [
+      "AFTERTHOUGHT"
+    ],
+    "raw_quote": " Excellent... (AFTERTHOUGHT) Actually, go back to \"command.\" No, \"power,\" \"power.\""
+  },
+  {
+    "timecode": "12:35",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Ext. Simpson house - night - establishing"
+    ],
+    "raw_quote": "(Simpson Home: Ext. Simpson house - night - establishing)"
+  },
+  {
+    "timecode": "12:35",
+    "speaker": "Marge Simpson",
+    "quote": " Look! Krusty invited us to the taping of his last episode.",
+    "directions": [],
+    "raw_quote": " Look! Krusty invited us to the taping of his last episode."
+  },
+  {
+    "timecode": "12:41",
+    "speaker": "Bart Simpson",
+    "quote": " Hello, family.",
+    "directions": [
+      "ZOMBIE-LIKE"
+    ],
+    "raw_quote": " (ZOMBIE-LIKE) Hello, family."
+  },
+  {
+    "timecode": "12:43",
+    "speaker": "Marge Simpson",
+    "quote": " Where have you been, young man? It's nearly bedtime.",
+    "directions": [],
+    "raw_quote": " Where have you been, young man? It's nearly bedtime."
+  },
+  {
+    "timecode": "12:46",
+    "speaker": "Bart Simpson",
+    "quote": " I was... I was...",
+    "directions": [
+      "ZOMBIE-LIKE, TRYING TO RECALL"
+    ],
+    "raw_quote": " (ZOMBIE-LIKE, TRYING TO RECALL) I was... I was..."
+  },
+  {
+    "timecode": "12:49",
+    "speaker": "GHOSTLY SIDESHOW BOB",
+    "quote": " If anyone asks, you were at the flower shop.",
+    "directions": [
+      "INSTRUCTING"
+    ],
+    "raw_quote": " (INSTRUCTING) If anyone asks, you were at the flower shop."
+  },
+  {
+    "timecode": "12:53",
+    "speaker": "Bart Simpson",
+    "quote": " I was at the flower shop.",
+    "directions": [
+      "ZOMBIE-LIKE"
+    ],
+    "raw_quote": " (ZOMBIE-LIKE) I was at the flower shop."
+  },
+  {
+    "timecode": "12:55",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, yeah, uh, I was at the flower shop today, too. Yup, gettin' drunk at the ol' flower shop.",
+    "directions": [],
+    "raw_quote": " Oh, yeah, uh, I was at the flower shop today, too. Yup, gettin' drunk at the ol' flower shop."
+  },
+  {
+    "timecode": "13:03",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Street: Ext. Springfield street - day"
+    ],
+    "raw_quote": "(Springfield Street: Ext. Springfield street - day)"
+  },
+  {
+    "timecode": "13:03",
+    "speaker": "Sideshow Bob",
+    "quote": " Now to see if you will really attack your hero.",
+    "directions": [],
+    "raw_quote": " Now to see if you will really attack your hero."
+  },
+  {
+    "timecode": "13:14",
+    "speaker": "Sideshow Bob",
+    "quote": " Yes! Yes! Work the groin!",
+    "directions": [
+      "EVIL LAUGH"
+    ],
+    "raw_quote": " (EVIL LAUGH) Yes! Yes! Work the groin!"
+  },
+  {
+    "timecode": "13:19",
+    "speaker": "Sideshow Bob",
+    "quote": " Excuse me. Could you take our picture?",
+    "directions": [],
+    "raw_quote": " Excuse me. Could you take our picture?"
+  },
+  {
+    "timecode": "13:21",
+    "speaker": "Cletus Spuckler",
+    "quote": " Ay-yeah.",
+    "directions": [],
+    "raw_quote": " Ay-yeah."
+  },
+  {
+    "timecode": "13:23",
+    "speaker": "Sideshow Bob",
+    "quote": " It should focus automatically.",
+    "directions": [],
+    "raw_quote": " It should focus automatically."
+  },
+  {
+    "timecode": "13:25",
+    "speaker": "Cletus Spuckler",
+    "quote": " It do.",
+    "directions": [],
+    "raw_quote": " It do."
+  },
+  {
+    "timecode": "13:27",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Krusty Burger: Int. Krustyburger - continuous"
+    ],
+    "raw_quote": "(Krusty Burger: Int. Krustyburger - continuous)"
+  },
+  {
+    "timecode": "13:27",
+    "speaker": "Eddie",
+    "quote": " Chief, you might want to take a look outside.",
+    "directions": [],
+    "raw_quote": " Chief, you might want to take a look outside."
+  },
+  {
+    "timecode": "13:29",
+    "speaker": "Sideshow Bob",
+    "quote": " That's it! Kill Krusty! Just like you'll kill him tomorrow night!",
+    "directions": [
+      "THROUGH WINDOW"
+    ],
+    "raw_quote": " (THROUGH WINDOW) That's it! Kill Krusty! Just like you'll kill him tomorrow night!"
+  },
+  {
+    "timecode": "13:35",
+    "speaker": "Chief Wiggum",
+    "quote": " Oh, it-it's so great to see a kid using a wooden bat. These days it's all aluminum this and George W. that.",
+    "directions": [
+      "LOOKING OUTSIDE"
+    ],
+    "raw_quote": " (LOOKING OUTSIDE) Oh, it-it's so great to see a kid using a wooden bat. These days it's all aluminum this and George W. that."
+  },
+  {
+    "timecode": "13:42",
+    "speaker": "Lou",
+    "quote": " Hey, Chief, look what I got in my Laffy Meal.",
+    "directions": [],
+    "raw_quote": " Hey, Chief, look what I got in my Laffy Meal."
+  },
+  {
+    "timecode": "13:45",
+    "speaker": "Chief Wiggum",
+    "quote": " Ooo, mini-pinball!",
+    "directions": [],
+    "raw_quote": " Ooo, mini-pinball!"
+  },
+  {
+    "timecode": "13:47",
+    "speaker": "Lou",
+    "quote": " Hey, give that back!",
+    "directions": [],
+    "raw_quote": " Hey, give that back!"
+  },
+  {
+    "timecode": "13:48",
+    "speaker": "Chief Wiggum",
+    "quote": " Give what back, Lou?",
+    "directions": [],
+    "raw_quote": " Give what back, Lou?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Sideshow Bob",
+    "quote": " ",
+    "directions": [
+      "EVIL RELISHING SOUNDS"
+    ],
+    "raw_quote": " (EVIL RELISHING SOUNDS)"
+  },
+  {
+    "timecode": "14:01",
+    "speaker": "Krusty the Clown",
+    "quote": " Good evening, folks. And welcome to my final clown-cast. The word \"legend\" has many definitions...",
+    "directions": [],
+    "raw_quote": " Good evening, folks. And welcome to my final clown-cast. The word \"legend\" has many definitions..."
+  },
+  {
+    "timecode": "14:08",
+    "speaker": "Bart Simpson",
+    "quote": " This is for Sideshow Bob.",
+    "directions": [
+      "ZOMBIE-LIKE"
+    ],
+    "raw_quote": " (ZOMBIE-LIKE) This is for Sideshow Bob."
+  },
+  {
+    "timecode": "",
+    "speaker": "Krusty the Clown",
+    "quote": " ",
+    "directions": [
+      "LOW MOAN"
+    ],
+    "raw_quote": " (LOW MOAN)"
+  },
+  {
+    "timecode": "14:15",
+    "speaker": "Sideshow Bob",
+    "quote": " Marvelous, marvelous. Funny till the end. Moment of silence. Well, it's my show now.",
+    "directions": [
+      "VERY BRIEF MOMENT"
+    ],
+    "raw_quote": " Marvelous, marvelous. Funny till the end. Moment of silence. (VERY BRIEF MOMENT) Well, it's my show now."
+  },
+  {
+    "timecode": "",
+    "speaker": "Crowd",
+    "quote": " ",
+    "directions": [
+      "CHEERS AND APPLAUSE"
+    ],
+    "raw_quote": " (CHEERS AND APPLAUSE)"
+  },
+  {
+    "timecode": "14:22",
+    "speaker": "Sideshow Bob",
+    "quote": " Thank you, thank you...",
+    "directions": [],
+    "raw_quote": " Thank you, thank you..."
+  },
+  {
+    "timecode": "14:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "STORAGE LOCKER: iNT. STORAGE LOCKER - CONTINUOUS"
+    ],
+    "raw_quote": "(STORAGE LOCKER: iNT. STORAGE LOCKER - CONTINUOUS)"
+  },
+  {
+    "timecode": "14:25",
+    "speaker": "Sideshow Bob",
+    "quote": " Thank you...",
+    "directions": [
+      "IN HIS SLEEP"
+    ],
+    "raw_quote": " (IN HIS SLEEP) Thank you..."
+  },
+  {
+    "timecode": "14:30",
+    "speaker": "Sideshow Bob",
+    "quote": " Just a dream. But tonight I will taste the sweet nectar of vengeance.",
+    "directions": [
+      "DISAPPOINTED SOUND"
+    ],
+    "raw_quote": " (DISAPPOINTED SOUND) Just a dream. But tonight I will taste the sweet nectar of vengeance."
+  },
+  {
+    "timecode": "14:41",
+    "speaker": "Attendant",
+    "quote": " Bug spray!",
+    "directions": [],
+    "raw_quote": " Bug spray!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Sideshow Bob",
+    "quote": " ",
+    "directions": [
+      "MUTTERS"
+    ],
+    "raw_quote": " (MUTTERS)"
+  },
+  {
+    "timecode": "14:58",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Krustylu Studios: Ext. Krustylu studios - night"
+    ],
+    "raw_quote": "(Krustylu Studios: Ext. Krustylu studios - night)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Gary Coleman",
+    "quote": " ",
+    "directions": [
+      "KARATE SOUNDS"
+    ],
+    "raw_quote": " (KARATE SOUNDS)"
+  },
+  {
+    "timecode": "14:58",
+    "speaker": "Kent Brockman",
+    "quote": " Kent Brockman here at Krusty the Clown's final show. And here comes out-of-work actor Rainier Wolfcastle!",
+    "directions": [
+      "HOLDING MIC"
+    ],
+    "raw_quote": " (HOLDING MIC) Kent Brockman here at Krusty the Clown's final show. And here comes out-of-work actor Rainier Wolfcastle!"
+  },
+  {
+    "timecode": "15:05",
+    "speaker": "Rainier Wolfcastle",
+    "quote": " Someone, please, give me a job. I've lowered my quote to eight million!",
+    "directions": [],
+    "raw_quote": " Someone, please, give me a job. I've lowered my quote to eight million!"
+  },
+  {
+    "timecode": "15:10",
+    "speaker": "Kent Brockman",
+    "quote": " Hear that, Hollywood? The boy wants to work.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) Hear that, Hollywood? The boy wants to work."
+  },
+  {
+    "timecode": "15:13",
+    "speaker": "Rainier Wolfcastle",
+    "quote": " I do nude scene, I play nerd... Don't make me punch your throat.",
+    "directions": [],
+    "raw_quote": " I do nude scene, I play nerd... Don't make me punch your throat."
+  },
+  {
+    "timecode": "15:18",
+    "speaker": "Kent Brockman",
+    "quote": " Always a delight.",
+    "directions": [
+      "PATTING HIM ON BACK, CHUCKLING"
+    ],
+    "raw_quote": " (PATTING HIM ON BACK, CHUCKLING) Always a delight."
+  },
+  {
+    "timecode": "15:29",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Krusty the Clown Show Soundstage: Int. Krusty stage - a little later"
+    ],
+    "raw_quote": "(Krusty the Clown Show Soundstage: Int. Krusty stage - a little later)"
+  },
+  {
+    "timecode": "15:29",
+    "speaker": "Announcer",
+    "quote": " And now, retiring for the fifth and final time, Krusty the Clown!",
+    "directions": [],
+    "raw_quote": " And now, retiring for the fifth and final time, Krusty the Clown!"
+  },
+  {
+    "timecode": "15:38",
+    "speaker": "Krusty the Clown",
+    "quote": " Thank you, folks. Now, fasten your funny belts, as our own Chimpendale's dancer gives you the Full Monkey!",
+    "directions": [],
+    "raw_quote": " Thank you, folks. Now, fasten your funny belts, as our own Chimpendale's dancer gives you the Full Monkey!"
+  },
+  {
+    "timecode": "15:48",
+    "speaker": "Homer Simpson",
+    "quote": " Take it off!",
+    "directions": [
+      "CALLING"
+    ],
+    "raw_quote": " (CALLING) Take it off!"
+  },
+  {
+    "timecode": "15:57",
+    "speaker": "Sideshow Bob",
+    "quote": " Bart... Bart...",
+    "directions": [
+      "SOFTLY CALLING"
+    ],
+    "raw_quote": " (SOFTLY CALLING) Bart... Bart..."
+  },
+  {
+    "timecode": "16:03",
+    "speaker": "Sideshow Bob",
+    "quote": " It's time, Bart. Time to blow up the clown.",
+    "directions": [],
+    "raw_quote": " It's time, Bart. Time to blow up the clown."
+  },
+  {
+    "timecode": "16:07",
+    "speaker": "Bart Simpson",
+    "quote": " Time to blow up the clown...",
+    "directions": [],
+    "raw_quote": " Time to blow up the clown..."
+  },
+  {
+    "timecode": "16:09",
+    "speaker": "Homer Simpson",
+    "quote": " Go. Blow.",
+    "directions": [
+      "JEWISH UNCLE"
+    ],
+    "raw_quote": " (JEWISH UNCLE) Go. Blow."
+  },
+  {
+    "timecode": "16:12",
+    "speaker": "Krusty the Clown",
+    "quote": " And now a special treat. My TV debut on the Milk of Magnesia Summer Cavalcade. Let's watch.",
+    "directions": [],
+    "raw_quote": " And now a special treat. My TV debut on the Milk of Magnesia Summer Cavalcade. Let's watch."
+  },
+  {
+    "timecode": "16:21",
+    "speaker": "Krusty the Clown",
+    "quote": " Look at me. I am Kaputnik, the Russian Satellite...",
+    "directions": [
+      "RUSSIAN ACCENT"
+    ],
+    "raw_quote": " (RUSSIAN ACCENT) Look at me. I am Kaputnik, the Russian Satellite..."
+  },
+  {
+    "timecode": "16:24",
+    "speaker": "Krusty the Clown",
+    "quote": " The Bolshoi's doin' the Nutcracker in my pants!",
+    "directions": [
+      "PAINED SOUND"
+    ],
+    "raw_quote": " (PAINED SOUND) The Bolshoi's doin' the Nutcracker in my pants!"
+  },
+  {
+    "timecode": "",
+    "speaker": "CONSERVATIVE 50'S AUDIENCE",
+    "quote": " ",
+    "directions": [
+      "SHOCKED GASP"
+    ],
+    "raw_quote": " (SHOCKED GASP)"
+  },
+  {
+    "timecode": "16:29",
+    "speaker": "Krusty the Clown",
+    "quote": " Back then you couldn't say \"pants\" on TV. I was banned for ten years. Finally, I got a second chance on \"Laugh In\".",
+    "directions": [],
+    "raw_quote": " Back then you couldn't say \"pants\" on TV. I was banned for ten years. Finally, I got a second chance on \"Laugh In\"."
+  },
+  {
+    "timecode": "16:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "\"LAUGH IN\" STAGE: Int. \"Laugh in\" stage"
+    ],
+    "raw_quote": "(\"LAUGH IN\" STAGE: Int. \"Laugh in\" stage)"
+  },
+  {
+    "timecode": "16:38",
+    "speaker": "\"Judy Carne\"",
+    "quote": " Hey Krusty, what do you get when you cross a chicken with a beagle?",
+    "directions": [],
+    "raw_quote": " Hey Krusty, what do you get when you cross a chicken with a beagle?"
+  },
+  {
+    "timecode": "16:43",
+    "speaker": "Krusty the Clown",
+    "quote": " Fackakta doors are stuck! Don't just stare, Artie, help me!",
+    "directions": [],
+    "raw_quote": " Fackakta doors are stuck! Don't just stare, Artie, help me!"
+  },
+  {
+    "timecode": "16:49",
+    "speaker": "Krusty the Clown",
+    "quote": " Those lousy shutters set me back another twenty-two years.",
+    "directions": [],
+    "raw_quote": " Those lousy shutters set me back another twenty-two years."
+  },
+  {
+    "timecode": "17:01",
+    "speaker": "Audience",
+    "quote": " / Yayyy! / ",
+    "directions": [
+      "APPLAUSE",
+      "LAUGHS"
+    ],
+    "raw_quote": " (APPLAUSE) / Yayyy! / (LAUGHS)"
+  },
+  {
+    "timecode": "17:01",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Krustylu Studios: Int. Krustylu Studios - prop storage room - continuous"
+    ],
+    "raw_quote": "(Krustylu Studios: Int. Krustylu Studios - prop storage room - continuous)"
+  },
+  {
+    "timecode": "17:01",
+    "speaker": "Sideshow Bob",
+    "quote": " Mmm... that's good plastic explosive. Ha, ha, ha.",
+    "directions": [
+      "\u00c0 LA JACKIE GLEASON"
+    ],
+    "raw_quote": " (\u00c0 LA JACKIE GLEASON) Mmm... that's good plastic explosive. Ha, ha, ha."
+  },
+  {
+    "timecode": "17:11",
+    "speaker": "Sideshow Bob",
+    "quote": " Now, my little hypno-assassin, your cue to attack will be when Krusty says \"I've never had such a great audience.\"",
+    "directions": [],
+    "raw_quote": " Now, my little hypno-assassin, your cue to attack will be when Krusty says \"I've never had such a great audience.\""
+  },
+  {
+    "timecode": "17:11",
+    "speaker": "Sideshow Bob",
+    "quote": " You will run up and hug him -- blowing each of you to smithereens!",
+    "directions": [],
+    "raw_quote": " You will run up and hug him -- blowing each of you to smithereens!"
+  },
+  {
+    "timecode": "17:24",
+    "speaker": "Bart Simpson",
+    "quote": " What-ever.",
+    "directions": [
+      "HYPNOTIZED"
+    ],
+    "raw_quote": " (HYPNOTIZED) What-ever."
+  },
+  {
+    "timecode": "17:26",
+    "speaker": "Krusty the Clown",
+    "quote": " Now we're gonna show you some clips from...",
+    "directions": [],
+    "raw_quote": " Now we're gonna show you some clips from..."
+  },
+  {
+    "timecode": "17:28",
+    "speaker": "Krusty the Clown",
+    "quote": " Ohhh-ho-ho-ho. Oh, nooo... I wanted to keep this quiet.",
+    "directions": [
+      "MOCK-EMBARRASSED"
+    ],
+    "raw_quote": " (MOCK-EMBARRASSED) Ohhh-ho-ho-ho. Oh, nooo... I wanted to keep this quiet."
+  },
+  {
+    "timecode": "17:35",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Can I embarrass this guy for a moment? Three years ago Krusty pledged over a million dollars to start Krusty's Kare Center.",
+    "directions": [
+      "\u00c0 LA TELETHON, CHUCKLING"
+    ],
+    "raw_quote": " (\u00c0 LA TELETHON, CHUCKLING) Can I embarrass this guy for a moment? Three years ago Krusty pledged over a million dollars to start Krusty's Kare Center."
+  },
+  {
+    "timecode": "17:42",
+    "speaker": "Krusty the Clown",
+    "quote": " Please. Stop already...",
+    "directions": [],
+    "raw_quote": " Please. Stop already..."
+  },
+  {
+    "timecode": "17:45",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " To this day Krusty has not given us a dime. Has he, Frances?",
+    "directions": [
+      "TO CHILD"
+    ],
+    "raw_quote": " To this day Krusty has not given us a dime. (TO CHILD) Has he, Frances?"
+  },
+  {
+    "timecode": "17:49",
+    "speaker": "Frances",
+    "quote": " I'm cold all the time.",
+    "directions": [],
+    "raw_quote": " I'm cold all the time."
+  },
+  {
+    "timecode": "17:52",
+    "speaker": "Krusty the Clown",
+    "quote": " Ohhh, look, it was all a bookkeeping snafu.",
+    "directions": [],
+    "raw_quote": " Ohhh, look, it was all a bookkeeping snafu."
+  },
+  {
+    "timecode": "17:56",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Could I have the check now?",
+    "directions": [],
+    "raw_quote": " Could I have the check now?"
+  },
+  {
+    "timecode": "17:57",
+    "speaker": "Krusty the Clown",
+    "quote": " Now? Eh-- Uh, sure.",
+    "directions": [
+      "GRUDGING"
+    ],
+    "raw_quote": " Now? Eh-- (GRUDGING) Uh, sure."
+  },
+  {
+    "timecode": "18:00",
+    "speaker": "Frances",
+    "quote": " God bwess you, Kwusty.",
+    "directions": [],
+    "raw_quote": " God bwess you, Kwusty."
+  },
+  {
+    "timecode": "18:02",
+    "speaker": "Audience",
+    "quote": " Awww.",
+    "directions": [],
+    "raw_quote": " Awww."
+  },
+  {
+    "timecode": "18:03",
+    "speaker": "Krusty the Clown",
+    "quote": " And if my banker's watching, let nothing stop you from payment of this check.",
+    "directions": [
+      "TO CAMERA"
+    ],
+    "raw_quote": " (TO CAMERA) And if my banker's watching, let nothing stop you from payment of this check."
+  },
+  {
+    "timecode": "18:15",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Krustylu Studios: Int. Krustylu stage - catwalk - continuous"
+    ],
+    "raw_quote": "(Krustylu Studios: Int. Krustylu stage - catwalk - continuous)"
+  },
+  {
+    "timecode": "18:15",
+    "speaker": "Sideshow Bob",
+    "quote": " Ah, the catwalk. A perfect vantage point... for revenge.",
+    "directions": [],
+    "raw_quote": " Ah, the catwalk. A perfect vantage point... for revenge."
+  },
+  {
+    "timecode": "18:23",
+    "speaker": "Sideshow Bob",
+    "quote": " Ah, Kettle chips. The perfect side dish... for revenge.",
+    "directions": [],
+    "raw_quote": " Ah, Kettle chips. The perfect side dish... for revenge."
+  },
+  {
+    "timecode": "18:30",
+    "speaker": "Krusty the Clown",
+    "quote": " What a special night. And you know something? I've never had such a great audience...",
+    "directions": [],
+    "raw_quote": " What a special night. And you know something? I've never had such a great audience..."
+  },
+  {
+    "timecode": "18:41",
+    "speaker": "Krusty the Clown",
+    "quote": " We've had a lot of... I'd like to be serious...",
+    "directions": [
+      "TRAILING OFF"
+    ],
+    "raw_quote": " (TRAILING OFF) We've had a lot of... I'd like to be serious..."
+  },
+  {
+    "timecode": "18:42",
+    "speaker": "Sideshow Bob",
+    "quote": " Well, Krusty, this is your Waterloo. Soon you'll be Napoleon Blownapart.",
+    "directions": [
+      "SMIRKING"
+    ],
+    "raw_quote": " (SMIRKING) Well, Krusty, this is your Waterloo. Soon you'll be Napoleon Blownapart."
+  },
+  {
+    "timecode": "18:50",
+    "speaker": "Lighting Man",
+    "quote": " Terrible.",
+    "directions": [
+      "DISGUSTED NOISE"
+    ],
+    "raw_quote": " (DISGUSTED NOISE) Terrible."
+  },
+  {
+    "timecode": "18:52",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh, hush up, Leo.",
+    "directions": [],
+    "raw_quote": " Oh, hush up, Leo."
+  },
+  {
+    "timecode": "18:53",
+    "speaker": "Krusty the Clown",
+    "quote": " You know, I'd like to thank God for all my success, even though I never worshipped or believed in Him in any way. But before I sweep up my last spotlight, there's one thing I've gotta say...",
+    "directions": [],
+    "raw_quote": " You know, I'd like to thank God for all my success, even though I never worshipped or believed in Him in any way. But before I sweep up my last spotlight, there's one thing I've gotta say..."
+  },
+  {
+    "timecode": "19:06",
+    "speaker": "Krusty the Clown",
+    "quote": " Over the years I've a lot of \"wow,\" and I've my share of AA-OO-GAH! But there's only one thing I'm ashamed of.",
+    "directions": [
+      "MARIJUANA TOKING NOISE",
+      "CARSON-LIKE",
+      "THRUSTING GESTURE",
+      "HOUR GLASS GESTURE"
+    ],
+    "raw_quote": " Over the years I've (MARIJUANA TOKING NOISE) a lot of (CARSON-LIKE) \"wow,\" and I've (THRUSTING GESTURE) my share of (HOUR GLASS GESTURE) AA-OO-GAH! But there's only one thing I'm ashamed of."
+  },
+  {
+    "timecode": "19:17",
+    "speaker": "Sideshow Bob",
+    "quote": " Ashamed?",
+    "directions": [
+      "SURPRISED, TO SELF"
+    ],
+    "raw_quote": " (SURPRISED, TO SELF) Ashamed?"
+  },
+  {
+    "timecode": "19:19",
+    "speaker": "Krusty the Clown",
+    "quote": " There was a man who used to work for me. A man of grace and humor. But I mistreated him, and drove him to a life of crime. So, wherever you are, I just want to say -- Sideshow Bob, I'm sorry.",
+    "directions": [],
+    "raw_quote": " There was a man who used to work for me. A man of grace and humor. But I mistreated him, and drove him to a life of crime. So, wherever you are, I just want to say -- Sideshow Bob, I'm sorry."
+  },
+  {
+    "timecode": "19:35",
+    "speaker": "Krusty the Clown",
+    "quote": " OH BO-OB / YOU REPAID MY ABUSE WITH RAW HATRED / BUT I NEED YOU TODAY / OH BO-OB / WELL YOU WENT TO APU'S AND YOU FRAMED ME / SO THEY LOCKED ME A-WAY...",
+    "directions": [
+      "SINGS TO \"OH MANDY\""
+    ],
+    "raw_quote": " (SINGS TO \"OH MANDY\") OH BO-OB / YOU REPAID MY ABUSE WITH RAW HATRED / BUT I NEED YOU TODAY / OH BO-OB / WELL YOU WENT TO APU'S AND YOU FRAMED ME / SO THEY LOCKED ME A-WAY..."
+  },
+  {
+    "timecode": "19:53",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh, that sweet, funny man.",
+    "directions": [],
+    "raw_quote": " Oh, that sweet, funny man."
+  },
+  {
+    "timecode": "20:00",
+    "speaker": "Sideshow Bob",
+    "quote": " Oh, no! My boy bomb!",
+    "directions": [
+      "ALARMED"
+    ],
+    "raw_quote": " (ALARMED) Oh, no! My boy bomb!"
+  },
+  {
+    "timecode": "20:03",
+    "speaker": "Krusty the Clown",
+    "quote": " Well, goodnight and... Aw look, it's a tow-headed little fan. Whaddaya say, folks, should I hug him?",
+    "directions": [],
+    "raw_quote": " Well, goodnight and... Aw look, it's a tow-headed little fan. Whaddaya say, folks, should I hug him?"
+  },
+  {
+    "timecode": "20:11",
+    "speaker": "Audience",
+    "quote": " / Yeah! / Yayyy! / Woo!",
+    "directions": [
+      "ENTHUSIASTIC CHEERS"
+    ],
+    "raw_quote": " (ENTHUSIASTIC CHEERS) / Yeah! / Yayyy! / Woo!"
+  },
+  {
+    "timecode": "20:20",
+    "speaker": "Sideshow Bob",
+    "quote": " Nooo!",
+    "directions": [],
+    "raw_quote": " Nooo!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Mr. Teeny",
+    "quote": " ",
+    "directions": [
+      "\"AHA\" NOISE"
+    ],
+    "raw_quote": " (\"AHA\" NOISE)"
+  },
+  {
+    "timecode": "20:33",
+    "speaker": "Female Executive",
+    "quote": " Oh God, a bomb!",
+    "directions": [],
+    "raw_quote": " Oh God, a bomb!"
+  },
+  {
+    "timecode": "20:35",
+    "speaker": "Male Executive",
+    "quote": " I was just thinking that.",
+    "directions": [],
+    "raw_quote": " I was just thinking that."
+  },
+  {
+    "timecode": "20:40",
+    "speaker": "Krusty the Clown",
+    "quote": " What happened? Was anyone hurt?",
+    "directions": [],
+    "raw_quote": " What happened? Was anyone hurt?"
+  },
+  {
+    "timecode": "20:43",
+    "speaker": "Sideshow Mel",
+    "quote": " Just some network executives.",
+    "directions": [],
+    "raw_quote": " Just some network executives."
+  },
+  {
+    "timecode": "20:54",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Green Room: Int. green room - continuous"
+    ],
+    "raw_quote": "(Green Room: Int. green room - continuous)"
+  },
+  {
+    "timecode": "20:54",
+    "speaker": "SUPEREXECUTIVE",
+    "quote": " We have notes... Have you thought about Dave Chapelle... Destroy.",
+    "directions": [],
+    "raw_quote": " We have notes... Have you thought about Dave Chapelle... Destroy."
+  },
+  {
+    "timecode": "21:03",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "The Pimento Grove: Ext. Pimento grove - establishing - later"
+    ],
+    "raw_quote": "(The Pimento Grove: Ext. Pimento grove - establishing - later)"
+  },
+  {
+    "timecode": "21:03",
+    "speaker": "Marge Simpson",
+    "quote": " Okay, everybody. Say \"funny.\"",
+    "directions": [],
+    "raw_quote": " Okay, everybody. Say \"funny.\""
+  },
+  {
+    "timecode": "21:04",
+    "speaker": "Sideshow Mel",
+    "quote": " Funny!",
+    "directions": [],
+    "raw_quote": " Funny!"
+  },
+  {
+    "timecode": "21:08",
+    "speaker": "Marge Simpson",
+    "quote": " Perfect.",
+    "directions": [],
+    "raw_quote": " Perfect."
+  },
+  {
+    "timecode": "21:13",
+    "speaker": "Sideshow Bob",
+    "quote": " Krusty, I'm so sorry about the attempted murder.",
+    "directions": [],
+    "raw_quote": " Krusty, I'm so sorry about the attempted murder."
+  },
+  {
+    "timecode": "21:16",
+    "speaker": "Krusty the Clown",
+    "quote": " Will you stop with the sorry? Every time you try to kill me, my ratings go through the roof, ya nut.",
+    "directions": [
+      "TOUSLES BOB'S HAIR"
+    ],
+    "raw_quote": " Will you stop with the sorry? (TOUSLES BOB'S HAIR) Every time you try to kill me, my ratings go through the roof, ya nut."
+  },
+  {
+    "timecode": "21:24",
+    "speaker": "Sideshow Bob",
+    "quote": " We are good together, Krusty.",
+    "directions": [
+      "FONDLY"
+    ],
+    "raw_quote": " (FONDLY) We are good together, Krusty."
+  },
+  {
+    "timecode": "21:26",
+    "speaker": "Krusty the Clown",
+    "quote": " It makes me sad that you're getting the death penalty.",
+    "directions": [],
+    "raw_quote": " It makes me sad that you're getting the death penalty."
+  },
+  {
+    "timecode": "21:30",
+    "speaker": "Sideshow Bob",
+    "quote": " Don't remind me.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) Don't remind me."
+  },
+  {
+    "timecode": "21:34",
+    "speaker": "Chief Wiggum",
+    "quote": " Okay, where do you want to do this thing?",
+    "directions": [],
+    "raw_quote": " Okay, where do you want to do this thing?"
+  },
+  {
+    "timecode": "21:36",
+    "speaker": "Sideshow Bob",
+    "quote": " Isn't it customary to have a trial?",
+    "directions": [],
+    "raw_quote": " Isn't it customary to have a trial?"
+  },
+  {
+    "timecode": "21:38",
+    "speaker": "Chief Wiggum",
+    "quote": " Oh, a wise guy, eh?",
+    "directions": [],
+    "raw_quote": " Oh, a wise guy, eh?"
+  }
+]

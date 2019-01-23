@@ -1,0 +1,2317 @@
+[
+  {
+    "timecode": "00:16",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Ext. Simpson house"
+    ],
+    "raw_quote": "(Simpson Home: Ext. Simpson house)"
+  },
+  {
+    "timecode": "00:16",
+    "speaker": "Plumber",
+    "quote": " Uh, looks like you got a leak.",
+    "directions": [],
+    "raw_quote": " Uh, looks like you got a leak."
+  },
+  {
+    "timecode": "00:40",
+    "speaker": "Marge Simpson",
+    "quote": " Could you start fixing it pretty soon? The basement is getting awfully flooded. And I think the cat's down there.",
+    "directions": [],
+    "raw_quote": " Could you start fixing it pretty soon? The basement is getting awfully flooded. And I think the cat's down there."
+  },
+  {
+    "timecode": "00:47",
+    "speaker": "Plumber",
+    "quote": " Yeah, I probably won't be able to get the parts I need for two--three weeks. And that's if I order 'em today. Which I won't.",
+    "directions": [],
+    "raw_quote": " Yeah, I probably won't be able to get the parts I need for two--three weeks. And that's if I order 'em today. Which I won't."
+  },
+  {
+    "timecode": "00:55",
+    "speaker": "Marge Simpson",
+    "quote": " Oh dear.",
+    "directions": [],
+    "raw_quote": " Oh dear."
+  },
+  {
+    "timecode": "00:59",
+    "speaker": "Plumber",
+    "quote": " Hm, emergency call. Gotta go.",
+    "directions": [
+      "CALM"
+    ],
+    "raw_quote": " (CALM) Hm, emergency call. Gotta go."
+  },
+  {
+    "timecode": "01:01",
+    "speaker": "Homer Simpson",
+    "quote": " What should we do until you get back?",
+    "directions": [],
+    "raw_quote": " What should we do until you get back?"
+  },
+  {
+    "timecode": "01:03",
+    "speaker": "Plumber",
+    "quote": " Put a pan down there.",
+    "directions": [],
+    "raw_quote": " Put a pan down there."
+  },
+  {
+    "timecode": "01:10",
+    "speaker": "Homer Simpson",
+    "quote": " Aw, it didn't work.",
+    "directions": [
+      "DISAPPOINTED SOUND"
+    ],
+    "raw_quote": " (DISAPPOINTED SOUND) Aw, it didn't work."
+  },
+  {
+    "timecode": "01:15",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Freeway: EXT. FREEWAY"
+    ],
+    "raw_quote": "(Freeway: EXT. FREEWAY)"
+  },
+  {
+    "timecode": "01:15",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Car: Int. Simpson car"
+    ],
+    "raw_quote": "(Simpson Car: Int. Simpson car)"
+  },
+  {
+    "timecode": "01:15",
+    "speaker": "Homer Simpson",
+    "quote": " Lousy traffic jams. The traffic report'll get me outta this one.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " Lousy traffic jams. (CHUCKLES) The traffic report'll get me outta this one."
+  },
+  {
+    "timecode": "01:20",
+    "speaker": "Arnie Pye",
+    "quote": " This is Arnie Pie.",
+    "directions": [],
+    "raw_quote": " This is Arnie Pie."
+  },
+  {
+    "timecode": "01:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "COPTER: Int. Copter"
+    ],
+    "raw_quote": "(COPTER: Int. Copter)"
+  },
+  {
+    "timecode": "01:23",
+    "speaker": "Arnie Pye",
+    "quote": " Looks like we got a little accident that's backing traffic up as far as this reporter can see.",
+    "directions": [],
+    "raw_quote": " Looks like we got a little accident that's backing traffic up as far as this reporter can see."
+  },
+  {
+    "timecode": "01:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: EXT. NUCLEAR POWER PLANT - PARKING LOT"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: EXT. NUCLEAR POWER PLANT - PARKING LOT)"
+  },
+  {
+    "timecode": "01:37",
+    "speaker": "Bart Simpson",
+    "quote": " Hi, Dad.",
+    "directions": [],
+    "raw_quote": " Hi, Dad."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "DISMISSIVE SOUND"
+    ],
+    "raw_quote": " (DISMISSIVE SOUND)"
+  },
+  {
+    "timecode": "01:46",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: EXT. POWER PLANT"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: EXT. POWER PLANT)"
+  },
+  {
+    "timecode": "01:46",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, how come you guys got such great parking places?",
+    "directions": [],
+    "raw_quote": " Hey, how come you guys got such great parking places?"
+  },
+  {
+    "timecode": "01:50",
+    "speaker": "Lenny Leonard",
+    "quote": " It's a secret.",
+    "directions": [],
+    "raw_quote": " It's a secret."
+  },
+  {
+    "timecode": "01:51",
+    "speaker": "Carl Carlson",
+    "quote": " Shh-- shut up.",
+    "directions": [
+      "TO LENNY, LOW AND URGENT"
+    ],
+    "raw_quote": " (TO LENNY, LOW AND URGENT) Shh-- shut up."
+  },
+  {
+    "timecode": "02:01",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Homer's Workstation: INT. Homer's workstation"
+    ],
+    "raw_quote": "(Homer's Workstation: INT. Homer's workstation)"
+  },
+  {
+    "timecode": "02:01",
+    "speaker": "Homer Simpson",
+    "quote": " All right, Econo-Save, you just made the list.",
+    "directions": [],
+    "raw_quote": " All right, Econo-Save, you just made the list."
+  },
+  {
+    "timecode": "02:09",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Lenny and Carl Workstation: Int. Lenny and Carl Workstation"
+    ],
+    "raw_quote": "(Lenny and Carl Workstation: Int. Lenny and Carl Workstation)"
+  },
+  {
+    "timecode": "02:09",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, will you guys help me fix my...",
+    "directions": [],
+    "raw_quote": " Hey, will you guys help me fix my..."
+  },
+  {
+    "timecode": "02:13",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, how come you guys got better chairs than me?",
+    "directions": [],
+    "raw_quote": " Hey, how come you guys got better chairs than me?"
+  },
+  {
+    "timecode": "02:17",
+    "speaker": "Lenny Leonard",
+    "quote": " It's a secret.",
+    "directions": [],
+    "raw_quote": " It's a secret."
+  },
+  {
+    "timecode": "02:19",
+    "speaker": "Carl Carlson",
+    "quote": " Shut up.",
+    "directions": [
+      "TO LENNY"
+    ],
+    "raw_quote": " (TO LENNY) Shut up."
+  },
+  {
+    "timecode": "02:26",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: INT. POWER PLANT - LATER"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: INT. POWER PLANT - LATER)"
+  },
+  {
+    "timecode": "02:26",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, you guys wanna go bowling tonight?",
+    "directions": [],
+    "raw_quote": " Hey, you guys wanna go bowling tonight?"
+  },
+  {
+    "timecode": "02:28",
+    "speaker": "Lenny Leonard",
+    "quote": " Nah. We're busy.",
+    "directions": [],
+    "raw_quote": " Nah. We're busy."
+  },
+  {
+    "timecode": "02:29",
+    "speaker": "Carl Carlson",
+    "quote": " Yeah, we got uh, things to do.",
+    "directions": [],
+    "raw_quote": " Yeah, we got uh, things to do."
+  },
+  {
+    "timecode": "02:31",
+    "speaker": "Homer Simpson",
+    "quote": " Like what?",
+    "directions": [
+      "SUSPICIOUSLY"
+    ],
+    "raw_quote": " (SUSPICIOUSLY) Like what?"
+  },
+  {
+    "timecode": "02:33",
+    "speaker": "Lenny Leonard",
+    "quote": " It's a secret.",
+    "directions": [],
+    "raw_quote": " It's a secret."
+  },
+  {
+    "timecode": "02:36",
+    "speaker": "Homer Simpson",
+    "quote": " Shut up.",
+    "directions": [],
+    "raw_quote": " Shut up."
+  },
+  {
+    "timecode": "02:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE)"
+  },
+  {
+    "timecode": "02:37",
+    "speaker": "Homer Simpson",
+    "quote": " So anyway, Lenny and Carl are never around on Wednesdays. And they don't tell me where they go. It's like a conspiracy.",
+    "directions": [],
+    "raw_quote": " So anyway, Lenny and Carl are never around on Wednesdays. And they don't tell me where they go. It's like a conspiracy."
+  },
+  {
+    "timecode": "02:45",
+    "speaker": "Bart Simpson",
+    "quote": " A conspiracy, eh? You think they might be involved in the Kennedy assassination in some way?",
+    "directions": [],
+    "raw_quote": " A conspiracy, eh? You think they might be involved in the Kennedy assassination in some way?"
+  },
+  {
+    "timecode": "02:49",
+    "speaker": "Homer Simpson",
+    "quote": " I do... now. Anyway, I'm gonna follow them tonight and see where they go.",
+    "directions": [
+      "THOUGHTFULLY",
+      "BEAT"
+    ],
+    "raw_quote": " (THOUGHTFULLY) I do... now. (BEAT) Anyway, I'm gonna follow them tonight and see where they go."
+  },
+  {
+    "timecode": "02:54",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, Homer. Don't start stalking people again. It's so illegal. Remember when you were stalking Charles Kuralt because you thought he dug up your garden?",
+    "directions": [],
+    "raw_quote": " Oh, Homer. Don't start stalking people again. It's so illegal. Remember when you were stalking Charles Kuralt because you thought he dug up your garden?"
+  },
+  {
+    "timecode": "03:02",
+    "speaker": "Homer Simpson",
+    "quote": " Well, something did.",
+    "directions": [
+      "SHRUGGING"
+    ],
+    "raw_quote": " (SHRUGGING) Well, something did."
+  },
+  {
+    "timecode": "03:04",
+    "speaker": "Marge Simpson",
+    "quote": " I don't want you stalking anyone tonight.",
+    "directions": [
+      "FIRMLY"
+    ],
+    "raw_quote": " (FIRMLY) I don't want you stalking anyone tonight."
+  },
+  {
+    "timecode": "03:06",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, okay. Have it your own way, Marge. I'll be back in a minute. I'm going outside. To stalk... ... Lenny and Carl. ",
+    "directions": [
+      "SLYLY",
+      "THINKS",
+      "THINKS",
+      "ANNOYED GRUNT"
+    ],
+    "raw_quote": " Oh, okay. Have it your own way, Marge. (SLYLY) I'll be back in a minute. I'm going outside. (THINKS) To stalk... (THINKS)... Lenny and Carl. (ANNOYED GRUNT)"
+  },
+  {
+    "timecode": "03:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Lenny's House: Ext. Lenny's house"
+    ],
+    "raw_quote": "(Lenny's House: Ext. Lenny's house)"
+  },
+  {
+    "timecode": "03:37",
+    "speaker": "Homer Simpson",
+    "quote": " All I have to do is follow the yellow drip road.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " (CHUCKLES) All I have to do is follow the yellow drip road."
+  },
+  {
+    "timecode": "03:46",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Street: Ext. Street"
+    ],
+    "raw_quote": "(Street: Ext. Street)"
+  },
+  {
+    "timecode": "03:46",
+    "speaker": "Lenny Leonard",
+    "quote": " There's our secret meeting place.",
+    "directions": [],
+    "raw_quote": " There's our secret meeting place."
+  },
+  {
+    "timecode": "03:48",
+    "speaker": "Carl Carlson",
+    "quote": " Yes. Let's go inside.",
+    "directions": [],
+    "raw_quote": " Yes. Let's go inside."
+  },
+  {
+    "timecode": "03:48",
+    "speaker": "Lenny Leonard",
+    "quote": " Sounds good!",
+    "directions": [],
+    "raw_quote": " Sounds good!"
+  },
+  {
+    "timecode": "03:55",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Temple: Ext. temple"
+    ],
+    "raw_quote": "(Temple: Ext. temple)"
+  },
+  {
+    "timecode": "03:55",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "TEMPLE ROOF: EXT. TEMPLE ROOF"
+    ],
+    "raw_quote": "(TEMPLE ROOF: EXT. TEMPLE ROOF)"
+  },
+  {
+    "timecode": "03:55",
+    "speaker": "Homer Simpson",
+    "quote": " Hee hee hee! I can see everything. And they're none the wiser, hee hee hee.",
+    "directions": [],
+    "raw_quote": " Hee hee hee! I can see everything. And they're none the wiser, hee hee hee."
+  },
+  {
+    "timecode": "04:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Temple: INT. TEMPLE"
+    ],
+    "raw_quote": "(Temple: INT. TEMPLE)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "WORRIED NOISE"
+    ],
+    "raw_quote": " (WORRIED NOISE)"
+  },
+  {
+    "timecode": "04:19",
+    "speaker": "Moe Szyslak",
+    "quote": " An intruder!",
+    "directions": [],
+    "raw_quote": " An intruder!"
+  },
+  {
+    "timecode": "04:20",
+    "speaker": "Seymour Skinner",
+    "quote": " He will pay the ultimate price.",
+    "directions": [
+      "OMINOUS"
+    ],
+    "raw_quote": " (OMINOUS) He will pay the ultimate price."
+  },
+  {
+    "timecode": "04:23",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " Yes, the ultimate price.",
+    "directions": [
+      "OMINOUS"
+    ],
+    "raw_quote": " (OMINOUS) Yes, the ultimate price."
+  },
+  {
+    "timecode": "04:25",
+    "speaker": "Moe Szyslak",
+    "quote": " Ged oudda heah!",
+    "directions": [
+      "\u00c0 LA MOE HOWARD"
+    ],
+    "raw_quote": " (\u00c0 LA MOE HOWARD) Ged oudda heah!"
+  },
+  {
+    "timecode": "04:30",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: INT. POWER PLANT - NEXT DAY"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: INT. POWER PLANT - NEXT DAY)"
+  },
+  {
+    "timecode": "04:30",
+    "speaker": "Homer Simpson",
+    "quote": " I saw weird stuff in that place last night. Weird strange sick twisted eerie godless evil stuff. And I want in.",
+    "directions": [],
+    "raw_quote": " I saw weird stuff in that place last night. Weird strange sick twisted eerie godless evil stuff. And I want in."
+  },
+  {
+    "timecode": "04:38",
+    "speaker": "Carl Carlson",
+    "quote": " We don't know what you're talkin' about Homer.",
+    "directions": [],
+    "raw_quote": " We don't know what you're talkin' about Homer."
+  },
+  {
+    "timecode": "04:41",
+    "speaker": "Lenny Leonard",
+    "quote": " And you can't join the Stonecutters because it's too exclusive.",
+    "directions": [],
+    "raw_quote": " And you can't join the Stonecutters because it's too exclusive."
+  },
+  {
+    "timecode": "04:44",
+    "speaker": "Carl Carlson",
+    "quote": " Oh well. That was a real nice secret organization we had once.",
+    "directions": [
+      "TO LENNY"
+    ],
+    "raw_quote": " (TO LENNY) Oh well. That was a real nice secret organization we had once."
+  },
+  {
+    "timecode": "04:48",
+    "speaker": "Homer Simpson",
+    "quote": " Stonecutters, eh? How do I join?",
+    "directions": [],
+    "raw_quote": " Stonecutters, eh? How do I join?"
+  },
+  {
+    "timecode": "04:50",
+    "speaker": "Lenny Leonard",
+    "quote": " There are only two ways to gain membership. Be the son of a Stonecutter...",
+    "directions": [],
+    "raw_quote": " There are only two ways to gain membership. Be the son of a Stonecutter..."
+  },
+  {
+    "timecode": "04:53",
+    "speaker": "Homer Simpson",
+    "quote": " Next.",
+    "directions": [],
+    "raw_quote": " Next."
+  },
+  {
+    "timecode": "04:54",
+    "speaker": "Lenny Leonard",
+    "quote": " Or save the life of a Stonecutter.",
+    "directions": [],
+    "raw_quote": " Or save the life of a Stonecutter."
+  },
+  {
+    "timecode": "04:58",
+    "speaker": "Homer Simpson",
+    "quote": " I saved your life. That egg sandwich could have killed you by cholesterol.",
+    "directions": [],
+    "raw_quote": " I saved your life. That egg sandwich could have killed you by cholesterol."
+  },
+  {
+    "timecode": "05:03",
+    "speaker": "Lenny Leonard",
+    "quote": " Forget it, Homer. While it has been established that eggs contain cholesterol, it has not yet been proven conclusively that they actually raise the level of serum cholesterol in the human bloodstream.",
+    "directions": [],
+    "raw_quote": " Forget it, Homer. While it has been established that eggs contain cholesterol, it has not yet been proven conclusively that they actually raise the level of serum cholesterol in the human bloodstream."
+  },
+  {
+    "timecode": "05:12",
+    "speaker": "Homer Simpson",
+    "quote": " So, one of those egg-counsel creeps got to you too, huh?",
+    "directions": [],
+    "raw_quote": " So, one of those egg-counsel creeps got to you too, huh?"
+  },
+  {
+    "timecode": "05:14",
+    "speaker": "Lenny Leonard",
+    "quote": " You got it all wrong, Homer. It's not like that.",
+    "directions": [
+      "SHIFTY-EYED"
+    ],
+    "raw_quote": " (SHIFTY-EYED) You got it all wrong, Homer. It's not like that."
+  },
+  {
+    "timecode": "05:20",
+    "speaker": "Homer Simpson",
+    "quote": " You'd better run, egg!",
+    "directions": [],
+    "raw_quote": " You'd better run, egg!"
+  },
+  {
+    "timecode": "05:22",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson home - master bedroom"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson home - master bedroom)"
+  },
+  {
+    "timecode": "05:22",
+    "speaker": "Homer Simpson",
+    "quote": " Why don't people like me, Marge?",
+    "directions": [],
+    "raw_quote": " Why don't people like me, Marge?"
+  },
+  {
+    "timecode": "05:24",
+    "speaker": "Marge Simpson",
+    "quote": " Everyone likes you. You're a wonderful person.",
+    "directions": [],
+    "raw_quote": " Everyone likes you. You're a wonderful person."
+  },
+  {
+    "timecode": "05:27",
+    "speaker": "Homer Simpson",
+    "quote": " Then why don't those stupid idiots let me in their crappy club for jerks?",
+    "directions": [],
+    "raw_quote": " Then why don't those stupid idiots let me in their crappy club for jerks?"
+  },
+  {
+    "timecode": "05:30",
+    "speaker": "Marge Simpson",
+    "quote": " I'm sure it's nothing personal, Homer.",
+    "directions": [],
+    "raw_quote": " I'm sure it's nothing personal, Homer."
+  },
+  {
+    "timecode": "05:32",
+    "speaker": "Homer Simpson",
+    "quote": " It is. It's been happening to me all my life.",
+    "directions": [],
+    "raw_quote": " It is. It's been happening to me all my life."
+  },
+  {
+    "timecode": "05:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "YARD: ext. yard"
+    ],
+    "raw_quote": "(YARD: ext. yard)"
+  },
+  {
+    "timecode": "05:38",
+    "speaker": "Boy",
+    "quote": " Hey, Billy, hey, Joey, come on in. There's plenty of room. Sorry, not you, Homer.",
+    "directions": [],
+    "raw_quote": " Hey, Billy, hey, Joey, come on in. There's plenty of room. Sorry, not you, Homer."
+  },
+  {
+    "timecode": "05:44",
+    "speaker": "7-Year-Old Homer",
+    "quote": " Why not?",
+    "directions": [],
+    "raw_quote": " Why not?"
+  },
+  {
+    "timecode": "05:48",
+    "speaker": "7-YEAR-OLD-HOMER",
+    "quote": " But you let in Homer Glumplet.",
+    "directions": [],
+    "raw_quote": " But you let in Homer Glumplet."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Glumpet",
+    "quote": " ",
+    "directions": [
+      "HICK NOISE"
+    ],
+    "raw_quote": " (HICK NOISE)"
+  },
+  {
+    "timecode": "05:50",
+    "speaker": "Boy",
+    "quote": " It says \"No Homers.\" We're allowed to have one.",
+    "directions": [],
+    "raw_quote": " It says \"No Homers.\" We're allowed to have one."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "DISAPPOINTED NOISE"
+    ],
+    "raw_quote": " (DISAPPOINTED NOISE)"
+  },
+  {
+    "timecode": "05:56",
+    "speaker": "Homer Simpson",
+    "quote": " I felt so left out.",
+    "directions": [
+      "PATHETIC"
+    ],
+    "raw_quote": " (PATHETIC) I felt so left out."
+  },
+  {
+    "timecode": "05:59",
+    "speaker": "Marge Simpson",
+    "quote": " Kids can be so cruel.",
+    "directions": [],
+    "raw_quote": " Kids can be so cruel."
+  },
+  {
+    "timecode": "06:01",
+    "speaker": "Bart Simpson",
+    "quote": " We can? Thanks, Mom.",
+    "directions": [],
+    "raw_quote": " We can? Thanks, Mom."
+  },
+  {
+    "timecode": "06:03",
+    "speaker": "Lisa Simpson",
+    "quote": " Ow! Cut it out, Bart.",
+    "directions": [],
+    "raw_quote": " Ow! Cut it out, Bart."
+  },
+  {
+    "timecode": "",
+    "speaker": "Bart Simpson",
+    "quote": " ",
+    "directions": [
+      "EVIL CHUCKLE"
+    ],
+    "raw_quote": " (EVIL CHUCKLE)"
+  },
+  {
+    "timecode": "06:07",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE - dining room"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE - dining room)"
+  },
+  {
+    "timecode": "06:07",
+    "speaker": "Homer Simpson",
+    "quote": " I'd give anything to get into the Stonecutters.",
+    "directions": [],
+    "raw_quote": " I'd give anything to get into the Stonecutters."
+  },
+  {
+    "timecode": "06:09",
+    "speaker": "Lisa Simpson",
+    "quote": " What do they do there, Dad?",
+    "directions": [],
+    "raw_quote": " What do they do there, Dad?"
+  },
+  {
+    "timecode": "06:10",
+    "speaker": "Grampa Simpson",
+    "quote": " I'm a member.",
+    "directions": [],
+    "raw_quote": " I'm a member."
+  },
+  {
+    "timecode": "06:12",
+    "speaker": "Homer Simpson",
+    "quote": " What do they do? What don't they do! Oh they do so many things... they never stop... oh the things they do there! My stars.",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " What do they do? What don't they do! (CHUCKLES) Oh they do so many things... they never stop... oh the things they do there! My stars."
+  },
+  {
+    "timecode": "06:20",
+    "speaker": "Lisa Simpson",
+    "quote": " You don't know what they do there, do you?",
+    "directions": [],
+    "raw_quote": " You don't know what they do there, do you?"
+  },
+  {
+    "timecode": "06:21",
+    "speaker": "Homer Simpson",
+    "quote": " Not as such, no.",
+    "directions": [],
+    "raw_quote": " Not as such, no."
+  },
+  {
+    "timecode": "06:22",
+    "speaker": "Grampa Simpson",
+    "quote": " I'm a Stonecutter.",
+    "directions": [],
+    "raw_quote": " I'm a Stonecutter."
+  },
+  {
+    "timecode": "06:24",
+    "speaker": "Bart Simpson",
+    "quote": " Dad, remember those self-hypnosis classes we took to help us ignore Grampa?",
+    "directions": [],
+    "raw_quote": " Dad, remember those self-hypnosis classes we took to help us ignore Grampa?"
+  },
+  {
+    "timecode": "06:28",
+    "speaker": "Homer Simpson",
+    "quote": " Do I ever! It's five years later and I still think I'm a chicken. I'm a chicken, Marge.",
+    "directions": [],
+    "raw_quote": " Do I ever! It's five years later and I still think I'm a chicken. I'm a chicken, Marge."
+  },
+  {
+    "timecode": "06:32",
+    "speaker": "Marge Simpson",
+    "quote": " I know, I know.",
+    "directions": [
+      "TIRED"
+    ],
+    "raw_quote": " (TIRED) I know, I know."
+  },
+  {
+    "timecode": "06:33",
+    "speaker": "Bart Simpson",
+    "quote": " Maybe we should be listening to him now.",
+    "directions": [],
+    "raw_quote": " Maybe we should be listening to him now."
+  },
+  {
+    "timecode": "06:35",
+    "speaker": "Grampa Simpson",
+    "quote": " I'm a member.",
+    "directions": [],
+    "raw_quote": " I'm a member."
+  },
+  {
+    "timecode": "06:37",
+    "speaker": "Homer Simpson",
+    "quote": " Huh?",
+    "directions": [],
+    "raw_quote": " Huh?"
+  },
+  {
+    "timecode": "06:37",
+    "speaker": "Grampa Simpson",
+    "quote": " What?",
+    "directions": [
+      "STARTLED"
+    ],
+    "raw_quote": " (STARTLED) What?"
+  },
+  {
+    "timecode": "06:38",
+    "speaker": "Homer Simpson",
+    "quote": " What?",
+    "directions": [],
+    "raw_quote": " What?"
+  },
+  {
+    "timecode": "06:39",
+    "speaker": "Grampa Simpson",
+    "quote": " Huh?",
+    "directions": [],
+    "raw_quote": " Huh?"
+  },
+  {
+    "timecode": "06:39",
+    "speaker": "Lisa Simpson",
+    "quote": " You're a member of the Stonecutters, Grampa?",
+    "directions": [],
+    "raw_quote": " You're a member of the Stonecutters, Grampa?"
+  },
+  {
+    "timecode": "06:42",
+    "speaker": "Grampa Simpson",
+    "quote": " Oh sure. Let's see...",
+    "directions": [],
+    "raw_quote": " Oh sure. Let's see..."
+  },
+  {
+    "timecode": "06:44",
+    "speaker": "Grampa Simpson",
+    "quote": " I'm an Elk, a Mason, a Communist... I'm the president of the Gay and Lesbian Alliance for some reason... Ah, here it is. The Stonecutters.",
+    "directions": [],
+    "raw_quote": " I'm an Elk, a Mason, a Communist... I'm the president of the Gay and Lesbian Alliance for some reason... Ah, here it is. The Stonecutters."
+  },
+  {
+    "timecode": "06:54",
+    "speaker": "Homer Simpson",
+    "quote": " This is it. My ticket in. They have to let me join if I'm the son of a member.",
+    "directions": [],
+    "raw_quote": " This is it. My ticket in. They have to let me join if I'm the son of a member."
+  },
+  {
+    "timecode": "07:00",
+    "speaker": "Homer Simpson",
+    "quote": " I'll take this Communist one too.",
+    "directions": [],
+    "raw_quote": " I'll take this Communist one too."
+  },
+  {
+    "timecode": "07:02",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Temple: INT. TEMPLE"
+    ],
+    "raw_quote": "(Temple: INT. TEMPLE)"
+  },
+  {
+    "timecode": "07:02",
+    "speaker": "Homer Simpson",
+    "quote": " Comin' through! Can't throw me out! My father's a member! I'm in, I'm in!",
+    "directions": [],
+    "raw_quote": " Comin' through! Can't throw me out! My father's a member! I'm in, I'm in!"
+  },
+  {
+    "timecode": "07:07",
+    "speaker": "Lenny Leonard",
+    "quote": " Okay, okay, Homer. You're in. Just don't point that thing at me!",
+    "directions": [],
+    "raw_quote": " Okay, okay, Homer. You're in. Just don't point that thing at me!"
+  },
+  {
+    "timecode": "07:10",
+    "speaker": "Homer Simpson",
+    "quote": " Aw, thanks, Lenny. When am I gonna be initiated?",
+    "directions": [
+      "HUGGING HIM"
+    ],
+    "raw_quote": " (HUGGING HIM) Aw, thanks, Lenny. When am I gonna be initiated?"
+  },
+  {
+    "timecode": "07:15",
+    "speaker": "Carl Carlson",
+    "quote": " As soon as Number One gets here.",
+    "directions": [],
+    "raw_quote": " As soon as Number One gets here."
+  },
+  {
+    "timecode": "07:17",
+    "speaker": "Homer Simpson",
+    "quote": " Number one? Ha ha. What kind of stupid wiener name is that? \"Hello, my name is Number One.\" And so forth.",
+    "directions": [
+      "MOCKING",
+      "GIVES UP TRYING TO MOCK IT"
+    ],
+    "raw_quote": " Number one? Ha ha. What kind of stupid wiener name is that? (MOCKING) \"Hello, my name is Number One.\" (GIVES UP TRYING TO MOCK IT) And so forth."
+  },
+  {
+    "timecode": "07:27",
+    "speaker": "Lenny Leonard",
+    "quote": " We call each other by number, not by name. Carl is number 14, I'm number 12. Burnsie is number 29.",
+    "directions": [],
+    "raw_quote": " We call each other by number, not by name. Carl is number 14, I'm number 12. Burnsie is number 29."
+  },
+  {
+    "timecode": "07:32",
+    "speaker": "Homer Simpson",
+    "quote": " You outrank Mr. Burns here?",
+    "directions": [],
+    "raw_quote": " You outrank Mr. Burns here?"
+  },
+  {
+    "timecode": "07:34",
+    "speaker": "Lenny Leonard",
+    "quote": " Sure. Watch. Hey 29! Get over here!",
+    "directions": [],
+    "raw_quote": " Sure. Watch. Hey 29! Get over here!"
+  },
+  {
+    "timecode": "07:40",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Thank you, sir, may I have another?",
+    "directions": [],
+    "raw_quote": " Thank you, sir, may I have another?"
+  },
+  {
+    "timecode": "07:45",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Patience, Monty. Climb the ladder.",
+    "directions": [
+      "TO SELF"
+    ],
+    "raw_quote": " (TO SELF) Patience, Monty. Climb the ladder."
+  },
+  {
+    "timecode": "07:51",
+    "speaker": "Homer Simpson",
+    "quote": " Is he the leader?",
+    "directions": [
+      "LOW, TO MOE"
+    ],
+    "raw_quote": " (LOW, TO MOE) Is he the leader?"
+  },
+  {
+    "timecode": "07:52",
+    "speaker": "Moe Szyslak",
+    "quote": " Of this chapter. There are chapters all over the world. And it has been foretold that someday a Chosen One will...",
+    "directions": [
+      "LOW"
+    ],
+    "raw_quote": " (LOW) Of this chapter. There are chapters all over the world. And it has been foretold that someday a Chosen One will..."
+  },
+  {
+    "timecode": "07:59",
+    "speaker": "Homer Simpson",
+    "quote": " Okay, okay, I didn't ask for your life story.",
+    "directions": [],
+    "raw_quote": " Okay, okay, I didn't ask for your life story."
+  },
+  {
+    "timecode": "08:04",
+    "speaker": "Carl Carlson",
+    "quote": " Let the initiation begin.",
+    "directions": [],
+    "raw_quote": " Let the initiation begin."
+  },
+  {
+    "timecode": "08:07",
+    "speaker": "Number One",
+    "quote": " All Stonecutters must take the leap of faith. If you survive this five-story plunge, your character will be proven.",
+    "directions": [],
+    "raw_quote": " All Stonecutters must take the leap of faith. If you survive this five-story plunge, your character will be proven."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "TERRIFIED WHIMPER"
+    ],
+    "raw_quote": " (TERRIFIED WHIMPER)"
+  },
+  {
+    "timecode": "08:17",
+    "speaker": "Moe Szyslak",
+    "quote": " Happy landings.",
+    "directions": [],
+    "raw_quote": " Happy landings."
+  },
+  {
+    "timecode": "08:30",
+    "speaker": "Homer Simpson",
+    "quote": " I think I have to do it again. My blindfold came off.",
+    "directions": [],
+    "raw_quote": " I think I have to do it again. My blindfold came off."
+  },
+  {
+    "timecode": "08:35",
+    "speaker": "Number One",
+    "quote": " This ritual is called \"Crossing the Desert.\"",
+    "directions": [],
+    "raw_quote": " This ritual is called \"Crossing the Desert.\""
+  },
+  {
+    "timecode": "08:41",
+    "speaker": "Number One",
+    "quote": " And this we call \"The Unblinking Eye.\"",
+    "directions": [],
+    "raw_quote": " And this we call \"The Unblinking Eye.\""
+  },
+  {
+    "timecode": "08:47",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, have you ever noticed that the \"Crossing the Desert\" is a lot like \"The Unblinking Eye\" and it's exactly like \"The Wreck of the Hesperus\"?",
+    "directions": [],
+    "raw_quote": " Hey, have you ever noticed that the \"Crossing the Desert\" is a lot like \"The Unblinking Eye\" and it's exactly like \"The Wreck of the Hesperus\"?"
+  },
+  {
+    "timecode": "08:53",
+    "speaker": "Number One",
+    "quote": " And now the final ordeal: the paddling of the swollen ass... with paddles.",
+    "directions": [],
+    "raw_quote": " And now the final ordeal: the paddling of the swollen ass... with paddles."
+  },
+  {
+    "timecode": "09:04",
+    "speaker": "Homer Simpson",
+    "quote": " And by the Sacred Parchment I swear that if I reveal the secrets of the Stonecutters may my stomach become bloated and my head be plucked of all but three hairs.",
+    "directions": [
+      "SOLEMNLY"
+    ],
+    "raw_quote": " (SOLEMNLY) And by the Sacred Parchment I swear that if I reveal the secrets of the Stonecutters may my stomach become bloated and my head be plucked of all but three hairs."
+  },
+  {
+    "timecode": "09:15",
+    "speaker": "Moe Szyslak",
+    "quote": " Um... I think he should have to take a different oath.",
+    "directions": [],
+    "raw_quote": " Um... I think he should have to take a different oath."
+  },
+  {
+    "timecode": "09:17",
+    "speaker": "Number One",
+    "quote": " Everyone takes the same oath.",
+    "directions": [
+      "FIRMLY"
+    ],
+    "raw_quote": " (FIRMLY) Everyone takes the same oath."
+  },
+  {
+    "timecode": "09:19",
+    "speaker": "Number One",
+    "quote": " Welcome to the club, Number 908. You have joined the sacred order of the Stonecutters, who since ancient times have split the rocks of ignorance that obscure the light of knowledge and truth. Now let's all get drunk and play Ping-Pong!",
+    "directions": [
+      "SOLEMNLY"
+    ],
+    "raw_quote": " (SOLEMNLY) Welcome to the club, Number 908. You have joined the sacred order of the Stonecutters, who since ancient times have split the rocks of ignorance that obscure the light of knowledge and truth. Now let's all get drunk and play Ping-Pong!"
+  },
+  {
+    "timecode": "09:35",
+    "speaker": "Moe Szyslak",
+    "quote": " ...cause he's already kind of heavy you know and...",
+    "directions": [],
+    "raw_quote": " ...cause he's already kind of heavy you know and..."
+  },
+  {
+    "timecode": "09:41",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE)"
+  },
+  {
+    "timecode": "09:41",
+    "speaker": "Plumber",
+    "quote": " Well to be honest, I never got around to ordering that part for ya, so uh, it's still gonna be a couple of weeks.",
+    "directions": [],
+    "raw_quote": " Well to be honest, I never got around to ordering that part for ya, so uh, it's still gonna be a couple of weeks."
+  },
+  {
+    "timecode": "09:48",
+    "speaker": "Homer Simpson",
+    "quote": " Oh really?",
+    "directions": [
+      "SLYLY"
+    ],
+    "raw_quote": " (SLYLY) Oh really?"
+  },
+  {
+    "timecode": "09:49",
+    "speaker": "Plumber",
+    "quote": " Yes.",
+    "directions": [
+      "EQUALLY SLY"
+    ],
+    "raw_quote": " (EQUALLY SLY) Yes."
+  },
+  {
+    "timecode": "09:50",
+    "speaker": "Homer Simpson",
+    "quote": " Really?",
+    "directions": [
+      "INCREDIBLY SLY"
+    ],
+    "raw_quote": " (INCREDIBLY SLY) Really?"
+  },
+  {
+    "timecode": "09:52",
+    "speaker": "Plumber",
+    "quote": " Yes, yes.",
+    "directions": [
+      "GETTING PISSED"
+    ],
+    "raw_quote": " (GETTING PISSED) Yes, yes."
+  },
+  {
+    "timecode": "09:53",
+    "speaker": "Homer Simpson",
+    "quote": " \"But what if I were to shake your hand in this wise?\"",
+    "directions": [
+      "READING"
+    ],
+    "raw_quote": " (READING) \"But what if I were to shake your hand in this wise?\""
+  },
+  {
+    "timecode": "09:57",
+    "speaker": "Plumber",
+    "quote": " Well, I didn't realize you were a member.",
+    "directions": [],
+    "raw_quote": " Well, I didn't realize you were a member."
+  },
+  {
+    "timecode": "10:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Freeway: EXT. FREEWAY"
+    ],
+    "raw_quote": "(Freeway: EXT. FREEWAY)"
+  },
+  {
+    "timecode": "10:11",
+    "speaker": "Homer Simpson",
+    "quote": " Heh heh heh! So long, suckers!",
+    "directions": [],
+    "raw_quote": " Heh heh heh! So long, suckers!"
+  },
+  {
+    "timecode": "10:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "STONECUTTER TUNNEL: INT. STONECUTTER TUNNEL"
+    ],
+    "raw_quote": "(STONECUTTER TUNNEL: INT. STONECUTTER TUNNEL)"
+  },
+  {
+    "timecode": "10:25",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: EXT. POWER PLANT - PARKING LOT"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: EXT. POWER PLANT - PARKING LOT)"
+  },
+  {
+    "timecode": "10:25",
+    "speaker": "Bart Simpson",
+    "quote": " Same old space, huh, Dad?",
+    "directions": [],
+    "raw_quote": " Same old space, huh, Dad?"
+  },
+  {
+    "timecode": "10:27",
+    "speaker": "Homer Simpson",
+    "quote": " Yep, but they gave me these Rollerblades so I can glide to the front door.",
+    "directions": [
+      "PROUDLY"
+    ],
+    "raw_quote": " (PROUDLY) Yep, but they gave me these Rollerblades so I can glide to the front door."
+  },
+  {
+    "timecode": "10:34",
+    "speaker": "Homer Simpson",
+    "quote": " Heh heh heh heh. Sweet.",
+    "directions": [
+      "COCKILY"
+    ],
+    "raw_quote": " (COCKILY) Heh heh heh heh. Sweet."
+  },
+  {
+    "timecode": "10:41",
+    "speaker": "Homer Simpson",
+    "quote": " Jealous?",
+    "directions": [],
+    "raw_quote": " Jealous?"
+  },
+  {
+    "timecode": "10:42",
+    "speaker": "Lenny Leonard",
+    "quote": " Well... no. We've got the same chair.",
+    "directions": [],
+    "raw_quote": " Well... no. We've got the same chair."
+  },
+  {
+    "timecode": "10:45",
+    "speaker": "Homer Simpson",
+    "quote": " You're jealous.",
+    "directions": [
+      "SMUG"
+    ],
+    "raw_quote": " (SMUG) You're jealous."
+  },
+  {
+    "timecode": "10:47",
+    "speaker": "Lenny Leonard",
+    "quote": " Your membership pack.",
+    "directions": [],
+    "raw_quote": " Your membership pack."
+  },
+  {
+    "timecode": "10:49",
+    "speaker": "Homer Simpson",
+    "quote": " What's this?",
+    "directions": [],
+    "raw_quote": " What's this?"
+  },
+  {
+    "timecode": "10:50",
+    "speaker": "Lenny Leonard",
+    "quote": " You put that sticker on your car so you won't get any tickets. And this other one keeps paramedics from stealing your wallet while they're working on you.",
+    "directions": [],
+    "raw_quote": " You put that sticker on your car so you won't get any tickets. And this other one keeps paramedics from stealing your wallet while they're working on you."
+  },
+  {
+    "timecode": "10:56",
+    "speaker": "Carl Carlson",
+    "quote": " Oh, and don't bother calling nine one one anymore. Here's the real number.",
+    "directions": [],
+    "raw_quote": " Oh, and don't bother calling nine one one anymore. Here's the real number."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "SLY IMPRESSED SOUND"
+    ],
+    "raw_quote": " (SLY IMPRESSED SOUND)"
+  },
+  {
+    "timecode": "11:02",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE - kitchen"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE - kitchen)"
+  },
+  {
+    "timecode": "11:02",
+    "speaker": "Lisa Simpson",
+    "quote": " I still don't believe all the founding fathers were Stonecutters.",
+    "directions": [],
+    "raw_quote": " I still don't believe all the founding fathers were Stonecutters."
+  },
+  {
+    "timecode": "11:07",
+    "speaker": "Homer Simpson",
+    "quote": " That's because you trust your stupid school books. Here's what really happened at the signing of the Declaration of Independence...",
+    "directions": [],
+    "raw_quote": " That's because you trust your stupid school books. Here's what really happened at the signing of the Declaration of Independence..."
+  },
+  {
+    "timecode": "11:16",
+    "speaker": "Last Signer",
+    "quote": " ... and a nation is born. Now let us party like 'twere seventeen ninety-nine!",
+    "directions": [
+      "SOLEMNLY"
+    ],
+    "raw_quote": " (SOLEMNLY) ... and a nation is born. Now let us party like 'twere seventeen ninety-nine!"
+  },
+  {
+    "timecode": "11:26",
+    "speaker": "Others",
+    "quote": " Quaff, quaff, quaff, quaff ...!",
+    "directions": [
+      "CHANTING",
+      "etc."
+    ],
+    "raw_quote": " (CHANTING) Quaff, quaff, quaff, quaff (etc.)...!"
+  },
+  {
+    "timecode": "11:32",
+    "speaker": "Innkeeper",
+    "quote": " Please, sir. You're destroying my establishment.",
+    "directions": [
+      "BRITISH ACCENT"
+    ],
+    "raw_quote": " (BRITISH ACCENT) Please, sir. You're destroying my establishment."
+  },
+  {
+    "timecode": "11:36",
+    "speaker": "Thomas Jefferson",
+    "quote": " We just created the greatest democracy on earth, you low-life commoner.",
+    "directions": [],
+    "raw_quote": " We just created the greatest democracy on earth, you low-life commoner."
+  },
+  {
+    "timecode": "11:41",
+    "speaker": "Homer Simpson",
+    "quote": " You wanna see how Davy Crockett really died at the Alamo? You must be 18.",
+    "directions": [],
+    "raw_quote": " You wanna see how Davy Crockett really died at the Alamo? You must be 18."
+  },
+  {
+    "timecode": "11:45",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson home - living room"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson home - living room)"
+  },
+  {
+    "timecode": "11:45",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, a man who called himself \"You Know Who\" just invited you to a secret \"wink wink\" at the \"you know what.\" You certainly are popular now that you're a Stonecutter.",
+    "directions": [],
+    "raw_quote": " Homer, a man who called himself \"You Know Who\" just invited you to a secret \"wink wink\" at the \"you know what.\" You certainly are popular now that you're a Stonecutter."
+  },
+  {
+    "timecode": "11:56",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, yeah. Beer busts, beer blasts, keggers, stein hoists, AA meetings, beer night. It's wonderful, Marge. I've never felt so accepted in all my life. These people looked deep within my soul, and assigned me a number based on the order in which I joined.",
+    "directions": [
+      "CONSULTS APPOINTMENT BOOK"
+    ],
+    "raw_quote": " Oh, yeah. (CONSULTS APPOINTMENT BOOK) Beer busts, beer blasts, keggers, stein hoists, AA meetings, beer night. It's wonderful, Marge. I've never felt so accepted in all my life. These people looked deep within my soul, and assigned me a number based on the order in which I joined."
+  },
+  {
+    "timecode": "12:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Temple: INT. TEMPLE"
+    ],
+    "raw_quote": "(Temple: INT. TEMPLE)"
+  },
+  {
+    "timecode": "12:19",
+    "speaker": "Stonecutters",
+    "quote": " WHO CONTROLS THE BRITISH CROWN? /WHO KEEPS THE METRIC SYSTEM DOWN? / WE DO! WE DO!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) WHO CONTROLS THE BRITISH CROWN? /WHO KEEPS THE METRIC SYSTEM DOWN? / WE DO! WE DO!"
+  },
+  {
+    "timecode": "12:28",
+    "speaker": "Carl Carlson",
+    "quote": " WHO LEAVES ATLANTIS OFF THE MAPS?",
+    "directions": [],
+    "raw_quote": " WHO LEAVES ATLANTIS OFF THE MAPS?"
+  },
+  {
+    "timecode": "12:30",
+    "speaker": "Lenny Leonard",
+    "quote": " WHO KEEPS THE MARTIANS UNDER WRAPS? /",
+    "directions": [],
+    "raw_quote": " WHO KEEPS THE MARTIANS UNDER WRAPS? /"
+  },
+  {
+    "timecode": "12:32",
+    "speaker": "Stonecutters",
+    "quote": " WE DO! WE DO!",
+    "directions": [],
+    "raw_quote": " WE DO! WE DO!"
+  },
+  {
+    "timecode": "12:36",
+    "speaker": "Stonecutters",
+    "quote": " WHO HOLDS BACK THE ELECTRIC CAR? /",
+    "directions": [],
+    "raw_quote": " WHO HOLDS BACK THE ELECTRIC CAR? /"
+  },
+  {
+    "timecode": "12:40",
+    "speaker": "Stonecutters",
+    "quote": " WHO MAKES STEVE GUTTENBERG A STAR? / WE DO! / WE DO!",
+    "directions": [],
+    "raw_quote": " WHO MAKES STEVE GUTTENBERG A STAR? / WE DO! / WE DO!"
+  },
+  {
+    "timecode": "12:49",
+    "speaker": "Seymour Skinner",
+    "quote": " WHO ROBS CAVE FISH OF THEIR SIGHT? /",
+    "directions": [],
+    "raw_quote": " WHO ROBS CAVE FISH OF THEIR SIGHT? /"
+  },
+  {
+    "timecode": "12:51",
+    "speaker": "Homer Simpson",
+    "quote": " WHO RIGS EVERY OSCAR NIGHT? /",
+    "directions": [],
+    "raw_quote": " WHO RIGS EVERY OSCAR NIGHT? /"
+  },
+  {
+    "timecode": "12:53",
+    "speaker": "Stonecutters",
+    "quote": " WE DO! / WE DO!",
+    "directions": [],
+    "raw_quote": " WE DO! / WE DO!"
+  },
+  {
+    "timecode": "13:01",
+    "speaker": "Number One",
+    "quote": " Thank you. Tonight we are here to commemorate our glorious society's 1500th Anniversary. And in honor of this momentous occasion, we're having ribs.",
+    "directions": [],
+    "raw_quote": " Thank you. Tonight we are here to commemorate our glorious society's 1500th Anniversary. And in honor of this momentous occasion, we're having ribs."
+  },
+  {
+    "timecode": "13:14",
+    "speaker": "Homer Simpson",
+    "quote": " Uh-oh. I need a bib. If I slop any on my shirt, I could lose the respect of my beloved brethren.",
+    "directions": [
+      "TO HIMSELF"
+    ],
+    "raw_quote": " (TO HIMSELF) Uh-oh. I need a bib. If I slop any on my shirt, I could lose the respect of my beloved brethren."
+  },
+  {
+    "timecode": "13:21",
+    "speaker": "Number One",
+    "quote": " So let us rejoice and enjoy our meal in the shadow of the hallowed sacred parchment.",
+    "directions": [],
+    "raw_quote": " So let us rejoice and enjoy our meal in the shadow of the hallowed sacred parchment."
+  },
+  {
+    "timecode": "",
+    "speaker": "Stonecutters",
+    "quote": " ",
+    "directions": [
+      "GASPS"
+    ],
+    "raw_quote": " (GASPS)"
+  },
+  {
+    "timecode": "13:31",
+    "speaker": "Lenny Leonard",
+    "quote": " Homer!",
+    "directions": [
+      "STAGE WHISPER"
+    ],
+    "raw_quote": " (STAGE WHISPER) Homer!"
+  },
+  {
+    "timecode": "13:32",
+    "speaker": "Homer Simpson",
+    "quote": " Huh? Oh. Yeah. Thanks, Lenny.",
+    "directions": [],
+    "raw_quote": " Huh? Oh. Yeah. Thanks, Lenny."
+  },
+  {
+    "timecode": "13:36",
+    "speaker": "Stonecutters",
+    "quote": " / This is just appalling and outrageous.",
+    "directions": [
+      "OUTRAGED MUMBLING"
+    ],
+    "raw_quote": " (OUTRAGED MUMBLING) / This is just appalling and outrageous."
+  },
+  {
+    "timecode": "13:38",
+    "speaker": "Homer Simpson",
+    "quote": " What? Did I miss something?",
+    "directions": [],
+    "raw_quote": " What? Did I miss something?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Stonecutters",
+    "quote": " ",
+    "directions": [
+      "LOUDER OUTRAGED MUMBLING"
+    ],
+    "raw_quote": " (LOUDER OUTRAGED MUMBLING)"
+  },
+  {
+    "timecode": "13:43",
+    "speaker": "Stonecutters",
+    "quote": " Oh God! / Oh Homer, no! / This is outrageous! / You can't do that! / No!",
+    "directions": [
+      "LOUDEST OUTRAGED MUMBLING"
+    ],
+    "raw_quote": " (LOUDEST OUTRAGED MUMBLING) Oh God! / Oh Homer, no! / This is outrageous! / You can't do that! / No!"
+  },
+  {
+    "timecode": "13:47",
+    "speaker": "Carl Carlson",
+    "quote": " You really are stupid.",
+    "directions": [],
+    "raw_quote": " You really are stupid."
+  },
+  {
+    "timecode": "13:54",
+    "speaker": "Number One",
+    "quote": " And the official Stonecutter underwear too.",
+    "directions": [],
+    "raw_quote": " And the official Stonecutter underwear too."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "MOAN"
+    ],
+    "raw_quote": " (MOAN)"
+  },
+  {
+    "timecode": "14:04",
+    "speaker": "Homer Simpson",
+    "quote": " Please don't kick me out! This society is everything to me! Please give me another chance! I've learned my lesson.",
+    "directions": [],
+    "raw_quote": " Please don't kick me out! This society is everything to me! Please give me another chance! I've learned my lesson."
+  },
+  {
+    "timecode": "14:10",
+    "speaker": "Homer Simpson",
+    "quote": " I've learned my lesson!",
+    "directions": [],
+    "raw_quote": " I've learned my lesson!"
+  },
+  {
+    "timecode": "14:13",
+    "speaker": "Stonecutters",
+    "quote": " / That's it!",
+    "directions": [
+      "OUTRAGED MUMBLING"
+    ],
+    "raw_quote": " (OUTRAGED MUMBLING) / That's it!"
+  },
+  {
+    "timecode": "14:16",
+    "speaker": "Homer Simpson",
+    "quote": " Oh. Sorry.",
+    "directions": [
+      "REALIZING"
+    ],
+    "raw_quote": " (REALIZING) Oh. Sorry."
+  },
+  {
+    "timecode": "14:18",
+    "speaker": "Number One",
+    "quote": " Homer Simpson: for your continuing and baffling desecration of our beloved sacred parchment, you are hereby banished from the Stonecutters forever. And as a final humiliation, you must walk home naked, dragging behind you the stone of shame.",
+    "directions": [],
+    "raw_quote": " Homer Simpson: for your continuing and baffling desecration of our beloved sacred parchment, you are hereby banished from the Stonecutters forever. And as a final humiliation, you must walk home naked, dragging behind you the stone of shame."
+  },
+  {
+    "timecode": "14:47",
+    "speaker": "Dr. Julius Hibbert",
+    "quote": " The mark!",
+    "directions": [
+      "GASPS"
+    ],
+    "raw_quote": " (GASPS) The mark!"
+  },
+  {
+    "timecode": "14:48",
+    "speaker": "Homer Simpson",
+    "quote": " Oh that. It's just a birth mark and I'll thank you not to stare.",
+    "directions": [],
+    "raw_quote": " Oh that. It's just a birth mark and I'll thank you not to stare."
+  },
+  {
+    "timecode": "14:53",
+    "speaker": "Moe Szyslak",
+    "quote": " He's the chosen one!",
+    "directions": [],
+    "raw_quote": " He's the chosen one!"
+  },
+  {
+    "timecode": "14:57",
+    "speaker": "Number One",
+    "quote": " You are the Chosen One, whom the sacred parchment prophesied would lead us to glory. Now to the top of Mount Springfield for the coronation! Remove the stone of shame!",
+    "directions": [
+      "AWED",
+      "GRANDLY"
+    ],
+    "raw_quote": " (AWED) You are the Chosen One, whom the sacred parchment prophesied would lead us to glory. (GRANDLY) Now to the top of Mount Springfield for the coronation! Remove the stone of shame!"
+  },
+  {
+    "timecode": "15:11",
+    "speaker": "Homer Simpson",
+    "quote": " Woo-hoo!",
+    "directions": [],
+    "raw_quote": " Woo-hoo!"
+  },
+  {
+    "timecode": "15:13",
+    "speaker": "Number One",
+    "quote": " Attach the stone of triumph.",
+    "directions": [],
+    "raw_quote": " Attach the stone of triumph."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "GROAN"
+    ],
+    "raw_quote": " (GROAN)"
+  },
+  {
+    "timecode": "15:31",
+    "speaker": "Homer Simpson",
+    "quote": " Wow. Mental note. Don't overdo this.",
+    "directions": [
+      "GIGGLES, THEN AWED"
+    ],
+    "raw_quote": " (GIGGLES, THEN AWED) Wow. Mental note. Don't overdo this."
+  },
+  {
+    "timecode": "15:41",
+    "speaker": "Homer Simpson",
+    "quote": " Peek-a-boo!",
+    "directions": [],
+    "raw_quote": " Peek-a-boo!"
+  },
+  {
+    "timecode": "15:48",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: INT. SIMPSON HOUSE - living room"
+    ],
+    "raw_quote": "(Simpson Home: INT. SIMPSON HOUSE - living room)"
+  },
+  {
+    "timecode": "15:48",
+    "speaker": "Homer Simpson",
+    "quote": " I always wondered if there was a god. And now I know. There is. And it's me.",
+    "directions": [],
+    "raw_quote": " I always wondered if there was a god. And now I know. There is. And it's me."
+  },
+  {
+    "timecode": "15:54",
+    "speaker": "Marge Simpson",
+    "quote": " You're not a god, Homer.",
+    "directions": [],
+    "raw_quote": " You're not a god, Homer."
+  },
+  {
+    "timecode": "15:55",
+    "speaker": "Lisa Simpson",
+    "quote": " Remember, Dad. All glory is fleeting.",
+    "directions": [],
+    "raw_quote": " Remember, Dad. All glory is fleeting."
+  },
+  {
+    "timecode": "15:57",
+    "speaker": "Homer Simpson",
+    "quote": " So?",
+    "directions": [],
+    "raw_quote": " So?"
+  },
+  {
+    "timecode": "15:57",
+    "speaker": "Lisa Simpson",
+    "quote": " Beware the Ides of March.",
+    "directions": [],
+    "raw_quote": " Beware the Ides of March."
+  },
+  {
+    "timecode": "16:00",
+    "speaker": "Homer Simpson",
+    "quote": " No.",
+    "directions": [],
+    "raw_quote": " No."
+  },
+  {
+    "timecode": "16:00",
+    "speaker": "Lisa Simpson",
+    "quote": " Dad, I know you think you're happy now, but it's not gonna last forever.",
+    "directions": [],
+    "raw_quote": " Dad, I know you think you're happy now, but it's not gonna last forever."
+  },
+  {
+    "timecode": "16:04",
+    "speaker": "Homer Simpson",
+    "quote": " Everything lasts forever.",
+    "directions": [],
+    "raw_quote": " Everything lasts forever."
+  },
+  {
+    "timecode": "16:05",
+    "speaker": "Lisa Simpson",
+    "quote": " Don't you see? Getting what you want all the time will ultimately leave you unfulfilled and joyless.",
+    "directions": [],
+    "raw_quote": " Don't you see? Getting what you want all the time will ultimately leave you unfulfilled and joyless."
+  },
+  {
+    "timecode": "16:10",
+    "speaker": "Homer Simpson",
+    "quote": " Remove the girl.",
+    "directions": [
+      "ABSENTLY"
+    ],
+    "raw_quote": " (ABSENTLY) Remove the girl."
+  },
+  {
+    "timecode": "16:11",
+    "speaker": "Lisa Simpson",
+    "quote": " Dad, you're not with the Stonecutters now. There are no lackeys around to carry out your every... ",
+    "directions": [
+      "MUFFLED GASP"
+    ],
+    "raw_quote": " Dad, you're not with the Stonecutters now. There are no lackeys around to carry out your every... (MUFFLED GASP)"
+  },
+  {
+    "timecode": "16:23",
+    "speaker": "Stonecutters",
+    "quote": " Another strike for the Chosen One! Hurrah!",
+    "directions": [],
+    "raw_quote": " Another strike for the Chosen One! Hurrah!"
+  },
+  {
+    "timecode": "16:26",
+    "speaker": "Homer Simpson",
+    "quote": " Woo hoo!",
+    "directions": [],
+    "raw_quote": " Woo hoo!"
+  },
+  {
+    "timecode": "16:33",
+    "speaker": "Moe Szyslak",
+    "quote": " Well that's just an excellent break.",
+    "directions": [],
+    "raw_quote": " Well that's just an excellent break."
+  },
+  {
+    "timecode": "16:35",
+    "speaker": "Stonecutters",
+    "quote": " Most assuredly. That's for sure. / Etc.",
+    "directions": [
+      "AD-LIB"
+    ],
+    "raw_quote": " (AD-LIB) Most assuredly. That's for sure. / Etc."
+  },
+  {
+    "timecode": "16:35",
+    "speaker": "Carl Carlson",
+    "quote": " Absolutely.",
+    "directions": [],
+    "raw_quote": " Absolutely."
+  },
+  {
+    "timecode": "16:37",
+    "speaker": "Homer Simpson",
+    "quote": " Woo hoo!",
+    "directions": [],
+    "raw_quote": " Woo hoo!"
+  },
+  {
+    "timecode": "16:45",
+    "speaker": "Homer Simpson",
+    "quote": " I'm out.",
+    "directions": [
+      "STUDYING HIS CARDS"
+    ],
+    "raw_quote": " (STUDYING HIS CARDS) I'm out."
+  },
+  {
+    "timecode": "16:47",
+    "speaker": "Carl Carlson",
+    "quote": " No, no, Homer. You have a... royal... sampler.",
+    "directions": [],
+    "raw_quote": " No, no, Homer. You have a... royal... sampler."
+  },
+  {
+    "timecode": "16:51",
+    "speaker": "Homer Simpson",
+    "quote": " Oh I win again, don't I? Woo hoo.",
+    "directions": [
+      "LISTLESS"
+    ],
+    "raw_quote": " Oh I win again, don't I? (LISTLESS) Woo hoo."
+  },
+  {
+    "timecode": "16:53",
+    "speaker": "Stonecutters",
+    "quote": " \"Good one, Chosen One.\" Etc.",
+    "directions": [
+      "AD-LIBBING"
+    ],
+    "raw_quote": " (AD-LIBBING) \"Good one, Chosen One.\" Etc."
+  },
+  {
+    "timecode": "16:57",
+    "speaker": "Homer Simpson",
+    "quote": " You know, I think you guys are lettin' me win.",
+    "directions": [],
+    "raw_quote": " You know, I think you guys are lettin' me win."
+  },
+  {
+    "timecode": "16:59",
+    "speaker": "Stonecutters",
+    "quote": " No, no, no, no, no, no, no.",
+    "directions": [],
+    "raw_quote": " No, no, no, no, no, no, no."
+  },
+  {
+    "timecode": "17:03",
+    "speaker": "Homer Simpson",
+    "quote": " From now on, I want you to be honest with me. I mean, I'm not perfect, right?",
+    "directions": [],
+    "raw_quote": " From now on, I want you to be honest with me. I mean, I'm not perfect, right?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Carl Carlson",
+    "quote": " ",
+    "directions": [
+      "HEMMING, HAWING"
+    ],
+    "raw_quote": " (HEMMING, HAWING)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Chief Wiggum",
+    "quote": " ",
+    "directions": [
+      "HEMMING AND HAWING BETWEEN \"YES\" AND \"NO\""
+    ],
+    "raw_quote": " (HEMMING AND HAWING BETWEEN \"YES\" AND \"NO\")"
+  },
+  {
+    "timecode": "17:17",
+    "speaker": "Moe Szyslak",
+    "quote": " Run!",
+    "directions": [
+      "FUMFERS, THEN"
+    ],
+    "raw_quote": " (FUMFERS, THEN) Run!"
+  },
+  {
+    "timecode": "17:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Lisa's Classroom: int. lisa's classroom"
+    ],
+    "raw_quote": "(Lisa's Classroom: int. lisa's classroom)"
+  },
+  {
+    "timecode": "17:23",
+    "speaker": "Seymour Skinner",
+    "quote": " The Grand Exalted Leader requests a moment of your time. Class dismissed.",
+    "directions": [
+      "CLAPS HANDS"
+    ],
+    "raw_quote": " The Grand Exalted Leader requests a moment of your time. (CLAPS HANDS) Class dismissed."
+  },
+  {
+    "timecode": "17:31",
+    "speaker": "School Kids",
+    "quote": " Yay!",
+    "directions": [],
+    "raw_quote": " Yay!"
+  },
+  {
+    "timecode": "17:33",
+    "speaker": "Homer Simpson",
+    "quote": " Lisa, you were right. My happiness is fading.",
+    "directions": [],
+    "raw_quote": " Lisa, you were right. My happiness is fading."
+  },
+  {
+    "timecode": "17:37",
+    "speaker": "Lisa Simpson",
+    "quote": " You're experiencing spiritual emptiness because your power has isolated you from other human beings.",
+    "directions": [],
+    "raw_quote": " You're experiencing spiritual emptiness because your power has isolated you from other human beings."
+  },
+  {
+    "timecode": "17:42",
+    "speaker": "Homer Simpson",
+    "quote": " What do you mean, isolated? ...ated...ated..ated..ated.",
+    "directions": [
+      "ECHOING"
+    ],
+    "raw_quote": " What do you mean, isolated? (ECHOING) ...ated...ated..ated..ated."
+  },
+  {
+    "timecode": "17:46",
+    "speaker": "Lisa Simpson",
+    "quote": " Well maybe you could reach out to the community and help other people.",
+    "directions": [],
+    "raw_quote": " Well maybe you could reach out to the community and help other people."
+  },
+  {
+    "timecode": "17:51",
+    "speaker": "Homer Simpson",
+    "quote": " Hm... I could help others. I'll get a bunch of monkeys, dress them up, and make them reenact the Civil War .",
+    "directions": [
+      "LAUGHS"
+    ],
+    "raw_quote": " Hm... I could help others. I'll get a bunch of monkeys, dress them up, and make them reenact the Civil War (LAUGHS)."
+  },
+  {
+    "timecode": "18:00",
+    "speaker": "Lisa Simpson",
+    "quote": " Dad, that doesn't help people.",
+    "directions": [],
+    "raw_quote": " Dad, that doesn't help people."
+  },
+  {
+    "timecode": "18:02",
+    "speaker": "Homer Simpson",
+    "quote": " Couldn't hurt -- unless the monkeys start hurting people... which they almost certainly would.",
+    "directions": [],
+    "raw_quote": " Couldn't hurt -- unless the monkeys start hurting people... which they almost certainly would."
+  },
+  {
+    "timecode": "18:12",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Temple: Int. temple"
+    ],
+    "raw_quote": "(Temple: Int. temple)"
+  },
+  {
+    "timecode": "18:12",
+    "speaker": "Homer Simpson",
+    "quote": " Brothers, brothers.",
+    "directions": [],
+    "raw_quote": " Brothers, brothers."
+  },
+  {
+    "timecode": "",
+    "speaker": "Stonecutters",
+    "quote": " ",
+    "directions": [
+      "CHEER"
+    ],
+    "raw_quote": " (CHEER)"
+  },
+  {
+    "timecode": "18:15",
+    "speaker": "Homer Simpson",
+    "quote": " Brothers, I've learned a wonderful lesson. Helping others makes our own lives better and makes us better people. So instead of just shooting pool and drinking beer, let us Stonecutters use what we have to help the less fortunate.",
+    "directions": [
+      "QUIETLY SINCERE"
+    ],
+    "raw_quote": " (QUIETLY SINCERE) Brothers, I've learned a wonderful lesson. Helping others makes our own lives better and makes us better people. So instead of just shooting pool and drinking beer, let us Stonecutters use what we have to help the less fortunate."
+  },
+  {
+    "timecode": "18:36",
+    "speaker": "Moe Szyslak",
+    "quote": " He's gone mad with power. Like that Albert Schweitzer guy.",
+    "directions": [
+      "SOTTO TO WIGGUM"
+    ],
+    "raw_quote": " (SOTTO TO WIGGUM) He's gone mad with power. Like that Albert Schweitzer guy."
+  },
+  {
+    "timecode": "18:50",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh, for the love of God! Somebody get the jaws of life!",
+    "directions": [],
+    "raw_quote": " Oh, for the love of God! Somebody get the jaws of life!"
+  },
+  {
+    "timecode": "",
+    "speaker": "C. Montgomery Burns",
+    "quote": " ",
+    "directions": [
+      "PAINED PUSHING SOUNDS"
+    ],
+    "raw_quote": " (PAINED PUSHING SOUNDS)"
+  },
+  {
+    "timecode": "18:58",
+    "speaker": "Kid #3",
+    "quote": " Higher! Higher!",
+    "directions": [
+      "WHINY"
+    ],
+    "raw_quote": " (WHINY) Higher! Higher!"
+  },
+  {
+    "timecode": "19:01",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Oh I'll give you higher, my filthy little urchin.",
+    "directions": [],
+    "raw_quote": " Oh I'll give you higher, my filthy little urchin."
+  },
+  {
+    "timecode": "19:08",
+    "speaker": "C. Montgomery Burns",
+    "quote": " You've won this round, but...",
+    "directions": [],
+    "raw_quote": " You've won this round, but..."
+  },
+  {
+    "timecode": "19:10",
+    "speaker": "Woman",
+    "quote": " Oh, thank you Mr. Simpson. It looks so much better. A beautiful sky-blue.",
+    "directions": [
+      "SHE KISSES HIM"
+    ],
+    "raw_quote": " Oh, thank you Mr. Simpson. (SHE KISSES HIM) It looks so much better. A beautiful sky-blue."
+  },
+  {
+    "timecode": "19:27",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: Int. Simpson house"
+    ],
+    "raw_quote": "(Simpson Home: Int. Simpson house)"
+  },
+  {
+    "timecode": "19:27",
+    "speaker": "Homer Simpson",
+    "quote": " You were right, Lisa. I've never felt so spiritually fulfilled. And with my brothers, the Stonecutters, behind me, this is the beginning of a better world for all of us.",
+    "directions": [
+      "HAPPY AND SERENE"
+    ],
+    "raw_quote": " (HAPPY AND SERENE) You were right, Lisa. I've never felt so spiritually fulfilled. And with my brothers, the Stonecutters, behind me, this is the beginning of a better world for all of us."
+  },
+  {
+    "timecode": "19:39",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Temple: Int. temple - conference room"
+    ],
+    "raw_quote": "(Temple: Int. temple - conference room)"
+  },
+  {
+    "timecode": "19:39",
+    "speaker": "Moe Szyslak",
+    "quote": " We gotta kill him.",
+    "directions": [],
+    "raw_quote": " We gotta kill him."
+  },
+  {
+    "timecode": "19:41",
+    "speaker": "Number One",
+    "quote": " Take it easy, Moe. Let's hear from the Stonecutter World Council before we act too rashly.",
+    "directions": [],
+    "raw_quote": " Take it easy, Moe. Let's hear from the Stonecutter World Council before we act too rashly."
+  },
+  {
+    "timecode": "19:46",
+    "speaker": "Redenbacher",
+    "quote": " Kill him!",
+    "directions": [],
+    "raw_quote": " Kill him!"
+  },
+  {
+    "timecode": "19:47",
+    "speaker": "NICHOLSON",
+    "quote": " Kill him!",
+    "directions": [],
+    "raw_quote": " Kill him!"
+  },
+  {
+    "timecode": "19:48",
+    "speaker": "Mr. T",
+    "quote": " Kill the fool!",
+    "directions": [],
+    "raw_quote": " Kill the fool!"
+  },
+  {
+    "timecode": "19:49",
+    "speaker": "BUSH",
+    "quote": " I'm afraid I have to disagree with Orville, Jack, and Mister. Can't we just do something to his voice box?",
+    "directions": [],
+    "raw_quote": " I'm afraid I have to disagree with Orville, Jack, and Mister. Can't we just do something to his voice box?"
+  },
+  {
+    "timecode": "19:55",
+    "speaker": "Number One",
+    "quote": " We might as well face the truth. As long as we're Stonecutters, he will control our lives.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) We might as well face the truth. As long as we're Stonecutters, he will control our lives."
+  },
+  {
+    "timecode": "20:01",
+    "speaker": "Moe Szyslak",
+    "quote": " Maybe... but maybe, we don't want to be Stonecutters no more.",
+    "directions": [
+      "THOUGHTFULLY"
+    ],
+    "raw_quote": " (THOUGHTFULLY) Maybe... but maybe, we don't want to be Stonecutters no more."
+  },
+  {
+    "timecode": "20:15",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "BASKIN ROBBINS: Ext. BASKIN ROBBINS"
+    ],
+    "raw_quote": "(BASKIN ROBBINS: Ext. BASKIN ROBBINS)"
+  },
+  {
+    "timecode": "20:15",
+    "speaker": "Number One",
+    "quote": " Silence! I now call to order the first meeting of the Ancient Mystic Society of NoHomers.",
+    "directions": [],
+    "raw_quote": " Silence! I now call to order the first meeting of the Ancient Mystic Society of NoHomers."
+  },
+  {
+    "timecode": "20:26",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, fellas. Can I join?",
+    "directions": [
+      "HOPEFULLY"
+    ],
+    "raw_quote": " (HOPEFULLY) Hey, fellas. Can I join?"
+  },
+  {
+    "timecode": "20:29",
+    "speaker": "Number One",
+    "quote": " Sorry, no Homers.",
+    "directions": [],
+    "raw_quote": " Sorry, no Homers."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Glumpet",
+    "quote": " ",
+    "directions": [
+      "GLUMPET HILLBILLY LAUGH"
+    ],
+    "raw_quote": " (GLUMPET HILLBILLY LAUGH)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "SAD NOISE"
+    ],
+    "raw_quote": " (SAD NOISE)"
+  },
+  {
+    "timecode": "20:33",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Stonecutters Lodge: int. stonecutters temple - Tight on Homer"
+    ],
+    "raw_quote": "(Stonecutters Lodge: int. stonecutters temple - Tight on Homer)"
+  },
+  {
+    "timecode": "20:33",
+    "speaker": "Homer Simpson",
+    "quote": " Loyal stonecutters, let us begin our reenactment of the Battle of Gettysburg.",
+    "directions": [],
+    "raw_quote": " Loyal stonecutters, let us begin our reenactment of the Battle of Gettysburg."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "SAD GROAN"
+    ],
+    "raw_quote": " (SAD GROAN)"
+  },
+  {
+    "timecode": "20:41",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, you can't just keep hanging out with these Colobus monkeys. Somebody's gonna get parasites.",
+    "directions": [],
+    "raw_quote": " Homer, you can't just keep hanging out with these Colobus monkeys. Somebody's gonna get parasites."
+  },
+  {
+    "timecode": "20:48",
+    "speaker": "Homer Simpson",
+    "quote": " Oh Marge, kids, I miss my club.",
+    "directions": [],
+    "raw_quote": " Oh Marge, kids, I miss my club."
+  },
+  {
+    "timecode": "20:51",
+    "speaker": "Marge Simpson",
+    "quote": " Aw, Homie. You know, you are a member of a very exclusive club.",
+    "directions": [
+      "BRIGHTENING"
+    ],
+    "raw_quote": " Aw, Homie. (BRIGHTENING) You know, you are a member of a very exclusive club."
+  },
+  {
+    "timecode": "20:58",
+    "speaker": "Homer Simpson",
+    "quote": " The Black Panthers?",
+    "directions": [
+      "HOPEFULLY"
+    ],
+    "raw_quote": " (HOPEFULLY) The Black Panthers?"
+  },
+  {
+    "timecode": "21:00",
+    "speaker": "Marge Simpson",
+    "quote": " No. The family Simpson, which has just five members. And only two of those members have special rings.",
+    "directions": [
+      "PATIENTLY",
+      "RE: WEDDING RING"
+    ],
+    "raw_quote": " (PATIENTLY) No. The family Simpson, which has just five members. (RE: WEDDING RING) And only two of those members have special rings."
+  },
+  {
+    "timecode": "21:09",
+    "speaker": "Lisa Simpson",
+    "quote": " Yeah!",
+    "directions": [
+      "TOGETHER"
+    ],
+    "raw_quote": " (TOGETHER) Yeah!"
+  },
+  {
+    "timecode": "21:12",
+    "speaker": "Marge Simpson",
+    "quote": " I meant our wedding rings.",
+    "directions": [
+      "OVER WHISTLE RINGS"
+    ],
+    "raw_quote": " (OVER WHISTLE RINGS) I meant our wedding rings."
+  },
+  {
+    "timecode": "21:16",
+    "speaker": "Homer Simpson",
+    "quote": " You know, Marge you're right. The Simpson family is the best possible club I could belong to.",
+    "directions": [],
+    "raw_quote": " You know, Marge you're right. The Simpson family is the best possible club I could belong to."
+  },
+  {
+    "timecode": "21:28",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Living Room: int. simpson living room"
+    ],
+    "raw_quote": "(Simpson Living Room: int. simpson living room)"
+  },
+  {
+    "timecode": "21:28",
+    "speaker": "Homer Simpson",
+    "quote": " This club'd better be worth it.",
+    "directions": [
+      "PAINED"
+    ],
+    "raw_quote": " (PAINED) This club'd better be worth it."
+  },
+  {
+    "timecode": "21:32",
+    "speaker": "Marge Simpson",
+    "quote": " All right, all right. It's Lisa's turn.",
+    "directions": [],
+    "raw_quote": " All right, all right. It's Lisa's turn."
+  },
+  {
+    "timecode": "21:37",
+    "speaker": "Stonecutters",
+    "quote": " WHO CONTROLS THE BRITISH CROWN? / WHO KEEPS THE METRIC SYSTEM DOWN? / WE DO! WE DO! / WHO LEAVES ATLANTIS OFF THE MAPS? / WHO KEEPS THE MARTIANS UNDER WRAPS? / WE DO! WE DO! / WHO HOLDS BACK THE ELECTRIC CAR? / WHO MAKES STEVE GUTTENBERG A STAR? / WE DO! / WE DO! / WHO ROBS CAVE FISH OF THEIR SIGHT? / WHO RIGS EVERY OSCAR NIGHT? / WE DO! / WE DO!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) WHO CONTROLS THE BRITISH CROWN? / WHO KEEPS THE METRIC SYSTEM DOWN? / WE DO! WE DO! / WHO LEAVES ATLANTIS OFF THE MAPS? / WHO KEEPS THE MARTIANS UNDER WRAPS? / WE DO! WE DO! / WHO HOLDS BACK THE ELECTRIC CAR? / WHO MAKES STEVE GUTTENBERG A STAR? / WE DO! / WE DO! / WHO ROBS CAVE FISH OF THEIR SIGHT? / WHO RIGS EVERY OSCAR NIGHT? / WE DO! / WE DO!"
+  }
+]

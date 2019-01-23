@@ -1,0 +1,2807 @@
+[
+  {
+    "timecode": "00:30",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: ext. moe's - day - ESTABLISHING"
+    ],
+    "raw_quote": "(Moe's Tavern: ext. moe's - day - ESTABLISHING)"
+  },
+  {
+    "timecode": "00:30",
+    "speaker": "Homer Simpson",
+    "quote": " Hi, Moe, got any beer?",
+    "directions": [],
+    "raw_quote": " Hi, Moe, got any beer?"
+  },
+  {
+    "timecode": "00:32",
+    "speaker": "Moe Szyslak",
+    "quote": " Sure, check in the fridge.",
+    "directions": [
+      "ABSENTMINDED, POLISHING A GLASS"
+    ],
+    "raw_quote": " (ABSENTMINDED, POLISHING A GLASS) Sure, check in the fridge."
+  },
+  {
+    "timecode": "00:34",
+    "speaker": "Moe Szyslak",
+    "quote": " Wait a minute. I'm at work. Ya gotta pay for it.",
+    "directions": [
+      "GRABS BEER FROM HOMER"
+    ],
+    "raw_quote": " Wait a minute. I'm at work. (GRABS BEER FROM HOMER) Ya gotta pay for it."
+  },
+  {
+    "timecode": "00:39",
+    "speaker": "Homer Simpson",
+    "quote": " What the-- Where's my money?",
+    "directions": [
+      "SURPRISED SOUND"
+    ],
+    "raw_quote": " (SURPRISED SOUND) What the-- Where's my money?"
+  },
+  {
+    "timecode": "00:45",
+    "speaker": "Marge Simpson",
+    "quote": " \"Dear Homie, Had to buy diapers for Maggie. Love, Marge.\"",
+    "directions": [],
+    "raw_quote": " \"Dear Homie, Had to buy diapers for Maggie. Love, Marge.\""
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "PUZZLED SOUND"
+    ],
+    "raw_quote": " (PUZZLED SOUND)"
+  },
+  {
+    "timecode": "00:47",
+    "speaker": "Marge Simpson",
+    "quote": " Simpson.",
+    "directions": [],
+    "raw_quote": " Simpson."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "\"OH YEAH\" SOUND"
+    ],
+    "raw_quote": " (\"OH YEAH\" SOUND)"
+  },
+  {
+    "timecode": "00:47",
+    "speaker": "Lisa Simpson",
+    "quote": " \"Dear Dad, Took money for the school book fair.\"",
+    "directions": [],
+    "raw_quote": " \"Dear Dad, Took money for the school book fair.\""
+  },
+  {
+    "timecode": "00:47",
+    "speaker": "Bart Simpson",
+    "quote": " \"Homer, I need cash or they're gonna break my legs.\"",
+    "directions": [],
+    "raw_quote": " \"Homer, I need cash or they're gonna break my legs.\""
+  },
+  {
+    "timecode": "00:54",
+    "speaker": "Moe Szyslak",
+    "quote": " Sorry, Homer.",
+    "directions": [],
+    "raw_quote": " Sorry, Homer."
+  },
+  {
+    "timecode": "00:55",
+    "speaker": "Homer Simpson",
+    "quote": " So you're just gonna let me walk out of here sober.",
+    "directions": [
+      "INDIGNANT"
+    ],
+    "raw_quote": " (INDIGNANT) So you're just gonna let me walk out of here sober."
+  },
+  {
+    "timecode": "00:57",
+    "speaker": "Moe Szyslak",
+    "quote": " I'm afraid so.",
+    "directions": [],
+    "raw_quote": " I'm afraid so."
+  },
+  {
+    "timecode": "00:58",
+    "speaker": "Homer Simpson",
+    "quote": " And you can live with that.",
+    "directions": [],
+    "raw_quote": " And you can live with that."
+  },
+  {
+    "timecode": "00:59",
+    "speaker": "Moe Szyslak",
+    "quote": " Yuh-huh.",
+    "directions": [],
+    "raw_quote": " Yuh-huh."
+  },
+  {
+    "timecode": "00:59",
+    "speaker": "Homer Simpson",
+    "quote": " Fine. There are plenty of other ways for me to alter my consciousness.",
+    "directions": [],
+    "raw_quote": " Fine. There are plenty of other ways for me to alter my consciousness."
+  },
+  {
+    "timecode": "01:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Mt. Springfield: ext. mt. springfield - later"
+    ],
+    "raw_quote": "(Mt. Springfield: ext. mt. springfield - later)"
+  },
+  {
+    "timecode": "01:11",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, yeah.",
+    "directions": [],
+    "raw_quote": " Oh, yeah."
+  },
+  {
+    "timecode": "01:17",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SPRINGFIELD PET SHOT: Ext. Springfield Pet shot - later"
+    ],
+    "raw_quote": "(SPRINGFIELD PET SHOT: Ext. Springfield Pet shot - later)"
+  },
+  {
+    "timecode": "01:17",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Pet Shop: int. springfield pet shop - continuous"
+    ],
+    "raw_quote": "(Springfield Pet Shop: int. springfield pet shop - continuous)"
+  },
+  {
+    "timecode": "01:17",
+    "speaker": "Squeaky-Voiced Teen",
+    "quote": " Are you gonna buy those toads or just lick 'em?",
+    "directions": [
+      "ANNOYED"
+    ],
+    "raw_quote": " (ANNOYED) Are you gonna buy those toads or just lick 'em?"
+  },
+  {
+    "timecode": "01:19",
+    "speaker": "Homer Simpson",
+    "quote": " Lick 'em. Go away.",
+    "directions": [
+      "ALL BUSINESS"
+    ],
+    "raw_quote": " (ALL BUSINESS) Lick 'em. Go away."
+  },
+  {
+    "timecode": "01:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Blood Bank: ext. springfield blood bank - later"
+    ],
+    "raw_quote": "(Springfield Blood Bank: ext. springfield blood bank - later)"
+  },
+  {
+    "timecode": "01:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "SPRINGFIELD RED CROSS: INT. SPRINGFIELD RED CROSS - CONTINUOUS"
+    ],
+    "raw_quote": "(SPRINGFIELD RED CROSS: INT. SPRINGFIELD RED CROSS - CONTINUOUS)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "WOOZY SOUND OF ECSTASY"
+    ],
+    "raw_quote": " (WOOZY SOUND OF ECSTASY)"
+  },
+  {
+    "timecode": "01:23",
+    "speaker": "Nurse",
+    "quote": " Thanks for the donation, Mr. Simpson. Do you feel okay?",
+    "directions": [],
+    "raw_quote": " Thanks for the donation, Mr. Simpson. Do you feel okay?"
+  },
+  {
+    "timecode": "01:26",
+    "speaker": "Homer Simpson",
+    "quote": " Jewish? Oh, no, I'm not Jewish. ",
+    "directions": [
+      "JOVIAL",
+      "FRIENDLY CHUCKLE"
+    ],
+    "raw_quote": " (JOVIAL) Jewish? Oh, no, I'm not Jewish. (FRIENDLY CHUCKLE)"
+  },
+  {
+    "timecode": "01:34",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Moe's Tavern: ext. moe's - a little later"
+    ],
+    "raw_quote": "(Moe's Tavern: ext. moe's - a little later)"
+  },
+  {
+    "timecode": "01:34",
+    "speaker": "Homer Simpson",
+    "quote": " Wait'll Moe sees how wasted I got without him. He's gonna plotz.",
+    "directions": [],
+    "raw_quote": " Wait'll Moe sees how wasted I got without him. He's gonna plotz."
+  },
+  {
+    "timecode": "01:34",
+    "speaker": "Carl Carlson",
+    "quote": " You wouldn't serve Homer just 'cause he didn't have money?",
+    "directions": [],
+    "raw_quote": " You wouldn't serve Homer just 'cause he didn't have money?"
+  },
+  {
+    "timecode": "01:42",
+    "speaker": "Lenny Leonard",
+    "quote": " What happened to you, Moe? You used to be about the booze.",
+    "directions": [],
+    "raw_quote": " What happened to you, Moe? You used to be about the booze."
+  },
+  {
+    "timecode": "01:45",
+    "speaker": "Moe Szyslak",
+    "quote": " Yeah, I guess I got caught up in all the glitz and glamour.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) Yeah, I guess I got caught up in all the glitz and glamour."
+  },
+  {
+    "timecode": "01:53",
+    "speaker": "Homer Simpson",
+    "quote": " Well, Moe...",
+    "directions": [],
+    "raw_quote": " Well, Moe..."
+  },
+  {
+    "timecode": "01:54",
+    "speaker": "Moe Szyslak",
+    "quote": " Homer, I'm so sorry. Have a free beer.",
+    "directions": [],
+    "raw_quote": " Homer, I'm so sorry. Have a free beer."
+  },
+  {
+    "timecode": "01:56",
+    "speaker": "Homer Simpson",
+    "quote": " Oh.",
+    "directions": [],
+    "raw_quote": " Oh."
+  },
+  {
+    "timecode": "01:59",
+    "speaker": "Homer Simpson",
+    "quote": " Ah, I don't care about the color of your skin, Lenny. You're my friend! ",
+    "directions": [
+      "DRUNK, EMOTIONAL",
+      "CRIES"
+    ],
+    "raw_quote": " (DRUNK, EMOTIONAL) Ah, I don't care about the color of your skin, Lenny. You're my friend! (CRIES)"
+  },
+  {
+    "timecode": "02:07",
+    "speaker": "Lenny Leonard",
+    "quote": " Man, I've never seen anybody get loaded so fast.",
+    "directions": [],
+    "raw_quote": " Man, I've never seen anybody get loaded so fast."
+  },
+  {
+    "timecode": "02:09",
+    "speaker": "Moe Szyslak",
+    "quote": " Homer, can you say the alphabet backwards?",
+    "directions": [],
+    "raw_quote": " Homer, can you say the alphabet backwards?"
+  },
+  {
+    "timecode": "02:11",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, you'd like that wouldn't you, ya...",
+    "directions": [
+      "BELIGERENT"
+    ],
+    "raw_quote": " (BELIGERENT) Oh, you'd like that wouldn't you, ya..."
+  },
+  {
+    "timecode": "02:14",
+    "speaker": "Carl Carlson",
+    "quote": " Hey, I'm worried.",
+    "directions": [],
+    "raw_quote": " Hey, I'm worried."
+  },
+  {
+    "timecode": "02:15",
+    "speaker": "Homer Simpson",
+    "quote": " I've had just about enough of you.",
+    "directions": [],
+    "raw_quote": " I've had just about enough of you."
+  },
+  {
+    "timecode": "02:17",
+    "speaker": "Carl Carlson",
+    "quote": " Oh yeah?!",
+    "directions": [],
+    "raw_quote": " Oh yeah?!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "POINTING NOISES"
+    ],
+    "raw_quote": " (POINTING NOISES)"
+  },
+  {
+    "timecode": "02:19",
+    "speaker": "Carl Carlson",
+    "quote": " Ah, rats.",
+    "directions": [],
+    "raw_quote": " Ah, rats."
+  },
+  {
+    "timecode": "02:21",
+    "speaker": "Homer Simpson",
+    "quote": " I'm outta here...",
+    "directions": [],
+    "raw_quote": " I'm outta here..."
+  },
+  {
+    "timecode": "02:23",
+    "speaker": "Moe Szyslak",
+    "quote": " Hey, we can't let our friend drive like this. I'm liable, here.",
+    "directions": [],
+    "raw_quote": " Hey, we can't let our friend drive like this. I'm liable, here."
+  },
+  {
+    "timecode": "02:27",
+    "speaker": "Moe Szyslak",
+    "quote": " Get his keys!",
+    "directions": [],
+    "raw_quote": " Get his keys!"
+  },
+  {
+    "timecode": "02:28",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, you want my keys?",
+    "directions": [
+      "TAUNTING"
+    ],
+    "raw_quote": " (TAUNTING) Hey, you want my keys?"
+  },
+  {
+    "timecode": "02:32",
+    "speaker": "Homer Simpson",
+    "quote": " Get 'em now, jerks. ",
+    "directions": [
+      "SMUG LAUGH"
+    ],
+    "raw_quote": " Get 'em now, jerks. (SMUG LAUGH)"
+  },
+  {
+    "timecode": "02:35",
+    "speaker": "Homer Simpson",
+    "quote": " So long, jerks. ",
+    "directions": [
+      "SMUG LAUGH"
+    ],
+    "raw_quote": " So long, jerks. (SMUG LAUGH)"
+  },
+  {
+    "timecode": "02:44",
+    "speaker": "Homer Simpson",
+    "quote": " Running after the car, huh? Let's see if you can follow this. ",
+    "directions": [
+      "LOUDER ACCELERATING SOUND"
+    ],
+    "raw_quote": " Running after the car, huh? Let's see if you can follow this. (LOUDER ACCELERATING SOUND)"
+  },
+  {
+    "timecode": "02:48",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh, that's it.",
+    "directions": [
+      "SNAPPING"
+    ],
+    "raw_quote": " (SNAPPING) Oh, that's it."
+  },
+  {
+    "timecode": "02:56",
+    "speaker": "Cab Driver",
+    "quote": " Where to, Pal?",
+    "directions": [],
+    "raw_quote": " Where to, Pal?"
+  },
+  {
+    "timecode": "02:56",
+    "speaker": "Homer Simpson",
+    "quote": " Moe's Tavern.",
+    "directions": [],
+    "raw_quote": " Moe's Tavern."
+  },
+  {
+    "timecode": "02:59",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: EXT. SIMPSON HOUSE - THE NEXT DAY"
+    ],
+    "raw_quote": "(Simpson Home: EXT. SIMPSON HOUSE - THE NEXT DAY)"
+  },
+  {
+    "timecode": "02:59",
+    "speaker": "Homer Simpson",
+    "quote": " Good morning, everybody! What's for breakfast, cutie?",
+    "directions": [
+      "KISSES MARGE"
+    ],
+    "raw_quote": " Good morning, everybody! (KISSES MARGE) What's for breakfast, cutie?"
+  },
+  {
+    "timecode": "03:03",
+    "speaker": "Marge Simpson",
+    "quote": " Homie, it's five p.m. We're having dinner.",
+    "directions": [],
+    "raw_quote": " Homie, it's five p.m. We're having dinner."
+  },
+  {
+    "timecode": "03:06",
+    "speaker": "Homer Simpson",
+    "quote": " What? Wait a... That can't be right! Wait, was last night the night we set the clocks ahead eight hours?",
+    "directions": [
+      "CHECKS CLOCK"
+    ],
+    "raw_quote": " What? Wait a... (CHECKS CLOCK) That can't be right! Wait, was last night the night we set the clocks ahead eight hours?"
+  },
+  {
+    "timecode": "03:15",
+    "speaker": "Bart Simpson",
+    "quote": " No, it was the night you got loaded at Moe's and the car had to be towed home.",
+    "directions": [],
+    "raw_quote": " No, it was the night you got loaded at Moe's and the car had to be towed home."
+  },
+  {
+    "timecode": "03:17",
+    "speaker": "Homer Simpson",
+    "quote": " If I was that drunk, I would remember it.",
+    "directions": [
+      "DISMISSIVE SOUND"
+    ],
+    "raw_quote": " (DISMISSIVE SOUND) If I was that drunk, I would remember it."
+  },
+  {
+    "timecode": "03:20",
+    "speaker": "Marge Simpson",
+    "quote": " It's true. I couldn't even wake you up for work this morning. I had to tell Mr. Burns you had violent diarrhea.",
+    "directions": [],
+    "raw_quote": " It's true. I couldn't even wake you up for work this morning. I had to tell Mr. Burns you had violent diarrhea."
+  },
+  {
+    "timecode": "03:27",
+    "speaker": "Homer Simpson",
+    "quote": " Couldn't you come up with a less embarrassing lie?",
+    "directions": [
+      "SHEEPISH MOAN"
+    ],
+    "raw_quote": " (SHEEPISH MOAN) Couldn't you come up with a less embarrassing lie?"
+  },
+  {
+    "timecode": "03:31",
+    "speaker": "Marge Simpson",
+    "quote": " But you did have violent diarrhea. Nobody open the hallway closet until I say it's okay.",
+    "directions": [
+      "TO FAMILY"
+    ],
+    "raw_quote": " But you did have violent diarrhea. (TO FAMILY) Nobody open the hallway closet until I say it's okay."
+  },
+  {
+    "timecode": "03:39",
+    "speaker": "Lisa Simpson",
+    "quote": " Do you remember how you got home last night, Dad?",
+    "directions": [
+      "CONCERNED"
+    ],
+    "raw_quote": " (CONCERNED) Do you remember how you got home last night, Dad?"
+  },
+  {
+    "timecode": "03:41",
+    "speaker": "Homer Simpson",
+    "quote": " Of course. It was, uh... some kind of a... light rail.",
+    "directions": [
+      "EMBARRASSED"
+    ],
+    "raw_quote": " (EMBARRASSED) Of course. It was, uh... some kind of a... light rail."
+  },
+  {
+    "timecode": "03:47",
+    "speaker": "Lisa Simpson",
+    "quote": " There's no light rail in Springfield.",
+    "directions": [],
+    "raw_quote": " There's no light rail in Springfield."
+  },
+  {
+    "timecode": "03:49",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, won't anyone pretend to believe me?",
+    "directions": [],
+    "raw_quote": " Oh, won't anyone pretend to believe me?"
+  },
+  {
+    "timecode": "03:51",
+    "speaker": "Bart Simpson",
+    "quote": " I will, Dad.",
+    "directions": [],
+    "raw_quote": " I will, Dad."
+  },
+  {
+    "timecode": "03:53",
+    "speaker": "Homer Simpson",
+    "quote": " And that's why you're my favorite.",
+    "directions": [],
+    "raw_quote": " And that's why you're my favorite."
+  },
+  {
+    "timecode": "03:57",
+    "speaker": "Homer Simpson",
+    "quote": " All right, time for my favorite show.",
+    "directions": [],
+    "raw_quote": " All right, time for my favorite show."
+  },
+  {
+    "timecode": "04:01",
+    "speaker": "Network Announcer",
+    "quote": " \"MTC: Monkey Trauma Center\" will not be seen tonight, so we may proudly present this much cheaper show...",
+    "directions": [],
+    "raw_quote": " \"MTC: Monkey Trauma Center\" will not be seen tonight, so we may proudly present this much cheaper show..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "DISAPPOINTED SOUND"
+    ],
+    "raw_quote": " (DISAPPOINTED SOUND)"
+  },
+  {
+    "timecode": "04:08",
+    "speaker": "Female Announcer",
+    "quote": " \"Taxicab Conversations...\"",
+    "directions": [
+      "SEXY WHISPER"
+    ],
+    "raw_quote": " (SEXY WHISPER) \"Taxicab Conversations...\""
+  },
+  {
+    "timecode": "04:12",
+    "speaker": "Lisa Simpson",
+    "quote": " Hey, I read about this show in Teen Modern Maturity. They film passengers with hidden cameras and catch them at their most uninhibited.",
+    "directions": [],
+    "raw_quote": " Hey, I read about this show in Teen Modern Maturity. They film passengers with hidden cameras and catch them at their most uninhibited."
+  },
+  {
+    "timecode": "04:19",
+    "speaker": "Marge Simpson",
+    "quote": " That explains that.",
+    "directions": [],
+    "raw_quote": " That explains that."
+  },
+  {
+    "timecode": "04:26",
+    "speaker": "Female Cab Driver",
+    "quote": " Looks like somebody got down tonight...",
+    "directions": [
+      "FRIENDLY"
+    ],
+    "raw_quote": " (FRIENDLY) Looks like somebody got down tonight..."
+  },
+  {
+    "timecode": "04:29",
+    "speaker": "Disco Stu",
+    "quote": " Disco Stu always gets down, baby, 'cuz when the beat is hot, the... Hey, can you keep a secret?",
+    "directions": [
+      "LETTING GUARD DOWN, SIGH"
+    ],
+    "raw_quote": " Disco Stu always gets down, baby, 'cuz when the beat is hot, the... (LETTING GUARD DOWN, SIGH) Hey, can you keep a secret?"
+  },
+  {
+    "timecode": "04:37",
+    "speaker": "Female Cab Driver",
+    "quote": " What is it, hon?",
+    "directions": [],
+    "raw_quote": " What is it, hon?"
+  },
+  {
+    "timecode": "04:38",
+    "speaker": "Disco Stu",
+    "quote": " I hate disco. It's all I've talked about for so long, that people think I'm a one-note guy.",
+    "directions": [],
+    "raw_quote": " I hate disco. It's all I've talked about for so long, that people think I'm a one-note guy."
+  },
+  {
+    "timecode": "04:45",
+    "speaker": "Disco Stu",
+    "quote": " It's just getting harder, you know?",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) It's just getting harder, you know?"
+  },
+  {
+    "timecode": "04:47",
+    "speaker": "Lisa Simpson",
+    "quote": " I had no idea Disco Stu was so complex.",
+    "directions": [],
+    "raw_quote": " I had no idea Disco Stu was so complex."
+  },
+  {
+    "timecode": "04:52",
+    "speaker": "Cab Driver",
+    "quote": " How ya doin'?",
+    "directions": [],
+    "raw_quote": " How ya doin'?"
+  },
+  {
+    "timecode": "04:53",
+    "speaker": "Drunk Homer",
+    "quote": " Talky thing, ain't ya...",
+    "directions": [],
+    "raw_quote": " Talky thing, ain't ya..."
+  },
+  {
+    "timecode": "04:54",
+    "speaker": "Lisa Simpson",
+    "quote": " Another proud moment for the Simpsons.",
+    "directions": [],
+    "raw_quote": " Another proud moment for the Simpsons."
+  },
+  {
+    "timecode": "04:57",
+    "speaker": "Homer Simpson",
+    "quote": " I don't remember anybody telling me I was gonna be on TV.",
+    "directions": [],
+    "raw_quote": " I don't remember anybody telling me I was gonna be on TV."
+  },
+  {
+    "timecode": "05:01",
+    "speaker": "Cab Driver",
+    "quote": " So what do you do for a living?",
+    "directions": [],
+    "raw_quote": " So what do you do for a living?"
+  },
+  {
+    "timecode": "05:03",
+    "speaker": "Drunk Homer",
+    "quote": " Oh you know, I'm a guy at a place. How'd you get such a crappy job? You a convict or a junkie?",
+    "directions": [],
+    "raw_quote": " Oh you know, I'm a guy at a place. How'd you get such a crappy job? You a convict or a junkie?"
+  },
+  {
+    "timecode": "05:10",
+    "speaker": "Cab Driver",
+    "quote": " Little o' both. You got a family?",
+    "directions": [],
+    "raw_quote": " Little o' both. You got a family?"
+  },
+  {
+    "timecode": "05:12",
+    "speaker": "Drunk Homer",
+    "quote": " Oh yeah... wife and two or three kids. Can't imagine my life without 'em.",
+    "directions": [
+      "SINCERE"
+    ],
+    "raw_quote": " (SINCERE) Oh yeah... wife and two or three kids. Can't imagine my life without 'em."
+  },
+  {
+    "timecode": "05:17",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, you big fooler. Pretending not to remember so you could surprise us.",
+    "directions": [],
+    "raw_quote": " Oh, you big fooler. Pretending not to remember so you could surprise us."
+  },
+  {
+    "timecode": "05:22",
+    "speaker": "Homer Simpson",
+    "quote": " Yeah, I'm pretty great...",
+    "directions": [
+      "UNSURE LAUGH"
+    ],
+    "raw_quote": " (UNSURE LAUGH) Yeah, I'm pretty great..."
+  },
+  {
+    "timecode": "05:26",
+    "speaker": "Drunk Homer",
+    "quote": " At the end of a hard day, there's no better feeling than comin' home to the people you love.",
+    "directions": [],
+    "raw_quote": " At the end of a hard day, there's no better feeling than comin' home to the people you love."
+  },
+  {
+    "timecode": "05:33",
+    "speaker": "Marge Simpson",
+    "quote": " Oh, Homie...",
+    "directions": [
+      "HUGGING HOMER"
+    ],
+    "raw_quote": " (HUGGING HOMER) Oh, Homie..."
+  },
+  {
+    "timecode": "05:35",
+    "speaker": "Lisa Simpson",
+    "quote": " That is so sweet.",
+    "directions": [],
+    "raw_quote": " That is so sweet."
+  },
+  {
+    "timecode": "05:37",
+    "speaker": "Bart Simpson",
+    "quote": " I had no idea, Dad. I just assumed with all the stranglings, you know...",
+    "directions": [],
+    "raw_quote": " I had no idea, Dad. I just assumed with all the stranglings, you know..."
+  },
+  {
+    "timecode": "05:42",
+    "speaker": "Homer Simpson",
+    "quote": " That my family isn't the center of my universe? Are you nuts?",
+    "directions": [],
+    "raw_quote": " That my family isn't the center of my universe? Are you nuts?"
+  },
+  {
+    "timecode": "05:47",
+    "speaker": "Drunk Homer",
+    "quote": " Then there's those other days. Where you just wish you never got married or had kids.",
+    "directions": [],
+    "raw_quote": " Then there's those other days. Where you just wish you never got married or had kids."
+  },
+  {
+    "timecode": "05:54",
+    "speaker": "Drunk Homer",
+    "quote": " One minute, you're a carefree teenager with dreams of being a rock star, or a photographer for Playboy... Then bam, some babe gets her claws in ya...And boom, you got a buncha kids that always need love.",
+    "directions": [],
+    "raw_quote": " One minute, you're a carefree teenager with dreams of being a rock star, or a photographer for Playboy... Then bam, some babe gets her claws in ya...And boom, you got a buncha kids that always need love."
+  },
+  {
+    "timecode": "06:13",
+    "speaker": "Drunk Homer",
+    "quote": " So whammo, you get stuck in some boring job where they don't let you play guitar or take pictures of naked women, and all you can do is watch yourself get bald and fat, and kiss your dreams good-bye... ",
+    "directions": [
+      "SITS BACK",
+      "SNORES"
+    ],
+    "raw_quote": " So whammo, you get stuck in some boring job where they don't let you play guitar or take pictures of naked women, (SITS BACK) and all you can do is watch yourself get bald and fat, and kiss your dreams good-bye... (SNORES)"
+  },
+  {
+    "timecode": "06:31",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, I can't believe they took \"Monkey Trauma Center\" off for this.",
+    "directions": [],
+    "raw_quote": " Oh, I can't believe they took \"Monkey Trauma Center\" off for this."
+  },
+  {
+    "timecode": "06:39",
+    "speaker": "Homer Simpson",
+    "quote": " Lousy family...",
+    "directions": [],
+    "raw_quote": " Lousy family..."
+  },
+  {
+    "timecode": "06:43",
+    "speaker": "Marge Simpson",
+    "quote": " So I'm just some babe who sank her claws into you?!",
+    "directions": [],
+    "raw_quote": " So I'm just some babe who sank her claws into you?!"
+  },
+  {
+    "timecode": "06:48",
+    "speaker": "Homer Simpson",
+    "quote": " A hot babe...",
+    "directions": [
+      "WEAKLY"
+    ],
+    "raw_quote": " (WEAKLY) A hot babe..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "FURIOUS SOUND"
+    ],
+    "raw_quote": " (FURIOUS SOUND)"
+  },
+  {
+    "timecode": "06:51",
+    "speaker": "Lisa Simpson",
+    "quote": " Have you always resented us, Dad?",
+    "directions": [],
+    "raw_quote": " Have you always resented us, Dad?"
+  },
+  {
+    "timecode": "06:53",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, I don't resent you, sweetheart. What I was trying to say, and maybe I didn't use the right words, was that marriage is like a coffin and each kid is another nail, but as coffins go...",
+    "directions": [],
+    "raw_quote": " Oh, I don't resent you, sweetheart. What I was trying to say, and maybe I didn't use the right words, was that marriage is like a coffin and each kid is another nail, but as coffins go..."
+  },
+  {
+    "timecode": "07:05",
+    "speaker": "Lisa Simpson",
+    "quote": " Please don't say any more!",
+    "directions": [
+      "HURT GASP"
+    ],
+    "raw_quote": " (HURT GASP) Please don't say any more!"
+  },
+  {
+    "timecode": "07:06",
+    "speaker": "Bart Simpson",
+    "quote": " Sorry we ruined your life, Homer.",
+    "directions": [],
+    "raw_quote": " Sorry we ruined your life, Homer."
+  },
+  {
+    "timecode": "07:14",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, what have I done?",
+    "directions": [],
+    "raw_quote": " Oh, what have I done?"
+  },
+  {
+    "timecode": "07:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: ext. nuclear plant - the next afternoon"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: ext. nuclear plant - the next afternoon)"
+  },
+  {
+    "timecode": "07:23",
+    "speaker": "Marge Simpson",
+    "quote": " Get in.",
+    "directions": [
+      "ALL BUSINESS"
+    ],
+    "raw_quote": " (ALL BUSINESS) Get in."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "CONFUSED SOUND"
+    ],
+    "raw_quote": " (CONFUSED SOUND)"
+  },
+  {
+    "timecode": "07:25",
+    "speaker": "Marge Simpson",
+    "quote": " Get in.",
+    "directions": [],
+    "raw_quote": " Get in."
+  },
+  {
+    "timecode": "07:27",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, what's this suitcase for? Are we going on a trip?",
+    "directions": [
+      "GETS IN, NOTICING"
+    ],
+    "raw_quote": " (GETS IN, NOTICING) Hey, what's this suitcase for? Are we going on a trip?"
+  },
+  {
+    "timecode": "07:30",
+    "speaker": "Bart Simpson",
+    "quote": " You are. ",
+    "directions": [
+      "MENACING",
+      "EVIL CHUCKLE"
+    ],
+    "raw_quote": " (MENACING) You are. (EVIL CHUCKLE)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Lisa Simpson",
+    "quote": " ",
+    "directions": [
+      "EVIL CHUCKLE"
+    ],
+    "raw_quote": " (EVIL CHUCKLE)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "NERVOUS WHIMPER"
+    ],
+    "raw_quote": " (NERVOUS WHIMPER)"
+  },
+  {
+    "timecode": "07:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Outskirts Of Town: ext. outskirts of town - later"
+    ],
+    "raw_quote": "(Outskirts Of Town: ext. outskirts of town - later)"
+  },
+  {
+    "timecode": "07:37",
+    "speaker": "Homer Simpson",
+    "quote": " Where are you taking me?",
+    "directions": [
+      "PANICKY"
+    ],
+    "raw_quote": " (PANICKY) Where are you taking me?"
+  },
+  {
+    "timecode": "07:39",
+    "speaker": "Marge Simpson",
+    "quote": " A place where you'll never be bothered by your family again.",
+    "directions": [],
+    "raw_quote": " A place where you'll never be bothered by your family again."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "NERVOUS SOUNDS"
+    ],
+    "raw_quote": " (NERVOUS SOUNDS)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "BIGGER NERVOUS SOUND"
+    ],
+    "raw_quote": " (BIGGER NERVOUS SOUND)"
+  },
+  {
+    "timecode": "07:53",
+    "speaker": "Marge Simpson",
+    "quote": " Get out of the car, Homer.",
+    "directions": [],
+    "raw_quote": " Get out of the car, Homer."
+  },
+  {
+    "timecode": "07:55",
+    "speaker": "Homer Simpson",
+    "quote": " You can't just leave me out here! There's not another woman for miles!",
+    "directions": [],
+    "raw_quote": " You can't just leave me out here! There's not another woman for miles!"
+  },
+  {
+    "timecode": "07:59",
+    "speaker": "Bart Simpson",
+    "quote": " Sorry, Dad. Maybe now you'll appreciate us...",
+    "directions": [],
+    "raw_quote": " Sorry, Dad. Maybe now you'll appreciate us..."
+  },
+  {
+    "timecode": "08:01",
+    "speaker": "Lisa Simpson",
+    "quote": " ...while you're spending the week at...",
+    "directions": [
+      "SUDDENLY UPBEAT, \u00c0 LA GAME SHOW"
+    ],
+    "raw_quote": " (SUDDENLY UPBEAT, \u00c0 LA GAME SHOW) ...while you're spending the week at..."
+  },
+  {
+    "timecode": "08:04",
+    "speaker": "Marge Simpson",
+    "quote": " Rock 'n' Roll Fantasy Camp!",
+    "directions": [
+      "POINTING OUT WINDSHIELD"
+    ],
+    "raw_quote": " (POINTING OUT WINDSHIELD) Rock 'n' Roll Fantasy Camp!"
+  },
+  {
+    "timecode": "08:08",
+    "speaker": "Homer Simpson",
+    "quote": " \"The Rolling Stones Rock 'n' Roll Fantasy Camp!!\" But I thought you guys were mad at me. For once in my life, I'm confused.",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " (GASP) \"The Rolling Stones Rock 'n' Roll Fantasy Camp!!\" But I thought you guys were mad at me. For once in my life, I'm confused."
+  },
+  {
+    "timecode": "08:16",
+    "speaker": "Marge Simpson",
+    "quote": " We had a family meeting and decided that even though what you said about us was incredibly thoughtless and hurtful, you had a point.",
+    "directions": [],
+    "raw_quote": " We had a family meeting and decided that even though what you said about us was incredibly thoughtless and hurtful, you had a point."
+  },
+  {
+    "timecode": "08:25",
+    "speaker": "Homer Simpson",
+    "quote": " Damn straight.",
+    "directions": [],
+    "raw_quote": " Damn straight."
+  },
+  {
+    "timecode": "08:26",
+    "speaker": "Marge Simpson",
+    "quote": " You work a job you don't like so I'm able to be home with the kids.",
+    "directions": [],
+    "raw_quote": " You work a job you don't like so I'm able to be home with the kids."
+  },
+  {
+    "timecode": "08:31",
+    "speaker": "Lisa Simpson",
+    "quote": " And you take me places you hate, like museums, plays, and the Olive Garden.",
+    "directions": [],
+    "raw_quote": " And you take me places you hate, like museums, plays, and the Olive Garden."
+  },
+  {
+    "timecode": "08:35",
+    "speaker": "Bart Simpson",
+    "quote": " And even though you knew I ratted you out to the IRS, you never busted me on it.",
+    "directions": [],
+    "raw_quote": " And even though you knew I ratted you out to the IRS, you never busted me on it."
+  },
+  {
+    "timecode": "08:39",
+    "speaker": "Homer Simpson",
+    "quote": " You what?",
+    "directions": [],
+    "raw_quote": " You what?"
+  },
+  {
+    "timecode": "08:40",
+    "speaker": "Marge Simpson",
+    "quote": " So to say thank you for all your sacrifices, we spent our family vacation fund on something that's just for you. Do you like it?",
+    "directions": [
+      "SMILING AT KIDS",
+      "TURNING TO HOMER"
+    ],
+    "raw_quote": " (SMILING AT KIDS) So to say thank you for all your sacrifices, we spent our family vacation fund on something that's just for you. (TURNING TO HOMER) Do you like it?"
+  },
+  {
+    "timecode": "08:49",
+    "speaker": "Homer Simpson",
+    "quote": " You guys are the best. I love you, I love you, I love you...",
+    "directions": [
+      "YELLING, GRADUALLY FADING"
+    ],
+    "raw_quote": " (YELLING, GRADUALLY FADING) You guys are the best. I love you, I love you, I love you..."
+  },
+  {
+    "timecode": "08:52",
+    "speaker": "Homer Simpson",
+    "quote": " I'm okay. I love you, I love you, I love you, I love you...",
+    "directions": [
+      "DISTANT"
+    ],
+    "raw_quote": " (DISTANT) I'm okay. I love you, I love you, I love you, I love you..."
+  },
+  {
+    "timecode": "09:01",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Rock 'n' Roll Fantasy Camp: int. rock 'n' roll fantasy camp - a short while later"
+    ],
+    "raw_quote": "(Rock 'n' Roll Fantasy Camp: int. rock 'n' roll fantasy camp - a short while later)"
+  },
+  {
+    "timecode": "09:01",
+    "speaker": "Homer Simpson",
+    "quote": " Hey, what gives? Where are all the rock stars?",
+    "directions": [],
+    "raw_quote": " Hey, what gives? Where are all the rock stars?"
+  },
+  {
+    "timecode": "09:04",
+    "speaker": "Chief Wiggum",
+    "quote": " I don't know, but it's starting to get dark.",
+    "directions": [
+      "WORRIED"
+    ],
+    "raw_quote": " I don't know, (WORRIED) but it's starting to get dark."
+  },
+  {
+    "timecode": "09:08",
+    "speaker": "Homer Simpson",
+    "quote": " What was that?",
+    "directions": [
+      "NERVOUS GASP"
+    ],
+    "raw_quote": " (NERVOUS GASP) What was that?"
+  },
+  {
+    "timecode": "09:10",
+    "speaker": "Barney Gumble",
+    "quote": " It's gettin' closer!",
+    "directions": [
+      "WORRIED NOISE"
+    ],
+    "raw_quote": " (WORRIED NOISE) It's gettin' closer!"
+  },
+  {
+    "timecode": "09:18",
+    "speaker": "Mick Jagger",
+    "quote": " Hello campers!",
+    "directions": [],
+    "raw_quote": " Hello campers!"
+  },
+  {
+    "timecode": "09:19",
+    "speaker": "Keith Richards",
+    "quote": " How ya doin'?",
+    "directions": [],
+    "raw_quote": " How ya doin'?"
+  },
+  {
+    "timecode": "09:21",
+    "speaker": "Homer Simpson",
+    "quote": " Omigod! Omigod! Omigod! It's Mick Jagger and Keith Richards...",
+    "directions": [
+      "TEENAGE GIRL",
+      "MESMERIZED"
+    ],
+    "raw_quote": " (TEENAGE GIRL) Omigod! Omigod! Omigod! (MESMERIZED) It's Mick Jagger and Keith Richards..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Barney Gumble",
+    "quote": " ",
+    "directions": [
+      "GIRLISH SWOON"
+    ],
+    "raw_quote": " (GIRLISH SWOON)"
+  },
+  {
+    "timecode": "09:27",
+    "speaker": "Mick Jagger",
+    "quote": " Welcome to Rock 'n' Roll Fantasy Camp, where you'll experience the complete rock 'n' roll lifestyle, without the lawsuits and STD's.",
+    "directions": [],
+    "raw_quote": " Welcome to Rock 'n' Roll Fantasy Camp, where you'll experience the complete rock 'n' roll lifestyle, without the lawsuits and STD's."
+  },
+  {
+    "timecode": "09:36",
+    "speaker": "Homer Simpson",
+    "quote": " Woo! STD's!",
+    "directions": [],
+    "raw_quote": " Woo! STD's!"
+  },
+  {
+    "timecode": "09:38",
+    "speaker": "Keith Richards",
+    "quote": " Now you're all here for one reason...",
+    "directions": [],
+    "raw_quote": " Now you're all here for one reason..."
+  },
+  {
+    "timecode": "09:39",
+    "speaker": "Homer Simpson",
+    "quote": " To rock!",
+    "directions": [
+      "PUMPING FIST IN AIR"
+    ],
+    "raw_quote": " (PUMPING FIST IN AIR) To rock!"
+  },
+  {
+    "timecode": "09:41",
+    "speaker": "Keith Richards",
+    "quote": " Who said that?",
+    "directions": [
+      "WHIPS AROUND, PISSED"
+    ],
+    "raw_quote": " (WHIPS AROUND, PISSED) Who said that?"
+  },
+  {
+    "timecode": "09:43",
+    "speaker": "Keith Richards",
+    "quote": " That's right, Otto. We're here to rock! ",
+    "directions": [
+      "UPBEAT",
+      "PUMPS FIST IN AIR"
+    ],
+    "raw_quote": " (UPBEAT) That's right, Otto. We're here to rock! (PUMPS FIST IN AIR)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Campers",
+    "quote": " ",
+    "directions": [
+      "WILD CHEERS AND YELLS"
+    ],
+    "raw_quote": " (WILD CHEERS AND YELLS)"
+  },
+  {
+    "timecode": "09:47",
+    "speaker": "Mick Jagger",
+    "quote": " So get a good night's sleep and remember Rule Number One: there are no rules!",
+    "directions": [],
+    "raw_quote": " So get a good night's sleep and remember Rule Number One: there are no rules!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Campers",
+    "quote": " ",
+    "directions": [
+      "CHEER"
+    ],
+    "raw_quote": " (CHEER)"
+  },
+  {
+    "timecode": "09:55",
+    "speaker": "Mick Jagger",
+    "quote": " Rule Number Two: no outside food!",
+    "directions": [],
+    "raw_quote": " Rule Number Two: no outside food!"
+  },
+  {
+    "timecode": "09:58",
+    "speaker": "Campers",
+    "quote": " / Oh, what a gyp.",
+    "directions": [
+      "SMALLER CHEER",
+      "WIGGUM"
+    ],
+    "raw_quote": " (SMALLER CHEER) / (WIGGUM) Oh, what a gyp."
+  },
+  {
+    "timecode": "10:01",
+    "speaker": "Chief Wiggum",
+    "quote": " Hey Mick, will you teach us your cocksure strut?",
+    "directions": [],
+    "raw_quote": " Hey Mick, will you teach us your cocksure strut?"
+  },
+  {
+    "timecode": "10:04",
+    "speaker": "Mick Jagger",
+    "quote": " Not today. I've got a ton of paperwork to catch up on.",
+    "directions": [],
+    "raw_quote": " Not today. I've got a ton of paperwork to catch up on."
+  },
+  {
+    "timecode": "10:07",
+    "speaker": "Chief Wiggum",
+    "quote": " Ha, tell me about it. At my job, we... Oh, oh, you're gone.",
+    "directions": [
+      "NOTICING"
+    ],
+    "raw_quote": " Ha, tell me about it. At my job, we... (NOTICING) Oh, oh, you're gone."
+  },
+  {
+    "timecode": "10:12",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "CAMP: ext. camp - sunrise"
+    ],
+    "raw_quote": "(CAMP: ext. camp - sunrise)"
+  },
+  {
+    "timecode": "10:12",
+    "speaker": "Keith Richards",
+    "quote": " Hey! Wake up!",
+    "directions": [],
+    "raw_quote": " Hey! Wake up!"
+  },
+  {
+    "timecode": "10:17",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Bunk House: INT. BUNK HOUSE - CONTINUOUS"
+    ],
+    "raw_quote": "(Bunk House: INT. BUNK HOUSE - CONTINUOUS)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Campers",
+    "quote": " ",
+    "directions": [
+      "WAKING UP SOUNDS"
+    ],
+    "raw_quote": " (WAKING UP SOUNDS)"
+  },
+  {
+    "timecode": "10:17",
+    "speaker": "Homer Simpson",
+    "quote": " Are you ready...to receive professional training in rock?!",
+    "directions": [],
+    "raw_quote": " Are you ready...to receive professional training in rock?!"
+  },
+  {
+    "timecode": "10:21",
+    "speaker": "Chief Wiggum",
+    "quote": " Have you been awake all night?",
+    "directions": [],
+    "raw_quote": " Have you been awake all night?"
+  },
+  {
+    "timecode": "10:23",
+    "speaker": "Homer Simpson",
+    "quote": " I am so excited I couldn't fall asleep! I even took some pills I found on the floor and still nothing!",
+    "directions": [
+      "CHILD-LIKE"
+    ],
+    "raw_quote": " (CHILD-LIKE) I am so excited I couldn't fall asleep! I even took some pills I found on the floor and still nothing!"
+  },
+  {
+    "timecode": "10:28",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " You took pills you found on the floor?",
+    "directions": [],
+    "raw_quote": " You took pills you found on the floor?"
+  },
+  {
+    "timecode": "10:29",
+    "speaker": "Homer Simpson",
+    "quote": " Uh-huh. Now I'm afraid that if I stop talking, I'll die. Isn't Mick cool? I thought he'd be all like, \"I'm a rock star. Aren't I great?\" But he's just like you or me or Jesus over there.",
+    "directions": [
+      "NODS",
+      "POINTS TO EMPTY CORNER"
+    ],
+    "raw_quote": " (NODS) Uh-huh. Now I'm afraid that if I stop talking, I'll die. Isn't Mick cool? I thought he'd be all like, \"I'm a rock star. Aren't I great?\" But he's just like you or me or (POINTS TO EMPTY CORNER) Jesus over there."
+  },
+  {
+    "timecode": "10:44",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "CAMP: ext. camp - later"
+    ],
+    "raw_quote": "(CAMP: ext. camp - later)"
+  },
+  {
+    "timecode": "10:44",
+    "speaker": "Campers",
+    "quote": " Guitar! Guitar! / Can I have a guitar?! / I want a guitar! Definitely a guitar!",
+    "directions": [
+      "BARNEY",
+      "WIGGUM",
+      "APU"
+    ],
+    "raw_quote": " (BARNEY) Guitar! Guitar! / (WIGGUM) Can I have a guitar?! / (APU) I want a guitar! Definitely a guitar!"
+  },
+  {
+    "timecode": "10:44",
+    "speaker": "Elvis Costello",
+    "quote": " People, people, if everyone's gonna pick guitar, I'm not gonna have enough to go around.",
+    "directions": [],
+    "raw_quote": " People, people, if everyone's gonna pick guitar, I'm not gonna have enough to go around."
+  },
+  {
+    "timecode": "10:48",
+    "speaker": "Campers",
+    "quote": " / Come on.",
+    "directions": [
+      "DISGRUNTLED MOAN",
+      "APU"
+    ],
+    "raw_quote": " (DISGRUNTLED MOAN) / (APU) Come on."
+  },
+  {
+    "timecode": "10:49",
+    "speaker": "Elvis Costello",
+    "quote": " But there's lots of other fun instruments, like bass.",
+    "directions": [
+      "SELLING"
+    ],
+    "raw_quote": " (SELLING) But there's lots of other fun instruments, like bass."
+  },
+  {
+    "timecode": "10:57",
+    "speaker": "Elvis Costello",
+    "quote": " Come on, who'd like to be a bass player?",
+    "directions": [],
+    "raw_quote": " Come on, who'd like to be a bass player?"
+  },
+  {
+    "timecode": "10:59",
+    "speaker": "Homer Simpson",
+    "quote": " Out of my way, Nerdlinger.",
+    "directions": [],
+    "raw_quote": " Out of my way, Nerdlinger."
+  },
+  {
+    "timecode": "11:02",
+    "speaker": "Elvis Costello",
+    "quote": " My image!",
+    "directions": [],
+    "raw_quote": " My image!"
+  },
+  {
+    "timecode": "11:03",
+    "speaker": "Homer Simpson",
+    "quote": " Here you go.",
+    "directions": [],
+    "raw_quote": " Here you go."
+  },
+  {
+    "timecode": "11:06",
+    "speaker": "Elvis Costello",
+    "quote": " I'm telling Mr. Jagger.",
+    "directions": [
+      "TO HOMER"
+    ],
+    "raw_quote": " (TO HOMER) I'm telling Mr. Jagger."
+  },
+  {
+    "timecode": "11:07",
+    "speaker": "Homer Simpson",
+    "quote": " Ooh, I'm telling Mr. Jagger. ",
+    "directions": [
+      "MOCKING",
+      "KISSING NOISES"
+    ],
+    "raw_quote": " (MOCKING) Ooh, I'm telling Mr. Jagger. (KISSING NOISES)"
+  },
+  {
+    "timecode": "11:07",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Lenny's Thread Shed: Int. lenny's thread shed - continuous"
+    ],
+    "raw_quote": "(Lenny's Thread Shed: Int. lenny's thread shed - continuous)"
+  },
+  {
+    "timecode": "11:07",
+    "speaker": "Lenny Kravitz",
+    "quote": " The clothes you wear on stage should be a defiant statement of individuality.",
+    "directions": [],
+    "raw_quote": " The clothes you wear on stage should be a defiant statement of individuality."
+  },
+  {
+    "timecode": "11:17",
+    "speaker": "Homer Simpson",
+    "quote": " Like this, Mr. Kravitz?",
+    "directions": [],
+    "raw_quote": " Like this, Mr. Kravitz?"
+  },
+  {
+    "timecode": "11:20",
+    "speaker": "Lenny Kravitz",
+    "quote": " God no.",
+    "directions": [],
+    "raw_quote": " God no."
+  },
+  {
+    "timecode": "11:21",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " May we talk about, uh... accentuating the... masculine area?",
+    "directions": [
+      "EMBARRASSED NOISE"
+    ],
+    "raw_quote": " May we talk about, uh... accentuating the... (EMBARRASSED NOISE) masculine area?"
+  },
+  {
+    "timecode": "11:26",
+    "speaker": "Lenny Kravitz",
+    "quote": " Did you hear that, people? Apu asked about crotch stuffing. Now I don't do it. Kenny Loggins does.",
+    "directions": [],
+    "raw_quote": " Did you hear that, people? Apu asked about crotch stuffing. Now I don't do it. Kenny Loggins does."
+  },
+  {
+    "timecode": "11:32",
+    "speaker": "\"Kenny Loggins\"",
+    "quote": " I trusted you!",
+    "directions": [
+      "BETRAYED"
+    ],
+    "raw_quote": " (BETRAYED) I trusted you!"
+  },
+  {
+    "timecode": "11:40",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Cabin: ext. cabin - day"
+    ],
+    "raw_quote": "(Cabin: ext. cabin - day)"
+  },
+  {
+    "timecode": "11:40",
+    "speaker": "Brian Setzer",
+    "quote": " Now a guitar has many, many nicknames -- an axe, a gitbox... Well, I guess that's it. Anyway, we're gonna start with the fundamentals: playing a burning guitar with your teeth.",
+    "directions": [],
+    "raw_quote": " Now a guitar has many, many nicknames -- an axe, a gitbox... Well, I guess that's it. Anyway, we're gonna start with the fundamentals: playing a burning guitar with your teeth."
+  },
+  {
+    "timecode": "11:51",
+    "speaker": "Campers",
+    "quote": " Fire! / Yes! / All right! Fire! / Hey!",
+    "directions": [
+      "EXCITED",
+      "HOMER",
+      "OTTO"
+    ],
+    "raw_quote": " (EXCITED) Fire! / Yes! / (HOMER) All right! Fire! / (OTTO) Hey!"
+  },
+  {
+    "timecode": "11:52",
+    "speaker": "Homer Simpson",
+    "quote": " Mr. Seltzer?",
+    "directions": [
+      "RAISING HAND"
+    ],
+    "raw_quote": " (RAISING HAND) Mr. Seltzer?"
+  },
+  {
+    "timecode": "11:53",
+    "speaker": "Brian Setzer",
+    "quote": " Setzer.",
+    "directions": [],
+    "raw_quote": " Setzer."
+  },
+  {
+    "timecode": "11:54",
+    "speaker": "Homer Simpson",
+    "quote": " No, I think it's Seltzer.",
+    "directions": [],
+    "raw_quote": " No, I think it's Seltzer."
+  },
+  {
+    "timecode": "11:56",
+    "speaker": "Brian Setzer",
+    "quote": " What is it, Homer?",
+    "directions": [],
+    "raw_quote": " What is it, Homer?"
+  },
+  {
+    "timecode": "11:57",
+    "speaker": "Homer Simpson",
+    "quote": " I came up with a stage move I feel is very cool.",
+    "directions": [],
+    "raw_quote": " I came up with a stage move I feel is very cool."
+  },
+  {
+    "timecode": "12:03",
+    "speaker": "Homer Simpson",
+    "quote": " Baby, baby, baby, baby!",
+    "directions": [
+      "TALK-SINGING"
+    ],
+    "raw_quote": " (TALK-SINGING) Baby, baby, baby, baby!"
+  },
+  {
+    "timecode": "12:06",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Office: Int. office - continuous"
+    ],
+    "raw_quote": "(Office: Int. office - continuous)"
+  },
+  {
+    "timecode": "12:06",
+    "speaker": "Mick Jagger",
+    "quote": " We've gotta start using a cheaper oatmeal.",
+    "directions": [],
+    "raw_quote": " We've gotta start using a cheaper oatmeal."
+  },
+  {
+    "timecode": "12:11",
+    "speaker": "Homer Simpson",
+    "quote": " Sorry Mick!",
+    "directions": [
+      "CALLING OUT"
+    ],
+    "raw_quote": " (CALLING OUT) Sorry Mick!"
+  },
+  {
+    "timecode": "12:13",
+    "speaker": "Mick Jagger",
+    "quote": " Simp-sonn!!",
+    "directions": [
+      "SHAKING FIST"
+    ],
+    "raw_quote": " (SHAKING FIST) Simp-sonn!!"
+  },
+  {
+    "timecode": "12:16",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "CAMP: Ext. camp - the next morning"
+    ],
+    "raw_quote": "(CAMP: Ext. camp - the next morning)"
+  },
+  {
+    "timecode": "12:16",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Cabin: ext. cabin - continuous"
+    ],
+    "raw_quote": "(Cabin: ext. cabin - continuous)"
+  },
+  {
+    "timecode": "12:16",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "CLASS: INT. CLASS - continuous"
+    ],
+    "raw_quote": "(CLASS: INT. CLASS - continuous)"
+  },
+  {
+    "timecode": "12:16",
+    "speaker": "Mick Jagger",
+    "quote": " Okay, strut, strut, strut, strut, strut, spin and... rooster!",
+    "directions": [],
+    "raw_quote": " Okay, strut, strut, strut, strut, strut, spin and... rooster!"
+  },
+  {
+    "timecode": "12:25",
+    "speaker": "Mick Jagger",
+    "quote": " Look everyone, Homer's got it.",
+    "directions": [],
+    "raw_quote": " Look everyone, Homer's got it."
+  },
+  {
+    "timecode": "12:27",
+    "speaker": "Homer Simpson",
+    "quote": " I'M SO HOT FOR ME, I'M SO HOT FOR ME / I'M SO COLD...",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) I'M SO HOT FOR ME, I'M SO HOT FOR ME / I'M SO COLD..."
+  },
+  {
+    "timecode": "12:32",
+    "speaker": "Mick Jagger",
+    "quote": " Okay, now \"schoolmarm.\"",
+    "directions": [],
+    "raw_quote": " Okay, now \"schoolmarm.\""
+  },
+  {
+    "timecode": "12:38",
+    "speaker": "Mick Jagger",
+    "quote": " Everybody's naughty... and freeze finish.",
+    "directions": [],
+    "raw_quote": " Everybody's naughty... and freeze finish."
+  },
+  {
+    "timecode": "12:44",
+    "speaker": "Mick Jagger",
+    "quote": " And no matter where you are, always say it's the wildest town in the whole damn world.",
+    "directions": [],
+    "raw_quote": " And no matter where you are, always say it's the wildest town in the whole damn world."
+  },
+  {
+    "timecode": "12:49",
+    "speaker": "Chief Wiggum",
+    "quote": " So when you said it in Springfield last year, you didn't mean it?",
+    "directions": [],
+    "raw_quote": " So when you said it in Springfield last year, you didn't mean it?"
+  },
+  {
+    "timecode": "12:52",
+    "speaker": "Mick Jagger",
+    "quote": " Yeah, sure I did. But only because Springfield really is the wildest town in the whole damn world!",
+    "directions": [],
+    "raw_quote": " Yeah, sure I did. But only because Springfield really is the wildest town in the whole damn world!"
+  },
+  {
+    "timecode": "12:59",
+    "speaker": "Campers",
+    "quote": " / Yes! I knew it! I knew it! / Springfield!",
+    "directions": [
+      "CHEERING",
+      "WIGGUM",
+      "HOMER"
+    ],
+    "raw_quote": " (CHEERING) / (WIGGUM) Yes! I knew it! I knew it! / (HOMER) Springfield!"
+  },
+  {
+    "timecode": "13:02",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "CAMP: ext. camp - night"
+    ],
+    "raw_quote": "(CAMP: ext. camp - night)"
+  },
+  {
+    "timecode": "13:02",
+    "speaker": "Tom Petty",
+    "quote": " Lyrics are the hardest part of songwriting. But when you come up with something meaningful and heartfelt...",
+    "directions": [
+      "LOOKING DOWN"
+    ],
+    "raw_quote": " (LOOKING DOWN) Lyrics are the hardest part of songwriting. But when you come up with something meaningful and heartfelt..."
+  },
+  {
+    "timecode": "13:08",
+    "speaker": "Homer Simpson",
+    "quote": " Bor-ing.",
+    "directions": [],
+    "raw_quote": " Bor-ing."
+  },
+  {
+    "timecode": "13:09",
+    "speaker": "Tom Petty",
+    "quote": " Will you stop saying that?",
+    "directions": [
+      "ANNOYED"
+    ],
+    "raw_quote": " (ANNOYED) Will you stop saying that?"
+  },
+  {
+    "timecode": "13:11",
+    "speaker": "Homer Simpson",
+    "quote": " But rock stars are supposed to be about drinking and getting drunk and boozing it up.",
+    "directions": [],
+    "raw_quote": " But rock stars are supposed to be about drinking and getting drunk and boozing it up."
+  },
+  {
+    "timecode": "13:15",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " And girls that have legs and know how to use them.",
+    "directions": [],
+    "raw_quote": " And girls that have legs and know how to use them."
+  },
+  {
+    "timecode": "13:18",
+    "speaker": "Otto Mann",
+    "quote": " And, and why I can't drive 55.",
+    "directions": [],
+    "raw_quote": " And, and why I can't drive 55."
+  },
+  {
+    "timecode": "13:20",
+    "speaker": "Tom Petty",
+    "quote": " You just want mindless generic rock?",
+    "directions": [],
+    "raw_quote": " You just want mindless generic rock?"
+  },
+  {
+    "timecode": "13:22",
+    "speaker": "Homer Simpson",
+    "quote": " Precisely.",
+    "directions": [],
+    "raw_quote": " Precisely."
+  },
+  {
+    "timecode": "13:30",
+    "speaker": "Tom Petty",
+    "quote": " SEE THAT DRUNK GIRL SPEEDIN' DOWN THE STREET...",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) SEE THAT DRUNK GIRL SPEEDIN' DOWN THE STREET..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Campers",
+    "quote": " ",
+    "directions": [
+      "CHEER"
+    ],
+    "raw_quote": " (CHEER)"
+  },
+  {
+    "timecode": "13:34",
+    "speaker": "Tom Petty",
+    "quote": " SHE'S WORRIED 'BOUT THE STATE OF PUBLIC SCHOOLS...",
+    "directions": [
+      "EYES DARTING"
+    ],
+    "raw_quote": " (EYES DARTING) SHE'S WORRIED 'BOUT THE STATE OF PUBLIC SCHOOLS..."
+  },
+  {
+    "timecode": "13:37",
+    "speaker": "Campers",
+    "quote": " Boo!",
+    "directions": [],
+    "raw_quote": " Boo!"
+  },
+  {
+    "timecode": "13:39",
+    "speaker": "Tom Petty",
+    "quote": " SHE LIKES TO PARTY, SHE LIKES TO ROCK.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) SHE LIKES TO PARTY, SHE LIKES TO ROCK."
+  },
+  {
+    "timecode": "",
+    "speaker": "Campers",
+    "quote": " ",
+    "directions": [
+      "CHEER"
+    ],
+    "raw_quote": " (CHEER)"
+  },
+  {
+    "timecode": "13:43",
+    "speaker": "Tom Petty",
+    "quote": " SHE PRAYS THAT OUR SCHOOLS / DON'T RUN OUT OF CHALK.",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) SHE PRAYS THAT OUR SCHOOLS / DON'T RUN OUT OF CHALK."
+  },
+  {
+    "timecode": "13:47",
+    "speaker": "Campers",
+    "quote": " Boo!",
+    "directions": [],
+    "raw_quote": " Boo!"
+  },
+  {
+    "timecode": "13:54",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Rock 'n' Roll Camp: ext. rock 'n' roll camp - day"
+    ],
+    "raw_quote": "(Rock 'n' Roll Camp: ext. rock 'n' roll camp - day)"
+  },
+  {
+    "timecode": "13:54",
+    "speaker": "Keith Richards",
+    "quote": " Gettin' away from the gig can be a matter of life and death, so you gotta be in great physical shape. Okay, follow me!",
+    "directions": [
+      "TAKES A PUFF OF HIS CIGARETTE"
+    ],
+    "raw_quote": " Gettin' away from the gig can be a matter of life and death, so you gotta be in great physical shape. (TAKES A PUFF OF HIS CIGARETTE) Okay, follow me!"
+  },
+  {
+    "timecode": "14:09",
+    "speaker": "Keith Richards",
+    "quote": " Paparazzi to the left!",
+    "directions": [],
+    "raw_quote": " Paparazzi to the left!"
+  },
+  {
+    "timecode": "14:10",
+    "speaker": "Homer Simpson",
+    "quote": " I got 'em!",
+    "directions": [],
+    "raw_quote": " I got 'em!"
+  },
+  {
+    "timecode": "14:13",
+    "speaker": "Homer Simpson",
+    "quote": " I'm entitled to a private life! I'm not a role model! And so forth.",
+    "directions": [],
+    "raw_quote": " I'm entitled to a private life! I'm not a role model! And so forth."
+  },
+  {
+    "timecode": "14:16",
+    "speaker": "Keith Richards",
+    "quote": " Good, Homer! Now just pass the groupies and we're home!",
+    "directions": [],
+    "raw_quote": " Good, Homer! Now just pass the groupies and we're home!"
+  },
+  {
+    "timecode": "14:19",
+    "speaker": "GROUPIES",
+    "quote": " You're great! / I love you! / I want you! / Please sleep with us!",
+    "directions": [],
+    "raw_quote": " You're great! / I love you! / I want you! / Please sleep with us!"
+  },
+  {
+    "timecode": "14:26",
+    "speaker": "Keith Richards",
+    "quote": " They're bloody cardboard!",
+    "directions": [],
+    "raw_quote": " They're bloody cardboard!"
+  },
+  {
+    "timecode": "14:27",
+    "speaker": "Homer Simpson",
+    "quote": " We know!",
+    "directions": [
+      "EMPHATIC"
+    ],
+    "raw_quote": " (EMPHATIC) We know!"
+  },
+  {
+    "timecode": "14:32",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "CAMP: ext. camp - the next day"
+    ],
+    "raw_quote": "(CAMP: ext. camp - the next day)"
+  },
+  {
+    "timecode": "14:32",
+    "speaker": "Barney Gumble",
+    "quote": " \"YOU AIN'T NEVER CAUGHT A RABBIT AND YOU AIN'T NO FRIEND OF MINE-YINE-YINE-YINE-YI-YI-YI!\"",
+    "directions": [
+      "SINGING",
+      "STRETCHING LAST WORD"
+    ],
+    "raw_quote": " (SINGING) \"YOU AIN'T NEVER CAUGHT A RABBIT AND YOU AIN'T NO FRIEND OF (STRETCHING LAST WORD) MINE-YINE-YINE-YINE-YI-YI-YI!\""
+  },
+  {
+    "timecode": "",
+    "speaker": "Rock Stars",
+    "quote": " ",
+    "directions": [
+      "TERRIFIED YELL"
+    ],
+    "raw_quote": " (TERRIFIED YELL)"
+  },
+  {
+    "timecode": "14:45",
+    "speaker": "Homer Simpson",
+    "quote": " Well, whaddaya think?",
+    "directions": [
+      "GETS UP"
+    ],
+    "raw_quote": " (GETS UP) Well, whaddaya think?"
+  },
+  {
+    "timecode": "14:47",
+    "speaker": "Mick Jagger",
+    "quote": " Uh, you rock, Homer.",
+    "directions": [],
+    "raw_quote": " Uh, you rock, Homer."
+  },
+  {
+    "timecode": "14:50",
+    "speaker": "Homer Simpson",
+    "quote": " Really? You really think I'm better than you?",
+    "directions": [
+      "TOUCHED"
+    ],
+    "raw_quote": " (TOUCHED) Really? You really think I'm better than you?"
+  },
+  {
+    "timecode": "14:55",
+    "speaker": "Marge Simpson",
+    "quote": " That was great, Homie.",
+    "directions": [],
+    "raw_quote": " That was great, Homie."
+  },
+  {
+    "timecode": "14:57",
+    "speaker": "Homer Simpson",
+    "quote": " What the hell are you doing here?",
+    "directions": [],
+    "raw_quote": " What the hell are you doing here?"
+  },
+  {
+    "timecode": "14:58",
+    "speaker": "Mick Jagger",
+    "quote": " Camp is over, Homer.",
+    "directions": [],
+    "raw_quote": " Camp is over, Homer."
+  },
+  {
+    "timecode": "15:00",
+    "speaker": "Homer Simpson",
+    "quote": " It's been a week already?",
+    "directions": [
+      "CONFUSED"
+    ],
+    "raw_quote": " (CONFUSED) It's been a week already?"
+  },
+  {
+    "timecode": "15:01",
+    "speaker": "Marge Simpson",
+    "quote": " I'm glad you had fun, but it's time to come home.",
+    "directions": [],
+    "raw_quote": " I'm glad you had fun, but it's time to come home."
+  },
+  {
+    "timecode": "15:04",
+    "speaker": "Tom Petty",
+    "quote": " Your mother's right, Homer.",
+    "directions": [],
+    "raw_quote": " Your mother's right, Homer."
+  },
+  {
+    "timecode": "15:07",
+    "speaker": "Tom Petty",
+    "quote": " Gotta get back to the real world.",
+    "directions": [],
+    "raw_quote": " Gotta get back to the real world."
+  },
+  {
+    "timecode": "15:08",
+    "speaker": "Mick Jagger",
+    "quote": " Yeah, we've all gotta get home. My lawn's not gonna mow itself.",
+    "directions": [],
+    "raw_quote": " Yeah, we've all gotta get home. My lawn's not gonna mow itself."
+  },
+  {
+    "timecode": "15:12",
+    "speaker": "Keith Richards",
+    "quote": " And I've gotta put up the storm windows. Winter's coming.",
+    "directions": [],
+    "raw_quote": " And I've gotta put up the storm windows. Winter's coming."
+  },
+  {
+    "timecode": "15:16",
+    "speaker": "Homer Simpson",
+    "quote": " Wait, don't go! I wanna keep on rockin'. C'mon guys... a-one, a-two...",
+    "directions": [
+      "PANICKY",
+      "TO ROCK STARS"
+    ],
+    "raw_quote": " (PANICKY) Wait, don't go! I wanna keep on rockin'. (TO ROCK STARS) C'mon guys... a-one, a-two..."
+  },
+  {
+    "timecode": "15:22",
+    "speaker": "Elvis Costello",
+    "quote": " I'll take that.",
+    "directions": [],
+    "raw_quote": " I'll take that."
+  },
+  {
+    "timecode": "15:24",
+    "speaker": "Homer Simpson",
+    "quote": " Noooo!!",
+    "directions": [
+      "FALLS TO KNEES"
+    ],
+    "raw_quote": " (FALLS TO KNEES) Noooo!!"
+  },
+  {
+    "timecode": "15:26",
+    "speaker": "Elvis Costello",
+    "quote": " It came with a pick.",
+    "directions": [
+      "HAND OUT"
+    ],
+    "raw_quote": " (HAND OUT) It came with a pick."
+  },
+  {
+    "timecode": "15:35",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Bunkhouse: EXT. BUNKHOUSE - MOMENTS LATER"
+    ],
+    "raw_quote": "(Bunkhouse: EXT. BUNKHOUSE - MOMENTS LATER)"
+  },
+  {
+    "timecode": "15:35",
+    "speaker": "Lisa Simpson",
+    "quote": " Come... on... Dad... ",
+    "directions": [
+      "STRUGGLING NOISES",
+      "STRUGGLING NOISE"
+    ],
+    "raw_quote": " (STRUGGLING NOISES) Come... on... Dad... (STRUGGLING NOISE)"
+  },
+  {
+    "timecode": "15:36",
+    "speaker": "Homer Simpson",
+    "quote": " No! No, I won't go! You can't make me!",
+    "directions": [],
+    "raw_quote": " No! No, I won't go! You can't make me!"
+  },
+  {
+    "timecode": "15:40",
+    "speaker": "Lisa Simpson",
+    "quote": " Dad, you knew this day was coming.",
+    "directions": [],
+    "raw_quote": " Dad, you knew this day was coming."
+  },
+  {
+    "timecode": "15:42",
+    "speaker": "Homer Simpson",
+    "quote": " I knew nothing!",
+    "directions": [],
+    "raw_quote": " I knew nothing!"
+  },
+  {
+    "timecode": "15:43",
+    "speaker": "Bart Simpson",
+    "quote": " Stop kicking me, Dad!",
+    "directions": [],
+    "raw_quote": " Stop kicking me, Dad!"
+  },
+  {
+    "timecode": "15:46",
+    "speaker": "Homer Simpson",
+    "quote": " Never!",
+    "directions": [],
+    "raw_quote": " Never!"
+  },
+  {
+    "timecode": "15:50",
+    "speaker": "Homer Simpson",
+    "quote": " My dream has been shattered into shards of a broken dream. I was so close to being a rock star, but now there's a chance it might not happen. I'll just have to settle for being a fat, bald, fat nothing.",
+    "directions": [
+      "SOBS"
+    ],
+    "raw_quote": " (SOBS) My dream has been shattered into shards of a broken dream. I was so close to being a rock star, but now there's a chance it might not happen. I'll just have to settle for being a fat, bald, fat nothing."
+  },
+  {
+    "timecode": "16:03",
+    "speaker": "Bart Simpson",
+    "quote": " Finally. Can we go now?",
+    "directions": [],
+    "raw_quote": " Finally. Can we go now?"
+  },
+  {
+    "timecode": "16:07",
+    "speaker": "Keith Richards",
+    "quote": " Now, before I lock the door, do you have to go to the bathroom?",
+    "directions": [],
+    "raw_quote": " Now, before I lock the door, do you have to go to the bathroom?"
+  },
+  {
+    "timecode": "16:11",
+    "speaker": "Mick Jagger",
+    "quote": " No, I'm fine.",
+    "directions": [],
+    "raw_quote": " No, I'm fine."
+  },
+  {
+    "timecode": "16:15",
+    "speaker": "Homer Simpson",
+    "quote": " I'm so despondent.",
+    "directions": [
+      "DESPONDENT SIGH"
+    ],
+    "raw_quote": " (DESPONDENT SIGH) I'm so despondent."
+  },
+  {
+    "timecode": "16:17",
+    "speaker": "Mick Jagger",
+    "quote": " Cheer up, Homer. It's only rock 'n' roll camp.",
+    "directions": [],
+    "raw_quote": " Cheer up, Homer. It's only rock 'n' roll camp."
+  },
+  {
+    "timecode": "16:20",
+    "speaker": "Homer Simpson",
+    "quote": " But I like it... ",
+    "directions": [
+      "WHINY",
+      "SOBS"
+    ],
+    "raw_quote": " (WHINY) But I like it... (SOBS)"
+  },
+  {
+    "timecode": "16:26",
+    "speaker": "Mick Jagger",
+    "quote": " Tell you what. We're doing a benefit gig before we leave town. How would you like to join us on stage?",
+    "directions": [
+      "TO HOMER"
+    ],
+    "raw_quote": " (TO HOMER) Tell you what. We're doing a benefit gig before we leave town. How would you like to join us on stage?"
+  },
+  {
+    "timecode": "16:32",
+    "speaker": "Homer Simpson",
+    "quote": " For serious?",
+    "directions": [
+      "SNIFFLES"
+    ],
+    "raw_quote": " (SNIFFLES) For serious?"
+  },
+  {
+    "timecode": "16:33",
+    "speaker": "Keith Richards",
+    "quote": " For serious, Homer.",
+    "directions": [
+      "WARMLY"
+    ],
+    "raw_quote": " (WARMLY) For serious, Homer."
+  },
+  {
+    "timecode": "16:35",
+    "speaker": "Homer Simpson",
+    "quote": " Can I have forty guest passes?",
+    "directions": [
+      "STILL SNIFFLY"
+    ],
+    "raw_quote": " (STILL SNIFFLY) Can I have forty guest passes?"
+  },
+  {
+    "timecode": "16:39",
+    "speaker": "Homer Simpson",
+    "quote": " Woo hoo!",
+    "directions": [
+      "SNIFFLING"
+    ],
+    "raw_quote": " (SNIFFLING) Woo hoo!"
+  },
+  {
+    "timecode": "16:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Civic Center: ext. springfield civic center - night"
+    ],
+    "raw_quote": "(Springfield Civic Center: ext. springfield civic center - night)"
+  },
+  {
+    "timecode": "16:42",
+    "speaker": "Homer Simpson",
+    "quote": " Wow, All-Access. All-Access... ",
+    "directions": [
+      "MESMERIZED",
+      "DROOLS"
+    ],
+    "raw_quote": " Wow, All-Access. (MESMERIZED) All-Access... (DROOLS)"
+  },
+  {
+    "timecode": "16:49",
+    "speaker": "Homer Simpson",
+    "quote": " Good thing it's laminated. ",
+    "directions": [
+      "IMPRESSED NOISE",
+      "CHUCKLE"
+    ],
+    "raw_quote": " (IMPRESSED NOISE) Good thing it's laminated. (CHUCKLE)"
+  },
+  {
+    "timecode": "16:53",
+    "speaker": "Squeaky-Voiced Teen",
+    "quote": " Sir, you can't...",
+    "directions": [],
+    "raw_quote": " Sir, you can't..."
+  },
+  {
+    "timecode": "16:54",
+    "speaker": "Homer Simpson",
+    "quote": " All-access.",
+    "directions": [
+      "FLASHING PASS"
+    ],
+    "raw_quote": " (FLASHING PASS) All-access."
+  },
+  {
+    "timecode": "16:55",
+    "speaker": "Squeaky-Voiced Teen",
+    "quote": " Oh, sorry.",
+    "directions": [],
+    "raw_quote": " Oh, sorry."
+  },
+  {
+    "timecode": "17:04",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Arena: int. arena - moments later"
+    ],
+    "raw_quote": "(Arena: int. arena - moments later)"
+  },
+  {
+    "timecode": "",
+    "speaker": "Women",
+    "quote": " ",
+    "directions": [
+      "SCREAM"
+    ],
+    "raw_quote": " (SCREAM)"
+  },
+  {
+    "timecode": "17:04",
+    "speaker": "Homer Simpson",
+    "quote": " All-Access.",
+    "directions": [],
+    "raw_quote": " All-Access."
+  },
+  {
+    "timecode": "17:05",
+    "speaker": "Women",
+    "quote": " Cool.",
+    "directions": [
+      "IMPRESSED SOUNDS"
+    ],
+    "raw_quote": " (IMPRESSED SOUNDS) Cool."
+  },
+  {
+    "timecode": "17:09",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "CIVIC CENTER: int. civic center - later"
+    ],
+    "raw_quote": "(CIVIC CENTER: int. civic center - later)"
+  },
+  {
+    "timecode": "17:09",
+    "speaker": "Moe Szyslak",
+    "quote": " Wow Homer, I ain't had front row seats since my Moonie wedding.",
+    "directions": [],
+    "raw_quote": " Wow Homer, I ain't had front row seats since my Moonie wedding."
+  },
+  {
+    "timecode": "17:13",
+    "speaker": "Homer Simpson",
+    "quote": " And after the show, you can come backstage for pizza and pop.",
+    "directions": [],
+    "raw_quote": " And after the show, you can come backstage for pizza and pop."
+  },
+  {
+    "timecode": "17:16",
+    "speaker": "Carl Carlson",
+    "quote": " / All right!",
+    "directions": [
+      "EXCITED SOUNDS",
+      "MOE"
+    ],
+    "raw_quote": " (EXCITED SOUNDS) / (MOE) All right!"
+  },
+  {
+    "timecode": "17:17",
+    "speaker": "Carl Carlson",
+    "quote": " Now that's a winning combination.",
+    "directions": [],
+    "raw_quote": " Now that's a winning combination."
+  },
+  {
+    "timecode": "17:21",
+    "speaker": "Homer Simpson",
+    "quote": " Here you go. Front and center.",
+    "directions": [],
+    "raw_quote": " Here you go. Front and center."
+  },
+  {
+    "timecode": "17:23",
+    "speaker": "Marge Simpson",
+    "quote": " I'm so proud of you, Homie. It's like you're Kid Rock and I'm Pamela Anderson Lee Rock.",
+    "directions": [],
+    "raw_quote": " I'm so proud of you, Homie. It's like you're Kid Rock and I'm Pamela Anderson Lee Rock."
+  },
+  {
+    "timecode": "17:32",
+    "speaker": "Homer Simpson",
+    "quote": " Oops, gotta run. Enjoy the show.",
+    "directions": [],
+    "raw_quote": " Oops, gotta run. Enjoy the show."
+  },
+  {
+    "timecode": "17:40",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Backstage Area: int. backstage area - continuous"
+    ],
+    "raw_quote": "(Backstage Area: int. backstage area - continuous)"
+  },
+  {
+    "timecode": "17:40",
+    "speaker": "Mick Jagger",
+    "quote": " Okay, let's see the eyes...",
+    "directions": [
+      "CALLING"
+    ],
+    "raw_quote": " (CALLING) Okay, let's see the eyes..."
+  },
+  {
+    "timecode": "17:44",
+    "speaker": "Keith Richards",
+    "quote": " Now the fire!",
+    "directions": [
+      "CALLING"
+    ],
+    "raw_quote": " (CALLING) Now the fire!"
+  },
+  {
+    "timecode": "17:49",
+    "speaker": "Keith Richards",
+    "quote": " Thanks mate...",
+    "directions": [
+      "CALLING"
+    ],
+    "raw_quote": " (CALLING) Thanks mate..."
+  },
+  {
+    "timecode": "17:50",
+    "speaker": "Lenny Kravitz",
+    "quote": " Couldn't you find a more fuel-efficient Satan?",
+    "directions": [],
+    "raw_quote": " Couldn't you find a more fuel-efficient Satan?"
+  },
+  {
+    "timecode": "17:52",
+    "speaker": "Mick Jagger",
+    "quote": " Lenny, don't you have a crotch to stuff?",
+    "directions": [
+      "ANNOYED"
+    ],
+    "raw_quote": " (ANNOYED) Lenny, don't you have a crotch to stuff?"
+  },
+  {
+    "timecode": "17:55",
+    "speaker": "Homer Simpson",
+    "quote": " Evening, fellow rockers.",
+    "directions": [],
+    "raw_quote": " Evening, fellow rockers."
+  },
+  {
+    "timecode": "17:56",
+    "speaker": "Elvis Costello",
+    "quote": " There you are. We thought we were going to have to go on without you.",
+    "directions": [],
+    "raw_quote": " There you are. We thought we were going to have to go on without you."
+  },
+  {
+    "timecode": "18:00",
+    "speaker": "Homer Simpson",
+    "quote": " I'm ready. Just give me a guitar. How many solos should I do? Four?",
+    "directions": [],
+    "raw_quote": " I'm ready. Just give me a guitar. How many solos should I do? Four?"
+  },
+  {
+    "timecode": "18:05",
+    "speaker": "Homer Simpson",
+    "quote": " I'll do four.",
+    "directions": [],
+    "raw_quote": " I'll do four."
+  },
+  {
+    "timecode": "18:06",
+    "speaker": "Tom Petty",
+    "quote": " Uh, Homer, you didn't think you were gonna be playing with--",
+    "directions": [],
+    "raw_quote": " Uh, Homer, you didn't think you were gonna be playing with--"
+  },
+  {
+    "timecode": "18:11",
+    "speaker": "Homer Simpson",
+    "quote": " My official tour jacket!",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " (GASP) My official tour jacket!"
+  },
+  {
+    "timecode": "18:13",
+    "speaker": "Homer Simpson",
+    "quote": " Look at-- Wait, they misspelled \"Guitar Hero.\"",
+    "directions": [
+      "CONFUSED"
+    ],
+    "raw_quote": " Look at-- (CONFUSED) Wait, they misspelled \"Guitar Hero.\""
+  },
+  {
+    "timecode": "18:15",
+    "speaker": "Mick Jagger",
+    "quote": " Look, sorry if there's been a misunderstanding, Homer. We really just need you to tap the mics and say \"test, test.\"",
+    "directions": [],
+    "raw_quote": " Look, sorry if there's been a misunderstanding, Homer. We really just need you to tap the mics and say \"test, test.\""
+  },
+  {
+    "timecode": "18:20",
+    "speaker": "Homer Simpson",
+    "quote": " Can't you do it?",
+    "directions": [],
+    "raw_quote": " Can't you do it?"
+  },
+  {
+    "timecode": "18:27",
+    "speaker": "Homer Simpson",
+    "quote": " Oh. Okay. So I'll, uh... okay.",
+    "directions": [
+      "CRUSHED"
+    ],
+    "raw_quote": " (CRUSHED) Oh. Okay. So I'll, uh... okay."
+  },
+  {
+    "timecode": "18:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Arena: int. arena - stage - continuous"
+    ],
+    "raw_quote": "(Arena: int. arena - stage - continuous)"
+  },
+  {
+    "timecode": "18:38",
+    "speaker": "Lisa Simpson",
+    "quote": " Look, there's Dad!",
+    "directions": [],
+    "raw_quote": " Look, there's Dad!"
+  },
+  {
+    "timecode": "18:40",
+    "speaker": "Bart Simpson",
+    "quote": " Woo! Yay, Homer!",
+    "directions": [],
+    "raw_quote": " Woo! Yay, Homer!"
+  },
+  {
+    "timecode": "18:41",
+    "speaker": "Marge Simpson",
+    "quote": " I'm his groupie! Am I saying that right, \"groupie?\"",
+    "directions": [
+      "CHUCKLES"
+    ],
+    "raw_quote": " I'm his groupie! (CHUCKLES) Am I saying that right, \"groupie?\""
+  },
+  {
+    "timecode": "18:49",
+    "speaker": "Homer Simpson",
+    "quote": " Test, test...",
+    "directions": [
+      "TAPS MICROPHONE"
+    ],
+    "raw_quote": " (TAPS MICROPHONE) Test, test..."
+  },
+  {
+    "timecode": "18:57",
+    "speaker": "Marge Simpson",
+    "quote": " Why is he performing the duties of a roadie? Am I saying that right, \"roadie?\"",
+    "directions": [],
+    "raw_quote": " Why is he performing the duties of a roadie? Am I saying that right, \"roadie?\""
+  },
+  {
+    "timecode": "19:04",
+    "speaker": "Homer Simpson",
+    "quote": " Test, test. Check, check.",
+    "directions": [],
+    "raw_quote": " Test, test. Check, check."
+  },
+  {
+    "timecode": "19:06",
+    "speaker": "Lenny Leonard",
+    "quote": " Hey, he's not rocking out at all.",
+    "directions": [],
+    "raw_quote": " Hey, he's not rocking out at all."
+  },
+  {
+    "timecode": "19:08",
+    "speaker": "Homer Simpson",
+    "quote": " Test... \"TEST TEST, YOU'RE TESTIN' MY LOVE FOR YOU, CHECK CHECK, YOU'RE CHECKIN' TO SEE IF I'M TRUE...\"",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " Test... (SINGING) \"TEST TEST, YOU'RE TESTIN' MY LOVE FOR YOU, CHECK CHECK, YOU'RE CHECKIN' TO SEE IF I'M TRUE...\""
+  },
+  {
+    "timecode": "",
+    "speaker": "Crowd",
+    "quote": " ",
+    "directions": [
+      "CHEERS"
+    ],
+    "raw_quote": " (CHEERS)"
+  },
+  {
+    "timecode": "19:20",
+    "speaker": "Homer Simpson",
+    "quote": " \"TEST ONE-TEST TWO-TEST THREE-TEST FOUR YOU TEST ME LIKE THE WATER IN EL SALVADOR...\"",
+    "directions": [],
+    "raw_quote": " \"TEST ONE-TEST TWO-TEST THREE-TEST FOUR YOU TEST ME LIKE THE WATER IN EL SALVADOR...\""
+  },
+  {
+    "timecode": "19:25",
+    "speaker": "Salvadoran Rebel",
+    "quote": " Woo! El Salvador!",
+    "directions": [],
+    "raw_quote": " Woo! El Salvador!"
+  },
+  {
+    "timecode": "19:26",
+    "speaker": "Keith Richards",
+    "quote": " What's all this, then?!",
+    "directions": [],
+    "raw_quote": " What's all this, then?!"
+  },
+  {
+    "timecode": "19:28",
+    "speaker": "Tom Petty",
+    "quote": " He's stealing the show from us!",
+    "directions": [],
+    "raw_quote": " He's stealing the show from us!"
+  },
+  {
+    "timecode": "19:30",
+    "speaker": "Mick Jagger",
+    "quote": " Not on my shift.",
+    "directions": [],
+    "raw_quote": " Not on my shift."
+  },
+  {
+    "timecode": "19:33",
+    "speaker": "Mick Jagger",
+    "quote": " Let's rock 'n' roll...",
+    "directions": [
+      "ACTION MOVIE"
+    ],
+    "raw_quote": " (ACTION MOVIE) Let's rock 'n' roll..."
+  },
+  {
+    "timecode": "",
+    "speaker": "Rock Stars",
+    "quote": " ",
+    "directions": [
+      "CRAZED BATTLE WHOOPS"
+    ],
+    "raw_quote": " (CRAZED BATTLE WHOOPS)"
+  },
+  {
+    "timecode": "19:42",
+    "speaker": "Homer Simpson",
+    "quote": " BABY, BABY, BABY, BABY, BABY... Uh-oh.",
+    "directions": [
+      "SINGING",
+      "SEES DEVIL'S HEAD O.S."
+    ],
+    "raw_quote": " (SINGING) BABY, BABY, BABY, BABY, BABY... (SEES DEVIL'S HEAD O.S.) Uh-oh."
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "INTERMITTENT PAINED SHRIEKS"
+    ],
+    "raw_quote": " (INTERMITTENT PAINED SHRIEKS)"
+  },
+  {
+    "timecode": "19:54",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh yeah, it's good to see the spectacle back in rock.",
+    "directions": [],
+    "raw_quote": " Oh yeah, it's good to see the spectacle back in rock."
+  },
+  {
+    "timecode": "20:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "CIVIC CENTER PARKING LOT: eXT. CIVIC CENTER PARKING LOT - LATER"
+    ],
+    "raw_quote": "(CIVIC CENTER PARKING LOT: eXT. CIVIC CENTER PARKING LOT - LATER)"
+  },
+  {
+    "timecode": "20:10",
+    "speaker": "Bart Simpson",
+    "quote": " Did you know it was going to turn into a riot, Dad?",
+    "directions": [],
+    "raw_quote": " Did you know it was going to turn into a riot, Dad?"
+  },
+  {
+    "timecode": "20:12",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, yeah... When you've been in as many as I have, you can sense them coming.",
+    "directions": [],
+    "raw_quote": " Oh, yeah... When you've been in as many as I have, you can sense them coming."
+  },
+  {
+    "timecode": "20:17",
+    "speaker": "Marge Simpson",
+    "quote": " Did they ever find Tom Petty's toe?",
+    "directions": [],
+    "raw_quote": " Did they ever find Tom Petty's toe?"
+  },
+  {
+    "timecode": "20:19",
+    "speaker": "Homer Simpson",
+    "quote": " What am I, the lost and found?",
+    "directions": [],
+    "raw_quote": " What am I, the lost and found?"
+  },
+  {
+    "timecode": "20:22",
+    "speaker": "Mick Jagger",
+    "quote": " There's no excuse for our horrible behavior tonight, Homer.",
+    "directions": [],
+    "raw_quote": " There's no excuse for our horrible behavior tonight, Homer."
+  },
+  {
+    "timecode": "20:25",
+    "speaker": "Elvis Costello",
+    "quote": " We acted like a bunch of angry young men.",
+    "directions": [],
+    "raw_quote": " We acted like a bunch of angry young men."
+  },
+  {
+    "timecode": "20:27",
+    "speaker": "Lenny Kravitz",
+    "quote": " Yeah, rock and roll is supposed to be about peace and love.",
+    "directions": [],
+    "raw_quote": " Yeah, rock and roll is supposed to be about peace and love."
+  },
+  {
+    "timecode": "20:30",
+    "speaker": "Brian Setzer",
+    "quote": " I hope you won't judge the entire Brian Setzer Orchestra by my actions.",
+    "directions": [],
+    "raw_quote": " I hope you won't judge the entire Brian Setzer Orchestra by my actions."
+  },
+  {
+    "timecode": "20:34",
+    "speaker": "Tom Petty",
+    "quote": " What we're trying to say, Homer, is we're sorry... By the way, I don't suppose any of you have seen my, um...",
+    "directions": [
+      "ON CRUTCHES",
+      "TO SIMPSONS"
+    ],
+    "raw_quote": " (ON CRUTCHES) What we're trying to say, Homer, is we're sorry... (TO SIMPSONS) By the way, I don't suppose any of you have seen my, um..."
+  },
+  {
+    "timecode": "20:39",
+    "speaker": "Lisa Simpson",
+    "quote": " No, sorry.",
+    "directions": [],
+    "raw_quote": " No, sorry."
+  },
+  {
+    "timecode": "20:41",
+    "speaker": "Homer Simpson",
+    "quote": " There's no need for apologies, guys. You're rock stars! You're supposed to be reckless and destructive, and be celebrated for behavior that would land normal people in jail.",
+    "directions": [],
+    "raw_quote": " There's no need for apologies, guys. You're rock stars! You're supposed to be reckless and destructive, and be celebrated for behavior that would land normal people in jail."
+  },
+  {
+    "timecode": "20:52",
+    "speaker": "Keith Richards",
+    "quote": " That's what I told them, Homer, but just the same, we'd like to make it up to you.",
+    "directions": [],
+    "raw_quote": " That's what I told them, Homer, but just the same, we'd like to make it up to you."
+  },
+  {
+    "timecode": "20:57",
+    "speaker": "Mick Jagger",
+    "quote": " We're doing a gig tomorrow to benefit the victims of tonight's gig, and we'd consider it an honor if you'd join us.",
+    "directions": [],
+    "raw_quote": " We're doing a gig tomorrow to benefit the victims of tonight's gig, and we'd consider it an honor if you'd join us."
+  },
+  {
+    "timecode": "21:04",
+    "speaker": "Homer Simpson",
+    "quote": " Well, you're very sweet, Mick, but the only rocking I want to do is in my living room chair, surrounded by the world's greatest back-up group, my family.",
+    "directions": [],
+    "raw_quote": " Well, you're very sweet, Mick, but the only rocking I want to do is in my living room chair, surrounded by the world's greatest back-up group, my family."
+  },
+  {
+    "timecode": "21:17",
+    "speaker": "Lisa Simpson",
+    "quote": " Are you sure you don't miss hanging out with your rock star friends, Dad?",
+    "directions": [],
+    "raw_quote": " Are you sure you don't miss hanging out with your rock star friends, Dad?"
+  },
+  {
+    "timecode": "21:21",
+    "speaker": "Homer Simpson",
+    "quote": " Nah, I've got something to remember 'em by.",
+    "directions": [],
+    "raw_quote": " Nah, I've got something to remember 'em by."
+  },
+  {
+    "timecode": "21:24",
+    "speaker": "Homer Simpson",
+    "quote": " Have fun at school, kids.",
+    "directions": [],
+    "raw_quote": " Have fun at school, kids."
+  },
+  {
+    "timecode": "21:28",
+    "speaker": "Seymour Skinner",
+    "quote": " Mr. Simpson, this zone is for school buses only.",
+    "directions": [],
+    "raw_quote": " Mr. Simpson, this zone is for school buses only."
+  },
+  {
+    "timecode": "21:35",
+    "speaker": "Homer Simpson",
+    "quote": " Rock and Roll! Woo hoo!",
+    "directions": [],
+    "raw_quote": " Rock and Roll! Woo hoo!"
+  }
+]

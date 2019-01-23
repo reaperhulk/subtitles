@@ -1,0 +1,2404 @@
+[
+  {
+    "timecode": "00:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Airport: ext. SPRINGFIELD AIRPORT - SIGN - DAY"
+    ],
+    "raw_quote": "(Springfield Airport: ext. SPRINGFIELD AIRPORT - SIGN - DAY)"
+  },
+  {
+    "timecode": "00:42",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Airport Terminal: int. airport terminal - continuous"
+    ],
+    "raw_quote": "(Airport Terminal: int. airport terminal - continuous)"
+  },
+  {
+    "timecode": "00:42",
+    "speaker": "Bart Simpson",
+    "quote": " Thanks for lettin' me skip school to see the team come back from the championship, Dad.",
+    "directions": [],
+    "raw_quote": " Thanks for lettin' me skip school to see the team come back from the championship, Dad."
+  },
+  {
+    "timecode": "00:46",
+    "speaker": "Homer Simpson",
+    "quote": " I always say, a boy can learn more at an airport than he can at any school.",
+    "directions": [],
+    "raw_quote": " I always say, a boy can learn more at an airport than he can at any school."
+  },
+  {
+    "timecode": "00:52",
+    "speaker": "Guard",
+    "quote": " Hey, I need to see your claim checks for that luggage!",
+    "directions": [
+      "SQUEAKY-VOICED TEENAGER"
+    ],
+    "raw_quote": " (SQUEAKY-VOICED TEENAGER) Hey, I need to see your claim checks for that luggage!"
+  },
+  {
+    "timecode": "00:55",
+    "speaker": "Jimbo Jones",
+    "quote": " Oh, of course, I have it right here! ",
+    "directions": [
+      "PUNCHES GUARD IN STOMACH"
+    ],
+    "raw_quote": " Oh, of course, I have it right here! (PUNCHES GUARD IN STOMACH)"
+  },
+  {
+    "timecode": "00:59",
+    "speaker": "Guard",
+    "quote": " I'll need to see yours too.",
+    "directions": [
+      "PAINED VOICE TO KEARNY"
+    ],
+    "raw_quote": " (PAINED VOICE TO KEARNY) I'll need to see yours too."
+  },
+  {
+    "timecode": "01:01",
+    "speaker": "Kearney Zzyzwicz",
+    "quote": " You got it! ",
+    "directions": [
+      "PUNCHES GUARD IN STOMACH"
+    ],
+    "raw_quote": " You got it! (PUNCHES GUARD IN STOMACH)"
+  },
+  {
+    "timecode": "01:03",
+    "speaker": "Guard",
+    "quote": " I'll take your word for it.",
+    "directions": [
+      "EVEN MORE PAINED TO DOLPH"
+    ],
+    "raw_quote": " (EVEN MORE PAINED TO DOLPH) I'll take your word for it."
+  },
+  {
+    "timecode": "01:05",
+    "speaker": "DOLPH",
+    "quote": " You're just doing your job! ",
+    "directions": [
+      "PUNCHES HIM AGAIN"
+    ],
+    "raw_quote": " You're just doing your job! (PUNCHES HIM AGAIN)"
+  },
+  {
+    "timecode": "01:12",
+    "speaker": "Hans Moleman",
+    "quote": " Do you have anything by Robert Ludlam?",
+    "directions": [],
+    "raw_quote": " Do you have anything by Robert Ludlam?"
+  },
+  {
+    "timecode": "01:14",
+    "speaker": "Clerk",
+    "quote": " Get out.",
+    "directions": [],
+    "raw_quote": " Get out."
+  },
+  {
+    "timecode": "01:16",
+    "speaker": "Apu Nahasapeemapetilon",
+    "quote": " Look at the outrageous mark-up! You magnificent bastard, I salute you!",
+    "directions": [],
+    "raw_quote": " Look at the outrageous mark-up! You magnificent bastard, I salute you!"
+  },
+  {
+    "timecode": "01:24",
+    "speaker": "Kearney Zzyzwicz",
+    "quote": " I just got a bunch of fruity Easter eggs.",
+    "directions": [],
+    "raw_quote": " I just got a bunch of fruity Easter eggs."
+  },
+  {
+    "timecode": "01:27",
+    "speaker": "DOLPH",
+    "quote": " Ew! Another liver transplant!",
+    "directions": [],
+    "raw_quote": " Ew! Another liver transplant!"
+  },
+  {
+    "timecode": "01:33",
+    "speaker": "Barney Gumble",
+    "quote": " Oh no, not again.",
+    "directions": [],
+    "raw_quote": " Oh no, not again."
+  },
+  {
+    "timecode": "01:36",
+    "speaker": "Barney Gumble",
+    "quote": " You're not gettin' away that easy, little fella.",
+    "directions": [],
+    "raw_quote": " You're not gettin' away that easy, little fella."
+  },
+  {
+    "timecode": "01:42",
+    "speaker": "Hari Krishna",
+    "quote": " Have you heard of Krishna Consciousness?",
+    "directions": [],
+    "raw_quote": " Have you heard of Krishna Consciousness?"
+  },
+  {
+    "timecode": "01:44",
+    "speaker": "Homer Simpson",
+    "quote": " This, Bart, is a crazy man.",
+    "directions": [
+      "POINTING RIGHT IN KRISHNA'S FACE"
+    ],
+    "raw_quote": " (POINTING RIGHT IN KRISHNA'S FACE) This, Bart, is a crazy man."
+  },
+  {
+    "timecode": "01:46",
+    "speaker": "Christian",
+    "quote": " Do unto others as you would have them do unto you!",
+    "directions": [],
+    "raw_quote": " Do unto others as you would have them do unto you!"
+  },
+  {
+    "timecode": "01:50",
+    "speaker": "Homer Simpson",
+    "quote": " Right. That'll work.",
+    "directions": [
+      "SARCASTIC"
+    ],
+    "raw_quote": " (SARCASTIC) Right. That'll work."
+  },
+  {
+    "timecode": "01:51",
+    "speaker": "Jane",
+    "quote": " A new and better life awaits you on our distant home planet, Blisstonia.",
+    "directions": [],
+    "raw_quote": " A new and better life awaits you on our distant home planet, Blisstonia."
+  },
+  {
+    "timecode": "01:55",
+    "speaker": "Homer Simpson",
+    "quote": " Hmm. Makes sense.",
+    "directions": [
+      "GENUINELY INTERESTED"
+    ],
+    "raw_quote": " (GENUINELY INTERESTED) Hmm. Makes sense."
+  },
+  {
+    "timecode": "01:57",
+    "speaker": "Jane",
+    "quote": " We're having a free get-acquainted session at our resort this weekend.",
+    "directions": [],
+    "raw_quote": " We're having a free get-acquainted session at our resort this weekend."
+  },
+  {
+    "timecode": "02:01",
+    "speaker": "Homer Simpson",
+    "quote": " How much is this free resort weekend?",
+    "directions": [],
+    "raw_quote": " How much is this free resort weekend?"
+  },
+  {
+    "timecode": "02:03",
+    "speaker": "Glen",
+    "quote": " It's free.",
+    "directions": [],
+    "raw_quote": " It's free."
+  },
+  {
+    "timecode": "02:04",
+    "speaker": "Homer Simpson",
+    "quote": " And when is this weekend?",
+    "directions": [],
+    "raw_quote": " And when is this weekend?"
+  },
+  {
+    "timecode": "02:06",
+    "speaker": "Glen",
+    "quote": " It's this weekend.",
+    "directions": [],
+    "raw_quote": " It's this weekend."
+  },
+  {
+    "timecode": "02:07",
+    "speaker": "Homer Simpson",
+    "quote": " Uh huh. And how much does it cost?",
+    "directions": [],
+    "raw_quote": " Uh huh. And how much does it cost?"
+  },
+  {
+    "timecode": "02:09",
+    "speaker": "Glen",
+    "quote": " Um, it's free.",
+    "directions": [],
+    "raw_quote": " Um, it's free."
+  },
+  {
+    "timecode": "02:10",
+    "speaker": "Homer Simpson",
+    "quote": " I see. And when is it?",
+    "directions": [],
+    "raw_quote": " I see. And when is it?"
+  },
+  {
+    "timecode": "02:12",
+    "speaker": "Glen",
+    "quote": " It's this weekend.",
+    "directions": [],
+    "raw_quote": " It's this weekend."
+  },
+  {
+    "timecode": "02:13",
+    "speaker": "Homer Simpson",
+    "quote": " And what are you charging for this free weekend?",
+    "directions": [],
+    "raw_quote": " And what are you charging for this free weekend?"
+  },
+  {
+    "timecode": "02:16",
+    "speaker": "Bart Simpson",
+    "quote": " C'mon, Dad! The team's arriving!",
+    "directions": [],
+    "raw_quote": " C'mon, Dad! The team's arriving!"
+  },
+  {
+    "timecode": "02:17",
+    "speaker": "Homer Simpson",
+    "quote": " It's free, right?",
+    "directions": [
+      "CALLING BACK"
+    ],
+    "raw_quote": " (CALLING BACK) It's free, right?"
+  },
+  {
+    "timecode": "02:21",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "AIRPORT TARMAC: ext. airport tarmac - a moment later"
+    ],
+    "raw_quote": "(AIRPORT TARMAC: ext. airport tarmac - a moment later)"
+  },
+  {
+    "timecode": "02:21",
+    "speaker": "Player #1",
+    "quote": " Hey, Look! There's a big crowd to welcome us back! Even though we lost!",
+    "directions": [
+      "TEARY"
+    ],
+    "raw_quote": " Hey, Look! There's a big crowd to welcome us back! (TEARY) Even though we lost!"
+  },
+  {
+    "timecode": "02:26",
+    "speaker": "Moe Szyslak",
+    "quote": " Hey, I'll give you something to cry about, ya loser! You can't catch a football?! Let's see if you can catch a rock!",
+    "directions": [],
+    "raw_quote": " Hey, I'll give you something to cry about, ya loser! You can't catch a football?! Let's see if you can catch a rock!"
+  },
+  {
+    "timecode": "02:49",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - kitchen - that night"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - kitchen - that night)"
+  },
+  {
+    "timecode": "02:49",
+    "speaker": "Marge Simpson",
+    "quote": " I've never heard of these Movementarians. Are they some kind of church?",
+    "directions": [],
+    "raw_quote": " I've never heard of these Movementarians. Are they some kind of church?"
+  },
+  {
+    "timecode": "02:54",
+    "speaker": "Homer Simpson",
+    "quote": " Who cares what it is? The point is these are some decent, generous people that I can take advantage of.",
+    "directions": [],
+    "raw_quote": " Who cares what it is? The point is these are some decent, generous people that I can take advantage of."
+  },
+  {
+    "timecode": "02:59",
+    "speaker": "Marge Simpson",
+    "quote": " But what if they try to talk us into something?",
+    "directions": [],
+    "raw_quote": " But what if they try to talk us into something?"
+  },
+  {
+    "timecode": "03:01",
+    "speaker": "Homer Simpson",
+    "quote": " Marge, Marge, Marge. Remember when those smooth-talking guys tried to sell me a time-share vacation condo?",
+    "directions": [
+      "CONDESCENDING"
+    ],
+    "raw_quote": " (CONDESCENDING) Marge, Marge, Marge. Remember when those smooth-talking guys tried to sell me a time-share vacation condo?"
+  },
+  {
+    "timecode": "03:09",
+    "speaker": "Marge Simpson",
+    "quote": " You bought four of them. Thank God the check bounced.",
+    "directions": [],
+    "raw_quote": " You bought four of them. Thank God the check bounced."
+  },
+  {
+    "timecode": "03:11",
+    "speaker": "Homer Simpson",
+    "quote": " So, I beat the system.",
+    "directions": [
+      "POINT MADE"
+    ],
+    "raw_quote": " (POINT MADE) So, I beat the system."
+  },
+  {
+    "timecode": "03:12",
+    "speaker": "Lisa Simpson",
+    "quote": " Watch yourself, Dad. You're the highly suggestible type.",
+    "directions": [],
+    "raw_quote": " Watch yourself, Dad. You're the highly suggestible type."
+  },
+  {
+    "timecode": "03:16",
+    "speaker": "Homer Simpson",
+    "quote": " Yes. I am the highly suggestible type.",
+    "directions": [],
+    "raw_quote": " Yes. I am the highly suggestible type."
+  },
+  {
+    "timecode": "03:19",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MOVEMENTARIAN COMPOUND: ext. movementarian compound - later that morning"
+    ],
+    "raw_quote": "(MOVEMENTARIAN COMPOUND: ext. movementarian compound - later that morning)"
+  },
+  {
+    "timecode": "03:19",
+    "speaker": "Movementarians",
+    "quote": " Welcome, brother!",
+    "directions": [],
+    "raw_quote": " Welcome, brother!"
+  },
+  {
+    "timecode": "03:24",
+    "speaker": "Homer Simpson",
+    "quote": " Outta my way, jerk ass! ",
+    "directions": [
+      "HITS HORN"
+    ],
+    "raw_quote": " Outta my way, jerk ass! (HITS HORN)"
+  },
+  {
+    "timecode": "03:26",
+    "speaker": "Homer Simpson",
+    "quote": " NA NA NA NA NA NA NA NA FISH-ING / NA NA NA NA NA NA NA NA FISH-ING / FISH-ING, FISH-ING--",
+    "directions": [
+      "SINGING TO \"BATMAN\" THEME"
+    ],
+    "raw_quote": " (SINGING TO \"BATMAN\" THEME) NA NA NA NA NA NA NA NA FISH-ING / NA NA NA NA NA NA NA NA FISH-ING / FISH-ING, FISH-ING--"
+  },
+  {
+    "timecode": "03:36",
+    "speaker": "Glen",
+    "quote": " Hi, how are y--",
+    "directions": [],
+    "raw_quote": " Hi, how are y--"
+  },
+  {
+    "timecode": "03:37",
+    "speaker": "Homer Simpson",
+    "quote": " Fish-ing.",
+    "directions": [
+      "FINISHING SONG"
+    ],
+    "raw_quote": " (FINISHING SONG) Fish-ing."
+  },
+  {
+    "timecode": "03:39",
+    "speaker": "Jane",
+    "quote": " It certainly is a beautiful day. We should thank the Leader.",
+    "directions": [],
+    "raw_quote": " It certainly is a beautiful day. We should thank the Leader."
+  },
+  {
+    "timecode": "03:42",
+    "speaker": "Homer Simpson",
+    "quote": " Who the hell is that? Some kind of leader?",
+    "directions": [
+      "BARELY INTERESTED"
+    ],
+    "raw_quote": " (BARELY INTERESTED) Who the hell is that? Some kind of leader?"
+  },
+  {
+    "timecode": "03:44",
+    "speaker": "Jane",
+    "quote": " Yes. He's the head of our perfect family. And when our galactic vehicle is complete, he will take us to our new home, Blisstonia.",
+    "directions": [],
+    "raw_quote": " Yes. He's the head of our perfect family. And when our galactic vehicle is complete, he will take us to our new home, Blisstonia."
+  },
+  {
+    "timecode": "03:51",
+    "speaker": "Glen",
+    "quote": " Why don't you come chat with us about the Leader at the Welcome Center.",
+    "directions": [],
+    "raw_quote": " Why don't you come chat with us about the Leader at the Welcome Center."
+  },
+  {
+    "timecode": "03:55",
+    "speaker": "Homer Simpson",
+    "quote": " Will there be beer?",
+    "directions": [],
+    "raw_quote": " Will there be beer?"
+  },
+  {
+    "timecode": "03:56",
+    "speaker": "Glen",
+    "quote": " Beer is not allowed.",
+    "directions": [],
+    "raw_quote": " Beer is not allowed."
+  },
+  {
+    "timecode": "03:57",
+    "speaker": "Homer Simpson",
+    "quote": " Homer no function beer well without.",
+    "directions": [],
+    "raw_quote": " Homer no function beer well without."
+  },
+  {
+    "timecode": "03:59",
+    "speaker": "Jane",
+    "quote": " Would you rather have beer or complete and utter contentment?",
+    "directions": [],
+    "raw_quote": " Would you rather have beer or complete and utter contentment?"
+  },
+  {
+    "timecode": "04:02",
+    "speaker": "Homer Simpson",
+    "quote": " What kind of beer?",
+    "directions": [
+      "BEAT"
+    ],
+    "raw_quote": " (BEAT) What kind of beer?"
+  },
+  {
+    "timecode": "04:04",
+    "speaker": "Glen",
+    "quote": " The Leader knows how miserable you, Marge, Lisa, Bart and Maggie are.",
+    "directions": [],
+    "raw_quote": " The Leader knows how miserable you, Marge, Lisa, Bart and Maggie are."
+  },
+  {
+    "timecode": "04:08",
+    "speaker": "Homer Simpson",
+    "quote": " Really? I'm surprised about Maggie.",
+    "directions": [],
+    "raw_quote": " Really? I'm surprised about Maggie."
+  },
+  {
+    "timecode": "04:11",
+    "speaker": "Glen",
+    "quote": " Just come up and watch our orientation film. You're free to leave at anytime.",
+    "directions": [],
+    "raw_quote": " Just come up and watch our orientation film. You're free to leave at anytime."
+  },
+  {
+    "timecode": "04:14",
+    "speaker": "Homer Simpson",
+    "quote": " Wow, a free movie. Thanks! Outta my way, jerk ass.",
+    "directions": [],
+    "raw_quote": " Wow, a free movie. Thanks! Outta my way, jerk ass."
+  },
+  {
+    "timecode": "04:20",
+    "speaker": "Announcer",
+    "quote": " Once we collect enough money for fuel, our Leader will throw open the doors of The Forbidden Barn, where we will all board our inter-galactic vehicle -- rows 1 through 30 first. Upon our arrival, we will begin our new perfect lives on Blisstonia, well known for its high levels of bliss.",
+    "directions": [],
+    "raw_quote": " Once we collect enough money for fuel, our Leader will throw open the doors of The Forbidden Barn, where we will all board our inter-galactic vehicle -- rows 1 through 30 first. Upon our arrival, we will begin our new perfect lives on Blisstonia, well known for its high levels of bliss."
+  },
+  {
+    "timecode": "04:38",
+    "speaker": "Carl Carlson",
+    "quote": " Hey, I don't know about you, but uh, they're not exactly winning me over with these lousy production values here. I'm gonna slip out.",
+    "directions": [],
+    "raw_quote": " Hey, I don't know about you, but uh, they're not exactly winning me over with these lousy production values here. I'm gonna slip out."
+  },
+  {
+    "timecode": "04:45",
+    "speaker": "Glen",
+    "quote": " Uh, you're free to leave whenever you want. But uh -- would mind telling us why?",
+    "directions": [
+      "OVER P.A. FRIENDLY WITH A SLIGHT EDGE"
+    ],
+    "raw_quote": " (OVER P.A. FRIENDLY WITH A SLIGHT EDGE) Uh, you're free to leave whenever you want. But uh -- would mind telling us why?"
+  },
+  {
+    "timecode": "04:49",
+    "speaker": "Carl Carlson",
+    "quote": " Oh, I just didn't...Uh, I didn't think...Um, oh, it's - it's pretty good.",
+    "directions": [],
+    "raw_quote": " Oh, I just didn't...Uh, I didn't think...Um, oh, it's - it's pretty good."
+  },
+  {
+    "timecode": "04:55",
+    "speaker": "Otto Mann",
+    "quote": " Man, this whole place puffs on the wacky tabacky. I'm outta here.",
+    "directions": [
+      "WHISPERING TO SIDESHOW MEL"
+    ],
+    "raw_quote": " (WHISPERING TO SIDESHOW MEL) Man, this whole place puffs on the wacky tabacky. I'm outta here."
+  },
+  {
+    "timecode": "",
+    "speaker": "Otto Mann",
+    "quote": " ",
+    "directions": [
+      "STARTLED NOISE"
+    ],
+    "raw_quote": " (STARTLED NOISE)"
+  },
+  {
+    "timecode": "04:59",
+    "speaker": "Glen",
+    "quote": " Going somewhere? Though you're free to do so.",
+    "directions": [
+      "OVER P.A.",
+      "QUICKLY"
+    ],
+    "raw_quote": " (OVER P.A.) Going somewhere? (QUICKLY) Though you're free to do so."
+  },
+  {
+    "timecode": "05:02",
+    "speaker": "Otto Mann",
+    "quote": " Uh no, just rearranging my underwear. Ah, there it is.",
+    "directions": [
+      "BEAT"
+    ],
+    "raw_quote": " Uh no, just rearranging my underwear. (BEAT) Ah, there it is."
+  },
+  {
+    "timecode": "05:14",
+    "speaker": "Announcer",
+    "quote": " When you surrender yourself to the Movementarians, you are guaranteed a perfect life of serenity, love and loving serenity. Not a guarantee.",
+    "directions": [
+      "QUICKLY"
+    ],
+    "raw_quote": " When you surrender yourself to the Movementarians, you are guaranteed a perfect life of serenity, love and loving serenity. (QUICKLY) Not a guarantee."
+  },
+  {
+    "timecode": "05:23",
+    "speaker": "Moe Szyslak",
+    "quote": " Loving serenity. It's about damn time.",
+    "directions": [],
+    "raw_quote": " Loving serenity. It's about damn time."
+  },
+  {
+    "timecode": "05:26",
+    "speaker": "Otto Mann",
+    "quote": " I love the Leader!",
+    "directions": [
+      "TRANCELIKE"
+    ],
+    "raw_quote": " (TRANCELIKE) I love the Leader!"
+  },
+  {
+    "timecode": "05:28",
+    "speaker": "Carl Carlson",
+    "quote": " The Leader is perfect!",
+    "directions": [
+      "TRANCELIKE"
+    ],
+    "raw_quote": " (TRANCELIKE) The Leader is perfect!"
+  },
+  {
+    "timecode": "05:29",
+    "speaker": "Homer Simpson",
+    "quote": " Wait - I'm confused about the movie. So the cops knew that internal affairs was setting them up?",
+    "directions": [],
+    "raw_quote": " Wait - I'm confused about the movie. So the cops knew that internal affairs was setting them up?"
+  },
+  {
+    "timecode": "05:35",
+    "speaker": "Glen",
+    "quote": " What are you talking about? There's nothing like that in there.",
+    "directions": [],
+    "raw_quote": " What are you talking about? There's nothing like that in there."
+  },
+  {
+    "timecode": "05:39",
+    "speaker": "Homer Simpson",
+    "quote": " Well, you see, when I get bored, I make up my own movie. I have a very short attention span.",
+    "directions": [],
+    "raw_quote": " Well, you see, when I get bored, I make up my own movie. I have a very short attention span."
+  },
+  {
+    "timecode": "05:43",
+    "speaker": "Jane",
+    "quote": " But our point is very simple. You see when --",
+    "directions": [],
+    "raw_quote": " But our point is very simple. You see when --"
+  },
+  {
+    "timecode": "05:45",
+    "speaker": "Homer Simpson",
+    "quote": " Ooh, look a bird. ",
+    "directions": [
+      "GIGGLES"
+    ],
+    "raw_quote": " Ooh, look a bird. (GIGGLES)"
+  },
+  {
+    "timecode": "05:49",
+    "speaker": "Jane",
+    "quote": " The \"Circle of Judgment\" never fails to destroy their self esteem. Then he'll be ours to mold.",
+    "directions": [],
+    "raw_quote": " The \"Circle of Judgment\" never fails to destroy their self esteem. Then he'll be ours to mold."
+  },
+  {
+    "timecode": "05:55",
+    "speaker": "Glen",
+    "quote": " Let the judgment begin! I'll get the ball rolling. You're a fat idiot!",
+    "directions": [
+      "TO GROUP",
+      "TO HOMER"
+    ],
+    "raw_quote": " (TO GROUP) Let the judgment begin! I'll get the ball rolling. (TO HOMER) You're a fat idiot!"
+  },
+  {
+    "timecode": "06:00",
+    "speaker": "Movementarians",
+    "quote": " Yeah, lose some weight! / Amen you're fat / moron-type ",
+    "directions": [
+      "ETC."
+    ],
+    "raw_quote": " Yeah, lose some weight! / Amen you're fat / moron-type (ETC.)"
+  },
+  {
+    "timecode": "06:06",
+    "speaker": "Homer Simpson",
+    "quote": " Uh yeah, I guess I could lose a few pounds. And I can be kind of thick sometimes. ",
+    "directions": [
+      "GOOD NATURED LAUGH"
+    ],
+    "raw_quote": " Uh yeah, I guess I could lose a few pounds. And I can be kind of thick sometimes. (GOOD NATURED LAUGH)"
+  },
+  {
+    "timecode": "06:13",
+    "speaker": "Seymour Skinner",
+    "quote": " You've failed at everything you've ever tried.",
+    "directions": [],
+    "raw_quote": " You've failed at everything you've ever tried."
+  },
+  {
+    "timecode": "06:16",
+    "speaker": "Homer Simpson",
+    "quote": " Whoa, you've got my number on that one, buddy! This is a smart group.",
+    "directions": [
+      "GOOD NATUREDLY"
+    ],
+    "raw_quote": " (GOOD NATUREDLY) Whoa, you've got my number on that one, buddy! This is a smart group."
+  },
+  {
+    "timecode": "06:20",
+    "speaker": "Moe Szyslak",
+    "quote": " And your stink brings tears to my eyes!",
+    "directions": [],
+    "raw_quote": " And your stink brings tears to my eyes!"
+  },
+  {
+    "timecode": "06:23",
+    "speaker": "Homer Simpson",
+    "quote": " Now wait a minute, Moe --",
+    "directions": [],
+    "raw_quote": " Now wait a minute, Moe --"
+  },
+  {
+    "timecode": "06:26",
+    "speaker": "Homer Simpson",
+    "quote": " Oh, my mistake.",
+    "directions": [],
+    "raw_quote": " Oh, my mistake."
+  },
+  {
+    "timecode": "06:30",
+    "speaker": "Jane",
+    "quote": " Why isn't our low protein gruel wearing down his resistance like all the others?",
+    "directions": [],
+    "raw_quote": " Why isn't our low protein gruel wearing down his resistance like all the others?"
+  },
+  {
+    "timecode": "06:34",
+    "speaker": "Glen",
+    "quote": " It doesn't wear down your resistance if you eat a whole month's supply.",
+    "directions": [],
+    "raw_quote": " It doesn't wear down your resistance if you eat a whole month's supply."
+  },
+  {
+    "timecode": "06:37",
+    "speaker": "Glen",
+    "quote": " He even ate mine!",
+    "directions": [],
+    "raw_quote": " He even ate mine!"
+  },
+  {
+    "timecode": "06:42",
+    "speaker": "Homer Simpson",
+    "quote": " You gonna finish that, bony?",
+    "directions": [],
+    "raw_quote": " You gonna finish that, bony?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Professor Jonathan Frink",
+    "quote": " ",
+    "directions": [
+      "FRINK NOISE"
+    ],
+    "raw_quote": " (FRINK NOISE)"
+  },
+  {
+    "timecode": "06:45",
+    "speaker": "Jane",
+    "quote": " Let's try the chant. Everyone loves a droning, repetitive chant.",
+    "directions": [],
+    "raw_quote": " Let's try the chant. Everyone loves a droning, repetitive chant."
+  },
+  {
+    "timecode": "06:49",
+    "speaker": "Glen",
+    "quote": " Attention, everyone! Let's all give thanks to the Leader for this glorious day!",
+    "directions": [
+      "ADDRESSING CROWD"
+    ],
+    "raw_quote": " (ADDRESSING CROWD) Attention, everyone! Let's all give thanks to the Leader for this glorious day!"
+  },
+  {
+    "timecode": "06:53",
+    "speaker": "Glen",
+    "quote": " The Leader is good. / The Leader is great. / We surrender our will. / As of this date.",
+    "directions": [
+      "CHANTING"
+    ],
+    "raw_quote": " (CHANTING) The Leader is good. / The Leader is great. / We surrender our will. / As of this date."
+  },
+  {
+    "timecode": "06:57",
+    "speaker": "Movementarians",
+    "quote": " The Leader is good. / The Leader is great. / We surrender our will. / As of this date.",
+    "directions": [],
+    "raw_quote": " The Leader is good. / The Leader is great. / We surrender our will. / As of this date."
+  },
+  {
+    "timecode": "07:03",
+    "speaker": "Jane",
+    "quote": " It's no use. He's obviously the most powerful mind we've ever dealt with.",
+    "directions": [],
+    "raw_quote": " It's no use. He's obviously the most powerful mind we've ever dealt with."
+  },
+  {
+    "timecode": "07:08",
+    "speaker": "Glen",
+    "quote": " Or... NA NA NA NA NA NA NA NA LEADER / NA NA NA NA NA NA NA NA LEADER....",
+    "directions": [
+      "GETTING AN IDEA",
+      "SINGING TO \"BATMAN\" THEME"
+    ],
+    "raw_quote": " (GETTING AN IDEA) Or...(SINGING TO \"BATMAN\" THEME) NA NA NA NA NA NA NA NA LEADER / NA NA NA NA NA NA NA NA LEADER...."
+  },
+  {
+    "timecode": "07:14",
+    "speaker": "Homer Simpson",
+    "quote": " NA NA NA NA NA NA NA NA LEADER / NA NA NA NA NA NA NA NA LEADER / LEA-DER, LEA-DER, LEA-DER!",
+    "directions": [],
+    "raw_quote": " NA NA NA NA NA NA NA NA LEADER / NA NA NA NA NA NA NA NA LEADER / LEA-DER, LEA-DER, LEA-DER!"
+  },
+  {
+    "timecode": "07:23",
+    "speaker": "Homer Simpson",
+    "quote": " BATMAN! / I MEAN, LEADER! I LOVE THE LEADER!",
+    "directions": [
+      "SINGING"
+    ],
+    "raw_quote": " (SINGING) BATMAN! / I MEAN, LEADER! I LOVE THE LEADER!"
+  },
+  {
+    "timecode": "07:33",
+    "speaker": "Homer Simpson",
+    "quote": " ACT II",
+    "directions": [],
+    "raw_quote": " ACT II"
+  },
+  {
+    "timecode": "07:33",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: ext. simpson house - evening"
+    ],
+    "raw_quote": "(Simpson Home: ext. simpson house - evening)"
+  },
+  {
+    "timecode": "07:33",
+    "speaker": "Marge Simpson",
+    "quote": " You what?!",
+    "directions": [],
+    "raw_quote": " You what?!"
+  },
+  {
+    "timecode": "07:34",
+    "speaker": "Homer Simpson",
+    "quote": " Come again, Marge?",
+    "directions": [],
+    "raw_quote": " Come again, Marge?"
+  },
+  {
+    "timecode": "07:35",
+    "speaker": "Marge Simpson",
+    "quote": " You what?!",
+    "directions": [],
+    "raw_quote": " You what?!"
+  },
+  {
+    "timecode": "07:35",
+    "speaker": "Homer Simpson",
+    "quote": " I've joined the Movementarians! And so have all of you!",
+    "directions": [],
+    "raw_quote": " I've joined the Movementarians! And so have all of you!"
+  },
+  {
+    "timecode": "07:38",
+    "speaker": "Marge Simpson",
+    "quote": " We what?",
+    "directions": [],
+    "raw_quote": " We what?"
+  },
+  {
+    "timecode": "07:39",
+    "speaker": "Homer Simpson",
+    "quote": " All I had to give them was our life savings, the deed to the house, and a commitment of ten trillion years of labor.",
+    "directions": [],
+    "raw_quote": " All I had to give them was our life savings, the deed to the house, and a commitment of ten trillion years of labor."
+  },
+  {
+    "timecode": "07:45",
+    "speaker": "Marge Simpson",
+    "quote": " I can't go along with this, Homer.",
+    "directions": [],
+    "raw_quote": " I can't go along with this, Homer."
+  },
+  {
+    "timecode": "07:47",
+    "speaker": "Homer Simpson",
+    "quote": " Marge, when I join an underground cult, I expect a little support from my family.",
+    "directions": [],
+    "raw_quote": " Marge, when I join an underground cult, I expect a little support from my family."
+  },
+  {
+    "timecode": "07:50",
+    "speaker": "Lisa Simpson",
+    "quote": " Dad, do you think you might have been brainwashed?",
+    "directions": [],
+    "raw_quote": " Dad, do you think you might have been brainwashed?"
+  },
+  {
+    "timecode": "07:53",
+    "speaker": "Homer Simpson",
+    "quote": " I have not been brainwashed. Kill the girl. Kill the girl.",
+    "directions": [
+      "TRANCE LIKE"
+    ],
+    "raw_quote": " I have not been brainwashed. (TRANCE LIKE) Kill the girl. Kill the girl."
+  },
+  {
+    "timecode": "07:57",
+    "speaker": "Marge Simpson",
+    "quote": " Homer!",
+    "directions": [],
+    "raw_quote": " Homer!"
+  },
+  {
+    "timecode": "07:58",
+    "speaker": "Homer Simpson",
+    "quote": " What? What did I say?",
+    "directions": [],
+    "raw_quote": " What? What did I say?"
+  },
+  {
+    "timecode": "08:00",
+    "speaker": "Bart Simpson",
+    "quote": " Church, cult. Cult, church. So we get bored someplace else every Sunday. Does this really change our day-to-day lives?",
+    "directions": [],
+    "raw_quote": " Church, cult. Cult, church. So we get bored someplace else every Sunday. Does this really change our day-to-day lives?"
+  },
+  {
+    "timecode": "08:05",
+    "speaker": "Homer Simpson",
+    "quote": " Of course not! Except that we're all moving to the Movementarian Agricultural Compound to be near the Leader and serve him.",
+    "directions": [],
+    "raw_quote": " Of course not! Except that we're all moving to the Movementarian Agricultural Compound to be near the Leader and serve him."
+  },
+  {
+    "timecode": "08:11",
+    "speaker": "Marge Simpson",
+    "quote": " I'm not leaving my home!",
+    "directions": [],
+    "raw_quote": " I'm not leaving my home!"
+  },
+  {
+    "timecode": "08:13",
+    "speaker": "Don",
+    "quote": " Oh, yes you are. I'm afraid it's our home now. This house will become the new local Welcome Center for this district.",
+    "directions": [
+      "FRIENDLY LAUGH"
+    ],
+    "raw_quote": " (FRIENDLY LAUGH) Oh, yes you are. I'm afraid it's our home now. This house will become the new local Welcome Center for this district."
+  },
+  {
+    "timecode": "08:19",
+    "speaker": "Homer Simpson",
+    "quote": " And it didn't cost us a dime.",
+    "directions": [],
+    "raw_quote": " And it didn't cost us a dime."
+  },
+  {
+    "timecode": "08:22",
+    "speaker": "Kent Brockman",
+    "quote": " Springfield has been overrun by a strange and almost certainly evil sect calling themselves the Movementarians.",
+    "directions": [],
+    "raw_quote": " Springfield has been overrun by a strange and almost certainly evil sect calling themselves the Movementarians."
+  },
+  {
+    "timecode": "08:22",
+    "speaker": "Kent Brockman",
+    "quote": " In exchange for your home and all your money, the Leader of this \"way-out\" and wrong religion, claims he'll take believers away on his spaceship to the planet Blisstonia. Excuse my editorial laugh. But...",
+    "directions": [
+      "CYNICAL LAUGH"
+    ],
+    "raw_quote": " In exchange for your home and all your money, the Leader of this \"way-out\" and wrong religion, claims he'll take believers away on his spaceship to the planet Blisstonia. Excuse my editorial laugh. (CYNICAL LAUGH) But..."
+  },
+  {
+    "timecode": "08:40",
+    "speaker": "Kent Brockman",
+    "quote": " Ladies and gentlemen, I've just learned of a change in this station's management. Welcome, Movementarians! Continue to improve our lives! I love you, Perfect Leader. And new C.E.O. of K-B-B-O broadcasting!",
+    "directions": [],
+    "raw_quote": " Ladies and gentlemen, I've just learned of a change in this station's management. Welcome, Movementarians! Continue to improve our lives! I love you, Perfect Leader. And new C.E.O. of K-B-B-O broadcasting!"
+  },
+  {
+    "timecode": "08:55",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MOVEMENTARIAN COMPOUND: int. movementarian compound - barracks - night"
+    ],
+    "raw_quote": "(MOVEMENTARIAN COMPOUND: int. movementarian compound - barracks - night)"
+  },
+  {
+    "timecode": "08:55",
+    "speaker": "Glen",
+    "quote": " Homer Simpson, your family will be housed here for the first 100,000 years. Then something might open up in a double.",
+    "directions": [],
+    "raw_quote": " Homer Simpson, your family will be housed here for the first 100,000 years. Then something might open up in a double."
+  },
+  {
+    "timecode": "09:02",
+    "speaker": "Homer Simpson",
+    "quote": " Hah, why even unpack?",
+    "directions": [],
+    "raw_quote": " Hah, why even unpack?"
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "DISAPPROVING MURMUR"
+    ],
+    "raw_quote": " (DISAPPROVING MURMUR)"
+  },
+  {
+    "timecode": "09:05",
+    "speaker": "Lisa Simpson",
+    "quote": " Dad and all these other people are obviously the products of mental conditioning.",
+    "directions": [
+      "SOTTO TO BART"
+    ],
+    "raw_quote": " (SOTTO TO BART) Dad and all these other people are obviously the products of mental conditioning."
+  },
+  {
+    "timecode": "09:09",
+    "speaker": "Bart Simpson",
+    "quote": " Yeah, maybe it'll wear off. Like his interest in C.B. radio.",
+    "directions": [],
+    "raw_quote": " Yeah, maybe it'll wear off. Like his interest in C.B. radio."
+  },
+  {
+    "timecode": "09:12",
+    "speaker": "Homer Simpson",
+    "quote": " That's a negatory, good buddy!",
+    "directions": [
+      "CALLING OUT TRUCKER STYLE"
+    ],
+    "raw_quote": " (CALLING OUT TRUCKER STYLE) That's a negatory, good buddy!"
+  },
+  {
+    "timecode": "09:13",
+    "speaker": "Bart Simpson",
+    "quote": " I kinda think it's cool. Just pretend you're in a zombie movie. Besides, this is just another place for me to wreak my special brand of hysterical havoc.",
+    "directions": [],
+    "raw_quote": " I kinda think it's cool. Just pretend you're in a zombie movie. Besides, this is just another place for me to wreak my special brand of hysterical havoc."
+  },
+  {
+    "timecode": "09:21",
+    "speaker": "Bart Simpson",
+    "quote": " These rubes in robes haven't met the likes of Bart Simpson before.",
+    "directions": [],
+    "raw_quote": " These rubes in robes haven't met the likes of Bart Simpson before."
+  },
+  {
+    "timecode": "09:32",
+    "speaker": "Bart Simpson",
+    "quote": " I love the Leader.",
+    "directions": [
+      "TRANCELIKE"
+    ],
+    "raw_quote": " (TRANCELIKE) I love the Leader."
+  },
+  {
+    "timecode": "09:35",
+    "speaker": "Glen",
+    "quote": " Of course you do.",
+    "directions": [],
+    "raw_quote": " Of course you do."
+  },
+  {
+    "timecode": "09:38",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "First Church of Springfield: int. church - next day"
+    ],
+    "raw_quote": "(First Church of Springfield: int. church - next day)"
+  },
+  {
+    "timecode": "09:38",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " This so-called \"new religion\" is nothing but a pack of weird rituals and chants designed to take away the money of fools... Let us say the Lord's Prayer forty times. But first, let's pass the collection plate.",
+    "directions": [],
+    "raw_quote": " This so-called \"new religion\" is nothing but a pack of weird rituals and chants designed to take away the money of fools... Let us say the Lord's Prayer forty times. But first, let's pass the collection plate."
+  },
+  {
+    "timecode": "09:52",
+    "speaker": "Ned Flanders",
+    "quote": " Looks like slim pickin's today, Reverend.",
+    "directions": [],
+    "raw_quote": " Looks like slim pickin's today, Reverend."
+  },
+  {
+    "timecode": "09:56",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Oh, Lord. Uh, try the emergency plate, Ned.",
+    "directions": [],
+    "raw_quote": " Oh, Lord. Uh, try the emergency plate, Ned."
+  },
+  {
+    "timecode": "10:00",
+    "speaker": "Ned Flanders",
+    "quote": " I don't think that's gonna do it.",
+    "directions": [],
+    "raw_quote": " I don't think that's gonna do it."
+  },
+  {
+    "timecode": "",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " ",
+    "directions": [
+      "GROAN"
+    ],
+    "raw_quote": " (GROAN)"
+  },
+  {
+    "timecode": "10:04",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MOVEMENTARIAN COMPOUND: ext. movementarian compound - simultaneous"
+    ],
+    "raw_quote": "(MOVEMENTARIAN COMPOUND: ext. movementarian compound - simultaneous)"
+  },
+  {
+    "timecode": "10:04",
+    "speaker": "Homer Simpson",
+    "quote": " See, Marge? Our lives are so much better now!",
+    "directions": [],
+    "raw_quote": " See, Marge? Our lives are so much better now!"
+  },
+  {
+    "timecode": "10:07",
+    "speaker": "Glen",
+    "quote": " You two! Stop talking and resume the lima bean harvest!",
+    "directions": [
+      "OVER P.A."
+    ],
+    "raw_quote": " (OVER P.A.) You two! Stop talking and resume the lima bean harvest!"
+  },
+  {
+    "timecode": "10:11",
+    "speaker": "Marge Simpson",
+    "quote": " When we got married, you promised me my harvesting days were over.",
+    "directions": [],
+    "raw_quote": " When we got married, you promised me my harvesting days were over."
+  },
+  {
+    "timecode": "10:18",
+    "speaker": "Moe Szyslak",
+    "quote": " Look! The Forbidden Barn opens!",
+    "directions": [],
+    "raw_quote": " Look! The Forbidden Barn opens!"
+  },
+  {
+    "timecode": "10:23",
+    "speaker": "Movementarians",
+    "quote": " The Leader! / He's coming! / The Leader is coming! / The Leader! / etc.",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " (GASP) The Leader! / He's coming! / The Leader is coming! / The Leader! / etc."
+  },
+  {
+    "timecode": "10:29",
+    "speaker": "Homer Simpson",
+    "quote": " Oh boy! We get to see the Leader pass by.",
+    "directions": [],
+    "raw_quote": " Oh boy! We get to see the Leader pass by."
+  },
+  {
+    "timecode": "10:31",
+    "speaker": "Lisa Simpson",
+    "quote": " We toil in the fields and he rides around in a Rolls Royce?",
+    "directions": [],
+    "raw_quote": " We toil in the fields and he rides around in a Rolls Royce?"
+  },
+  {
+    "timecode": "10:34",
+    "speaker": "Homer Simpson",
+    "quote": " Yes, it would be nice if he'd buy American, but what are ya gonna do?",
+    "directions": [],
+    "raw_quote": " Yes, it would be nice if he'd buy American, but what are ya gonna do?"
+  },
+  {
+    "timecode": "10:40",
+    "speaker": "Moe Szyslak",
+    "quote": " I'm covered in the dust of the Leader! He favors me!",
+    "directions": [],
+    "raw_quote": " I'm covered in the dust of the Leader! He favors me!"
+  },
+  {
+    "timecode": "10:44",
+    "speaker": "Sideshow Mel",
+    "quote": " I am even dustier! Dustier than thou!",
+    "directions": [],
+    "raw_quote": " I am even dustier! Dustier than thou!"
+  },
+  {
+    "timecode": "10:50",
+    "speaker": "Moe Szyslak",
+    "quote": " Oh, look who the new pet is!",
+    "directions": [],
+    "raw_quote": " Oh, look who the new pet is!"
+  },
+  {
+    "timecode": "10:53",
+    "speaker": "Homer Simpson",
+    "quote": " I've never been so happy.",
+    "directions": [
+      "TEARY"
+    ],
+    "raw_quote": " (TEARY) I've never been so happy."
+  },
+  {
+    "timecode": "10:56",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: int. power plant - mr. burns' office - later"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: int. power plant - mr. burns' office - later)"
+  },
+  {
+    "timecode": "10:56",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Smithers, why haven't I heard of this \"The Leader?\" He's as rich and wicked as I, but he seems to enjoy tax exempt status.",
+    "directions": [],
+    "raw_quote": " Smithers, why haven't I heard of this \"The Leader?\" He's as rich and wicked as I, but he seems to enjoy tax exempt status."
+  },
+  {
+    "timecode": "11:04",
+    "speaker": "Waylon Smithers",
+    "quote": " Actually sir, with our creative bookkeeping and corporate loopholes, we only pay three dollars a year.",
+    "directions": [],
+    "raw_quote": " Actually sir, with our creative bookkeeping and corporate loopholes, we only pay three dollars a year."
+  },
+  {
+    "timecode": "11:09",
+    "speaker": "C. Montgomery Burns",
+    "quote": " You're right. We're getting screwed! There must be something I can do about this. Wait! Yes! I think I know just the thing! ",
+    "directions": [
+      "EVIL LAUGH"
+    ],
+    "raw_quote": " You're right. We're getting screwed! There must be something I can do about this. Wait! Yes! I think I know just the thing! (EVIL LAUGH)"
+  },
+  {
+    "timecode": "11:26",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Burns's Office: int. mr. burns' office - later"
+    ],
+    "raw_quote": "(Burns's Office: int. mr. burns' office - later)"
+  },
+  {
+    "timecode": "11:26",
+    "speaker": "Waylon Smithers",
+    "quote": " Uh, sir, you have to tell me what your plan is, or nothing will happen.",
+    "directions": [],
+    "raw_quote": " Uh, sir, you have to tell me what your plan is, or nothing will happen."
+  },
+  {
+    "timecode": "11:31",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Oh, yes, of course, the plan! You see me as a God, right Smithers?",
+    "directions": [],
+    "raw_quote": " Oh, yes, of course, the plan! You see me as a God, right Smithers?"
+  },
+  {
+    "timecode": "11:35",
+    "speaker": "Waylon Smithers",
+    "quote": " Absolutely, sir.",
+    "directions": [],
+    "raw_quote": " Absolutely, sir."
+  },
+  {
+    "timecode": "11:36",
+    "speaker": "C. Montgomery Burns",
+    "quote": " You'd kneel before me.",
+    "directions": [],
+    "raw_quote": " You'd kneel before me."
+  },
+  {
+    "timecode": "11:37",
+    "speaker": "Waylon Smithers",
+    "quote": " Boy, would I.",
+    "directions": [],
+    "raw_quote": " Boy, would I."
+  },
+  {
+    "timecode": "11:39",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Yes -- Uh, then I'll form my own religion!",
+    "directions": [
+      "SLIGHTLY UNCOMFORTABLE"
+    ],
+    "raw_quote": " (SLIGHTLY UNCOMFORTABLE) Yes -- Uh, then I'll form my own religion!"
+  },
+  {
+    "timecode": "11:39",
+    "speaker": "C. Montgomery Burns",
+    "quote": " With its own symbol. We'll use this \"Special K!\"",
+    "directions": [],
+    "raw_quote": " With its own symbol. We'll use this \"Special K!\""
+  },
+  {
+    "timecode": "11:43",
+    "speaker": "Waylon Smithers",
+    "quote": " I believe that's already a breakfast cereal, sir.",
+    "directions": [],
+    "raw_quote": " I believe that's already a breakfast cereal, sir."
+  },
+  {
+    "timecode": "11:48",
+    "speaker": "C. Montgomery Burns",
+    "quote": " And people worship it?",
+    "directions": [],
+    "raw_quote": " And people worship it?"
+  },
+  {
+    "timecode": "11:50",
+    "speaker": "Waylon Smithers",
+    "quote": " In a way.",
+    "directions": [],
+    "raw_quote": " In a way."
+  },
+  {
+    "timecode": "11:51",
+    "speaker": "C. Montgomery Burns",
+    "quote": " All right, then. Uh, how about this?",
+    "directions": [
+      "SKETCHES AGAIN"
+    ],
+    "raw_quote": " All right, then. (SKETCHES AGAIN) Uh, how about this?"
+  },
+  {
+    "timecode": "11:53",
+    "speaker": "Waylon Smithers",
+    "quote": " Uh, why don't you leave the symbol to me, sir.",
+    "directions": [],
+    "raw_quote": " Uh, why don't you leave the symbol to me, sir."
+  },
+  {
+    "timecode": "12:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Nuclear Power Plant: ext. power plant - later"
+    ],
+    "raw_quote": "(Springfield Nuclear Power Plant: ext. power plant - later)"
+  },
+  {
+    "timecode": "12:11",
+    "speaker": "Waylon Smithers",
+    "quote": " Ladies and gentlemen, behold your new God...Mr. Burns!",
+    "directions": [],
+    "raw_quote": " Ladies and gentlemen, behold your new God...Mr. Burns!"
+  },
+  {
+    "timecode": "12:20",
+    "speaker": "C. Montgomery Burns",
+    "quote": " Ahoy hoy, lowly mortals! In addition to working for me, you may now praise me as your Almighty!",
+    "directions": [],
+    "raw_quote": " Ahoy hoy, lowly mortals! In addition to working for me, you may now praise me as your Almighty!"
+  },
+  {
+    "timecode": "12:27",
+    "speaker": "Waylon Smithers",
+    "quote": " Amen, sir.",
+    "directions": [],
+    "raw_quote": " Amen, sir."
+  },
+  {
+    "timecode": "12:39",
+    "speaker": "Waylon Smithers",
+    "quote": " Ahh, we'll try this again tomorrow.",
+    "directions": [],
+    "raw_quote": " Ahh, we'll try this again tomorrow."
+  },
+  {
+    "timecode": "12:42",
+    "speaker": "Lenny Leonard",
+    "quote": " Ah, he's all right, but he's no bowl of Special K.",
+    "directions": [],
+    "raw_quote": " Ah, he's all right, but he's no bowl of Special K."
+  },
+  {
+    "timecode": "12:47",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MOVEMENTARIAN COMPOUND: ext. movementarian compound - large field - a little later"
+    ],
+    "raw_quote": "(MOVEMENTARIAN COMPOUND: ext. movementarian compound - large field - a little later)"
+  },
+  {
+    "timecode": "12:47",
+    "speaker": "Marge Simpson",
+    "quote": " This is ridiculous, we're already married!",
+    "directions": [],
+    "raw_quote": " This is ridiculous, we're already married!"
+  },
+  {
+    "timecode": "12:49",
+    "speaker": "Homer Simpson",
+    "quote": " But Marge, we're not mass married.",
+    "directions": [],
+    "raw_quote": " But Marge, we're not mass married."
+  },
+  {
+    "timecode": "12:54",
+    "speaker": "Barney Gumble",
+    "quote": " At least you got to choose your mate. We got matched up on the print-out.",
+    "directions": [
+      "TO MARGE"
+    ],
+    "raw_quote": " (TO MARGE) At least you got to choose your mate. We got matched up on the print-out."
+  },
+  {
+    "timecode": "12:59",
+    "speaker": "Otto Mann",
+    "quote": " Hey, remember our agreement. I'm the man.",
+    "directions": [],
+    "raw_quote": " Hey, remember our agreement. I'm the man."
+  },
+  {
+    "timecode": "13:02",
+    "speaker": "Barney Gumble",
+    "quote": " You're the man!",
+    "directions": [],
+    "raw_quote": " You're the man!"
+  },
+  {
+    "timecode": "13:03",
+    "speaker": "Seymour Skinner",
+    "quote": " I could've done a lot worse, Mother.",
+    "directions": [],
+    "raw_quote": " I could've done a lot worse, Mother."
+  },
+  {
+    "timecode": "13:05",
+    "speaker": "Agnes Skinner",
+    "quote": " Speak for yourself.",
+    "directions": [],
+    "raw_quote": " Speak for yourself."
+  },
+  {
+    "timecode": "13:07",
+    "speaker": "Comic Book Guy",
+    "quote": " So, do you enjoy comic books?",
+    "directions": [
+      "TO LURLEEN"
+    ],
+    "raw_quote": " (TO LURLEEN) So, do you enjoy comic books?"
+  },
+  {
+    "timecode": "13:11",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MOVEMENTARIAN SCHOOL: int. movementarian school - later"
+    ],
+    "raw_quote": "(MOVEMENTARIAN SCHOOL: int. movementarian school - later)"
+  },
+  {
+    "timecode": "13:11",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " And who can tell me where thunder and lightning come from? Yes, Bart?",
+    "directions": [],
+    "raw_quote": " And who can tell me where thunder and lightning come from? Yes, Bart?"
+  },
+  {
+    "timecode": "13:16",
+    "speaker": "Bart Simpson",
+    "quote": " The Leader, Ma'am.",
+    "directions": [],
+    "raw_quote": " The Leader, Ma'am."
+  },
+  {
+    "timecode": "13:18",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Very good, Bart. And who invented Morse code?",
+    "directions": [],
+    "raw_quote": " Very good, Bart. And who invented Morse code?"
+  },
+  {
+    "timecode": "13:21",
+    "speaker": "Bart Simpson",
+    "quote": " Oh, I should know this one. Th--The Leader?",
+    "directions": [
+      "STRUGGLING",
+      "TENTATIVELY"
+    ],
+    "raw_quote": " (STRUGGLING) Oh, I should know this one. (TENTATIVELY) Th--The Leader?"
+  },
+  {
+    "timecode": "13:26",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " Ah, correct again.",
+    "directions": [],
+    "raw_quote": " Ah, correct again."
+  },
+  {
+    "timecode": "13:28",
+    "speaker": "Lisa Simpson",
+    "quote": " He's wrong! You're wrong! The whole damn system is wrong!",
+    "directions": [],
+    "raw_quote": " He's wrong! You're wrong! The whole damn system is wrong!"
+  },
+  {
+    "timecode": "13:34",
+    "speaker": "Edna Krabappel-Flanders",
+    "quote": " What's the matter, Lisa? You used to be such a good student. Don't you want to please your teachers and get good grades?",
+    "directions": [],
+    "raw_quote": " What's the matter, Lisa? You used to be such a good student. Don't you want to please your teachers and get good grades?"
+  },
+  {
+    "timecode": "13:43",
+    "speaker": "Lisa Simpson",
+    "quote": " Grades?",
+    "directions": [
+      "TINY VOICE"
+    ],
+    "raw_quote": " (TINY VOICE) Grades?"
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Movementarian Day Care Center: Int. movementarian day care center - simultaneous"
+    ],
+    "raw_quote": "(Movementarian Day Care Center: Int. movementarian day care center - simultaneous)"
+  },
+  {
+    "timecode": "13:46",
+    "speaker": "Dinosaur",
+    "quote": " \"We love him...He loves we...We're the Leader's Fa-mi-ly.\"",
+    "directions": [
+      "TO THE TUNE OF \"KNICK-KNACK PADDYWACK\""
+    ],
+    "raw_quote": " (TO THE TUNE OF \"KNICK-KNACK PADDYWACK\") \"We love him...He loves we...We're the Leader's Fa-mi-ly.\""
+  },
+  {
+    "timecode": "13:52",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MOVEMENTARIAN COMPOUND: int. movementarian compound - barracks - night"
+    ],
+    "raw_quote": "(MOVEMENTARIAN COMPOUND: int. movementarian compound - barracks - night)"
+  },
+  {
+    "timecode": "13:52",
+    "speaker": "Homer Simpson",
+    "quote": " These lima beans are even better than the ones we had for breakfast and lunch. Oh! A lima bean that looks just like the Leader! I'll put it with the others.",
+    "directions": [
+      "GASP"
+    ],
+    "raw_quote": " These lima beans are even better than the ones we had for breakfast and lunch. (GASP) Oh! A lima bean that looks just like the Leader! I'll put it with the others."
+  },
+  {
+    "timecode": "14:02",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, you know I always try to put the best face on everything. But there's no face on that damn bean! We hate it here and the family wants to leave.",
+    "directions": [],
+    "raw_quote": " Homer, you know I always try to put the best face on everything. But there's no face on that damn bean! We hate it here and the family wants to leave."
+  },
+  {
+    "timecode": "14:12",
+    "speaker": "Lisa Simpson",
+    "quote": " No we don't, Mother!",
+    "directions": [],
+    "raw_quote": " No we don't, Mother!"
+  },
+  {
+    "timecode": "14:13",
+    "speaker": "Lisa Simpson",
+    "quote": " We love the Leader!",
+    "directions": [],
+    "raw_quote": " We love the Leader!"
+  },
+  {
+    "timecode": "14:18",
+    "speaker": "Marge Simpson",
+    "quote": " No-o-o-o-o-o-o!!! All righty, time for bed.",
+    "directions": [
+      "SCREAMING",
+      "BEAT, THEN CALMLY"
+    ],
+    "raw_quote": " (SCREAMING) No-o-o-o-o-o-o!!! (BEAT, THEN CALMLY) All righty, time for bed."
+  },
+  {
+    "timecode": "14:25",
+    "speaker": "Marge Simpson",
+    "quote": " I'm leaving this place, and you'd better step aside!",
+    "directions": [],
+    "raw_quote": " I'm leaving this place, and you'd better step aside!"
+  },
+  {
+    "timecode": "14:29",
+    "speaker": "Sentry",
+    "quote": " Lady, people are free to go whenever they wish.",
+    "directions": [
+      "SQUEEKY-VOICED TEENAGER"
+    ],
+    "raw_quote": " (SQUEEKY-VOICED TEENAGER) Lady, people are free to go whenever they wish."
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "STEELING HERSELF SIGH"
+    ],
+    "raw_quote": " (STEELING HERSELF SIGH)"
+  },
+  {
+    "timecode": "15:10",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "First Church of Springfield: int. church - later that night"
+    ],
+    "raw_quote": "(First Church of Springfield: int. church - later that night)"
+  },
+  {
+    "timecode": "15:10",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Oh, I never thought I'd have to do this again.",
+    "directions": [
+      "SIGHS"
+    ],
+    "raw_quote": " (SIGHS) Oh, I never thought I'd have to do this again."
+  },
+  {
+    "timecode": "15:15",
+    "speaker": "Marge Simpson",
+    "quote": " Reverend Lovejoy! You've got to help me! My entire family has been taken in by the evil Movementarians.",
+    "directions": [
+      "GASPING",
+      "COUGHS"
+    ],
+    "raw_quote": " (GASPING) Reverend Lovejoy! (COUGHS) You've got to help me! My entire family has been taken in by the evil Movementarians."
+  },
+  {
+    "timecode": "15:23",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Oh, I feel for you my child, and I'd like to help you. ",
+    "directions": [
+      "CLEARING THROAT"
+    ],
+    "raw_quote": " Oh, I feel for you my child, and I'd like to help you. (CLEARING THROAT)"
+  },
+  {
+    "timecode": "15:32",
+    "speaker": "Marge Simpson",
+    "quote": " Now, how are we going to get my Homie back?",
+    "directions": [],
+    "raw_quote": " Now, how are we going to get my Homie back?"
+  },
+  {
+    "timecode": "15:36",
+    "speaker": "Groundskeeper Willie",
+    "quote": " I'll kidnap him for fifty. De-program him for a hundred. And I'll kill him for five hundred.",
+    "directions": [],
+    "raw_quote": " I'll kidnap him for fifty. De-program him for a hundred. And I'll kill him for five hundred."
+  },
+  {
+    "timecode": "15:42",
+    "speaker": "Marge Simpson",
+    "quote": " No, no, no. Just the first two.",
+    "directions": [],
+    "raw_quote": " No, no, no. Just the first two."
+  },
+  {
+    "timecode": "15:44",
+    "speaker": "Groundskeeper Willie",
+    "quote": " All right. I'll throw in the killin' for free.",
+    "directions": [],
+    "raw_quote": " All right. I'll throw in the killin' for free."
+  },
+  {
+    "timecode": "15:46",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MOVEMENTARIAN COMPOUND: ext. MOVEMENTARIAN compound - THE NEXT MORNING"
+    ],
+    "raw_quote": "(MOVEMENTARIAN COMPOUND: ext. MOVEMENTARIAN compound - THE NEXT MORNING)"
+  },
+  {
+    "timecode": "15:46",
+    "speaker": "Lisa Simpson",
+    "quote": " Yaaay! Here comes the Leader!",
+    "directions": [],
+    "raw_quote": " Yaaay! Here comes the Leader!"
+  },
+  {
+    "timecode": "15:55",
+    "speaker": "Homer Simpson",
+    "quote": " What an honor! We've been called into the presence of --",
+    "directions": [
+      "IN AWE"
+    ],
+    "raw_quote": " (IN AWE) What an honor! We've been called into the presence of --"
+  },
+  {
+    "timecode": "16:01",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "ROLLS ROYCE: int. rolls royce - continuous"
+    ],
+    "raw_quote": "(ROLLS ROYCE: int. rolls royce - continuous)"
+  },
+  {
+    "timecode": "16:01",
+    "speaker": "Homer Simpson",
+    "quote": " Marge? You're the Leader? You don't look anything like the beans.",
+    "directions": [],
+    "raw_quote": " Marge? You're the Leader? You don't look anything like the beans."
+  },
+  {
+    "timecode": "16:05",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Knock 'im out, Reverend!",
+    "directions": [],
+    "raw_quote": " Knock 'im out, Reverend!"
+  },
+  {
+    "timecode": "",
+    "speaker": "Homer Simpson",
+    "quote": " ",
+    "directions": [
+      "VARIOUS PAIN NOISES"
+    ],
+    "raw_quote": " (VARIOUS PAIN NOISES)"
+  },
+  {
+    "timecode": "16:09",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Oh, the Devil has given him superhuman strength!",
+    "directions": [],
+    "raw_quote": " Oh, the Devil has given him superhuman strength!"
+  },
+  {
+    "timecode": "16:12",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Give me that, you noodle-armed choir boy!",
+    "directions": [],
+    "raw_quote": " Give me that, you noodle-armed choir boy!"
+  },
+  {
+    "timecode": "16:16",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Well, that didn't do it, Mr. Kilt.",
+    "directions": [],
+    "raw_quote": " Well, that didn't do it, Mr. Kilt."
+  },
+  {
+    "timecode": "16:18",
+    "speaker": "Marge Simpson",
+    "quote": " Look, let's the three of us try it together.",
+    "directions": [],
+    "raw_quote": " Look, let's the three of us try it together."
+  },
+  {
+    "timecode": "16:21",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "BASEMENT: int. basement - later"
+    ],
+    "raw_quote": "(BASEMENT: int. basement - later)"
+  },
+  {
+    "timecode": "16:21",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Oh, you're gonna break like matchsticks. I promise you that.",
+    "directions": [
+      "OMINOUSLY"
+    ],
+    "raw_quote": " (OMINOUSLY) Oh, you're gonna break like matchsticks. I promise you that."
+  },
+  {
+    "timecode": "16:32",
+    "speaker": "Ned Flanders",
+    "quote": " Hey, I made some Rice Krispy squares for our hungry deprogramerinos!",
+    "directions": [],
+    "raw_quote": " Hey, I made some Rice Krispy squares for our hungry deprogramerinos!"
+  },
+  {
+    "timecode": "16:36",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Ah, man! You ruined the atmosphere, you daft pansy!",
+    "directions": [],
+    "raw_quote": " Ah, man! You ruined the atmosphere, you daft pansy!"
+  },
+  {
+    "timecode": "16:40",
+    "speaker": "Ned Flanders",
+    "quote": " Well, this is my rumpus room.",
+    "directions": [],
+    "raw_quote": " Well, this is my rumpus room."
+  },
+  {
+    "timecode": "16:43",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Ach! Don't call it that!",
+    "directions": [
+      "TOTALLY FLUSTERED"
+    ],
+    "raw_quote": " (TOTALLY FLUSTERED) Ach! Don't call it that!"
+  },
+  {
+    "timecode": "16:47",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MOVEMENTARIAN COMPOUND: int. movementarian compound - office - simultaneous"
+    ],
+    "raw_quote": "(MOVEMENTARIAN COMPOUND: int. movementarian compound - office - simultaneous)"
+  },
+  {
+    "timecode": "16:47",
+    "speaker": "Glen",
+    "quote": " Outsiders have kidnapped some of our property. We must respond with our deadliest weapon.",
+    "directions": [],
+    "raw_quote": " Outsiders have kidnapped some of our property. We must respond with our deadliest weapon."
+  },
+  {
+    "timecode": "16:53",
+    "speaker": "Jane",
+    "quote": " The Lawyers.",
+    "directions": [
+      "NODDING GRAVELY"
+    ],
+    "raw_quote": " (NODDING GRAVELY) The Lawyers."
+  },
+  {
+    "timecode": "17:00",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Springfield Fire Department: ext. springfield firehouse - moments later"
+    ],
+    "raw_quote": "(Springfield Fire Department: ext. springfield firehouse - moments later)"
+  },
+  {
+    "timecode": "17:00",
+    "speaker": "Kent Brockman",
+    "quote": " Attention all citizens! Even though the Leader himself is completely non-violent, he urges you to be as violent as you like in capturing the Simpsons.",
+    "directions": [],
+    "raw_quote": " Attention all citizens! Even though the Leader himself is completely non-violent, he urges you to be as violent as you like in capturing the Simpsons."
+  },
+  {
+    "timecode": "17:13",
+    "speaker": "Kent Brockman",
+    "quote": " What are you doing? They're not here, you idiots!",
+    "directions": [],
+    "raw_quote": " What are you doing? They're not here, you idiots!"
+  },
+  {
+    "timecode": "17:16",
+    "speaker": "Blue-Haired Lawyer",
+    "quote": " Idiots? That's slander, sir. And we have it on tape.",
+    "directions": [],
+    "raw_quote": " Idiots? That's slander, sir. And we have it on tape."
+  },
+  {
+    "timecode": "17:18",
+    "speaker": "Kent Brockman",
+    "quote": " All right, I'll get out my checkbook. ",
+    "directions": [
+      "GRUMBLING",
+      "GROANS"
+    ],
+    "raw_quote": " (GRUMBLING) All right, I'll get out my checkbook. (GROANS)"
+  },
+  {
+    "timecode": "17:22",
+    "speaker": "Blue-Haired Lawyer",
+    "quote": " What was that?",
+    "directions": [],
+    "raw_quote": " What was that?"
+  },
+  {
+    "timecode": "17:23",
+    "speaker": "BROCKMAN",
+    "quote": " Ah, I said \"Mmph.\"",
+    "directions": [],
+    "raw_quote": " Ah, I said \"Mmph.\""
+  },
+  {
+    "timecode": "17:23",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Flanders Home: int. flanders' house - basement - continuous"
+    ],
+    "raw_quote": "(Flanders Home: int. flanders' house - basement - continuous)"
+  },
+  {
+    "timecode": "17:23",
+    "speaker": "Marge Simpson",
+    "quote": " So, you kids really love the Leader, huh? Even more than your parents?",
+    "directions": [],
+    "raw_quote": " So, you kids really love the Leader, huh? Even more than your parents?"
+  },
+  {
+    "timecode": "17:29",
+    "speaker": "Lisa Simpson",
+    "quote": " Oh yeah! / Absolutely! / At least twice as much!",
+    "directions": [
+      "AD-LIB"
+    ],
+    "raw_quote": " (AD-LIB) Oh yeah! / Absolutely! / At least twice as much!"
+  },
+  {
+    "timecode": "17:31",
+    "speaker": "Marge Simpson",
+    "quote": " All right, already! But do you love the Leader more than having your very own, brand new -- Hoverbikes?",
+    "directions": [
+      "INTERRUPTING, ANNOYED"
+    ],
+    "raw_quote": " (INTERRUPTING, ANNOYED) All right, already! But do you love the Leader more than having your very own, brand new -- Hoverbikes?"
+  },
+  {
+    "timecode": "17:42",
+    "speaker": "Marge Simpson",
+    "quote": " What do you have to say about the Leader now? Hunh? Hunh?",
+    "directions": [],
+    "raw_quote": " What do you have to say about the Leader now? Hunh? Hunh?"
+  },
+  {
+    "timecode": "17:45",
+    "speaker": "Lisa Simpson",
+    "quote": " The hell with him! / What Leader? / He can take a flying leap as far as I'm concerned! / Lea-who?",
+    "directions": [
+      "AD-LIB"
+    ],
+    "raw_quote": " (AD-LIB) The hell with him! / What Leader? / He can take a flying leap as far as I'm concerned! / Lea-who?"
+  },
+  {
+    "timecode": "17:47",
+    "speaker": "Marge Simpson",
+    "quote": " And who do you love now?",
+    "directions": [],
+    "raw_quote": " And who do you love now?"
+  },
+  {
+    "timecode": "17:49",
+    "speaker": "Lisa Simpson",
+    "quote": " Hoverbikes!!",
+    "directions": [],
+    "raw_quote": " Hoverbikes!!"
+  },
+  {
+    "timecode": "17:50",
+    "speaker": "Marge Simpson",
+    "quote": " Close enough.",
+    "directions": [
+      "ROLLING EYES"
+    ],
+    "raw_quote": " (ROLLING EYES) Close enough."
+  },
+  {
+    "timecode": "17:57",
+    "speaker": "Lisa Simpson",
+    "quote": " Yayyy!",
+    "directions": [],
+    "raw_quote": " Yayyy!"
+  },
+  {
+    "timecode": "17:57",
+    "speaker": "Marge Simpson",
+    "quote": " Sorry kids, there's no such thing as Hoverbikes. They're just a couple of Huffys on a fishing line!",
+    "directions": [
+      "GOOD NATURED LAUGH"
+    ],
+    "raw_quote": " (GOOD NATURED LAUGH) Sorry kids, there's no such thing as Hoverbikes. They're just a couple of Huffys on a fishing line!"
+  },
+  {
+    "timecode": "18:04",
+    "speaker": "Lisa Simpson",
+    "quote": " But we heard them hovering!",
+    "directions": [],
+    "raw_quote": " But we heard them hovering!"
+  },
+  {
+    "timecode": "18:06",
+    "speaker": "Ned Flanders",
+    "quote": " Oh ho, I'm afraid I played a dirty part in this little charade.",
+    "directions": [],
+    "raw_quote": " Oh ho, I'm afraid I played a dirty part in this little charade."
+  },
+  {
+    "timecode": "18:10",
+    "speaker": "Bart Simpson",
+    "quote": " Well, can we at least keep the bikes?",
+    "directions": [],
+    "raw_quote": " Well, can we at least keep the bikes?"
+  },
+  {
+    "timecode": "18:11",
+    "speaker": "Marge Simpson",
+    "quote": " Oh no, no, no, no, no, no! They're due back at the store by six. Get off 'em! Get off, off! Get off!",
+    "directions": [],
+    "raw_quote": " Oh no, no, no, no, no, no! They're due back at the store by six. Get off 'em! Get off, off! Get off!"
+  },
+  {
+    "timecode": "18:16",
+    "speaker": "Groundskeeper Willie",
+    "quote": " All right, Now, what's so all-fired great about your fancy-pants Leader?",
+    "directions": [
+      "IN HOMER'S FACE"
+    ],
+    "raw_quote": " (IN HOMER'S FACE) All right, Now, what's so all-fired great about your fancy-pants Leader?"
+  },
+  {
+    "timecode": "18:23",
+    "speaker": "Homer Simpson",
+    "quote": " The Leader knows all and sees all.",
+    "directions": [],
+    "raw_quote": " The Leader knows all and sees all."
+  },
+  {
+    "timecode": "18:26",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Eww, well, that is impressive.",
+    "directions": [
+      "INTRIGUED"
+    ],
+    "raw_quote": " (INTRIGUED) Eww, well, that is impressive."
+  },
+  {
+    "timecode": "18:28",
+    "speaker": "Homer Simpson",
+    "quote": " And he's going to take us to a wonderful new planet.",
+    "directions": [],
+    "raw_quote": " And he's going to take us to a wonderful new planet."
+  },
+  {
+    "timecode": "18:32",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Oh! This Leader, he sounds like a grand fella.",
+    "directions": [
+      "TOTALLY WON OVER"
+    ],
+    "raw_quote": " (TOTALLY WON OVER) Oh! This Leader, he sounds like a grand fella."
+  },
+  {
+    "timecode": "18:36",
+    "speaker": "Marge Simpson",
+    "quote": " Willie, I'm not sure we're making any headway here.",
+    "directions": [],
+    "raw_quote": " Willie, I'm not sure we're making any headway here."
+  },
+  {
+    "timecode": "18:38",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Would you shut up, woman! He's talkin' about my Leader!",
+    "directions": [],
+    "raw_quote": " Would you shut up, woman! He's talkin' about my Leader!"
+  },
+  {
+    "timecode": "18:42",
+    "speaker": "Ned Flanders",
+    "quote": " Uh, maybe we should take a little break-a-rooney, huh? Anyone like a draft beer?",
+    "directions": [],
+    "raw_quote": " Uh, maybe we should take a little break-a-rooney, huh? Anyone like a draft beer?"
+  },
+  {
+    "timecode": "18:46",
+    "speaker": "Homer Simpson",
+    "quote": " Beer?",
+    "directions": [
+      "QUIETLY"
+    ],
+    "raw_quote": " (QUIETLY) Beer?"
+  },
+  {
+    "timecode": "18:47",
+    "speaker": "Marge Simpson",
+    "quote": " Hmm... Would you like a tall frosty one, Homer?",
+    "directions": [
+      "SLYLY"
+    ],
+    "raw_quote": " Hmm...(SLYLY) Would you like a tall frosty one, Homer?"
+  },
+  {
+    "timecode": "18:58",
+    "speaker": "Homer's Brain",
+    "quote": " No! Must resist temptation!",
+    "directions": [],
+    "raw_quote": " No! Must resist temptation!"
+  },
+  {
+    "timecode": "19:01",
+    "speaker": "Homer's Stomach",
+    "quote": " Go ahead! Give in! Beer! Beer!",
+    "directions": [],
+    "raw_quote": " Go ahead! Give in! Beer! Beer!"
+  },
+  {
+    "timecode": "19:06",
+    "speaker": "Homer's Feet",
+    "quote": " Ooh, these cotton-poly blends are sooo comfortable!",
+    "directions": [],
+    "raw_quote": " Ooh, these cotton-poly blends are sooo comfortable!"
+  },
+  {
+    "timecode": "19:10",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Go on, Homer. Our commandments clearly state that beer is all right. Try some.",
+    "directions": [],
+    "raw_quote": " Go on, Homer. Our commandments clearly state that beer is all right. Try some."
+  },
+  {
+    "timecode": "19:23",
+    "speaker": "Blue-Haired Lawyer",
+    "quote": " This man is coming with us!",
+    "directions": [],
+    "raw_quote": " This man is coming with us!"
+  },
+  {
+    "timecode": "19:24",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, you don't have to go with them!",
+    "directions": [],
+    "raw_quote": " Homer, you don't have to go with them!"
+  },
+  {
+    "timecode": "19:26",
+    "speaker": "Homer Simpson",
+    "quote": " But I want to go.",
+    "directions": [],
+    "raw_quote": " But I want to go."
+  },
+  {
+    "timecode": "19:28",
+    "speaker": "Blue-Haired Lawyer",
+    "quote": " Well, I would say the matter is settled.",
+    "directions": [],
+    "raw_quote": " Well, I would say the matter is settled."
+  },
+  {
+    "timecode": "19:30",
+    "speaker": "Ned Flanders",
+    "quote": " You know, I pride myself on being a good host, so I'm obliged to offer you a beer. But I'm so darn mad it's gonna be mostly head.",
+    "directions": [
+      "TO LAWYERS",
+      "SEETHING"
+    ],
+    "raw_quote": " (TO LAWYERS) You know, I pride myself on being a good host, so I'm obliged to offer you a beer. (SEETHING) But I'm so darn mad it's gonna be mostly head."
+  },
+  {
+    "timecode": "19:43",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "MOVEMENTARIAN COMPOUND: ext. MOVEMENTARIAN compound - A LITTLE LATER"
+    ],
+    "raw_quote": "(MOVEMENTARIAN COMPOUND: ext. MOVEMENTARIAN compound - A LITTLE LATER)"
+  },
+  {
+    "timecode": "19:43",
+    "speaker": "Marge Simpson",
+    "quote": " Homer, come back!",
+    "directions": [
+      "CALLING"
+    ],
+    "raw_quote": " (CALLING) Homer, come back!"
+  },
+  {
+    "timecode": "19:45",
+    "speaker": "Marge Simpson",
+    "quote": " That's my husband!",
+    "directions": [
+      "TO GLEN"
+    ],
+    "raw_quote": " (TO GLEN) That's my husband!"
+  },
+  {
+    "timecode": "19:47",
+    "speaker": "Glen",
+    "quote": " He's our husband now.",
+    "directions": [],
+    "raw_quote": " He's our husband now."
+  },
+  {
+    "timecode": "19:50",
+    "speaker": "Homer Simpson",
+    "quote": " I'm glad I'm back! Because the moment that sweet, sweet beer hit my tongue, I was born again!",
+    "directions": [
+      "TURNING"
+    ],
+    "raw_quote": " I'm glad I'm back! (TURNING) Because the moment that sweet, sweet beer hit my tongue, I was born again!"
+  },
+  {
+    "timecode": "19:59",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Hallelujah!",
+    "directions": [],
+    "raw_quote": " Hallelujah!"
+  },
+  {
+    "timecode": "20:00",
+    "speaker": "Homer Simpson",
+    "quote": " Now I can show all of you what I've come to realize. The reason we're not allowed in the Forbidden Barn is because there is no inter-galactic spaceship! He's taken our money just so he can...build one hell of a spaceship!",
+    "directions": [],
+    "raw_quote": " Now I can show all of you what I've come to realize. The reason we're not allowed in the Forbidden Barn is because there is no inter-galactic spaceship! He's taken our money just so he can...build one hell of a spaceship!"
+  },
+  {
+    "timecode": "20:19",
+    "speaker": "Leader",
+    "quote": " Homer Simpson! Because of your lack of faith, you've ruined mankind's chance for salvation!",
+    "directions": [],
+    "raw_quote": " Homer Simpson! Because of your lack of faith, you've ruined mankind's chance for salvation!"
+  },
+  {
+    "timecode": "20:25",
+    "speaker": "Homer Simpson",
+    "quote": " Whoops.",
+    "directions": [],
+    "raw_quote": " Whoops."
+  },
+  {
+    "timecode": "20:26",
+    "speaker": "Moe Szyslak",
+    "quote": " Nice going there, Homer.",
+    "directions": [],
+    "raw_quote": " Nice going there, Homer."
+  },
+  {
+    "timecode": "20:27",
+    "speaker": "Marge Simpson",
+    "quote": " Omigosh! Maybe he was telling the truth about everything.",
+    "directions": [],
+    "raw_quote": " Omigosh! Maybe he was telling the truth about everything."
+  },
+  {
+    "timecode": "20:31",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Oh, mercy! He's the real deal!",
+    "directions": [],
+    "raw_quote": " Oh, mercy! He's the real deal!"
+  },
+  {
+    "timecode": "20:47",
+    "speaker": "Movementarians",
+    "quote": " Awww...",
+    "directions": [
+      "DISAPPOINTED"
+    ],
+    "raw_quote": " (DISAPPOINTED) Awww..."
+  },
+  {
+    "timecode": "20:49",
+    "speaker": "Groundskeeper Willie",
+    "quote": " Come back! Come back! Willy still loves you, oh Great One!",
+    "directions": [
+      "CALLING"
+    ],
+    "raw_quote": " (CALLING) Come back! Come back! Willy still loves you, oh Great One!"
+  },
+  {
+    "timecode": "20:59",
+    "speaker": "Cletus Spuckler",
+    "quote": " Stranger, you're a trespassing on my dirt farm.",
+    "directions": [],
+    "raw_quote": " Stranger, you're a trespassing on my dirt farm."
+  },
+  {
+    "timecode": "21:03",
+    "speaker": "Leader",
+    "quote": " Uh, do you happen to need a messiah?",
+    "directions": [],
+    "raw_quote": " Uh, do you happen to need a messiah?"
+  },
+  {
+    "timecode": "21:06",
+    "speaker": "Cletus Spuckler",
+    "quote": " No, but I'll take them sacks of money from ya.",
+    "directions": [],
+    "raw_quote": " No, but I'll take them sacks of money from ya."
+  },
+  {
+    "timecode": "21:11",
+    "speaker": "THE LEADER",
+    "quote": " I should have stayed with the Promise Keepers.",
+    "directions": [
+      "DEFEATED GROAN"
+    ],
+    "raw_quote": " (DEFEATED GROAN) I should have stayed with the Promise Keepers."
+  },
+  {
+    "timecode": "21:14",
+    "speaker": "Moe Szyslak",
+    "quote": " Dammit, it fell apart like everything else I've ever believed in. Oh, I guess it's back to good old fashioned voodoo.",
+    "directions": [],
+    "raw_quote": " Dammit, it fell apart like everything else I've ever believed in. Oh, I guess it's back to good old fashioned voodoo."
+  },
+  {
+    "timecode": "21:22",
+    "speaker": "Barney Gumble",
+    "quote": " Whoa, I need a drink.",
+    "directions": [],
+    "raw_quote": " Whoa, I need a drink."
+  },
+  {
+    "timecode": "21:25",
+    "speaker": "Moe Szyslak",
+    "quote": " Come with me.",
+    "directions": [],
+    "raw_quote": " Come with me."
+  },
+  {
+    "timecode": "21:27",
+    "speaker": "Ned Flanders",
+    "quote": " Uh, is that your collar, Reverend?",
+    "directions": [],
+    "raw_quote": " Uh, is that your collar, Reverend?"
+  },
+  {
+    "timecode": "21:29",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Ah yes, how did that get down there?",
+    "directions": [],
+    "raw_quote": " Ah yes, how did that get down there?"
+  },
+  {
+    "timecode": "21:34",
+    "speaker": "Rev. Timothy Lovejoy",
+    "quote": " Come back to papa, baby.",
+    "directions": [],
+    "raw_quote": " Come back to papa, baby."
+  },
+  {
+    "timecode": "21:37",
+    "speaker": "",
+    "quote": "",
+    "directions": [
+      "Simpson Home: int. simpson house - living room - next day"
+    ],
+    "raw_quote": "(Simpson Home: int. simpson house - living room - next day)"
+  },
+  {
+    "timecode": "21:37",
+    "speaker": "Homer Simpson",
+    "quote": " To think I turned to a cult for mindless happiness when I had beer all along.",
+    "directions": [],
+    "raw_quote": " To think I turned to a cult for mindless happiness when I had beer all along."
+  },
+  {
+    "timecode": "",
+    "speaker": "Marge Simpson",
+    "quote": " ",
+    "directions": [
+      "CLEARS THROAT"
+    ],
+    "raw_quote": " (CLEARS THROAT)"
+  },
+  {
+    "timecode": "21:43",
+    "speaker": "Homer Simpson",
+    "quote": " And you Marge, the bringer of beer!",
+    "directions": [],
+    "raw_quote": " And you Marge, the bringer of beer!"
+  },
+  {
+    "timecode": "21:47",
+    "speaker": "Lisa Simpson",
+    "quote": " It's wonderful to think for ourselves again.",
+    "directions": [],
+    "raw_quote": " It's wonderful to think for ourselves again."
+  },
+  {
+    "timecode": "21:50",
+    "speaker": "Bart Simpson",
+    "quote": " You said it, sister.",
+    "directions": [],
+    "raw_quote": " You said it, sister."
+  },
+  {
+    "timecode": "21:51",
+    "speaker": "Announcer",
+    "quote": " You are watching Fox.",
+    "directions": [],
+    "raw_quote": " You are watching Fox."
+  },
+  {
+    "timecode": "21:53",
+    "speaker": "Lisa Simpson",
+    "quote": " We are watching Fox.",
+    "directions": [
+      "TRANCELIKE"
+    ],
+    "raw_quote": " (TRANCELIKE) We are watching Fox."
+  }
+]
